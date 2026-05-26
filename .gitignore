@@ -4,5 +4,4 @@ __pycache__/
 *.pyo
 .venv/
 venv/
-frontend/data.json
 .DS_Store

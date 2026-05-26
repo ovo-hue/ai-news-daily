@@ -230,37 +230,16 @@ async function loadData(showSkeleton = true) {
 }
 
 // ============ Refresh ============
+// 数据由 GitHub Actions 定时抓取并提交到仓库，前端只负责重新加载最新 data.json
 async function handleRefresh() {
   $refreshBtn.disabled = true;
   $refreshBtn.classList.add('refreshing');
-  showToast('正在抓取最新资讯，请稍候…', 'loading', 0);
-
+  showToast('正在加载最新数据…', 'loading', 0);
   try {
-    const r = await fetch('/api/refresh', { method: 'POST' });
-    if (r.status === 409) {
-      showToast('已在刷新中…', 'loading', 0);
-    } else if (!r.ok) {
-      throw new Error('refresh failed');
-    }
-
-    const startedAt = Date.now();
-    while (true) {
-      await new Promise(res => setTimeout(res, 2000));
-      const s = await fetch('/api/refresh/status', { cache: 'no-store' }).then(x => x.json());
-      if (!s.running) {
-        if (s.last_error) {
-          showToast('刷新失败: ' + s.last_error, 'error', 4000);
-        } else {
-          showToast('刷新成功！', 'success', 2000);
-          await loadData(false);
-        }
-        break;
-      }
-      const elapsed = Math.round((Date.now() - startedAt) / 1000);
-      showToast(`正在抓取最新资讯…（已用时 ${elapsed} 秒）`, 'loading', 0);
-    }
+    await loadData(false);
+    showToast('已加载最新数据', 'success', 2000);
   } catch (e) {
-    showToast('刷新请求失败，请检查后端服务', 'error', 4000);
+    showToast('加载失败，请稍后再试', 'error', 3000);
   } finally {
     $refreshBtn.disabled = false;
     $refreshBtn.classList.remove('refreshing');
