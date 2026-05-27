@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-27T15:37:47.711397+00:00",
+  "generated_at": "2026-05-27T20:13:50.994010+00:00",
   "items": [
     {
       "title": "Robinhood will let your AI agent trade stocks and make (or lose) lots of money",
@@ -9,6 +9,24 @@
       "raw_content": "Robinhood is opening its trading platform to AI agents. In an announcement on Wednesday, Robinhood says traders can now create a separate account for an AI agent and add a specific amount of money, allowing the agent to buy and sell stocks across the market. The company pitches the feature as a way for traders [&#8230;]",
       "summary": "Robinhood is opening its trading platform to AI agents. In an announcement on Wednesday, Robinhood says traders can now create a separate account for an AI agent and add a specific amount of money, al",
       "importance": 1.75
+    },
+    {
+      "title": "Meta launches Instagram, Facebook, and WhatsApp subscriptions, with more to come, including AI plans",
+      "url": "https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/",
+      "source": "TechCrunch",
+      "published_at": "Wed, 27 May 2026 18:00:00 +0000",
+      "raw_content": "Meta is rolling out paid subscription plans for Instagram, Facebook, and WhatsApp worldwide, while also testing new AI, creator, and business-focused offerings under its broader “Meta One” subscription brand.",
+      "summary": "Meta is rolling out paid subscription plans for Instagram, Facebook, and WhatsApp worldwide, while also testing new AI, creator, and business-focused offerings under its broader “Meta One” subscriptio",
+      "importance": 1.7
+    },
+    {
+      "title": "AI coding startup Cognition raises $1B at $25B pre-money valuation",
+      "url": "https://techcrunch.com/2026/05/27/ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation/",
+      "source": "TechCrunch",
+      "published_at": "Wed, 27 May 2026 16:00:00 +0000",
+      "raw_content": "As Cognition reaches $492 million in annualized revenue run rate, it more than doubled its valuation in eight months, it says.",
+      "summary": "As Cognition reaches $492 million in annualized revenue run rate, it more than doubled its valuation in eight months, it says.",
+      "importance": 1.7
     },
     {
       "title": "Startup Battlefield 200 applications close today: Nominate a founder or submit your startup",
@@ -29,6 +47,15 @@
       "importance": 1.7
     },
     {
+      "title": "AI tried to bury this politician — now people have actually heard of him",
+      "url": "https://www.theverge.com/policy/937650/ai-alex-bores-openai-anthropic-ny12",
+      "source": "The Verge",
+      "published_at": "2026-05-27T11:40:00-04:00",
+      "raw_content": "By the time that the Democratic primary for New York's 12th congressional district wraps up in June, Anthropic and OpenAI will have spent millions on their battle over the political future of AI: who gets to regulate it, or who will be punished for trying to regulate it. But the real winner of their feud [&#8230;]",
+      "summary": "By the time that the Democratic primary for New York's 12th congressional district wraps up in June, Anthropic and OpenAI will have spent millions on their battle over the political future of AI: who ",
+      "importance": 1.65
+    },
+    {
       "title": "The Pope isn’t AGI-pilled",
       "url": "https://www.theverge.com/ai-artificial-intelligence/937933/pope-ai-encyclical-tech-industry-reactions",
       "source": "The Verge",
@@ -38,30 +65,30 @@
       "importance": 1.65
     },
     {
-      "title": "Robinhood now lets your AI agents trade stocks",
-      "url": "https://techcrunch.com/2026/05/27/robinhood-now-lets-your-ai-agents-trade-stocks/",
+      "title": "In more good news for Amazon, Snowflake signs $6B deal with AWS for AI CPU chips",
+      "url": "https://techcrunch.com/2026/05/27/in-more-good-news-for-amazon-snowflake-signs-6b-deal-with-aws-for-ai-cpu-chips/",
       "source": "TechCrunch",
-      "published_at": "Wed, 27 May 2026 12:30:00 +0000",
-      "raw_content": "Robinhood will let users create a separate account with pre-loaded balance that an agent use to trade",
-      "summary": "Robinhood will let users create a separate account with pre-loaded balance that an agent use to trade",
-      "importance": 1.6
+      "published_at": "Wed, 27 May 2026 20:10:00 +0000",
+      "raw_content": "Snowflake has signed a new, enormous five-year deal with Amazon to secure chips for AI usage. Nvidia is once again being put on notice.",
+      "summary": "Snowflake has signed a new, enormous five-year deal with Amazon to secure chips for AI usage. Nvidia is once again being put on notice.",
+      "importance": 1.55
     },
     {
-      "title": "DuckDuckGo installs are up 30% as users reject being ‘force-fed’ Google’s AI Search",
-      "url": "https://techcrunch.com/2026/05/26/duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search/",
+      "title": "Payroll startup Remote says it grew revenue 50% per employee without adding headcount",
+      "url": "https://techcrunch.com/2026/05/27/payroll-startup-remote-says-it-grew-revenue-50-per-employee-without-adding-headcount/",
       "source": "TechCrunch",
-      "published_at": "Tue, 26 May 2026 22:32:56 +0000",
-      "raw_content": "Google overhauled Search at I/O 2026, replacing blue links with AI agents. The backlash has been swift. DuckDuckGo app installs spiked 30% as users seek a way out.",
-      "summary": "Google overhauled Search at I/O 2026, replacing blue links with AI agents. The backlash has been swift. DuckDuckGo app installs spiked 30% as users seek a way out.",
-      "importance": 1.6
+      "published_at": "Wed, 27 May 2026 19:39:45 +0000",
+      "raw_content": "Payroll service provider Remote recently surpassed $300 million in annual recurring revenue (ARR) and became cash-flow positive, thanks to a 50% increase in revenue per employee resulting from AI adoption.",
+      "summary": "Payroll service provider Remote recently surpassed $300 million in annual recurring revenue (ARR) and became cash-flow positive, thanks to a 50% increase in revenue per employee resulting from AI adop",
+      "importance": 1.55
     },
     {
-      "title": "SOND, a sleep tech startup from Bose’s former head of sleep, exits stealth with $7M",
-      "url": "https://techcrunch.com/2026/05/27/sond-a-sleep-tech-startup-from-boses-former-head-of-sleep-exits-stealth-with-7m/",
+      "title": "Your SEO strategy is optimized for a search engine that no longer exists.",
+      "url": "https://techcrunch.com/podcast/your-seo-strategy-is-optimized-for-a-search-engine-that-no-longer-exists/",
       "source": "TechCrunch",
-      "published_at": "Wed, 27 May 2026 14:00:00 +0000",
-      "raw_content": "SOND, a startup led by Bose’s former head of sleep products, emerged from stealth with $7M in funding for its AI-powered sleep earbuds.",
-      "summary": "SOND, a startup led by Bose’s former head of sleep products, emerged from stealth with $7M in funding for its AI-powered sleep earbuds.",
+      "published_at": "Wed, 27 May 2026 18:39:17 +0000",
+      "raw_content": "Google I/O made it official: AI-generated answers are now front and&#160;center&#160;in search, and most brands have almost no visibility into how AI is describing them to their customers.&#160;For anyone who has spent years building a strategy around 10 blue links, the rules just changed in a pretty significant way.&#160; On this episode of TechCrunch&#8217;s Equity podcast, Rebecca [&#8230;]",
+      "summary": "Google I/O made it official: AI-generated answers are now front and&#160;center&#160;in search, and most brands have almost no visibility into how AI is describing them to their customers.&#160;For an",
       "importance": 1.55
     },
     {
@@ -80,24 +107,6 @@
       "published_at": "Wed, 27 May 2026 13:48:41 +0000",
       "raw_content": "China's AI boom is producing world-class talent, and Beijing is increasingly reluctant to let them go elsewhere.",
       "summary": "China's AI boom is producing world-class talent, and Beijing is increasingly reluctant to let them go elsewhere.",
-      "importance": 1.55
-    },
-    {
-      "title": "YouTube will now automatically label AI videos",
-      "url": "https://techcrunch.com/2026/05/27/youtube-will-now-automatically-label-ai-videos/",
-      "source": "TechCrunch",
-      "published_at": "Wed, 27 May 2026 13:00:00 +0000",
-      "raw_content": "YouTube will now automatically label videos that use significant photorealistic AI, instead of relying solely on creators to disclose AI-generated content themselves. It's also making AI labels more prominent.",
-      "summary": "YouTube will now automatically label videos that use significant photorealistic AI, instead of relying solely on creators to disclose AI-generated content themselves. It's also making AI labels more p",
-      "importance": 1.55
-    },
-    {
-      "title": "Tech CEOs are apparently suffering from AI psychosis",
-      "url": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/",
-      "source": "TechCrunch",
-      "published_at": "Wed, 27 May 2026 12:30:00 +0000",
-      "raw_content": "\"CEOs are uniquely prone to AI psychosis,\" Box CEO Aaron Levie opines. Maybe that explains the almost religious belief in AI productivity gains.",
-      "summary": "\"CEOs are uniquely prone to AI psychosis,\" Box CEO Aaron Levie opines. Maybe that explains the almost religious belief in AI productivity gains.",
       "importance": 1.55
     },
     {
@@ -128,31 +137,22 @@
       "importance": 1.55
     },
     {
-      "title": "ElevenLabs’s new music generation model can switch genres mid-track",
+      "title": "ElevenLabs’ new music-generation model can switch genres mid-track",
       "url": "https://techcrunch.com/2026/05/27/elevenlabss-new-music-generation-model-can-switch-genres-mid-track/",
       "source": "TechCrunch",
       "published_at": "Wed, 27 May 2026 14:14:10 +0000",
-      "raw_content": "ElevenLabs' new model will let users regenerate a section of a song without affecting rest of the track",
-      "summary": "ElevenLabs' new model will let users regenerate a section of a song without affecting rest of the track",
+      "raw_content": "ElevenLabs' new model will let users regenerate a section of a song without affecting the rest of the track.",
+      "summary": "ElevenLabs' new model will let users regenerate a section of a song without affecting the rest of the track.",
       "importance": 1.5
     },
     {
-      "title": "ClickHouse triples anualized revenue to $250M, charting a path toward an IPO",
-      "url": "https://techcrunch.com/2026/05/27/clickhouse-triples-anualized-revenue-to-250m-charting-a-path-toward-an-ipo/",
+      "title": "SOND, a sleep tech startup from Bose’s former head of sleep, exits stealth with $7M",
+      "url": "https://techcrunch.com/2026/05/27/sond-a-sleep-tech-startup-from-boses-former-head-of-sleep-exits-stealth-with-7m/",
       "source": "TechCrunch",
-      "published_at": "Wed, 27 May 2026 13:04:20 +0000",
-      "raw_content": "The database provider is eyeing a public debut within the next few years.",
-      "summary": "The database provider is eyeing a public debut within the next few years.",
+      "published_at": "Wed, 27 May 2026 14:00:00 +0000",
+      "raw_content": "SOND introduced its debut product: Dreambuds, a closed-loop, in-ear system that captures 12 physiological signals from the wearer, then acts on them in real time to help consumers get better sleep.",
+      "summary": "SOND introduced its debut product: Dreambuds, a closed-loop, in-ear system that captures 12 physiological signals from the wearer, then acts on them in real time to help consumers get better sleep.",
       "importance": 1.5
-    },
-    {
-      "title": "Uber president says AI spending is getting ‘harder to justify’",
-      "url": "https://www.theverge.com/transportation/937116/uber-ai-investment-hard-to-justify",
-      "source": "The Verge",
-      "published_at": "2026-05-26T05:55:09-04:00",
-      "raw_content": "After reportedly exhausting its annual AI budget just four months into 2026, Uber is now questioning whether it's actually seeing meaningful returns on its investments. In an interview with Rapid Response, Uber president and chief operating officer Andrew Macdonald said the company isn't seeing a connection between rising token consumption for Claude Code and more [&#8230;]",
-      "summary": "After reportedly exhausting its annual AI budget just four months into 2026, Uber is now questioning whether it's actually seeing meaningful returns on its investments. In an interview with Rapid Resp",
-      "importance": 1.45
     },
     {
       "title": "Sundar Pichai on AI, the future of search, and what’s happening to the web",
