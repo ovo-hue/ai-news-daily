@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-05-28T02:57:25.035122+00:00",
+  "generated_at": "2026-05-28T09:59:31.749732+00:00",
   "items": [
+    {
+      "title": "YouTube will let you ask AI to make a custom video feed",
+      "url": "https://www.theverge.com/streaming/938759/youtube-custom-ai-feed-prompt-availability",
+      "source": "The Verge",
+      "published_at": "2026-05-28T04:49:07-04:00",
+      "raw_content": "YouTube is launching a new AI feature that creates a personalized video feed based on descriptions of what you want to watch. In its announcement, YouTube says custom content feeds can be built around your specific interests, moods, or favorite topics, which you can then pin to the top of your YouTube homepage - making [&#8230;]",
+      "summary": "YouTube is launching a new AI feature that creates a personalized video feed based on descriptions of what you want to watch. In its announcement, YouTube says custom content feeds can be built around",
+      "importance": 1.85
+    },
     {
       "title": "Robinhood will let your AI agent trade stocks and make (or lose) lots of money",
       "url": "https://www.theverge.com/ai-artificial-intelligence/938095/robinhood-ai-agent-stock-trading",
@@ -63,6 +72,15 @@
       "raw_content": "On Monday, Pope Leo XIV unveiled an encyclical letter addressing the societal implications of artificial intelligence. The letter, titled Magnifica Humanitas, warned that the \"use of AI is never a purely technical matter: when it enters processes that affect people's lives, it touches on rights, opportunities, status and freedom.\" Alongside him was Anthropic cofounder and [&#8230;]",
       "summary": "On Monday, Pope Leo XIV unveiled an encyclical letter addressing the societal implications of artificial intelligence. The letter, titled Magnifica Humanitas, warned that the \"use of AI is never a pur",
       "importance": 1.65
+    },
+    {
+      "title": "Vertu wants CEOs to run companies from an AI foldable starting at $6,880",
+      "url": "https://techcrunch.com/2026/05/28/vertu-wants-ceos-to-run-companies-from-an-ai-foldable-starting-at-6880/",
+      "source": "TechCrunch",
+      "published_at": "Thu, 28 May 2026 07:00:00 +0000",
+      "raw_content": "Built on top of the open-source Hermes project, Vertu's new foldable combines AI-agent workflows, enterprise integrations, and ultra-premium luxury finishes.",
+      "summary": "Built on top of the open-source Hermes project, Vertu's new foldable combines AI-agent workflows, enterprise integrations, and ultra-premium luxury finishes.",
+      "importance": 1.6
     },
     {
       "title": "Why Google’s AI can’t spell Google (or anything else)",
@@ -137,15 +155,6 @@
       "importance": 1.5
     },
     {
-      "title": "SOND, a sleep tech startup from Bose’s former head of sleep, exits stealth with $7M",
-      "url": "https://techcrunch.com/2026/05/27/sond-a-sleep-tech-startup-from-boses-former-head-of-sleep-exits-stealth-with-7m/",
-      "source": "TechCrunch",
-      "published_at": "Wed, 27 May 2026 14:00:00 +0000",
-      "raw_content": "SOND introduced its debut product: Dreambuds, a closed-loop, in-ear system that captures 12 physiological signals from the wearer, then acts on them in real time to help consumers get better sleep.",
-      "summary": "SOND introduced its debut product: Dreambuds, a closed-loop, in-ear system that captures 12 physiological signals from the wearer, then acts on them in real time to help consumers get better sleep.",
-      "importance": 1.5
-    },
-    {
       "title": "Did the Pope use AI to write about the dangers of AI?",
       "url": "https://www.theverge.com/ai-artificial-intelligence/937801/pope-leo-xiv-magnifica-humanitas-ai-pangram",
       "source": "The Verge",
@@ -170,15 +179,6 @@
       "published_at": "2026-05-26T08:46:03-04:00",
       "raw_content": "There's this alarming trend in the Suno subreddit. People aren't just prompting AI songs; they're sitting around listening almost exclusively to their own slop. And in some cases, they proudly proclaim that they don't listen to music on traditional streaming platforms anymore - it's just AI all day. \"Does anyone just listen to their own [&#8230;]",
       "summary": "There's this alarming trend in the Suno subreddit. People aren't just prompting AI songs; they're sitting around listening almost exclusively to their own slop. And in some cases, they proudly proclai",
-      "importance": 1.25
-    },
-    {
-      "title": "AI warfare is already here",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/937028/military-ai-warfare-red-lines",
-      "source": "The Verge",
-      "published_at": "2026-05-26T08:00:00-04:00",
-      "raw_content": "The Convention on Certain Conventional Weapons, an international forum that focuses on lethal autonomous systems, is hosted twice a year at the United Nations in Geneva. When Branka Marijan attended in November 2017, she thought the five-day sessions - which dealt largely in hypotheticals, speculating on a world where warfare was fought with killer robots [&#8230;]",
-      "summary": "The Convention on Certain Conventional Weapons, an international forum that focuses on lethal autonomous systems, is hosted twice a year at the United Nations in Geneva. When Branka Marijan attended i",
       "importance": 1.25
     }
   ]
