@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-27T20:13:50.994010+00:00",
+  "generated_at": "2026-05-28T02:57:25.035122+00:00",
   "items": [
     {
       "title": "Robinhood will let your AI agent trade stocks and make (or lose) lots of money",
@@ -65,6 +65,15 @@
       "importance": 1.65
     },
     {
+      "title": "Why Google’s AI can’t spell Google (or anything else)",
+      "url": "https://techcrunch.com/2026/05/27/why-googles-ai-cant-spell-google-or-anything-else/",
+      "source": "TechCrunch",
+      "published_at": "Thu, 28 May 2026 00:17:41 +0000",
+      "raw_content": "Google is embarrassing itself, again.",
+      "summary": "Google is embarrassing itself, again.",
+      "importance": 1.55
+    },
+    {
       "title": "In more good news for Amazon, Snowflake signs $6B deal with AWS for AI CPU chips",
       "url": "https://techcrunch.com/2026/05/27/in-more-good-news-for-amazon-snowflake-signs-6b-deal-with-aws-for-ai-cpu-chips/",
       "source": "TechCrunch",
@@ -101,15 +110,6 @@
       "importance": 1.55
     },
     {
-      "title": "China is increasingly keeping its best AI talent to itself",
-      "url": "https://techcrunch.com/2026/05/27/china-is-increasingly-keeping-its-best-ai-talent-to-itself/",
-      "source": "TechCrunch",
-      "published_at": "Wed, 27 May 2026 13:48:41 +0000",
-      "raw_content": "China's AI boom is producing world-class talent, and Beijing is increasingly reluctant to let them go elsewhere.",
-      "summary": "China's AI boom is producing world-class talent, and Beijing is increasingly reluctant to let them go elsewhere.",
-      "importance": 1.55
-    },
-    {
       "title": "This smart bird feeder captures more of my backyard drama",
       "url": "https://www.theverge.com/tech/937628/coolfly-aura-smart-bird-feeder-review",
       "source": "The Verge",
@@ -125,15 +125,6 @@
       "published_at": "2026-05-27T08:00:00-04:00",
       "raw_content": "How newsrooms should use AI - or if they should at all - has been a recurrent debate within the media industry over the last several years. Increasingly, these rules are being hammered out at the bargaining table between unions and publishers. Right now, employees at The New York Times are gearing up for a [&#8230;]",
       "summary": "How newsrooms should use AI - or if they should at all - has been a recurrent debate within the media industry over the last several years. Increasingly, these rules are being hammered out at the barg",
-      "importance": 1.55
-    },
-    {
-      "title": "Did the Pope use AI to write about the dangers of AI?",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/937801/pope-leo-xiv-magnifica-humanitas-ai-pangram",
-      "source": "The Verge",
-      "published_at": "2026-05-26T20:38:11-04:00",
-      "raw_content": "It's possible that AI was used to write parts of Pope Leo XIV's latest encyclical about AI's impact on humanity. An analysis by Linch Zhang posted on the forum LessWrong found certain paragraphs of Magnifica Humanitas to be between 40 percent and 100 percent written by AI, according to the popular AI detector Pangram. The [&#8230;]",
-      "summary": "It's possible that AI was used to write parts of Pope Leo XIV's latest encyclical about AI's impact on humanity. An analysis by Linch Zhang posted on the forum LessWrong found certain paragraphs of Ma",
       "importance": 1.55
     },
     {
@@ -153,6 +144,15 @@
       "raw_content": "SOND introduced its debut product: Dreambuds, a closed-loop, in-ear system that captures 12 physiological signals from the wearer, then acts on them in real time to help consumers get better sleep.",
       "summary": "SOND introduced its debut product: Dreambuds, a closed-loop, in-ear system that captures 12 physiological signals from the wearer, then acts on them in real time to help consumers get better sleep.",
       "importance": 1.5
+    },
+    {
+      "title": "Did the Pope use AI to write about the dangers of AI?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/937801/pope-leo-xiv-magnifica-humanitas-ai-pangram",
+      "source": "The Verge",
+      "published_at": "2026-05-26T20:38:11-04:00",
+      "raw_content": "It's possible that AI was used to write parts of Pope Leo XIV's latest encyclical about AI's impact on humanity. An analysis by Linch Zhang posted on the forum LessWrong found certain paragraphs of Magnifica Humanitas to be between 40 percent and 100 percent written by AI, according to the popular AI detector Pangram. The [&#8230;]",
+      "summary": "It's possible that AI was used to write parts of Pope Leo XIV's latest encyclical about AI's impact on humanity. An analysis by Linch Zhang posted on the forum LessWrong found certain paragraphs of Ma",
+      "importance": 1.25
     },
     {
       "title": "Sundar Pichai on AI, the future of search, and what’s happening to the web",
