@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-28T09:59:31.749732+00:00",
+  "generated_at": "2026-05-28T15:49:27.343322+00:00",
   "items": [
     {
       "title": "YouTube will let you ask AI to make a custom video feed",
@@ -11,40 +11,130 @@
       "importance": 1.85
     },
     {
+      "title": "Sesame, the conversational AI startup from Oculus founders, launches its iOS app",
+      "url": "https://techcrunch.com/2026/05/28/sesame-the-conversational-ai-startup-from-oculus-founders-launches-its-ios-app/",
+      "source": "TechCrunch",
+      "published_at": "Thu, 28 May 2026 15:35:43 +0000",
+      "raw_content": "Sesame’s new iOS app brings its conversational AI agents to the public, offering more natural back-and-forth interactions designed to feel less like traditional chatbots and more like talking to a person.",
+      "summary": "Sesame’s new iOS app brings its conversational AI agents to the public, offering more natural back-and-forth interactions designed to feel less like traditional chatbots and more like talking to a per",
+      "importance": 1.75
+    },
+    {
+      "title": "Vertu wants CEOs to run companies from an AI foldable starting at $6,880",
+      "url": "https://techcrunch.com/2026/05/28/vertu-wants-ceos-to-run-companies-from-an-ai-foldable-starting-at-6880/",
+      "source": "TechCrunch",
+      "published_at": "Thu, 28 May 2026 07:00:00 +0000",
+      "raw_content": "Built on top of the open source Hermes project, Vertu's new foldable combines AI-agent workflows, enterprise integrations, and ultra-premium luxury finishes.",
+      "summary": "Built on top of the open source Hermes project, Vertu's new foldable combines AI-agent workflows, enterprise integrations, and ultra-premium luxury finishes.",
+      "importance": 1.75
+    },
+    {
+      "title": "Rivian’s software chief thinks you don&#8217;t need CarPlay or buttons",
+      "url": "https://www.theverge.com/podcast/929940/rivian-wassym-bensaid-software-volkswagen-carplay-assistant-ai",
+      "source": "The Verge",
+      "published_at": "2026-05-28T10:00:00-04:00",
+      "raw_content": "Today, I’m talking with Wassym Bensaid, the chief software officer at Rivian, and the co-CEO of Rivian’s platform joint venture with Volkswagen, which everyone just calls RV Tech. That joint venture kicked off about a year and a half ago with a nearly $6 billion investment from Volkswagen. It effectively puts Wassym in charge of [&#8230;]",
+      "summary": "Today, I’m talking with Wassym Bensaid, the chief software officer at Rivian, and the co-CEO of Rivian’s platform joint venture with Volkswagen, which everyone just calls RV Tech. That joint venture k",
+      "importance": 1.7
+    },
+    {
+      "title": "How long is Anthropic’s lease with SpaceX? Opinions vary.",
+      "url": "https://techcrunch.com/2026/05/28/how-long-is-anthropics-lease-with-spacex-opinions-vary/",
+      "source": "TechCrunch",
+      "published_at": "Thu, 28 May 2026 15:36:00 +0000",
+      "raw_content": "Elon Musk is publicly reframing xAI’s massive Anthropic compute deal as short-term and cancellable, despite SpaceX’s own S-1 filing describing payments through May 2029.",
+      "summary": "Elon Musk is publicly reframing xAI’s massive Anthropic compute deal as short-term and cancellable, despite SpaceX’s own S-1 filing describing payments through May 2029.",
+      "importance": 1.6
+    },
+    {
+      "title": "Sneak peek at new Siri app reveals Apple’s plans to take on ChatGPT and more",
+      "url": "https://techcrunch.com/2026/05/28/sneak-peek-at-new-siri-app-reveals-apples-plans-to-take-on-chatgpt-and-more/",
+      "source": "TechCrunch",
+      "published_at": "Thu, 28 May 2026 14:45:13 +0000",
+      "raw_content": "New renders offer a closer look at Apple’s planned AI overhaul for iOS 27, including a redesigned Siri experience powered and standalone Siri app.",
+      "summary": "New renders offer a closer look at Apple’s planned AI overhaul for iOS 27, including a redesigned Siri experience powered and standalone Siri app.",
+      "importance": 1.6
+    },
+    {
+      "title": "RSI is the new AGI — and it’s just as hard to pin down",
+      "url": "https://techcrunch.com/2026/05/28/rsi-is-the-new-agi-and-its-just-as-hard-to-pin-down/",
+      "source": "TechCrunch",
+      "published_at": "Thu, 28 May 2026 14:30:17 +0000",
+      "raw_content": "A new crop of AI labs are focused on recursive self-improvement — but the goal is proving elusive.",
+      "summary": "A new crop of AI labs are focused on recursive self-improvement — but the goal is proving elusive.",
+      "importance": 1.6
+    },
+    {
+      "title": "Visa invests in Replit to power agentic payments for developers",
+      "url": "https://techcrunch.com/2026/05/28/visa-invests-in-replit-to-power-agentic-payments-for-developers/",
+      "source": "TechCrunch",
+      "published_at": "Thu, 28 May 2026 14:00:00 +0000",
+      "raw_content": "Visa said that over 1,000 employees has been using Replit for prototyping and development",
+      "summary": "Visa said that over 1,000 employees has been using Replit for prototyping and development",
+      "importance": 1.6
+    },
+    {
+      "title": "These new iOS 27 renders hint at Siri’s big redesign",
+      "url": "https://www.theverge.com/tech/938915/ios-27-siri-renders-bloomberg",
+      "source": "The Verge",
+      "published_at": "2026-05-28T10:33:31-04:00",
+      "raw_content": "Apple's long-awaited Siri overhaul, expected to arrive in iOS 27, might look a lot like ChatGPT with a splash of Liquid Glass. Renders from Bloomberg offer a preview of iOS 27, including the new app and chat interface for Siri. The renders are \"based on information viewed by Bloomberg and people with knowledge of [Apple's] [&#8230;]",
+      "summary": "Apple's long-awaited Siri overhaul, expected to arrive in iOS 27, might look a lot like ChatGPT with a splash of Liquid Glass. Renders from Bloomberg offer a preview of iOS 27, including the new app a",
+      "importance": 1.6
+    },
+    {
+      "title": "At TechCrunch Disrupt 2026: Databricks’ co-founder on what kills enterprise AI deals",
+      "url": "https://techcrunch.com/2026/05/28/techcrunch-disrupt-2026-databricks-co-founder-on-what-kills-enterprise-ai-deals/",
+      "source": "TechCrunch",
+      "published_at": "Thu, 28 May 2026 14:30:00 +0000",
+      "raw_content": "Enterprise AI is entering a different phase now, one where enterprises are no longer evaluating whether AI is exciting. They are evaluating whether it is safe to deploy broadly.",
+      "summary": "Enterprise AI is entering a different phase now, one where enterprises are no longer evaluating whether AI is exciting. They are evaluating whether it is safe to deploy broadly.",
+      "importance": 1.55
+    },
+    {
+      "title": "YouTube adds new podcast features, including an AI recommendation tool and ‘Auto speed’",
+      "url": "https://techcrunch.com/2026/05/28/youtube-adds-new-podcast-features-including-an-ai-recommendation-tool-and-auto-speed/",
+      "source": "TechCrunch",
+      "published_at": "Thu, 28 May 2026 14:28:47 +0000",
+      "raw_content": "The update signals YouTube's ongoing efforts to compete with other platforms for podcast audiences.",
+      "summary": "The update signals YouTube's ongoing efforts to compete with other platforms for podcast audiences.",
+      "importance": 1.55
+    },
+    {
+      "title": "Has the hunt for AI compute uncovered the next Cerebras?",
+      "url": "https://techcrunch.com/2026/05/28/has-the-hunt-for-ai-compute-uncovered-the-next-cerebras/",
+      "source": "TechCrunch",
+      "published_at": "Thu, 28 May 2026 13:00:00 +0000",
+      "raw_content": "General Compute is betting SambaNova will be the next breakout chipmaker.",
+      "summary": "General Compute is betting SambaNova will be the next breakout chipmaker.",
+      "importance": 1.55
+    },
+    {
+      "title": "CNN sues Perplexity over ‘verbatim’ copycat articles",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/938893/cnn-perplexity-ai-copyright-lawsuit",
+      "source": "The Verge",
+      "published_at": "2026-05-28T10:08:36-04:00",
+      "raw_content": "CNN has filed a lawsuit against Perplexity, claiming that the startup's AI tools generate \"verbatim\" copies of its work, as reported earlier by CNN. The lawsuit, filed in a New York court on Thursday, also alleges that Perplexity provides users with information locked behind CNN's subscription. Perplexity, which offers an AI \"answer\" engine along with [&#8230;]",
+      "summary": "CNN has filed a lawsuit against Perplexity, claiming that the startup's AI tools generate \"verbatim\" copies of its work, as reported earlier by CNN. The lawsuit, filed in a New York court on Thursday,",
+      "importance": 1.55
+    },
+    {
+      "title": "2 days left: Lock in ticket savings of up to $410 to TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/05/28/2-days-left-lock-in-ticket-savings-of-up-to-410-to-techcrunch-disrupt-2026/",
+      "source": "TechCrunch",
+      "published_at": "Thu, 28 May 2026 14:00:00 +0000",
+      "raw_content": "Savings of up to $410 on TechCrunch Disrupt 2026 tickets end tomorrow, May 29, 11:59 p.m. PT. Register now to save and join 10,000+ tech leaders on October 13-15 in San Francisco.",
+      "summary": "Savings of up to $410 on TechCrunch Disrupt 2026 tickets end tomorrow, May 29, 11:59 p.m. PT. Register now to save and join 10,000+ tech leaders on October 13-15 in San Francisco.",
+      "importance": 1.5
+    },
+    {
       "title": "Robinhood will let your AI agent trade stocks and make (or lose) lots of money",
       "url": "https://www.theverge.com/ai-artificial-intelligence/938095/robinhood-ai-agent-stock-trading",
       "source": "The Verge",
       "published_at": "2026-05-27T10:36:10-04:00",
       "raw_content": "Robinhood is opening its trading platform to AI agents. In an announcement on Wednesday, Robinhood says traders can now create a separate account for an AI agent and add a specific amount of money, allowing the agent to buy and sell stocks across the market. The company pitches the feature as a way for traders [&#8230;]",
       "summary": "Robinhood is opening its trading platform to AI agents. In an announcement on Wednesday, Robinhood says traders can now create a separate account for an AI agent and add a specific amount of money, al",
-      "importance": 1.75
-    },
-    {
-      "title": "Meta launches Instagram, Facebook, and WhatsApp subscriptions, with more to come, including AI plans",
-      "url": "https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/",
-      "source": "TechCrunch",
-      "published_at": "Wed, 27 May 2026 18:00:00 +0000",
-      "raw_content": "Meta is rolling out paid subscription plans for Instagram, Facebook, and WhatsApp worldwide, while also testing new AI, creator, and business-focused offerings under its broader “Meta One” subscription brand.",
-      "summary": "Meta is rolling out paid subscription plans for Instagram, Facebook, and WhatsApp worldwide, while also testing new AI, creator, and business-focused offerings under its broader “Meta One” subscriptio",
-      "importance": 1.7
-    },
-    {
-      "title": "AI coding startup Cognition raises $1B at $25B pre-money valuation",
-      "url": "https://techcrunch.com/2026/05/27/ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation/",
-      "source": "TechCrunch",
-      "published_at": "Wed, 27 May 2026 16:00:00 +0000",
-      "raw_content": "As Cognition reaches $492 million in annualized revenue run rate, it more than doubled its valuation in eight months, it says.",
-      "summary": "As Cognition reaches $492 million in annualized revenue run rate, it more than doubled its valuation in eight months, it says.",
-      "importance": 1.7
-    },
-    {
-      "title": "Startup Battlefield 200 applications close today: Nominate a founder or submit your startup",
-      "url": "https://techcrunch.com/2026/05/27/startup-battlefield-200-applications-close-today-nominate-a-founder-or-submit-your-startup/",
-      "source": "TechCrunch",
-      "published_at": "Wed, 27 May 2026 14:15:00 +0000",
-      "raw_content": "Today is the final day to apply or nominate a startup for Startup Battlefield 200. Once the clock strikes 11:59 p.m. PT, the window closes on your chance to compete for $100,000 in equity-free funding, gain global visibility, connect directly with investors, and launch on the TechCrunch Disrupt stage.",
-      "summary": "Today is the final day to apply or nominate a startup for Startup Battlefield 200. Once the clock strikes 11:59 p.m. PT, the window closes on your chance to compete for $100,000 in equity-free funding",
-      "importance": 1.7
+      "importance": 1.45
     },
     {
       "title": "YouTube is putting AI labels where you’ll actually see them",
@@ -53,7 +143,7 @@
       "published_at": "2026-05-27T09:00:00-04:00",
       "raw_content": "In the wake of Google expanding its AI verification efforts at I/O, YouTube is now finally going to start taking AI labeling seriously. YouTube has announced that it's relocating AI disclosures on Shorts and long-form videos to make them easier to spot and will start automatically identifying and labeling AI-generated content on the platform. For [&#8230;]",
       "summary": "In the wake of Google expanding its AI verification efforts at I/O, YouTube is now finally going to start taking AI labeling seriously. YouTube has announced that it's relocating AI disclosures on Sho",
-      "importance": 1.7
+      "importance": 1.4
     },
     {
       "title": "AI tried to bury this politician — now people have actually heard of him",
@@ -62,7 +152,7 @@
       "published_at": "2026-05-27T11:40:00-04:00",
       "raw_content": "By the time that the Democratic primary for New York's 12th congressional district wraps up in June, Anthropic and OpenAI will have spent millions on their battle over the political future of AI: who gets to regulate it, or who will be punished for trying to regulate it. But the real winner of their feud [&#8230;]",
       "summary": "By the time that the Democratic primary for New York's 12th congressional district wraps up in June, Anthropic and OpenAI will have spent millions on their battle over the political future of AI: who ",
-      "importance": 1.65
+      "importance": 1.35
     },
     {
       "title": "The Pope isn’t AGI-pilled",
@@ -71,61 +161,7 @@
       "published_at": "2026-05-27T08:00:00-04:00",
       "raw_content": "On Monday, Pope Leo XIV unveiled an encyclical letter addressing the societal implications of artificial intelligence. The letter, titled Magnifica Humanitas, warned that the \"use of AI is never a purely technical matter: when it enters processes that affect people's lives, it touches on rights, opportunities, status and freedom.\" Alongside him was Anthropic cofounder and [&#8230;]",
       "summary": "On Monday, Pope Leo XIV unveiled an encyclical letter addressing the societal implications of artificial intelligence. The letter, titled Magnifica Humanitas, warned that the \"use of AI is never a pur",
-      "importance": 1.65
-    },
-    {
-      "title": "Vertu wants CEOs to run companies from an AI foldable starting at $6,880",
-      "url": "https://techcrunch.com/2026/05/28/vertu-wants-ceos-to-run-companies-from-an-ai-foldable-starting-at-6880/",
-      "source": "TechCrunch",
-      "published_at": "Thu, 28 May 2026 07:00:00 +0000",
-      "raw_content": "Built on top of the open-source Hermes project, Vertu's new foldable combines AI-agent workflows, enterprise integrations, and ultra-premium luxury finishes.",
-      "summary": "Built on top of the open-source Hermes project, Vertu's new foldable combines AI-agent workflows, enterprise integrations, and ultra-premium luxury finishes.",
-      "importance": 1.6
-    },
-    {
-      "title": "Why Google’s AI can’t spell Google (or anything else)",
-      "url": "https://techcrunch.com/2026/05/27/why-googles-ai-cant-spell-google-or-anything-else/",
-      "source": "TechCrunch",
-      "published_at": "Thu, 28 May 2026 00:17:41 +0000",
-      "raw_content": "Google is embarrassing itself, again.",
-      "summary": "Google is embarrassing itself, again.",
-      "importance": 1.55
-    },
-    {
-      "title": "In more good news for Amazon, Snowflake signs $6B deal with AWS for AI CPU chips",
-      "url": "https://techcrunch.com/2026/05/27/in-more-good-news-for-amazon-snowflake-signs-6b-deal-with-aws-for-ai-cpu-chips/",
-      "source": "TechCrunch",
-      "published_at": "Wed, 27 May 2026 20:10:00 +0000",
-      "raw_content": "Snowflake has signed a new, enormous five-year deal with Amazon to secure chips for AI usage. Nvidia is once again being put on notice.",
-      "summary": "Snowflake has signed a new, enormous five-year deal with Amazon to secure chips for AI usage. Nvidia is once again being put on notice.",
-      "importance": 1.55
-    },
-    {
-      "title": "Payroll startup Remote says it grew revenue 50% per employee without adding headcount",
-      "url": "https://techcrunch.com/2026/05/27/payroll-startup-remote-says-it-grew-revenue-50-per-employee-without-adding-headcount/",
-      "source": "TechCrunch",
-      "published_at": "Wed, 27 May 2026 19:39:45 +0000",
-      "raw_content": "Payroll service provider Remote recently surpassed $300 million in annual recurring revenue (ARR) and became cash-flow positive, thanks to a 50% increase in revenue per employee resulting from AI adoption.",
-      "summary": "Payroll service provider Remote recently surpassed $300 million in annual recurring revenue (ARR) and became cash-flow positive, thanks to a 50% increase in revenue per employee resulting from AI adop",
-      "importance": 1.55
-    },
-    {
-      "title": "Your SEO strategy is optimized for a search engine that no longer exists.",
-      "url": "https://techcrunch.com/podcast/your-seo-strategy-is-optimized-for-a-search-engine-that-no-longer-exists/",
-      "source": "TechCrunch",
-      "published_at": "Wed, 27 May 2026 18:39:17 +0000",
-      "raw_content": "Google I/O made it official: AI-generated answers are now front and&#160;center&#160;in search, and most brands have almost no visibility into how AI is describing them to their customers.&#160;For anyone who has spent years building a strategy around 10 blue links, the rules just changed in a pretty significant way.&#160; On this episode of TechCrunch&#8217;s Equity podcast, Rebecca [&#8230;]",
-      "summary": "Google I/O made it official: AI-generated answers are now front and&#160;center&#160;in search, and most brands have almost no visibility into how AI is describing them to their customers.&#160;For an",
-      "importance": 1.55
-    },
-    {
-      "title": "TechCrunch Disrupt 2026 Early Bird ticket savings end in 3 days",
-      "url": "https://techcrunch.com/2026/05/27/techcrunch-disrupt-2026-early-bird-ticket-savings-end-in-3-days/",
-      "source": "TechCrunch",
-      "published_at": "Wed, 27 May 2026 14:00:00 +0000",
-      "raw_content": "There are only 3 days left to save up to $410 on your ticket to TechCrunch Disrupt 2026. Early Bird pricing ends May 29 at 11:59 p.m. PT, and once the deadline passes, ticket prices increase. If you plan to attend one of the most influential gatherings in tech this year, now is the time to lock in your pass before rates go up again.",
-      "summary": "There are only 3 days left to save up to $410 on your ticket to TechCrunch Disrupt 2026. Early Bird pricing ends May 29 at 11:59 p.m. PT, and once the deadline passes, ticket prices increase. If you p",
-      "importance": 1.55
+      "importance": 1.35
     },
     {
       "title": "This smart bird feeder captures more of my backyard drama",
@@ -134,7 +170,7 @@
       "published_at": "2026-05-27T10:00:00-04:00",
       "raw_content": "Since moving to South Carolina's Lowcountry, I've been spellbound by the myriad of beautiful birds that share the coast with us - ospreys raising their babies in towering nests beside the road to my daughter's school, roseate spoonbills wading in the marsh on my morning walks, eagles circling over my son's tennis matches, and a [&#8230;]",
       "summary": "Since moving to South Carolina's Lowcountry, I've been spellbound by the myriad of beautiful birds that share the coast with us - ospreys raising their babies in towering nests beside the road to my d",
-      "importance": 1.55
+      "importance": 1.25
     },
     {
       "title": "The AI fight brewing inside The New York Times",
@@ -143,42 +179,6 @@
       "published_at": "2026-05-27T08:00:00-04:00",
       "raw_content": "How newsrooms should use AI - or if they should at all - has been a recurrent debate within the media industry over the last several years. Increasingly, these rules are being hammered out at the bargaining table between unions and publishers. Right now, employees at The New York Times are gearing up for a [&#8230;]",
       "summary": "How newsrooms should use AI - or if they should at all - has been a recurrent debate within the media industry over the last several years. Increasingly, these rules are being hammered out at the barg",
-      "importance": 1.55
-    },
-    {
-      "title": "ElevenLabs’ new music-generation model can switch genres mid-track",
-      "url": "https://techcrunch.com/2026/05/27/elevenlabss-new-music-generation-model-can-switch-genres-mid-track/",
-      "source": "TechCrunch",
-      "published_at": "Wed, 27 May 2026 14:14:10 +0000",
-      "raw_content": "ElevenLabs' new model will let users regenerate a section of a song without affecting the rest of the track.",
-      "summary": "ElevenLabs' new model will let users regenerate a section of a song without affecting the rest of the track.",
-      "importance": 1.5
-    },
-    {
-      "title": "Did the Pope use AI to write about the dangers of AI?",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/937801/pope-leo-xiv-magnifica-humanitas-ai-pangram",
-      "source": "The Verge",
-      "published_at": "2026-05-26T20:38:11-04:00",
-      "raw_content": "It's possible that AI was used to write parts of Pope Leo XIV's latest encyclical about AI's impact on humanity. An analysis by Linch Zhang posted on the forum LessWrong found certain paragraphs of Magnifica Humanitas to be between 40 percent and 100 percent written by AI, according to the popular AI detector Pangram. The [&#8230;]",
-      "summary": "It's possible that AI was used to write parts of Pope Leo XIV's latest encyclical about AI's impact on humanity. An analysis by Linch Zhang posted on the forum LessWrong found certain paragraphs of Ma",
-      "importance": 1.25
-    },
-    {
-      "title": "Sundar Pichai on AI, the future of search, and what’s happening to the web",
-      "url": "https://www.theverge.com/podcast/936445/sundar-pichai-ai-search-google-zero-youtube-web",
-      "source": "The Verge",
-      "published_at": "2026-05-26T10:00:00-04:00",
-      "raw_content": "Today, I’m talking with Google and Alphabet CEO Sundar Pichai, in a conversation we recorded just after the Google I/O developer conference. This is the fifth year Sundar and I have sat down after I/O, and it’s become one of my favorite Decoder traditions. There’s always a lot of news at I/O, and this year [&#8230;]",
-      "summary": "Today, I’m talking with Google and Alphabet CEO Sundar Pichai, in a conversation we recorded just after the Google I/O developer conference. This is the fifth year Sundar and I have sat down after I/O",
-      "importance": 1.25
-    },
-    {
-      "title": "Nobody wants to tell me why they only listen to their own Suno slop",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/937059/nobody-wants-to-tell-me-why-they-only-listen-their-own-suno-slop",
-      "source": "The Verge",
-      "published_at": "2026-05-26T08:46:03-04:00",
-      "raw_content": "There's this alarming trend in the Suno subreddit. People aren't just prompting AI songs; they're sitting around listening almost exclusively to their own slop. And in some cases, they proudly proclaim that they don't listen to music on traditional streaming platforms anymore - it's just AI all day. \"Does anyone just listen to their own [&#8230;]",
-      "summary": "There's this alarming trend in the Suno subreddit. People aren't just prompting AI songs; they're sitting around listening almost exclusively to their own slop. And in some cases, they proudly proclai",
       "importance": 1.25
     }
   ]
