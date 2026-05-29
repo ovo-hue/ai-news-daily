@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-29T09:52:09.142451+00:00",
+  "generated_at": "2026-05-29T15:23:53.240016+00:00",
   "items": [
     {
       "title": "Anthropic raises $65 billion, nears $1T valuation ahead of IPO",
@@ -29,13 +29,22 @@
       "importance": 1.75
     },
     {
-      "title": "Sesame, the conversational AI startup from Oculus founders, launches its iOS app",
-      "url": "https://techcrunch.com/2026/05/28/sesame-the-conversational-ai-startup-from-oculus-founders-launches-its-ios-app/",
+      "title": "This chip startup just raised $135M on a bet that AI’s biggest bottleneck isn’t compute — it’s memory",
+      "url": "https://techcrunch.com/2026/05/29/xcena-secures-135m-at-570m-valuation-betting-on-memory-as-ais-real-bottleneck/",
       "source": "TechCrunch",
-      "published_at": "Thu, 28 May 2026 15:35:43 +0000",
-      "raw_content": "Sesame’s new iOS app brings its conversational AI agents to the public, offering more natural back-and-forth interactions designed to feel less like traditional chatbots and more like talking to a person.",
-      "summary": "Sesame’s new iOS app brings its conversational AI agents to the public, offering more natural back-and-forth interactions designed to feel less like traditional chatbots and more like talking to a per",
-      "importance": 1.75
+      "published_at": "Fri, 29 May 2026 12:00:00 +0000",
+      "raw_content": "South Korean chip startup XCENA is betting that AI's real bottleneck is not compute, but memory.",
+      "summary": "South Korean chip startup XCENA is betting that AI's real bottleneck is not compute, but memory.",
+      "importance": 1.7
+    },
+    {
+      "title": "This AI startup will clean your home for free to train future robots",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning",
+      "source": "The Verge",
+      "published_at": "2026-05-29T07:58:40-04:00",
+      "raw_content": "AI training startup Shift wants to clean your home for free. The catch - because, despite what its website says, there's always a catch - is that it will record cleaners as they scrub, vacuum, dust, tidy, and wash, and use that footage to train robots. Shift announced the unusual offer on social media on [&#8230;]",
+      "summary": "AI training startup Shift wants to clean your home for free. The catch - because, despite what its website says, there's always a catch - is that it will record cleaners as they scrub, vacuum, dust, t",
+      "importance": 1.7
     },
     {
       "title": "Microsoft 365 Copilot gets a speed boost and cleaner design",
@@ -44,15 +53,6 @@
       "published_at": "2026-05-28T16:14:07-04:00",
       "raw_content": "Microsoft is launching a revamped version of Microsoft 365 Copilot, offering a cleaner design that the company claims loads twice as fast. As part of this update, Copilot will provide more reliable and structured responses that are easier to scan, according to Microsoft. The redesign, which is rolling out across desktop and mobile devices, comes [&#8230;]",
       "summary": "Microsoft is launching a revamped version of Microsoft 365 Copilot, offering a cleaner design that the company claims loads twice as fast. As part of this update, Copilot will provide more reliable an",
-      "importance": 1.7
-    },
-    {
-      "title": "Rivian’s software chief thinks you don&#8217;t need CarPlay or buttons",
-      "url": "https://www.theverge.com/podcast/929940/rivian-wassym-bensaid-software-volkswagen-carplay-assistant-ai",
-      "source": "The Verge",
-      "published_at": "2026-05-28T10:00:00-04:00",
-      "raw_content": "Today, I’m talking with Wassym Bensaid, the chief software officer at Rivian, and the co-CEO of Rivian’s platform joint venture with Volkswagen, which everyone just calls RV Tech. That joint venture kicked off about a year and a half ago with a nearly $6 billion investment from Volkswagen. It effectively puts Wassym in charge of [&#8230;]",
-      "summary": "Today, I’m talking with Wassym Bensaid, the chief software officer at Rivian, and the co-CEO of Rivian’s platform joint venture with Volkswagen, which everyone just calls RV Tech. That joint venture k",
       "importance": 1.7
     },
     {
@@ -74,34 +74,16 @@
       "importance": 1.6
     },
     {
-      "title": "How long is Anthropic’s lease with SpaceX? Opinions vary",
-      "url": "https://techcrunch.com/2026/05/28/how-long-is-anthropics-lease-with-spacex-opinions-vary/",
-      "source": "TechCrunch",
-      "published_at": "Thu, 28 May 2026 15:36:00 +0000",
-      "raw_content": "Elon Musk is publicly reframing xAI’s massive Anthropic compute deal as short-term and cancellable, despite SpaceX’s own S-1 filing describing payments through May 2029.",
-      "summary": "Elon Musk is publicly reframing xAI’s massive Anthropic compute deal as short-term and cancellable, despite SpaceX’s own S-1 filing describing payments through May 2029.",
-      "importance": 1.6
-    },
-    {
-      "title": "Sneak peek at new Siri app reveals Apple’s plans to take on ChatGPT and more",
-      "url": "https://techcrunch.com/2026/05/28/sneak-peek-at-new-siri-app-reveals-apples-plans-to-take-on-chatgpt-and-more/",
-      "source": "TechCrunch",
-      "published_at": "Thu, 28 May 2026 14:45:13 +0000",
-      "raw_content": "New renders offer a closer look at Apple’s planned AI overhaul for iOS 27, including a redesigned Siri experience and standalone Siri app.",
-      "summary": "New renders offer a closer look at Apple’s planned AI overhaul for iOS 27, including a redesigned Siri experience and standalone Siri app.",
-      "importance": 1.6
-    },
-    {
-      "title": "These new iOS 27 renders hint at Siri’s big redesign",
-      "url": "https://www.theverge.com/tech/938915/ios-27-siri-renders-bloomberg",
+      "title": "Adobe’s conversational AI agent is a mediocre design intern",
+      "url": "https://www.theverge.com/tech/939686/adobes-conversational-ai-agent-is-a-mediocre-design-intern",
       "source": "The Verge",
-      "published_at": "2026-05-28T10:33:31-04:00",
-      "raw_content": "Apple's long-awaited Siri overhaul, expected to arrive in iOS 27, might look a lot like ChatGPT with a splash of Liquid Glass. Renders from Bloomberg offer a preview of iOS 27, including the new app and chat interface for Siri. The renders are \"based on information viewed by Bloomberg and people with knowledge of [Apple's] [&#8230;]",
-      "summary": "Apple's long-awaited Siri overhaul, expected to arrive in iOS 27, might look a lot like ChatGPT with a splash of Liquid Glass. Renders from Bloomberg offer a preview of iOS 27, including the new app a",
+      "published_at": "2026-05-29T06:00:00-04:00",
+      "raw_content": "AI image tools rarely make me feel like I'm part of the creative process. They are, after all, mostly designed so that people with no design experience can type in a few words and get back a usable result. So I was pleasantly surprised by Adobe's latest take on an AI image assistant: It's a [&#8230;]",
+      "summary": "AI image tools rarely make me feel like I'm part of the creative process. They are, after all, mostly designed so that people with no design experience can type in a few words and get back a usable re",
       "importance": 1.6
     },
     {
-      "title": "Glean’s top line crosses $300M as AI budget-cutting becomes its major selling point",
+      "title": "Glean’s top line crosses $300M as AI budget cutting becomes its major selling point",
       "url": "https://techcrunch.com/2026/05/28/gleans-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling-point/",
       "source": "TechCrunch",
       "published_at": "Fri, 29 May 2026 00:44:37 +0000",
@@ -128,22 +110,22 @@
       "importance": 1.55
     },
     {
-      "title": "CNN sues Perplexity over ‘verbatim’ copycat articles",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/938893/cnn-perplexity-ai-copyright-lawsuit",
-      "source": "The Verge",
-      "published_at": "2026-05-28T10:08:36-04:00",
-      "raw_content": "CNN has filed a lawsuit against Perplexity, claiming that the startup's AI tools generate \"verbatim\" copies of its work, as reported earlier by CNN. The lawsuit, filed in a New York court on Thursday, also alleges that Perplexity provides users with information locked behind CNN's subscription. Perplexity, which offers an AI \"answer\" engine along with [&#8230;]",
-      "summary": "CNN has filed a lawsuit against Perplexity, claiming that the startup's AI tools generate \"verbatim\" copies of its work, as reported earlier by CNN. The lawsuit, filed in a New York court on Thursday,",
-      "importance": 1.55
+      "title": "Today is the last day to apply to speak at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/05/29/today-is-the-last-day-to-apply-to-speak-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch",
+      "published_at": "Fri, 29 May 2026 14:15:00 +0000",
+      "raw_content": "Submit your session topic before today ends for a chance to speak at TechCrunch Disrupt 2026. Apply now to share your insight and help shape the conversations defining the tech industry.",
+      "summary": "Submit your session topic before today ends for a chance to speak at TechCrunch Disrupt 2026. Apply now to share your insight and help shape the conversations defining the tech industry.",
+      "importance": 1.5
     },
     {
-      "title": "YouTube will let you ask AI to make a custom video feed",
-      "url": "https://www.theverge.com/streaming/938759/youtube-custom-ai-feed-prompt-availability",
-      "source": "The Verge",
-      "published_at": "2026-05-28T04:49:07-04:00",
-      "raw_content": "YouTube is launching a new AI feature that creates a personalized video feed based on descriptions of what you want to watch. In its announcement, YouTube says custom content feeds can be built around your specific interests, moods, or favorite topics, which you can then pin to the top of your YouTube homepage - making [&#8230;]",
-      "summary": "YouTube is launching a new AI feature that creates a personalized video feed based on descriptions of what you want to watch. In its announcement, YouTube says custom content feeds can be built around",
-      "importance": 1.55
+      "title": "Final 24 hours to save up to $410 on your TechCrunch Disrupt 2026 ticket",
+      "url": "https://techcrunch.com/2026/05/29/final-24-hours-to-save-up-to-410-on-your-techcrunch-disrupt-2026-ticket/",
+      "source": "TechCrunch",
+      "published_at": "Fri, 29 May 2026 14:00:00 +0000",
+      "raw_content": "You now have until tonight at 11:59 p.m. PT to lock in Early Bird savings of up to $410 for TechCrunch Disrupt 2026 before prices increase. Join 10,000+ tech leaders in October for one of the most anticipated tech events of the year. Register now.",
+      "summary": "You now have until tonight at 11:59 p.m. PT to lock in Early Bird savings of up to $410 for TechCrunch Disrupt 2026 before prices increase. Join 10,000+ tech leaders in October for one of the most ant",
+      "importance": 1.5
     },
     {
       "title": "In just 3 weeks, StrictlyVC is coming to Los Angeles",
@@ -152,6 +134,15 @@
       "published_at": "Thu, 28 May 2026 17:30:00 +0000",
       "raw_content": "StrictlyVC Los Angeles is on June 18. Join for meaningful networking and fireside chats with leaders from Mach Industries, Shinkei Systems, and more. Register today.",
       "summary": "StrictlyVC Los Angeles is on June 18. Join for meaningful networking and fireside chats with leaders from Mach Industries, Shinkei Systems, and more. Register today.",
+      "importance": 1.5
+    },
+    {
+      "title": "Jony Ive’s funky Ferrari",
+      "url": "https://www.theverge.com/podcast/939589/ferrari-luce-jony-ive-vergecast",
+      "source": "The Verge",
+      "published_at": "2026-05-29T08:25:12-04:00",
+      "raw_content": "Most people will never own, drive, or even sit inside a Ferrari Luce. (If you can, or do… hit us up.) There's still no question that Ferrari's first electric vehicle is one of the most interesting, surprising cars of the year. With a decidedly un-Ferrari look, and lots of new technology and designs courtesy of [&#8230;]",
+      "summary": "Most people will never own, drive, or even sit inside a Ferrari Luce. (If you can, or do… hit us up.) There's still no question that Ferrari's first electric vehicle is one of the most interesting, su",
       "importance": 1.5
     },
     {
@@ -164,22 +155,31 @@
       "importance": 1.5
     },
     {
-      "title": "Robinhood will let your AI agent trade stocks and make (or lose) lots of money",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/938095/robinhood-ai-agent-stock-trading",
+      "title": "Rivian’s software chief thinks you don&#8217;t need CarPlay or buttons",
+      "url": "https://www.theverge.com/podcast/929940/rivian-wassym-bensaid-software-volkswagen-carplay-assistant-ai",
       "source": "The Verge",
-      "published_at": "2026-05-27T10:36:10-04:00",
-      "raw_content": "Robinhood is opening its trading platform to AI agents. In an announcement on Wednesday, Robinhood says traders can now create a separate account for an AI agent and add a specific amount of money, allowing the agent to buy and sell stocks across the market. The company pitches the feature as a way for traders [&#8230;]",
-      "summary": "Robinhood is opening its trading platform to AI agents. In an announcement on Wednesday, Robinhood says traders can now create a separate account for an AI agent and add a specific amount of money, al",
-      "importance": 1.45
+      "published_at": "2026-05-28T10:00:00-04:00",
+      "raw_content": "Today, I’m talking with Wassym Bensaid, the chief software officer at Rivian, and the co-CEO of Rivian’s platform joint venture with Volkswagen, which everyone just calls RV Tech. That joint venture kicked off about a year and a half ago with a nearly $6 billion investment from Volkswagen. It effectively puts Wassym in charge of [&#8230;]",
+      "summary": "Today, I’m talking with Wassym Bensaid, the chief software officer at Rivian, and the co-CEO of Rivian’s platform joint venture with Volkswagen, which everyone just calls RV Tech. That joint venture k",
+      "importance": 1.4
     },
     {
-      "title": "AI tried to bury this politician — now people have actually heard of him",
-      "url": "https://www.theverge.com/policy/937650/ai-alex-bores-openai-anthropic-ny12",
+      "title": "These new iOS 27 renders hint at Siri’s big redesign",
+      "url": "https://www.theverge.com/tech/938915/ios-27-siri-renders-bloomberg",
       "source": "The Verge",
-      "published_at": "2026-05-27T11:40:00-04:00",
-      "raw_content": "By the time that the Democratic primary for New York's 12th congressional district wraps up in June, Anthropic and OpenAI will have spent millions on their battle over the political future of AI: who gets to regulate it, or who will be punished for trying to regulate it. But the real winner of their feud [&#8230;]",
-      "summary": "By the time that the Democratic primary for New York's 12th congressional district wraps up in June, Anthropic and OpenAI will have spent millions on their battle over the political future of AI: who ",
-      "importance": 1.35
+      "published_at": "2026-05-28T10:33:31-04:00",
+      "raw_content": "Apple's long-awaited Siri overhaul, expected to arrive in iOS 27, might look a lot like ChatGPT with a splash of Liquid Glass. Renders from Bloomberg offer a preview of iOS 27, including the new app and chat interface for Siri. The renders are \"based on information viewed by Bloomberg and people with knowledge of [Apple's] [&#8230;]",
+      "summary": "Apple's long-awaited Siri overhaul, expected to arrive in iOS 27, might look a lot like ChatGPT with a splash of Liquid Glass. Renders from Bloomberg offer a preview of iOS 27, including the new app a",
+      "importance": 1.3
+    },
+    {
+      "title": "CNN sues Perplexity over ‘verbatim’ copycat articles",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/938893/cnn-perplexity-ai-copyright-lawsuit",
+      "source": "The Verge",
+      "published_at": "2026-05-28T10:08:36-04:00",
+      "raw_content": "CNN has filed a lawsuit against Perplexity, claiming that the startup's AI tools generate \"verbatim\" copies of its work, as reported earlier by CNN. The lawsuit, filed in a New York court on Thursday, also alleges that Perplexity provides users with information locked behind CNN's subscription. Perplexity, which offers an AI \"answer\" engine along with [&#8230;]",
+      "summary": "CNN has filed a lawsuit against Perplexity, claiming that the startup's AI tools generate \"verbatim\" copies of its work, as reported earlier by CNN. The lawsuit, filed in a New York court on Thursday,",
+      "importance": 1.25
     }
   ]
 }
