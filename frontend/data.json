@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-29T03:26:51.187788+00:00",
+  "generated_at": "2026-05-29T09:52:09.142451+00:00",
   "items": [
     {
       "title": "Anthropic raises $65 billion, nears $1T valuation ahead of IPO",
@@ -9,15 +9,6 @@
       "raw_content": "Anthropic has closed a $65 billion Series H round at a $965 billion post-money valuation, marking what could be the AI startup's final private fundraise before a highly anticipated IPO.",
       "summary": "Anthropic has closed a $65 billion Series H round at a $965 billion post-money valuation, marking what could be the AI startup's final private fundraise before a highly anticipated IPO.",
       "importance": 1.9
-    },
-    {
-      "title": "YouTube will let you ask AI to make a custom video feed",
-      "url": "https://www.theverge.com/streaming/938759/youtube-custom-ai-feed-prompt-availability",
-      "source": "The Verge",
-      "published_at": "2026-05-28T04:49:07-04:00",
-      "raw_content": "YouTube is launching a new AI feature that creates a personalized video feed based on descriptions of what you want to watch. In its announcement, YouTube says custom content feeds can be built around your specific interests, moods, or favorite topics, which you can then pin to the top of your YouTube homepage - making [&#8230;]",
-      "summary": "YouTube is launching a new AI feature that creates a personalized video feed based on descriptions of what you want to watch. In its announcement, YouTube says custom content feeds can be built around",
-      "importance": 1.85
     },
     {
       "title": "Claude’s new model is more ‘honest’ when it messes up",
@@ -143,6 +134,15 @@
       "published_at": "2026-05-28T10:08:36-04:00",
       "raw_content": "CNN has filed a lawsuit against Perplexity, claiming that the startup's AI tools generate \"verbatim\" copies of its work, as reported earlier by CNN. The lawsuit, filed in a New York court on Thursday, also alleges that Perplexity provides users with information locked behind CNN's subscription. Perplexity, which offers an AI \"answer\" engine along with [&#8230;]",
       "summary": "CNN has filed a lawsuit against Perplexity, claiming that the startup's AI tools generate \"verbatim\" copies of its work, as reported earlier by CNN. The lawsuit, filed in a New York court on Thursday,",
+      "importance": 1.55
+    },
+    {
+      "title": "YouTube will let you ask AI to make a custom video feed",
+      "url": "https://www.theverge.com/streaming/938759/youtube-custom-ai-feed-prompt-availability",
+      "source": "The Verge",
+      "published_at": "2026-05-28T04:49:07-04:00",
+      "raw_content": "YouTube is launching a new AI feature that creates a personalized video feed based on descriptions of what you want to watch. In its announcement, YouTube says custom content feeds can be built around your specific interests, moods, or favorite topics, which you can then pin to the top of your YouTube homepage - making [&#8230;]",
+      "summary": "YouTube is launching a new AI feature that creates a personalized video feed based on descriptions of what you want to watch. In its announcement, YouTube says custom content feeds can be built around",
       "importance": 1.55
     },
     {
