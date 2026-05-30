@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-29T20:23:40.909990+00:00",
+  "generated_at": "2026-05-30T02:53:49.585724+00:00",
   "items": [
     {
-      "title": "After Nvidia’s $20B not-aqui-hire, AI chip startup Groq reportedly raising $650M",
-      "url": "https://techcrunch.com/2026/05/29/after-nvidias-20b-not-aqui-hire-ai-chip-startup-groq-reportedly-raising-650m/",
+      "title": "After Nvidia’s $20B not-acqui-hire, AI chip startup Groq reportedly raising $650M",
+      "url": "https://techcrunch.com/2026/05/29/after-nvidias-20b-not-acqui-hire-ai-chip-startup-groq-reportedly-raising-650m/",
       "source": "TechCrunch",
       "published_at": "Fri, 29 May 2026 17:27:13 +0000",
       "raw_content": "Chipmaker Groq is looking to raise $650 million in internal funding as it pivots from hardware to focus more on AI inference, the process of refining the way AI models respond to prompted requests, per Axios.",
@@ -47,12 +47,12 @@
       "importance": 1.6
     },
     {
-      "title": "The internet is being rebuilt for machines",
-      "url": "https://techcrunch.com/2026/05/28/the-internet-is-being-rebuilt-for-machines/",
+      "title": "Does your CEO have AI psychosis? Aaron Levie thinks most of them do.",
+      "url": "https://techcrunch.com/podcast/does-your-ceo-have-ai-psychosis-aaron-levie-thinks-most-of-them-do/",
       "source": "TechCrunch",
-      "published_at": "Thu, 28 May 2026 21:24:01 +0000",
-      "raw_content": "As AI agents move from experiments to production, AWS, Cloudflare, and others are redesigning cloud infrastructure for a future dominated by machine-generated internet traffic instead of human users.",
-      "summary": "As AI agents move from experiments to production, AWS, Cloudflare, and others are redesigning cloud infrastructure for a future dominated by machine-generated internet traffic instead of human users.",
+      "published_at": "Fri, 29 May 2026 14:00:00 +0000",
+      "raw_content": "The people deciding that AI can replace your job are also the ones least likely to understand what your job truly involves, according to Box founder Aaron Levie, who pointed to this as an example of &#8220;AI psychosis.” Indeed, ClickUp recently cut 22% of its workforce for AI agents, tech layoffs in 2026 are already nearly matching all of 2025, [&#8230;]",
+      "summary": "The people deciding that AI can replace your job are also the ones least likely to understand what your job truly involves, according to Box founder Aaron Levie, who pointed to this as an example of &",
       "importance": 1.6
     },
     {
@@ -63,6 +63,15 @@
       "raw_content": "AI image tools rarely make me feel like I'm part of the creative process. They are, after all, mostly designed so that people with no design experience can type in a few words and get back a usable result. So I was pleasantly surprised by Adobe's latest take on an AI image assistant: It's a [&#8230;]",
       "summary": "AI image tools rarely make me feel like I'm part of the creative process. They are, after all, mostly designed so that people with no design experience can type in a few words and get back a usable re",
       "importance": 1.6
+    },
+    {
+      "title": "Coders are refusing to work without AI — and that could come back to bite them",
+      "url": "https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/",
+      "source": "TechCrunch",
+      "published_at": "Fri, 29 May 2026 22:14:22 +0000",
+      "raw_content": "While AI is helping coders produce code faster, it may not be producing better code, researchers warn. And that could cause problems down the road for them.",
+      "summary": "While AI is helping coders produce code faster, it may not be producing better code, researchers warn. And that could cause problems down the road for them.",
+      "importance": 1.55
     },
     {
       "title": "So you’ve heard these AI terms and nodded along; let’s fix that",
@@ -80,15 +89,6 @@
       "published_at": "Fri, 29 May 2026 13:00:00 +0000",
       "raw_content": "If you're looking for a fun way to connect with nature while collecting bird species on an app like Pokémon, give this smart feeder a try.",
       "summary": "If you're looking for a fun way to connect with nature while collecting bird species on an app like Pokémon, give this smart feeder a try.",
-      "importance": 1.55
-    },
-    {
-      "title": "Glean’s top line crosses $300M as AI budget cutting becomes its major selling point",
-      "url": "https://techcrunch.com/2026/05/28/gleans-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling-point/",
-      "source": "TechCrunch",
-      "published_at": "Fri, 29 May 2026 00:44:37 +0000",
-      "raw_content": "The enterprise AI search startup tripled its annual revenue even as tech giants entered the category.",
-      "summary": "The enterprise AI search startup tripled its annual revenue even as tech giants entered the category.",
       "importance": 1.55
     },
     {
