@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-05-30T19:12:04.079703+00:00",
+  "generated_at": "2026-05-31T03:39:14.508848+00:00",
   "items": [
+    {
+      "title": "SoftBank says it will invest up to €75 billion to build French data centers",
+      "url": "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/",
+      "source": "TechCrunch",
+      "published_at": "Sat, 30 May 2026 21:45:00 +0000",
+      "raw_content": "The goal, the firm said, is to develop and operate up to 5 gigawatts of additional data center capacity.",
+      "summary": "The goal, the firm said, is to develop and operate up to 5 gigawatts of additional data center capacity.",
+      "importance": 1.7
+    },
     {
       "title": "I put Google’s 24/7 AI assistant Gemini Spark to work, and it’s actually pretty useful",
       "url": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/",
@@ -26,15 +35,6 @@
       "published_at": "Sat, 30 May 2026 13:00:00 +0000",
       "raw_content": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.",
       "summary": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.",
-      "importance": 1.55
-    },
-    {
-      "title": "Coders are refusing to work without AI — and that could come back to bite them",
-      "url": "https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/",
-      "source": "TechCrunch",
-      "published_at": "Fri, 29 May 2026 22:14:22 +0000",
-      "raw_content": "While AI is helping coders produce code faster, it may not be producing better code, researchers warn. And that could cause problems down the road for them.",
-      "summary": "While AI is helping coders produce code faster, it may not be producing better code, researchers warn. And that could cause problems down the road for them.",
       "importance": 1.55
     },
     {
@@ -137,6 +137,15 @@
       "importance": 1.3
     },
     {
+      "title": "Coders are refusing to work without AI — and that could come back to bite them",
+      "url": "https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/",
+      "source": "TechCrunch",
+      "published_at": "Fri, 29 May 2026 22:14:22 +0000",
+      "raw_content": "While AI is helping coders produce code faster, it may not be producing better code, researchers warn. And that could cause problems down the road for them.",
+      "summary": "While AI is helping coders produce code faster, it may not be producing better code, researchers warn. And that could cause problems down the road for them.",
+      "importance": 1.25
+    },
+    {
       "title": "So you’ve heard these AI terms and nodded along; let’s fix that",
       "url": "https://techcrunch.com/2026/05/29/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
       "source": "TechCrunch",
@@ -162,15 +171,6 @@
       "raw_content": "Next month's Tribeca Festival will include the premiere of an AI-generated film: Dreams of Violets. The 75-minute film is a fictional dramatization of the Iranian government's mass killing of protestors in January, with the people and images fully created by AI, as reported earlier by The Hollywood Reporter. Dreams of Violets cost $2,000 to make [&#8230;]",
       "summary": "Next month's Tribeca Festival will include the premiere of an AI-generated film: Dreams of Violets. The 75-minute film is a fictional dramatization of the Iranian government's mass killing of protesto",
       "importance": 1.25
-    },
-    {
-      "title": "Today is the last day to apply to speak at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/05/29/today-is-the-last-day-to-apply-to-speak-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch",
-      "published_at": "Fri, 29 May 2026 14:15:00 +0000",
-      "raw_content": "Submit your session topic before today ends for a chance to speak at TechCrunch Disrupt 2026. Apply now to share your insight and help shape the conversations defining the tech industry.",
-      "summary": "Submit your session topic before today ends for a chance to speak at TechCrunch Disrupt 2026. Apply now to share your insight and help shape the conversations defining the tech industry.",
-      "importance": 1.2
     },
     {
       "title": "Jony Ive’s funky Ferrari",
