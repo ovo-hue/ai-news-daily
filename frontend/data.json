@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-31T13:41:48.832111+00:00",
+  "generated_at": "2026-05-31T19:14:58.146921+00:00",
   "items": [
     {
       "title": "SoftBank says it will invest up to €75 billion to build French data centers",
@@ -11,21 +11,12 @@
       "importance": 1.7
     },
     {
-      "title": "I put Google’s 24/7 AI assistant Gemini Spark to work, and it’s actually pretty useful",
-      "url": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/",
+      "title": "Making sense of the debate over AI psychosis",
+      "url": "https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/",
       "source": "TechCrunch",
-      "published_at": "Sat, 30 May 2026 15:30:00 +0000",
-      "raw_content": "Gemini Spark helps automate everyday tasks, from inbox summaries to local event planning, but it’s unclear why Google made it a separate product.",
-      "summary": "Gemini Spark helps automate everyday tasks, from inbox summaries to local event planning, but it’s unclear why Google made it a separate product.",
-      "importance": 1.6
-    },
-    {
-      "title": "Meta is reportedly developing an AI pendant",
-      "url": "https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/",
-      "source": "TechCrunch",
-      "published_at": "Sat, 30 May 2026 15:59:58 +0000",
-      "raw_content": "Meta seems to be making big bets on AI-powered hardware.",
-      "summary": "Meta seems to be making big bets on AI-powered hardware.",
+      "published_at": "Sun, 31 May 2026 15:30:00 +0000",
+      "raw_content": "On the latest episode of Equity, we debate whether tech CEOs are \"uniquely prone to AI psychosis.\"",
+      "summary": "On the latest episode of Equity, we debate whether tech CEOs are \"uniquely prone to AI psychosis.\"",
       "importance": 1.55
     },
     {
@@ -36,24 +27,6 @@
       "raw_content": "The crypto weed vape found me on 4/20, the high holiday of cannabis enthusiasts everywhere. It arrived over Slack with the thumbnail of a man exhaling a plume of vapor, the words \"every hit delivers Bitcoin\" emblazoned across it. It claimed to be advertising a device called Gudtrip, and I thought everything about it sounded [&#8230;]",
       "summary": "The crypto weed vape found me on 4/20, the high holiday of cannabis enthusiasts everywhere. It arrived over Slack with the thumbnail of a man exhaling a plume of vapor, the words \"every hit delivers B",
       "importance": 1.55
-    },
-    {
-      "title": "‘What a joke’: Github Copilot’s new token-based billing spurs consternation among devs",
-      "url": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
-      "source": "TechCrunch",
-      "published_at": "Sat, 30 May 2026 16:30:00 +0000",
-      "raw_content": "The golden age of Microsoft's Github Copilot appears to be at an end.",
-      "summary": "The golden age of Microsoft's Github Copilot appears to be at an end.",
-      "importance": 1.5
-    },
-    {
-      "title": "Claude’s new model is more ‘honest’ when it messes up",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/939094/anthropic-claude-4-8-opus-honesty-effort",
-      "source": "The Verge",
-      "published_at": "2026-05-28T13:00:00-04:00",
-      "raw_content": "Anthropic is releasing Claude Opus 4.8 on Thursday, and the company is touting the model's \"honesty.\" According to Anthropic, it trains \"all [its] models to be honest - for instance, to avoid making claims that they can't support.\" But it notes that \"a general problem with AI models is that they sometimes jump to conclusions, [&#8230;]",
-      "summary": "Anthropic is releasing Claude Opus 4.8 on Thursday, and the company is touting the model's \"honesty.\" According to Anthropic, it trains \"all [its] models to be honest - for instance, to avoid making c",
-      "importance": 1.5
     },
     {
       "title": "After Nvidia’s $20B not-acqui-hire, AI chip startup Groq reportedly raising $650M",
@@ -83,21 +56,21 @@
       "importance": 1.4
     },
     {
+      "title": "I put Google’s 24/7 AI assistant Gemini Spark to work, and it’s actually pretty useful",
+      "url": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/",
+      "source": "TechCrunch",
+      "published_at": "Sat, 30 May 2026 15:30:00 +0000",
+      "raw_content": "Gemini Spark helps automate everyday tasks, from inbox summaries to local event planning, but it’s unclear why Google made it a separate product.",
+      "summary": "Gemini Spark helps automate everyday tasks, from inbox summaries to local event planning, but it’s unclear why Google made it a separate product.",
+      "importance": 1.3
+    },
+    {
       "title": "What happens when companies become too AI-pilled?",
       "url": "https://techcrunch.com/video/what-happens-when-companies-become-too-ai-pilled/",
       "source": "TechCrunch",
       "published_at": "Fri, 29 May 2026 17:57:05 +0000",
       "raw_content": "The people deciding that AI can replace your job are also the ones least likely to understand what your job truly involves, according to Box founder Aaron Levie, who pointed to this as an example of &#8220;AI psychosis.” Indeed, ClickUp recently cut 22% of its workforce for AI agents, tech layoffs in 2026 are already nearly matching all of 2025, [&#8230;]",
       "summary": "The people deciding that AI can replace your job are also the ones least likely to understand what your job truly involves, according to Box founder Aaron Levie, who pointed to this as an example of &",
-      "importance": 1.3
-    },
-    {
-      "title": "Cognition’s Scott Wu says AI coding agents shouldn’t replace humans",
-      "url": "https://techcrunch.com/2026/05/29/cognitions-scott-wu-says-ai-coding-agents-shouldnt-replace-humans/",
-      "source": "TechCrunch",
-      "published_at": "Fri, 29 May 2026 16:13:47 +0000",
-      "raw_content": "Cognition makes Devin, the first and arguably most successful AI coding agent. But famed coder Wu says it isn't designed to supplant human programmers.",
-      "summary": "Cognition makes Devin, the first and arguably most successful AI coding agent. But famed coder Wu says it isn't designed to supplant human programmers.",
       "importance": 1.3
     },
     {
@@ -108,6 +81,24 @@
       "raw_content": "AI image tools rarely make me feel like I'm part of the creative process. They are, after all, mostly designed so that people with no design experience can type in a few words and get back a usable result. So I was pleasantly surprised by Adobe's latest take on an AI image assistant: It's a [&#8230;]",
       "summary": "AI image tools rarely make me feel like I'm part of the creative process. They are, after all, mostly designed so that people with no design experience can type in a few words and get back a usable re",
       "importance": 1.3
+    },
+    {
+      "title": "Claude’s new model is more ‘honest’ when it messes up",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/939094/anthropic-claude-4-8-opus-honesty-effort",
+      "source": "The Verge",
+      "published_at": "2026-05-28T13:00:00-04:00",
+      "raw_content": "Anthropic is releasing Claude Opus 4.8 on Thursday, and the company is touting the model's \"honesty.\" According to Anthropic, it trains \"all [its] models to be honest - for instance, to avoid making claims that they can't support.\" But it notes that \"a general problem with AI models is that they sometimes jump to conclusions, [&#8230;]",
+      "summary": "Anthropic is releasing Claude Opus 4.8 on Thursday, and the company is touting the model's \"honesty.\" According to Anthropic, it trains \"all [its] models to be honest - for instance, to avoid making c",
+      "importance": 1.3
+    },
+    {
+      "title": "Meta is reportedly developing an AI pendant",
+      "url": "https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/",
+      "source": "TechCrunch",
+      "published_at": "Sat, 30 May 2026 15:59:58 +0000",
+      "raw_content": "Meta seems to be making big bets on AI-powered hardware.",
+      "summary": "Meta seems to be making big bets on AI-powered hardware.",
+      "importance": 1.25
     },
     {
       "title": "As the browser wars heat up, here are the hottest alternatives to Chrome and Safari in 2026",
@@ -162,6 +153,15 @@
       "raw_content": "This week, an AI training startup called Shift said it would clean New Yorkers' homes for free. It has plans to expand into other cities as well, including London, and looking around my flat, I get the appeal. But there's a catch. There's always a catch. In exchange for the cleaning, Shift wants footage of [&#8230;]",
       "summary": "This week, an AI training startup called Shift said it would clean New Yorkers' homes for free. It has plans to expand into other cities as well, including London, and looking around my flat, I get th",
       "importance": 1.25
+    },
+    {
+      "title": "‘What a joke’: Github Copilot’s new token-based billing spurs consternation among devs",
+      "url": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
+      "source": "TechCrunch",
+      "published_at": "Sat, 30 May 2026 16:30:00 +0000",
+      "raw_content": "The golden age of Microsoft's Github Copilot appears to be at an end.",
+      "summary": "The golden age of Microsoft's Github Copilot appears to be at an end.",
+      "importance": 1.2
     },
     {
       "title": "The SpaceX IPO is great for Elon Musk and terrible for you",
