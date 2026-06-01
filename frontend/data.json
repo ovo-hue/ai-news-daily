@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-01T17:35:44.300697+00:00",
+  "generated_at": "2026-06-01T21:31:29.820732+00:00",
   "items": [
     {
       "title": "Anthropic has officially filed to go public",
@@ -11,6 +11,15 @@
       "importance": 1.8
     },
     {
+      "title": "This AI weather startup is out-forecasting government agencies",
+      "url": "https://techcrunch.com/2026/06/01/this-ai-weather-startup-is-out-forecasting-government-agencies/",
+      "source": "TechCrunch",
+      "published_at": "Mon, 01 Jun 2026 16:00:00 +0000",
+      "raw_content": "WindBorne benefits from its unique combination of model-building and data collection. The company now has about 400 balloons in flight gathering sensor readings at any given time, launched from 15 sites around the globe. The advances in its current model come from improvements in how the data collected by the balloons is fed into the models.",
+      "summary": "WindBorne benefits from its unique combination of model-building and data collection. The company now has about 400 balloons in flight gathering sensor readings at any given time, launched from 15 sit",
+      "importance": 1.7
+    },
+    {
       "title": "DuckDuckGo makes its ‘no-AI’ search engine easier to access as its traffic booms",
       "url": "https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/",
       "source": "TechCrunch",
@@ -18,6 +27,33 @@
       "raw_content": "Alternative search engine DuckDuckGo launches 'no AI' web extensions for Chrome and Firefox users.",
       "summary": "Alternative search engine DuckDuckGo launches 'no AI' web extensions for Chrome and Firefox users.",
       "importance": 1.7
+    },
+    {
+      "title": "Florida sues OpenAI, Sam Altman, in first-of-its-kind lawsuit over violent incidents",
+      "url": "https://techcrunch.com/2026/06/01/florida-sues-openai-sam-altman-in-first-of-its-kind-lawsuit-over-violent-incidents/",
+      "source": "TechCrunch",
+      "published_at": "Mon, 01 Jun 2026 20:03:40 +0000",
+      "raw_content": "The lawsuit partially revolves around a shooting at Florida State University last year, and ChatGPT's alleged role in the incident.",
+      "summary": "The lawsuit partially revolves around a shooting at Florida State University last year, and ChatGPT's alleged role in the incident.",
+      "importance": 1.65
+    },
+    {
+      "title": "This could be Windows’ M1 moment — but expect it to cost a ton",
+      "url": "https://www.theverge.com/tech/941215/windows-laptops-nvidia-rtx-spark-apple-m1-arm-price-ram",
+      "source": "The Verge",
+      "published_at": "2026-06-01T16:02:31-04:00",
+      "raw_content": "Nvidia's announcement that it's getting into the consumer laptop chip space with RTX Spark is huge. Apple has proved for years that Arm-based chips can perform incredibly well while also delivering great battery life - at least on the Mac. In the Windows world, performance hasn't fully matched up under Qualcomm chips, mostly in the [&#8230;]",
+      "summary": "Nvidia's announcement that it's getting into the consumer laptop chip space with RTX Spark is huge. Apple has proved for years that Arm-based chips can perform incredibly well while also delivering gr",
+      "importance": 1.65
+    },
+    {
+      "title": "Gemini’s new AI agent is about as good as Google’s demo",
+      "url": "https://www.theverge.com/tech/941138/google-gemini-spark-ai-agent-hands-on",
+      "source": "The Verge",
+      "published_at": "2026-06-01T16:00:00-04:00",
+      "raw_content": "Google's new \"24/7\" AI agent, Gemini Spark, can be shockingly good at doing things on your behalf. But I'm not sure it's worth the financial cost and potential privacy tradeoffs. The company gave me access to Spark last week. Google advertises Spark as an AI agent that can take on tasks and work on them [&#8230;]",
+      "summary": "Google's new \"24/7\" AI agent, Gemini Spark, can be shockingly good at doing things on your behalf. But I'm not sure it's worth the financial cost and potential privacy tradeoffs. The company gave me a",
+      "importance": 1.65
     },
     {
       "title": "Anthropic files to go public",
@@ -29,21 +65,12 @@
       "importance": 1.6
     },
     {
-      "title": "This AI weather startup is out-forecasting government agencies",
-      "url": "https://techcrunch.com/2026/06/01/this-ai-weather-startup-is-out-forecasting-government-agencies/",
-      "source": "TechCrunch",
-      "published_at": "Mon, 01 Jun 2026 16:00:00 +0000",
-      "raw_content": "Windborne Systems' newest weather forecasting model beats the best government predictions by days.",
-      "summary": "Windborne Systems' newest weather forecasting model beats the best government predictions by days.",
-      "importance": 1.55
-    },
-    {
-      "title": "Erin Brockovich takes aim at data center secrecy",
-      "url": "https://techcrunch.com/2026/05/31/erin-brockovich-takes-aim-at-data-center-secrecy/",
-      "source": "TechCrunch",
-      "published_at": "Sun, 31 May 2026 21:05:14 +0000",
-      "raw_content": "Environmental activist Erin Brockovich has a new mission.",
-      "summary": "Environmental activist Erin Brockovich has a new mission.",
+      "title": "Meta&#8217;s own AI was exploited to hijack Instagram accounts",
+      "url": "https://www.theverge.com/tech/941179/meta-instagram-ai-support-chatbot-exploit-hacked",
+      "source": "The Verge",
+      "published_at": "2026-06-01T15:20:47-04:00",
+      "raw_content": "Meta's AI support chatbot helped hackers hijack Instagram accounts, as reported earlier by 404 Media. In a video shared on Telegram, a hacker shows how they could take over an account by asking Meta's chatbot to switch the email associated with someone else's profile and then reset the password. The issue, which Meta says has [&#8230;]",
+      "summary": "Meta's AI support chatbot helped hackers hijack Instagram accounts, as reported earlier by 404 Media. In a video shared on Telegram, a hacker shows how they could take over an account by asking Meta's",
       "importance": 1.55
     },
     {
@@ -74,22 +101,22 @@
       "importance": 1.55
     },
     {
-      "title": "SoftBank says it will invest up to €75 billion to build French data centers",
-      "url": "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/",
+      "title": "Water access is now a risk factor in SpaceX’s IPO",
+      "url": "https://techcrunch.com/2026/06/01/water-access-is-now-a-risk-factor-in-spacexs-ipo/",
       "source": "TechCrunch",
-      "published_at": "Sat, 30 May 2026 21:45:00 +0000",
-      "raw_content": "The goal, the firm said, is to develop and operate up to 5 gigawatts of additional data center capacity.",
-      "summary": "The goal, the firm said, is to develop and operate up to 5 gigawatts of additional data center capacity.",
-      "importance": 1.4
+      "published_at": "Mon, 01 Jun 2026 18:19:53 +0000",
+      "raw_content": "The company says it needs \"significant\" water resources to cool its data centers, and that access to abundant, affordable water is a challenge.",
+      "summary": "The company says it needs \"significant\" water resources to cool its data centers, and that access to abundant, affordable water is a challenge.",
+      "importance": 1.5
     },
     {
-      "title": "I put Google’s 24/7 AI assistant Gemini Spark to work, and it’s actually pretty useful",
-      "url": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/",
+      "title": "Erin Brockovich takes aim at data center secrecy",
+      "url": "https://techcrunch.com/2026/05/31/erin-brockovich-takes-aim-at-data-center-secrecy/",
       "source": "TechCrunch",
-      "published_at": "Sat, 30 May 2026 15:30:00 +0000",
-      "raw_content": "Gemini Spark helps automate everyday tasks, from inbox summaries to local event planning, but it’s unclear why Google made it a separate product.",
-      "summary": "Gemini Spark helps automate everyday tasks, from inbox summaries to local event planning, but it’s unclear why Google made it a separate product.",
-      "importance": 1.3
+      "published_at": "Sun, 31 May 2026 21:05:14 +0000",
+      "raw_content": "Environmental activist Erin Brockovich has a new mission.",
+      "summary": "Environmental activist Erin Brockovich has a new mission.",
+      "importance": 1.25
     },
     {
       "title": "Making sense of the debate over AI psychosis",
@@ -101,21 +128,21 @@
       "importance": 1.25
     },
     {
+      "title": "SoftBank says it will invest up to €75B to build French data centers",
+      "url": "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/",
+      "source": "TechCrunch",
+      "published_at": "Sat, 30 May 2026 21:45:00 +0000",
+      "raw_content": "The goal, the firm said, is to develop and operate up to 5 gigawatts of additional data center capacity.",
+      "summary": "The goal, the firm said, is to develop and operate up to 5 gigawatts of additional data center capacity.",
+      "importance": 1.25
+    },
+    {
       "title": "Meta is reportedly developing an AI pendant",
       "url": "https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/",
       "source": "TechCrunch",
       "published_at": "Sat, 30 May 2026 15:59:58 +0000",
       "raw_content": "Meta seems to be making big bets on AI-powered hardware.",
       "summary": "Meta seems to be making big bets on AI-powered hardware.",
-      "importance": 1.25
-    },
-    {
-      "title": "The groupthink boom: what 3 top VCs really think about the AI frenzy",
-      "url": "https://techcrunch.com/2026/05/30/the-groupthink-boom-what-three-top-vcs-really-think-about-the-ai-frenzy/",
-      "source": "TechCrunch",
-      "published_at": "Sat, 30 May 2026 14:49:27 +0000",
-      "raw_content": "\"If you're 22 years old in San Francisco and building something in AI, there may be a seed term sheet in your inbox — but if you're 19, oh my God, this means you're really good; you might already have a Series A [offer],\" said one, half-kiddingly.",
-      "summary": "\"If you're 22 years old in San Francisco and building something in AI, there may be a seed term sheet in your inbox — but if you're 19, oh my God, this means you're really good; you might already have",
       "importance": 1.25
     },
     {
@@ -146,40 +173,13 @@
       "importance": 1.25
     },
     {
-      "title": "Tech companies desperately want to film you doing chores",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/940007/ai-companies-will-pay-for-robot-training-data",
-      "source": "The Verge",
-      "published_at": "2026-05-29T13:37:43-04:00",
-      "raw_content": "This week, an AI training startup called Shift said it would clean New Yorkers' homes for free. It has plans to expand into other cities as well, including London, and looking around my flat, I get the appeal. But there's a catch. There's always a catch. In exchange for the cleaning, Shift wants footage of [&#8230;]",
-      "summary": "This week, an AI training startup called Shift said it would clean New Yorkers' homes for free. It has plans to expand into other cities as well, including London, and looking around my flat, I get th",
-      "importance": 1.25
-    },
-    {
-      "title": "‘What a joke’: Github Copilot’s new token-based billing spurs consternation among devs",
+      "title": "‘What a joke’: GitHub Copilot’s new token-based billing spurs consternation among devs",
       "url": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
       "source": "TechCrunch",
       "published_at": "Sat, 30 May 2026 16:30:00 +0000",
-      "raw_content": "The golden age of Microsoft's Github Copilot appears to be at an end.",
-      "summary": "The golden age of Microsoft's Github Copilot appears to be at an end.",
+      "raw_content": "The golden age of Microsoft's GitHub Copilot appears to be at an end.",
+      "summary": "The golden age of Microsoft's GitHub Copilot appears to be at an end.",
       "importance": 1.2
-    },
-    {
-      "title": "The SpaceX IPO is great for Elon Musk and terrible for you",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/940001/elon-musk-spacex-ipo-ai",
-      "source": "The Verge",
-      "published_at": "2026-05-30T08:00:00-04:00",
-      "raw_content": "I haven't seen anything as stupid as the WeWork IPO document in a very long time - that is, until Elon Musk filed to take SpaceX public. WeWork was a joke. SpaceX is a threat. And if Musk and his bankers have their way, you are going to be their bagholder. Lots of the top-line [&#8230;]",
-      "summary": "I haven't seen anything as stupid as the WeWork IPO document in a very long time - that is, until Elon Musk filed to take SpaceX public. WeWork was a joke. SpaceX is a threat. And if Musk and his bank",
-      "importance": 1.2
-    },
-    {
-      "title": "Jony Ive’s funky Ferrari",
-      "url": "https://www.theverge.com/podcast/939589/ferrari-luce-jony-ive-vergecast",
-      "source": "The Verge",
-      "published_at": "2026-05-29T08:25:12-04:00",
-      "raw_content": "Most people will never own, drive, or even sit inside a Ferrari Luce. (If you can, or do… hit us up.) There's still no question that Ferrari's first electric vehicle is one of the most interesting, surprising cars of the year. With a decidedly un-Ferrari look, and lots of new technology and designs courtesy of [&#8230;]",
-      "summary": "Most people will never own, drive, or even sit inside a Ferrari Luce. (If you can, or do… hit us up.) There's still no question that Ferrari's first electric vehicle is one of the most interesting, su",
-      "importance": 1.0
     }
   ]
 }
