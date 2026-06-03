@@ -1,14 +1,23 @@
 {
-  "generated_at": "2026-06-03T10:55:33.799741+00:00",
+  "generated_at": "2026-06-03T16:45:25.749491+00:00",
   "items": [
     {
-      "title": "OpenAI launches new Codex tools for white-collar work",
-      "url": "https://techcrunch.com/2026/06/02/openai-launches-new-codex-tools-for-white-collar-work/",
+      "title": "Coralogix raises $200M on bet that someone needs to watch the AI agents",
+      "url": "https://techcrunch.com/2026/06/03/coralogix-raises-200m-in-race-to-build-the-monitoring-layer-for-ai-agents/",
       "source": "TechCrunch",
-      "published_at": "Tue, 02 Jun 2026 16:00:00 +0000",
-      "raw_content": "OpenAI released a set of six plug-ins aimed at specific jobs: data analytics, creative production, sales, product design, equity investing, and investment banking. Available from within the Codex app, each of the new tools bundles integrations, instructions, and context to allow Codex to approximate a specific job.",
-      "summary": "OpenAI released a set of six plug-ins aimed at specific jobs: data analytics, creative production, sales, product design, equity investing, and investment banking. Available from within the Codex app,",
+      "published_at": "Wed, 03 Jun 2026 13:02:51 +0000",
+      "raw_content": "The Series F round values Coralogix at $1.6 billion and comes less than a year after its previous raise.",
+      "summary": "The Series F round values Coralogix at $1.6 billion and comes less than a year after its previous raise.",
       "importance": 1.9
+    },
+    {
+      "title": "Microsoft and OpenAI broke up — now they’re ready to fight",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/942242/microsoft-build-ai-agents-openai-competition",
+      "source": "The Verge",
+      "published_at": "2026-06-03T10:04:00-04:00",
+      "raw_content": "At Microsoft's annual Build conference on Tuesday, the company announced a slew of new or expanded AI initiatives, including a super app, in-house reasoning models, a cybersecurity tool, and OpenClaw-esque AI agents. All this news added up to a clear message: Microsoft is positioned to be one of the biggest players in AI, and it's [&#8230;]",
+      "summary": "At Microsoft's annual Build conference on Tuesday, the company announced a slew of new or expanded AI initiatives, including a super app, in-house reasoning models, a cybersecurity tool, and OpenClaw-",
+      "importance": 1.8
     },
     {
       "title": "Microsoft’s first advanced reasoning AI is here",
@@ -44,15 +53,6 @@
       "published_at": "Tue, 02 Jun 2026 18:02:44 +0000",
       "raw_content": "Launched at Build, Microsoft Scout is a new AI assistant meant to bring the power and flexibility of OpenClaw into the Microsoft 365 system.",
       "summary": "Launched at Build, Microsoft Scout is a new AI assistant meant to bring the power and flexibility of OpenClaw into the Microsoft 365 system.",
-      "importance": 1.7
-    },
-    {
-      "title": "Trump signs narrower executive order on AI oversight after industry objections",
-      "url": "https://techcrunch.com/2026/06/02/trump-signs-narrower-executive-order-on-ai-oversight-after-industry-objections/",
-      "source": "TechCrunch",
-      "published_at": "Tue, 02 Jun 2026 16:23:08 +0000",
-      "raw_content": "After industry objections, President Trump signed a revised AI executive order requiring only voluntary prerelease government reviews of advanced models.",
-      "summary": "After industry objections, President Trump signed a revised AI executive order requiring only voluntary prerelease government reviews of advanced models.",
       "importance": 1.7
     },
     {
@@ -92,22 +92,40 @@
       "importance": 1.7
     },
     {
-      "title": "Microsoft created the mini Surface dev box that Qualcomm couldn&#8217;t",
-      "url": "https://www.theverge.com/news/941271/microsoft-surface-rtx-spark-dev-box-specs-availability",
-      "source": "The Verge",
-      "published_at": "2026-06-02T12:30:00-04:00",
-      "raw_content": "Microsoft only just announced a new Surface Laptop Ultra at the weekend, and it's now revealing a miniature Surface PC aimed at developers. The new Surface RTX Spark Dev Box is powered by Nvidia's new Arm-based RTX Spark chips, just like the Surface Laptop Ultra, and is optimized for sustained workloads and local AI tasks. [&#8230;]",
-      "summary": "Microsoft only just announced a new Surface Laptop Ultra at the weekend, and it's now revealing a miniature Surface PC aimed at developers. The new Surface RTX Spark Dev Box is powered by Nvidia's new",
-      "importance": 1.7
+      "title": "Meta’s AI agent for WhatsApp Business is now available globally",
+      "url": "https://techcrunch.com/2026/06/03/metas-ai-agent-for-whatsapp-business-is-now-available-globally/",
+      "source": "TechCrunch",
+      "published_at": "Wed, 03 Jun 2026 13:40:00 +0000",
+      "raw_content": "WhatsApp will charge businesses for using its AI agent based on token usage",
+      "summary": "WhatsApp will charge businesses for using its AI agent based on token usage",
+      "importance": 1.6
     },
     {
-      "title": "Microsoft offers devs a better way to control AI agent behavior",
-      "url": "https://techcrunch.com/2026/06/02/microsoft-offers-devs-a-better-way-to-control-ai-agent-behavior/",
+      "title": "Amazon will show AI product images when you search for some reason",
+      "url": "https://techcrunch.com/2026/06/03/amazon-will-show-ai-product-images-when-you-search-for-some-reason/",
       "source": "TechCrunch",
-      "published_at": "Tue, 02 Jun 2026 18:00:00 +0000",
-      "raw_content": "The specification lets developer, compliance, and security teams define their own policies for agents to follow in portable policy files.",
-      "summary": "The specification lets developer, compliance, and security teams define their own policies for agents to follow in portable policy files.",
-      "importance": 1.6
+      "published_at": "Wed, 03 Jun 2026 15:50:26 +0000",
+      "raw_content": "Amazon will use visual search and AI to show AI generated product images that match your search queries. The retailer says it will help guide users to products.",
+      "summary": "Amazon will use visual search and AI to show AI generated product images that match your search queries. The retailer says it will help guide users to products.",
+      "importance": 1.55
+    },
+    {
+      "title": "These two founders left Goldman and Meta to build voice AI for markets everyone else overlooked",
+      "url": "https://techcrunch.com/2026/06/03/these-two-founders-left-goldman-and-meta-to-build-voice-ai-for-markets-everyone-else-overlooked/",
+      "source": "TechCrunch",
+      "published_at": "Wed, 03 Jun 2026 15:00:00 +0000",
+      "raw_content": "The startup's own stack for Africa and Middle East is now handling more than 17,000 calls per day.",
+      "summary": "The startup's own stack for Africa and Middle East is now handling more than 17,000 calls per day.",
+      "importance": 1.55
+    },
+    {
+      "title": "Publishers will be able to opt out of AI Search, thanks to new regulation",
+      "url": "https://techcrunch.com/2026/06/03/publishers-will-be-able-to-opt-out-of-ai-search-thanks-to-new-regulation/",
+      "source": "TechCrunch",
+      "published_at": "Wed, 03 Jun 2026 14:58:33 +0000",
+      "raw_content": "U.K. regulators are requiring Google offer a tool allowing website publishers to opt-out of generative AI search features. The option will be tested in the U.K. then rolled out globally.",
+      "summary": "U.K. regulators are requiring Google offer a tool allowing website publishers to opt-out of generative AI search features. The option will be tested in the U.K. then rolled out globally.",
+      "importance": 1.55
     },
     {
       "title": "Uber caps employee AI spending after blowing through budget in 4 months",
@@ -128,25 +146,16 @@
       "importance": 1.55
     },
     {
-      "title": "Google rolls out fake call detection to protect against AI deepfake impersonation scams",
-      "url": "https://techcrunch.com/2026/06/02/google-rolls-out-fake-call-detection-to-protect-against-ai-deepfake-impersonation-scams/",
-      "source": "TechCrunch",
-      "published_at": "Tue, 02 Jun 2026 18:00:00 +0000",
-      "raw_content": "As people increasingly refuse to answer calls from unknown numbers, scammers are shifting their tactics by spoofing trusted phone numbers and using AI deepfake technology to sound like authority figures, family members, or employers.",
-      "summary": "As people increasingly refuse to answer calls from unknown numbers, scammers are shifting their tactics by spoofing trusted phone numbers and using AI deepfake technology to sound like authority figur",
+      "title": "Amazon&#8217;s search bar will invent AI-generated products you can&#8217;t buy",
+      "url": "https://www.theverge.com/tech/942547/amazon-search-bar-ai-images",
+      "source": "The Verge",
+      "published_at": "2026-06-03T12:07:31-04:00",
+      "raw_content": "Amazon's updated search bar will now show you AI-generated images of products as you describe them. For now, the in-app feature only surfaces AI images of clothing and home goods, allowing you to tap on the image that best matches what you're looking for and search for similar-looking items. In a blog post, Amazon positions [&#8230;]",
+      "summary": "Amazon's updated search bar will now show you AI-generated images of products as you describe them. For now, the in-app feature only surfaces AI images of clothing and home goods, allowing you to tap ",
       "importance": 1.55
     },
     {
-      "title": "Amazon faces class action lawsuit over Ring facial-recognition feature",
-      "url": "https://techcrunch.com/2026/06/02/amazon-faces-class-action-lawsuit-over-ring-facial-recognition-feature/",
-      "source": "TechCrunch",
-      "published_at": "Tue, 02 Jun 2026 17:47:28 +0000",
-      "raw_content": "The class action lawsuit, filed in Seattle by Virginia resident Charles Sigwalt, claims that Ring's Familiar Faces feature stores images of passersby without consent.",
-      "summary": "The class action lawsuit, filed in Seattle by Virginia resident Charles Sigwalt, claims that Ring's Familiar Faces feature stores images of passersby without consent.",
-      "importance": 1.55
-    },
-    {
-      "title": "AI has a water problem. Google thinks it has a fix",
+      "title": "AI has a water problem — Google thinks it has a fix",
       "url": "https://www.theverge.com/policy/942296/google-water-commitments-data-centers",
       "source": "The Verge",
       "published_at": "2026-06-03T05:00:00-04:00",
@@ -161,15 +170,6 @@
       "published_at": "2026-06-03T04:45:48-04:00",
       "raw_content": "Online publishers are getting more control over whether their websites appear in Google's AI Search features, thanks to a UK regulatory ruling. The new conduct rule imposed by the Competition and Markets Authority (CMA) requires Google to let website owners keep their content out of features like AI Overviews and prevent it from being used [&#8230;]",
       "summary": "Online publishers are getting more control over whether their websites appear in Google's AI Search features, thanks to a UK regulatory ruling. The new conduct rule imposed by the Competition and Mark",
-      "importance": 1.55
-    },
-    {
-      "title": "Microsoft Build 2026: All the news about Windows, AI, RTX Spark, and more",
-      "url": "https://www.theverge.com/tech/941668/microsoft-build-may-2026-live-news-updates",
-      "source": "The Verge",
-      "published_at": "2026-06-02T11:59:58-04:00",
-      "raw_content": "Microsoft Build 2026 kicked off with a keynote presentation that introduced some developer-focused Windows updates, an OpenClaw-based AI assistant called Scout, the new Majorana 2 quantum computing chip, and a Surface mini PC designed for AI developers. Microsoft also rolled out a new Android-based OS called Project Solara that’s designed for gadgets that run AI [&#8230;]",
-      "summary": "Microsoft Build 2026 kicked off with a keynote presentation that introduced some developer-focused Windows updates, an OpenClaw-based AI assistant called Scout, the new Majorana 2 quantum computing ch",
       "importance": 1.55
     },
     {
