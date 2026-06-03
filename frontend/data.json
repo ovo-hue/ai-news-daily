@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-06-03T16:45:25.749491+00:00",
+  "generated_at": "2026-06-03T20:53:53.501098+00:00",
   "items": [
     {
-      "title": "Coralogix raises $200M on bet that someone needs to watch the AI agents",
-      "url": "https://techcrunch.com/2026/06/03/coralogix-raises-200m-in-race-to-build-the-monitoring-layer-for-ai-agents/",
+      "title": "Alphabet’s record-breaking $85B raise for Google’s AI business is a helluva good signal",
+      "url": "https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/",
       "source": "TechCrunch",
-      "published_at": "Wed, 03 Jun 2026 13:02:51 +0000",
-      "raw_content": "The Series F round values Coralogix at $1.6 billion and comes less than a year after its previous raise.",
-      "summary": "The Series F round values Coralogix at $1.6 billion and comes less than a year after its previous raise.",
-      "importance": 1.9
+      "published_at": "Wed, 03 Jun 2026 19:38:32 +0000",
+      "raw_content": "If Alphabet's record-breaking $85 billion stock sale signals investor appetite for AI-related offerings, we can see that investors are ready to chow.",
+      "summary": "If Alphabet's record-breaking $85 billion stock sale signals investor appetite for AI-related offerings, we can see that investors are ready to chow.",
+      "importance": 1.85
     },
     {
       "title": "Microsoft and OpenAI broke up — now they’re ready to fight",
@@ -20,93 +20,48 @@
       "importance": 1.8
     },
     {
-      "title": "Microsoft’s first advanced reasoning AI is here",
-      "url": "https://www.theverge.com/tech/941664/microsoft-ai-model-reasoning-mai-thinking-1-build-2026",
-      "source": "The Verge",
-      "published_at": "2026-06-02T14:12:44-04:00",
-      "raw_content": "Microsoft announced a bunch of new in-house AI models at Build 2026, including a new \"flagship\" model: MAI-Thinking-1. It's an ambitious step into model development for Microsoft, which introduced its initial in-house models last year - before then, it had relied on OpenAI's models. The two companies recently renegotiated their deal to loosen ties. According [&#8230;]",
-      "summary": "Microsoft announced a bunch of new in-house AI models at Build 2026, including a new \"flagship\" model: MAI-Thinking-1. It's an ambitious step into model development for Microsoft, which introduced its",
+      "title": "Coralogix raises $200M on bet that someone needs to watch the AI agents",
+      "url": "https://techcrunch.com/2026/06/03/coralogix-raises-200m-in-race-to-build-the-monitoring-layer-for-ai-agents/",
+      "source": "TechCrunch",
+      "published_at": "Wed, 03 Jun 2026 13:02:51 +0000",
+      "raw_content": "Coralogix is among a growing number of infrastructure firms betting that as AI systems move into production, demand will rise for tools that can monitor their behavior, troubleshoot failures, and provide the operational data needed to keep them running reliably.",
+      "summary": "Coralogix is among a growing number of infrastructure firms betting that as AI systems move into production, demand will rise for tools that can monitor their behavior, troubleshoot failures, and prov",
       "importance": 1.75
     },
     {
-      "title": "Microsoft&#8217;s Project Solara is an OS for AI agent gadgets",
-      "url": "https://www.theverge.com/news/941830/microsoft-project-solara-os-ai-agent-gadgets",
+      "title": "As AI gets better, it reveals an empty promise",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/942629/as-ai-gets-better-it-reveals-an-empty-promise",
       "source": "The Verge",
-      "published_at": "2026-06-02T13:31:02-04:00",
-      "raw_content": "Microsoft just announced \"Project Solara,\" a new OS designed for gadgets that run AI agents, at Build 2026. The company is calling it \"a new platform built from the ground up to power agent-driven experiences.\" It's built on Android, not Windows. Microsoft demonstrated two concept Project Solara devices at Build today: Desk concept and badge [&#8230;]",
-      "summary": "Microsoft just announced \"Project Solara,\" a new OS designed for gadgets that run AI agents, at Build 2026. The company is calling it \"a new platform built from the ground up to power agent-driven exp",
-      "importance": 1.75
-    },
-    {
-      "title": "New Microsoft tool lets devs spin up AI behavior tests using text descriptions",
-      "url": "https://techcrunch.com/2026/06/02/new-microsoft-tool-lets-devs-spin-up-ai-behavior-tests-using-text-descriptions/",
-      "source": "TechCrunch",
-      "published_at": "Tue, 02 Jun 2026 19:02:21 +0000",
-      "raw_content": "Microsoft on Tuesday took the wraps off Adaptive Spec-driven Scoring for Evaluation and Regression Testing, an open source framework for spinning up AI evaluations.",
-      "summary": "Microsoft on Tuesday took the wraps off Adaptive Spec-driven Scoring for Evaluation and Regression Testing, an open source framework for spinning up AI evaluations.",
-      "importance": 1.7
-    },
-    {
-      "title": "Microsoft launches Scout, an OpenClaw-inspired personal assistant",
-      "url": "https://techcrunch.com/2026/06/02/microsoft-launches-scout-an-openclaw-inspired-personal-assistant/",
-      "source": "TechCrunch",
-      "published_at": "Tue, 02 Jun 2026 18:02:44 +0000",
-      "raw_content": "Launched at Build, Microsoft Scout is a new AI assistant meant to bring the power and flexibility of OpenClaw into the Microsoft 365 system.",
-      "summary": "Launched at Build, Microsoft Scout is a new AI assistant meant to bring the power and flexibility of OpenClaw into the Microsoft 365 system.",
-      "importance": 1.7
-    },
-    {
-      "title": "Microsoft Build 2026: The 7 biggest announcements",
-      "url": "https://www.theverge.com/tech/941738/microsoft-build-2026-biggest-announcements",
-      "source": "The Verge",
-      "published_at": "2026-06-02T15:23:52-04:00",
-      "raw_content": "Microsoft just kicked off Build 2026 with a keynote from CEO Satya Nadella and other company leaders. As expected, it was filled with announcements, ranging from new Surface hardware to an always-on personal assistant and updates across Microsoft's in-house AI models. If you didn't watch the event live, you can catch up on all the [&#8230;]",
-      "summary": "Microsoft just kicked off Build 2026 with a keynote from CEO Satya Nadella and other company leaders. As expected, it was filled with announcements, ranging from new Surface hardware to an always-on p",
-      "importance": 1.7
-    },
-    {
-      "title": "Trump signs executive order to review AI models before they’re released",
-      "url": "https://www.theverge.com/policy/941775/trump-ai-executive-order",
-      "source": "The Verge",
-      "published_at": "2026-06-02T14:33:42-04:00",
-      "raw_content": "President Donald Trump signed an executive order Tuesday creating a \"voluntary framework\" for AI companies to share their frontier models with the federal government before they're released \"to promote secure innovation and strengthen the cybersecurity of critical infrastructure.\" The order says the US AI industry has succeeded in part \"because we refuse to stifle this [&#8230;]",
-      "summary": "President Donald Trump signed an executive order Tuesday creating a \"voluntary framework\" for AI companies to share their frontier models with the federal government before they're released \"to promot",
-      "importance": 1.7
-    },
-    {
-      "title": "Microsoft Scout is a new AI personal assistant built on OpenClaw",
-      "url": "https://www.theverge.com/news/939713/microsoft-scout-assistant-openclaw",
-      "source": "The Verge",
-      "published_at": "2026-06-02T14:00:00-04:00",
-      "raw_content": "Much like Google, Microsoft is launching its own version of OpenClaw. Microsoft Scout is an always-on assistant that integrates into Microsoft 365 apps like Outlook, OneDrive, and Microsoft Teams, allowing businesses to assign a virtual assistant to employees to help with organizing calendars, expense reporting, email drafts, and much more. Unlike Copilot that lives inside [&#8230;]",
-      "summary": "Much like Google, Microsoft is launching its own version of OpenClaw. Microsoft Scout is an always-on assistant that integrates into Microsoft 365 apps like Outlook, OneDrive, and Microsoft Teams, all",
-      "importance": 1.7
-    },
-    {
-      "title": "Google’s Phone app will tell you if a scammer is impersonating one of your contacts",
-      "url": "https://www.theverge.com/tech/941517/google-phone-scammer-ai-impersonation",
-      "source": "The Verge",
-      "published_at": "2026-06-02T14:00:00-04:00",
-      "raw_content": "Google is launching a new feature for its Phone app that aims to protect you from AI impersonation scams. Now, when you receive a call from a scammer that appears to be coming from the same number as one of your contacts, Phone by Google will flag the call as suspicious so you can hang [&#8230;]",
-      "summary": "Google is launching a new feature for its Phone app that aims to protect you from AI impersonation scams. Now, when you receive a call from a scammer that appears to be coming from the same number as ",
-      "importance": 1.7
+      "published_at": "2026-06-03T13:45:35-04:00",
+      "raw_content": "This week we've got tandem hands-ons with Google's new Gemini AI agent - Spark - from my colleagues David Pierce and Jay Peters. Their takeaways are similar: It's so effective that it's scary. Spark knew that David's dog is named Frida and knew the first name of Jay's wife, even though neither of them explicitly [&#8230;]",
+      "summary": "This week we've got tandem hands-ons with Google's new Gemini AI agent - Spark - from my colleagues David Pierce and Jay Peters. Their takeaways are similar: It's so effective that it's scary. Spark k",
+      "importance": 1.65
     },
     {
       "title": "Meta’s AI agent for WhatsApp Business is now available globally",
       "url": "https://techcrunch.com/2026/06/03/metas-ai-agent-for-whatsapp-business-is-now-available-globally/",
       "source": "TechCrunch",
       "published_at": "Wed, 03 Jun 2026 13:40:00 +0000",
-      "raw_content": "WhatsApp will charge businesses for using its AI agent based on token usage",
-      "summary": "WhatsApp will charge businesses for using its AI agent based on token usage",
+      "raw_content": "WhatsApp will charge businesses for using its AI agent based on token usage.",
+      "summary": "WhatsApp will charge businesses for using its AI agent based on token usage.",
       "importance": 1.6
+    },
+    {
+      "title": "Google’s Dreambeans, its weirdest-named AI tool to date, will turn your life into a cartoon",
+      "url": "https://techcrunch.com/2026/06/03/googles-dreambeans-its-weirdest-named-ai-tool-to-date-will-turn-your-life-into-a-cartoon/",
+      "source": "TechCrunch",
+      "published_at": "Wed, 03 Jun 2026 19:07:42 +0000",
+      "raw_content": "Dreambeans is a curated list of AI-illustrated \"stories\" culled from the personal data in your Google account.",
+      "summary": "Dreambeans is a curated list of AI-illustrated \"stories\" culled from the personal data in your Google account.",
+      "importance": 1.55
     },
     {
       "title": "Amazon will show AI product images when you search for some reason",
       "url": "https://techcrunch.com/2026/06/03/amazon-will-show-ai-product-images-when-you-search-for-some-reason/",
       "source": "TechCrunch",
       "published_at": "Wed, 03 Jun 2026 15:50:26 +0000",
-      "raw_content": "Amazon will use visual search and AI to show AI generated product images that match your search queries. The retailer says it will help guide users to products.",
-      "summary": "Amazon will use visual search and AI to show AI generated product images that match your search queries. The retailer says it will help guide users to products.",
+      "raw_content": "Amazon will use visual search and AI to show AI-generated product images that match your search queries. The retailer says it will help guide users to products.",
+      "summary": "Amazon will use visual search and AI to show AI-generated product images that match your search queries. The retailer says it will help guide users to products.",
       "importance": 1.55
     },
     {
@@ -125,24 +80,6 @@
       "published_at": "Wed, 03 Jun 2026 14:58:33 +0000",
       "raw_content": "U.K. regulators are requiring Google offer a tool allowing website publishers to opt-out of generative AI search features. The option will be tested in the U.K. then rolled out globally.",
       "summary": "U.K. regulators are requiring Google offer a tool allowing website publishers to opt-out of generative AI search features. The option will be tested in the U.K. then rolled out globally.",
-      "importance": 1.55
-    },
-    {
-      "title": "Uber caps employee AI spending after blowing through budget in 4 months",
-      "url": "https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/",
-      "source": "TechCrunch",
-      "published_at": "Tue, 02 Jun 2026 19:11:48 +0000",
-      "raw_content": "Uber's cutback has occurred after the company had reportedly encouraged staff to use AI as much as possible.",
-      "summary": "Uber's cutback has occurred after the company had reportedly encouraged staff to use AI as much as possible.",
-      "importance": 1.55
-    },
-    {
-      "title": "Martin Scorsese becomes the latest — and most unlikely — Hollywood voice for AI",
-      "url": "https://techcrunch.com/2026/06/02/martin-scorsese-becomes-the-latest-and-most-unlikely-hollywood-voice-for-ai/",
-      "source": "TechCrunch",
-      "published_at": "Tue, 02 Jun 2026 18:16:53 +0000",
-      "raw_content": "The caveat is that one of the world's most famous living directors is using the tech solely for storyboarding.",
-      "summary": "The caveat is that one of the world's most famous living directors is using the tech solely for storyboarding.",
       "importance": 1.55
     },
     {
@@ -180,6 +117,69 @@
       "raw_content": "The cybersecurity company is nearing a $300 million round led by Evolution Equity Partners.",
       "summary": "The cybersecurity company is nearing a $300 million round led by Evolution Equity Partners.",
       "importance": 1.5
+    },
+    {
+      "title": "Microsoft’s first advanced reasoning AI is here",
+      "url": "https://www.theverge.com/tech/941664/microsoft-ai-model-reasoning-mai-thinking-1-build-2026",
+      "source": "The Verge",
+      "published_at": "2026-06-02T14:12:44-04:00",
+      "raw_content": "Microsoft announced a bunch of new in-house AI models at Build 2026, including a new \"flagship\" model: MAI-Thinking-1. It's an ambitious step into model development for Microsoft, which introduced its initial in-house models last year - before then, it had relied on OpenAI's models. The two companies recently renegotiated their deal to loosen ties. According [&#8230;]",
+      "summary": "Microsoft announced a bunch of new in-house AI models at Build 2026, including a new \"flagship\" model: MAI-Thinking-1. It's an ambitious step into model development for Microsoft, which introduced its",
+      "importance": 1.45
+    },
+    {
+      "title": "New Microsoft tool lets devs spin up AI behavior tests using text descriptions",
+      "url": "https://techcrunch.com/2026/06/02/new-microsoft-tool-lets-devs-spin-up-ai-behavior-tests-using-text-descriptions/",
+      "source": "TechCrunch",
+      "published_at": "Tue, 02 Jun 2026 19:02:21 +0000",
+      "raw_content": "Microsoft on Tuesday took the wraps off Adaptive Spec-driven Scoring for Evaluation and Regression Testing, an open source framework for spinning up AI evaluations.",
+      "summary": "Microsoft on Tuesday took the wraps off Adaptive Spec-driven Scoring for Evaluation and Regression Testing, an open source framework for spinning up AI evaluations.",
+      "importance": 1.4
+    },
+    {
+      "title": "Microsoft Build 2026: The 7 biggest announcements",
+      "url": "https://www.theverge.com/tech/941738/microsoft-build-2026-biggest-announcements",
+      "source": "The Verge",
+      "published_at": "2026-06-02T15:23:52-04:00",
+      "raw_content": "Microsoft just kicked off Build 2026 with a keynote from CEO Satya Nadella and other company leaders. As expected, it was filled with announcements, ranging from new Surface hardware to an always-on personal assistant and updates across Microsoft's in-house AI models. If you didn't watch the event live, you can catch up on all the [&#8230;]",
+      "summary": "Microsoft just kicked off Build 2026 with a keynote from CEO Satya Nadella and other company leaders. As expected, it was filled with announcements, ranging from new Surface hardware to an always-on p",
+      "importance": 1.4
+    },
+    {
+      "title": "Trump signs executive order to review AI models before they’re released",
+      "url": "https://www.theverge.com/policy/941775/trump-ai-executive-order",
+      "source": "The Verge",
+      "published_at": "2026-06-02T14:33:42-04:00",
+      "raw_content": "President Donald Trump signed an executive order Tuesday creating a \"voluntary framework\" for AI companies to share their frontier models with the federal government before they're released \"to promote secure innovation and strengthen the cybersecurity of critical infrastructure.\" The order says the US AI industry has succeeded in part \"because we refuse to stifle this [&#8230;]",
+      "summary": "President Donald Trump signed an executive order Tuesday creating a \"voluntary framework\" for AI companies to share their frontier models with the federal government before they're released \"to promot",
+      "importance": 1.4
+    },
+    {
+      "title": "Microsoft Scout is a new AI personal assistant built on OpenClaw",
+      "url": "https://www.theverge.com/news/939713/microsoft-scout-assistant-openclaw",
+      "source": "The Verge",
+      "published_at": "2026-06-02T14:00:00-04:00",
+      "raw_content": "Much like Google, Microsoft is launching its own version of OpenClaw. Microsoft Scout is an always-on assistant that integrates into Microsoft 365 apps like Outlook, OneDrive, and Microsoft Teams, allowing businesses to assign a virtual assistant to employees to help with organizing calendars, expense reporting, email drafts, and much more. Unlike Copilot that lives inside [&#8230;]",
+      "summary": "Much like Google, Microsoft is launching its own version of OpenClaw. Microsoft Scout is an always-on assistant that integrates into Microsoft 365 apps like Outlook, OneDrive, and Microsoft Teams, all",
+      "importance": 1.4
+    },
+    {
+      "title": "Google’s Phone app will tell you if a scammer is impersonating one of your contacts",
+      "url": "https://www.theverge.com/tech/941517/google-phone-scammer-ai-impersonation",
+      "source": "The Verge",
+      "published_at": "2026-06-02T14:00:00-04:00",
+      "raw_content": "Google is launching a new feature for its Phone app that aims to protect you from AI impersonation scams. Now, when you receive a call from a scammer that appears to be coming from the same number as one of your contacts, Phone by Google will flag the call as suspicious so you can hang [&#8230;]",
+      "summary": "Google is launching a new feature for its Phone app that aims to protect you from AI impersonation scams. Now, when you receive a call from a scammer that appears to be coming from the same number as ",
+      "importance": 1.4
+    },
+    {
+      "title": "Uber caps employee AI spending after blowing through budget in 4 months",
+      "url": "https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/",
+      "source": "TechCrunch",
+      "published_at": "Tue, 02 Jun 2026 19:11:48 +0000",
+      "raw_content": "Uber's cutback has occurred after the company had reportedly encouraged staff to use AI as much as possible.",
+      "summary": "Uber's cutback has occurred after the company had reportedly encouraged staff to use AI as much as possible.",
+      "importance": 1.25
     }
   ]
 }
