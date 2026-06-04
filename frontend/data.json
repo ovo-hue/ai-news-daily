@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04T03:51:11.142337+00:00",
+  "generated_at": "2026-06-04T09:53:52.585911+00:00",
   "items": [
     {
       "title": "Alphabet’s record-breaking $85B raise for Google’s AI business is a helluva good signal",
@@ -36,6 +36,15 @@
       "raw_content": "Coralogix is among a growing number of infrastructure firms betting that as AI systems move into production, demand will rise for tools that can monitor their behavior, troubleshoot failures, and provide the operational data needed to keep them running reliably.",
       "summary": "Coralogix is among a growing number of infrastructure firms betting that as AI systems move into production, demand will rise for tools that can monitor their behavior, troubleshoot failures, and prov",
       "importance": 1.75
+    },
+    {
+      "title": "Amazon develops a warehouse robot workers can speak to",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/942884/amazon-next-generation-warehouse-robot-proteus",
+      "source": "The Verge",
+      "published_at": "2026-06-04T05:31:14-04:00",
+      "raw_content": "Amazon has announced a new version of its fully autonomous warehouse robot, Proteus, that will can interact using language instead of code. The expanded capabilities come as part of a growing pivot towards automation as the e-commerce giant replaces its human workers with robots. Amazon says the AI-powered upgrade means its human employees can assign [&#8230;]",
+      "summary": "Amazon has announced a new version of its fully autonomous warehouse robot, Proteus, that will can interact using language instead of code. The expanded capabilities come as part of a growing pivot to",
+      "importance": 1.7
     },
     {
       "title": "As AI gets better, it reveals an empty promise",
@@ -101,24 +110,6 @@
       "importance": 1.55
     },
     {
-      "title": "AI has a water problem — Google thinks it has a fix",
-      "url": "https://www.theverge.com/policy/942296/google-water-commitments-data-centers",
-      "source": "The Verge",
-      "published_at": "2026-06-03T05:00:00-04:00",
-      "raw_content": "In the face of widespread backlash to the AI data center buildout throughout the US, Google is touting its efforts to minimize the environmental impact by actually increasing water for local communities. The company laid out five commitments around water use in a new blog post published Wednesday, including a goal to replenish more water [&#8230;]",
-      "summary": "In the face of widespread backlash to the AI data center buildout throughout the US, Google is touting its efforts to minimize the environmental impact by actually increasing water for local communiti",
-      "importance": 1.55
-    },
-    {
-      "title": "Google must let publishers opt out of AI Search features, rules UK",
-      "url": "https://www.theverge.com/tech/942302/google-search-ai-overviews-uk-cma-publisher-opt-out",
-      "source": "The Verge",
-      "published_at": "2026-06-03T04:45:48-04:00",
-      "raw_content": "Online publishers are getting more control over whether their websites appear in Google's AI Search features, thanks to a UK regulatory ruling. The new conduct rule imposed by the Competition and Markets Authority (CMA) requires Google to let website owners keep their content out of features like AI Overviews and prevent it from being used [&#8230;]",
-      "summary": "Online publishers are getting more control over whether their websites appear in Google's AI Search features, thanks to a UK regulatory ruling. The new conduct rule imposed by the Competition and Mark",
-      "importance": 1.55
-    },
-    {
       "title": "Microsoft’s first advanced reasoning AI is here",
       "url": "https://www.theverge.com/tech/941664/microsoft-ai-model-reasoning-mai-thinking-1-build-2026",
       "source": "The Verge",
@@ -155,21 +146,30 @@
       "importance": 1.4
     },
     {
-      "title": "Google’s Phone app will tell you if a scammer is impersonating one of your contacts",
-      "url": "https://www.theverge.com/tech/941517/google-phone-scammer-ai-impersonation",
-      "source": "The Verge",
-      "published_at": "2026-06-02T14:00:00-04:00",
-      "raw_content": "Google is launching a new feature for its Phone app that aims to protect you from AI impersonation scams. Now, when you receive a call from a scammer that appears to be coming from the same number as one of your contacts, Phone by Google will flag the call as suspicious so you can hang [&#8230;]",
-      "summary": "Google is launching a new feature for its Phone app that aims to protect you from AI impersonation scams. Now, when you receive a call from a scammer that appears to be coming from the same number as ",
-      "importance": 1.4
-    },
-    {
       "title": "Uber caps employee AI spending after blowing through budget in 4 months",
       "url": "https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/",
       "source": "TechCrunch",
       "published_at": "Tue, 02 Jun 2026 19:11:48 +0000",
       "raw_content": "Uber's cutback has occurred after the company had reportedly encouraged staff to use AI as much as possible.",
       "summary": "Uber's cutback has occurred after the company had reportedly encouraged staff to use AI as much as possible.",
+      "importance": 1.25
+    },
+    {
+      "title": "AI has a water problem — Google thinks it has a fix",
+      "url": "https://www.theverge.com/policy/942296/google-water-commitments-data-centers",
+      "source": "The Verge",
+      "published_at": "2026-06-03T05:00:00-04:00",
+      "raw_content": "In the face of widespread backlash to the AI data center buildout throughout the US, Google is touting its efforts to minimize the environmental impact by actually increasing water for local communities. The company laid out five commitments around water use in a new blog post published Wednesday, including a goal to replenish more water [&#8230;]",
+      "summary": "In the face of widespread backlash to the AI data center buildout throughout the US, Google is touting its efforts to minimize the environmental impact by actually increasing water for local communiti",
+      "importance": 1.25
+    },
+    {
+      "title": "Google must let publishers opt out of AI Search features, rules UK",
+      "url": "https://www.theverge.com/tech/942302/google-search-ai-overviews-uk-cma-publisher-opt-out",
+      "source": "The Verge",
+      "published_at": "2026-06-03T04:45:48-04:00",
+      "raw_content": "Online publishers are getting more control over whether their websites appear in Google's AI Search features, thanks to a UK regulatory ruling. The new conduct rule imposed by the Competition and Markets Authority (CMA) requires Google to let website owners keep their content out of features like AI Overviews and prevent it from being used [&#8230;]",
+      "summary": "Online publishers are getting more control over whether their websites appear in Google's AI Search features, thanks to a UK regulatory ruling. The new conduct rule imposed by the Competition and Mark",
       "importance": 1.25
     },
     {
