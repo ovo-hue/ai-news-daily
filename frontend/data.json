@@ -1,13 +1,22 @@
 {
-  "generated_at": "2026-06-04T20:06:33.762836+00:00",
+  "generated_at": "2026-06-05T03:36:01.504702+00:00",
   "items": [
     {
-      "title": "Lovable signs multiyear deal with Google Cloud to up usage 5x, source says",
-      "url": "https://techcrunch.com/2026/06/03/lovable-signs-multi-year-deal-with-google-cloud-to-up-usage-5x-source-says/",
+      "title": "Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s returns",
+      "url": "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/",
       "source": "TechCrunch",
-      "published_at": "Wed, 03 Jun 2026 22:56:51 +0000",
-      "raw_content": "Lovable and Google signed an expanded multiyear deal that involves a 5x expansion of Lovable's footprint on Google Cloud, and expanded access to Anthropic Claude.",
-      "summary": "Lovable and Google signed an expanded multiyear deal that involves a 5x expansion of Lovable's footprint on Google Cloud, and expanded access to Anthropic Claude.",
+      "published_at": "Thu, 04 Jun 2026 22:43:26 +0000",
+      "raw_content": "Anthropic has been growing at a breakneck pace. The company announced that annualized revenue crossed $47 billion in May, up dramatically from roughly $9 billion at the end of 2025. That trajectory faces a real test, though.",
+      "summary": "Anthropic has been growing at a breakneck pace. The company announced that annualized revenue crossed $47 billion in May, up dramatically from roughly $9 billion at the end of 2025. That trajectory fa",
+      "importance": 1.9
+    },
+    {
+      "title": "Airbnb’s Brian Chesky plans to launch a new AI lab",
+      "url": "https://techcrunch.com/2026/06/04/airbnbs-brian-chesky-plans-to-launch-a-new-ai-lab/",
+      "source": "TechCrunch",
+      "published_at": "Thu, 04 Jun 2026 22:29:50 +0000",
+      "raw_content": "The Airbnb CEO said last year it hasn't struck an LLM partnership because existing products weren't quite ready.",
+      "summary": "The Airbnb CEO said last year it hasn't struck an LLM partnership because existing products weren't quite ready.",
       "importance": 1.75
     },
     {
@@ -47,21 +56,21 @@
       "importance": 1.6
     },
     {
+      "title": "Defense tech, AI, and fundraising take center stage at StrictlyVC Los Angeles on June 18",
+      "url": "https://techcrunch.com/2026/06/04/defense-tech-ai-and-fundraising-take-center-stage-at-strictlyvc-los-angeles-on-june-18/",
+      "source": "TechCrunch",
+      "published_at": "Thu, 04 Jun 2026 21:30:00 +0000",
+      "raw_content": "On Thursday, June 18, at The Aerospace Corporation Campus, investors, founders, and tech leaders will gather for an evening of conversation exploring some of the most consequential shifts taking place across venture capital, defense technology, artificial intelligence, and advanced industry. Secure your spot today.",
+      "summary": "On Thursday, June 18, at The Aerospace Corporation Campus, investors, founders, and tech leaders will gather for an evening of conversation exploring some of the most consequential shifts taking place",
+      "importance": 1.55
+    },
+    {
       "title": "Meta rolls out a new AI creator assistant on Facebook",
       "url": "https://techcrunch.com/2026/06/04/meta-rolls-out-a-new-ai-creator-assistant-on-facebook/",
       "source": "TechCrunch",
       "published_at": "Thu, 04 Jun 2026 16:32:48 +0000",
       "raw_content": "Creators often have to parse through charts and dashboards to understand their performance, but with the new AI assistant, they can get quick answers to questions like \"When should I post?\" and \"What are people saying in my comments?\"",
       "summary": "Creators often have to parse through charts and dashboards to understand their performance, but with the new AI assistant, they can get quick answers to questions like \"When should I post?\" and \"What ",
-      "importance": 1.55
-    },
-    {
-      "title": "Alphabet’s record-breaking $85B raise for Google’s AI business is a helluva good signal",
-      "url": "https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/",
-      "source": "TechCrunch",
-      "published_at": "Wed, 03 Jun 2026 19:38:32 +0000",
-      "raw_content": "If Alphabet's record-breaking $85 billion stock sale signals investor appetite for AI-related offerings, we can see that investors are ready to chow.",
-      "summary": "If Alphabet's record-breaking $85 billion stock sale signals investor appetite for AI-related offerings, we can see that investors are ready to chow.",
       "importance": 1.55
     },
     {
@@ -105,8 +114,8 @@
       "url": "https://techcrunch.com/2026/06/04/meta-steals-a-tactic-from-tesla-and-builds-data-centers-in-tents/",
       "source": "TechCrunch",
       "published_at": "Thu, 04 Jun 2026 19:33:09 +0000",
-      "raw_content": "Meta may have one found one way to slash its massive data center bill: tents.",
-      "summary": "Meta may have one found one way to slash its massive data center bill: tents.",
+      "raw_content": "Meta may have found one way to slash its massive data center bill: tents.",
+      "summary": "Meta may have found one way to slash its massive data center bill: tents.",
       "importance": 1.5
     },
     {
@@ -137,6 +146,15 @@
       "importance": 1.5
     },
     {
+      "title": "Lovable signs multiyear deal with Google Cloud to up usage 5x, source says",
+      "url": "https://techcrunch.com/2026/06/03/lovable-signs-multi-year-deal-with-google-cloud-to-up-usage-5x-source-says/",
+      "source": "TechCrunch",
+      "published_at": "Wed, 03 Jun 2026 22:56:51 +0000",
+      "raw_content": "Lovable and Google signed an expanded multiyear deal that involves a 5x expansion of Lovable's footprint on Google Cloud, and expanded access to Anthropic Claude.",
+      "summary": "Lovable and Google signed an expanded multiyear deal that involves a 5x expansion of Lovable's footprint on Google Cloud, and expanded access to Anthropic Claude.",
+      "importance": 1.45
+    },
+    {
       "title": "As AI gets better, it reveals an empty promise",
       "url": "https://www.theverge.com/ai-artificial-intelligence/942629/as-ai-gets-better-it-reveals-an-empty-promise",
       "source": "The Verge",
@@ -144,24 +162,6 @@
       "raw_content": "This week we've got tandem hands-ons with Google's new Gemini AI agent - Spark - from my colleagues David Pierce and Jay Peters. Their takeaways are similar: It's so effective that it's scary. Spark knew that David's dog is named Frida and knew the first name of Jay's wife, even though neither of them explicitly [&#8230;]",
       "summary": "This week we've got tandem hands-ons with Google's new Gemini AI agent - Spark - from my colleagues David Pierce and Jay Peters. Their takeaways are similar: It's so effective that it's scary. Spark k",
       "importance": 1.35
-    },
-    {
-      "title": "Google’s Dreambeans, its weirdest-named AI tool to date, will turn your life into a cartoon",
-      "url": "https://techcrunch.com/2026/06/03/googles-dreambeans-its-weirdest-named-ai-tool-to-date-will-turn-your-life-into-a-cartoon/",
-      "source": "TechCrunch",
-      "published_at": "Wed, 03 Jun 2026 19:07:42 +0000",
-      "raw_content": "Dreambeans is a curated list of AI-illustrated \"stories\" culled from the personal data in your Google account.",
-      "summary": "Dreambeans is a curated list of AI-illustrated \"stories\" culled from the personal data in your Google account.",
-      "importance": 1.25
-    },
-    {
-      "title": "Amazon will show AI product images when you search for some reason",
-      "url": "https://techcrunch.com/2026/06/03/amazon-will-show-ai-product-images-when-you-search-for-some-reason/",
-      "source": "TechCrunch",
-      "published_at": "Wed, 03 Jun 2026 15:50:26 +0000",
-      "raw_content": "Amazon will use visual search and AI to show AI-generated product images that match your search queries. The retailer says it will help guide users to products.",
-      "summary": "Amazon will use visual search and AI to show AI-generated product images that match your search queries. The retailer says it will help guide users to products.",
-      "importance": 1.25
     },
     {
       "title": "Amazon&#8217;s search bar will invent AI-generated products you can&#8217;t buy",
