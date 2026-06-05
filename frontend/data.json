@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-05T14:47:25.299222+00:00",
+  "generated_at": "2026-06-05T19:52:21.738007+00:00",
   "items": [
     {
       "title": "Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s returns",
@@ -20,22 +20,40 @@
       "importance": 1.75
     },
     {
-      "title": "Is Silicon Valley ready to put robots in people’s homes? Hello Robot is.",
-      "url": "https://techcrunch.com/2026/06/04/is-silicon-valley-ready-to-put-robots-in-peoples-homes-hello-robot-is/",
+      "title": "The most interesting startups right now want to get you off your phone",
+      "url": "https://techcrunch.com/video/the-most-interesting-startups-right-now-want-to-get-you-off-your-phone/",
       "source": "TechCrunch",
-      "published_at": "Thu, 04 Jun 2026 15:05:00 +0000",
-      "raw_content": "The California startup released the fourth-generation of its home assistance robot, Stretch.",
-      "summary": "The California startup released the fourth-generation of its home assistance robot, Stretch.",
+      "published_at": "Fri, 05 Jun 2026 17:17:06 +0000",
+      "raw_content": "While the AI fundraising machine&#160;keeps breaking its own records, some founders are building in the other direction.&#160; Mirror founder Brynn Putnam just raised money for&#160;Board, a startup focused on bringing people together through in-person games and social experiences.&#160;Cyberdeck creators are going viral&#160;crafting whimsical DIY computers that&#160;literally encourage&#160;users to touch grass. Unlike the&#160;AI-free browser crowd, this&#160;doesn&#8217;t&#160;just&#160;feel&#160;like&#160;backlash, [&#8230;]",
+      "summary": "While the AI fundraising machine&#160;keeps breaking its own records, some founders are building in the other direction.&#160; Mirror founder Brynn Putnam just raised money for&#160;Board, a startup f",
+      "importance": 1.7
+    },
+    {
+      "title": "The ‘together tech’ wave might be the most intriguing startup bet of 2026",
+      "url": "https://techcrunch.com/podcast/the-together-tech-wave-might-be-the-most-intriguing-startup-bet-of-2026/",
+      "source": "TechCrunch",
+      "published_at": "Fri, 05 Jun 2026 14:00:00 +0000",
+      "raw_content": "While the AI fundraising machine&#160;keeps breaking its own records, some founders are building in the other direction.&#160; Mirror founder Brynn Putnam just raised money for&#160;Board, a startup focused on bringing people together through in-person games and social experiences.&#160;Cyberdeck creators are going viral&#160;crafting whimsical DIY computers that&#160;literally encourage&#160;users to touch grass. Unlike the&#160;AI-free browser crowd, this&#160;doesn&#8217;t&#160;just&#160;feel&#160;like&#160;backlash, [&#8230;]",
+      "summary": "While the AI fundraising machine&#160;keeps breaking its own records, some founders are building in the other direction.&#160; Mirror founder Brynn Putnam just raised money for&#160;Board, a startup f",
+      "importance": 1.7
+    },
+    {
+      "title": "Google will pay SpaceX $920M per month for compute",
+      "url": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
+      "source": "TechCrunch",
+      "published_at": "Fri, 05 Jun 2026 18:57:20 +0000",
+      "raw_content": "The companies announced the deal on Friday, just one week ahead of SpaceX's historic IPO.",
+      "summary": "The companies announced the deal on Friday, just one week ahead of SpaceX's historic IPO.",
       "importance": 1.65
     },
     {
-      "title": "Apple approves Poke as the first AI agent on its Messages for Business platform",
-      "url": "https://techcrunch.com/2026/06/04/apple-approves-poke-as-the-first-ai-agent-on-its-messages-for-business-platform/",
+      "title": "The token bill comes due: Inside the industry scramble to manage AI’s runaway costs",
+      "url": "https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/",
       "source": "TechCrunch",
-      "published_at": "Thu, 04 Jun 2026 19:20:58 +0000",
-      "raw_content": "Poke, the startup that lets people use AI agents through simple text messages, has become the first AI agent approved for Apple’s Messages for Business platform.",
-      "summary": "Poke, the startup that lets people use AI agents through simple text messages, has become the first AI agent approved for Apple’s Messages for Business platform.",
-      "importance": 1.6
+      "published_at": "Fri, 05 Jun 2026 14:49:12 +0000",
+      "raw_content": "\"The whole conversation shifted from tokenmaxxing and 'go fast' to 'we need guardrails, how do we control this?'\"",
+      "summary": "\"The whole conversation shifted from tokenmaxxing and 'go fast' to 'we need guardrails, how do we control this?'\"",
+      "importance": 1.55
     },
     {
       "title": "AirTrunk commits $30B to build 5GW of AI data centers in India",
@@ -65,12 +83,12 @@
       "importance": 1.55
     },
     {
-      "title": "Meta rolls out a new AI creator assistant on Facebook",
-      "url": "https://techcrunch.com/2026/06/04/meta-rolls-out-a-new-ai-creator-assistant-on-facebook/",
-      "source": "TechCrunch",
-      "published_at": "Thu, 04 Jun 2026 16:32:48 +0000",
-      "raw_content": "Creators often have to parse through charts and dashboards to understand their performance, but with the new AI assistant, they can get quick answers to questions like \"When should I post?\" and \"What are people saying in my comments?\"",
-      "summary": "Creators often have to parse through charts and dashboards to understand their performance, but with the new AI assistant, they can get quick answers to questions like \"When should I post?\" and \"What ",
+      "title": "This is your laptop… on AI",
+      "url": "https://www.theverge.com/podcast/944058/ai-laptop-nvidia-build-gemini-spark-vergecast",
+      "source": "The Verge",
+      "published_at": "2026-06-05T12:39:07-04:00",
+      "raw_content": "We're now deep into developer conference season, and one of the themes so far is the relentless conviction from Big Tech companies that AI is going to change everything about how we do everything. Nvidia's Jensen Huang made that clearer than anyone this week, when he described a completely new way of using our laptops [&#8230;]",
+      "summary": "We're now deep into developer conference season, and one of the themes so far is the relentless conviction from Big Tech companies that AI is going to change everything about how we do everything. Nvi",
       "importance": 1.55
     },
     {
@@ -83,39 +101,12 @@
       "importance": 1.55
     },
     {
-      "title": "Meta steals a tactic from Tesla and builds data centers in tents",
-      "url": "https://techcrunch.com/2026/06/04/meta-steals-a-tactic-from-tesla-and-builds-data-centers-in-tents/",
-      "source": "TechCrunch",
-      "published_at": "Thu, 04 Jun 2026 19:33:09 +0000",
-      "raw_content": "Meta may have found one way to slash its massive data center bill: tents.",
-      "summary": "Meta may have found one way to slash its massive data center bill: tents.",
-      "importance": 1.5
-    },
-    {
-      "title": "What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates",
-      "url": "https://techcrunch.com/2026/06/04/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
-      "source": "TechCrunch",
-      "published_at": "Thu, 04 Jun 2026 16:31:12 +0000",
-      "raw_content": "Apple's WWDC nears: Here's what you can look forward to.",
-      "summary": "Apple's WWDC nears: Here's what you can look forward to.",
-      "importance": 1.5
-    },
-    {
-      "title": "Kevin O’Leary agrees to downsize massive Utah data center",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/943234/kevin-oleary-agrees-to-downsize-massive-utah-data-center",
+      "title": "New York lawmakers pass one-year ban on new data centers",
+      "url": "https://www.theverge.com/policy/944041/new-york-data-center-moratorium",
       "source": "The Verge",
-      "published_at": "2026-06-04T14:38:04-04:00",
-      "raw_content": "Kevin O'Leary agreed to halve the size of his planned 40,000-acre data center in Utah amid mounting pressure from residents and activists, as reported earlier by local affiliate ABC4. The Shark Tank star sent a letter to Utah Senate President J. Stuart Adams on Thursday, saying that he will remove 19,430 acres from the project, [&#8230;]",
-      "summary": "Kevin O'Leary agreed to halve the size of his planned 40,000-acre data center in Utah amid mounting pressure from residents and activists, as reported earlier by local affiliate ABC4. The Shark Tank s",
-      "importance": 1.5
-    },
-    {
-      "title": "Microsoft and OpenAI broke up — now they’re ready to fight",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/942242/microsoft-build-ai-agents-openai-competition",
-      "source": "The Verge",
-      "published_at": "2026-06-03T10:04:00-04:00",
-      "raw_content": "At Microsoft's annual Build conference on Tuesday, the company announced a slew of new or expanded AI initiatives, including a super app, in-house reasoning models, a cybersecurity tool, and OpenClaw-esque AI agents. All this news added up to a clear message: Microsoft is positioned to be one of the biggest players in AI, and it's [&#8230;]",
-      "summary": "At Microsoft's annual Build conference on Tuesday, the company announced a slew of new or expanded AI initiatives, including a super app, in-house reasoning models, a cybersecurity tool, and OpenClaw-",
+      "published_at": "2026-06-05T11:25:10-04:00",
+      "raw_content": "The New York State legislature passed a one-year moratorium on new large data centers, the first statewide ban of its kind if Democratic Governor Kathy Hochul signs it into law. Lawmakers behind the bill say it's meant to give policymakers time to understand the impact of large data centers on the environment and energy prices. [&#8230;]",
+      "summary": "The New York State legislature passed a one-year moratorium on new large data centers, the first statewide ban of its kind if Democratic Governor Kathy Hochul signs it into law. Lawmakers behind the b",
       "importance": 1.5
     },
     {
@@ -173,13 +164,22 @@
       "importance": 1.25
     },
     {
-      "title": "Amazon&#8217;s search bar will invent AI-generated products you can&#8217;t buy",
-      "url": "https://www.theverge.com/tech/942547/amazon-search-bar-ai-images",
+      "title": "Meta steals a tactic from Tesla and builds data centers in tents",
+      "url": "https://techcrunch.com/2026/06/04/meta-steals-a-tactic-from-tesla-and-builds-data-centers-in-tents/",
+      "source": "TechCrunch",
+      "published_at": "Thu, 04 Jun 2026 19:33:09 +0000",
+      "raw_content": "Meta may have found one way to slash its massive data center bill: tents.",
+      "summary": "Meta may have found one way to slash its massive data center bill: tents.",
+      "importance": 1.2
+    },
+    {
+      "title": "Kevin O’Leary agrees to downsize massive Utah data center",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/943234/kevin-oleary-agrees-to-downsize-massive-utah-data-center",
       "source": "The Verge",
-      "published_at": "2026-06-03T12:07:31-04:00",
-      "raw_content": "Amazon's updated search bar will now show you AI-generated images of products as you describe them. For now, the in-app feature only surfaces AI images of clothing and home goods, allowing you to tap on the image that best matches what you're looking for and search for similar-looking items. In a blog post, Amazon positions [&#8230;]",
-      "summary": "Amazon's updated search bar will now show you AI-generated images of products as you describe them. For now, the in-app feature only surfaces AI images of clothing and home goods, allowing you to tap ",
-      "importance": 1.25
+      "published_at": "2026-06-04T14:38:04-04:00",
+      "raw_content": "Kevin O'Leary agreed to halve the size of his planned 40,000-acre data center in Utah amid mounting pressure from residents and activists, as reported earlier by local affiliate ABC4. The Shark Tank star sent a letter to Utah Senate President J. Stuart Adams on Thursday, saying that he will remove 19,430 acres from the project, [&#8230;]",
+      "summary": "Kevin O'Leary agreed to halve the size of his planned 40,000-acre data center in Utah amid mounting pressure from residents and activists, as reported earlier by local affiliate ABC4. The Shark Tank s",
+      "importance": 1.2
     }
   ]
 }
