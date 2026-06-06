@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-06T02:57:00.125515+00:00",
+  "generated_at": "2026-06-06T08:31:23.447778+00:00",
   "items": [
     {
       "title": "Google will pay SpaceX $920M per month for compute",
@@ -65,15 +65,6 @@
       "importance": 1.55
     },
     {
-      "title": "Mira Murati steps back into the spotlight, carefully",
-      "url": "https://techcrunch.com/2026/06/04/mira-murati-steps-back-into-the-spotlight-carefully/",
-      "source": "TechCrunch",
-      "published_at": "Fri, 05 Jun 2026 05:06:37 +0000",
-      "raw_content": "In the current environment, remaining heads down has diminishing returns; at some point, you have to make some noise just to remind the market you exist.",
-      "summary": "In the current environment, remaining heads down has diminishing returns; at some point, you have to make some noise just to remind the market you exist.",
-      "importance": 1.55
-    },
-    {
       "title": "This is your laptop… on AI",
       "url": "https://www.theverge.com/podcast/944058/ai-laptop-nvidia-build-gemini-spark-vergecast",
       "source": "The Verge",
@@ -126,6 +117,15 @@
       "raw_content": "This week we've got tandem hands-ons with Google's new Gemini AI agent - Spark - from my colleagues David Pierce and Jay Peters. Their takeaways are similar: It's so effective that it's scary. Spark knew that David's dog is named Frida and knew the first name of Jay's wife, even though neither of them explicitly [&#8230;]",
       "summary": "This week we've got tandem hands-ons with Google's new Gemini AI agent - Spark - from my colleagues David Pierce and Jay Peters. Their takeaways are similar: It's so effective that it's scary. Spark k",
       "importance": 1.35
+    },
+    {
+      "title": "Mira Murati steps back into the spotlight, carefully",
+      "url": "https://techcrunch.com/2026/06/04/mira-murati-steps-back-into-the-spotlight-carefully/",
+      "source": "TechCrunch",
+      "published_at": "Fri, 05 Jun 2026 05:06:37 +0000",
+      "raw_content": "In the current environment, remaining heads down has diminishing returns; at some point, you have to make some noise just to remind the market you exist.",
+      "summary": "In the current environment, remaining heads down has diminishing returns; at some point, you have to make some noise just to remind the market you exist.",
+      "importance": 1.25
     },
     {
       "title": "Defense tech, AI, and fundraising take center stage at StrictlyVC Los Angeles on June 18",
