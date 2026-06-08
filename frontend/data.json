@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08T10:50:13.441603+00:00",
+  "generated_at": "2026-06-08T15:48:02.092972+00:00",
   "items": [
     {
       "title": "Notion restores access to Anthropic after service disruption",
@@ -29,13 +29,31 @@
       "importance": 1.55
     },
     {
-      "title": "AI ‘content creators’ are getting harder to spot",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/943187/ai-content-creators",
+      "title": "Microsoft’s AI chief says superintelligence is near, but won’t take your job",
+      "url": "https://www.theverge.com/podcast/944138/microsoft-ai-ceo-mustafa-suleyman-superintelligence-agi-openai-automation",
       "source": "The Verge",
-      "published_at": "2026-06-07T08:00:00-04:00",
-      "raw_content": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI confusion, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started At first, AI influencers were relatively easy to identify - and to [&#8230;]",
-      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI confusion, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM E",
+      "published_at": "2026-06-08T10:00:00-04:00",
+      "raw_content": "Today I’m talking with Mustafa Suleyman, the CEO of Microsoft AI. And I’m actually going to keep today’s intro short — I’m working from my wife’s family farm this week, as you’ll see in the video, but also this is a real burner of an episode. We covered everything from Mustafa’s approach to training new [&#8230;]",
+      "summary": "Today I’m talking with Mustafa Suleyman, the CEO of Microsoft AI. And I’m actually going to keep today’s intro short — I’m working from my wife’s family farm this week, as you’ll see in the video, but",
       "importance": 1.55
+    },
+    {
+      "title": "WWDC 2026: What to expect, from Siri’s highly anticipated revamp to Apple Intelligence and iOS 27",
+      "url": "https://techcrunch.com/2026/06/08/wwdc-2026-what-to-expect-from-siris-highly-anticipated-revamp-to-apple-intelligence-and-ios-27/",
+      "source": "TechCrunch",
+      "published_at": "Mon, 08 Jun 2026 15:34:59 +0000",
+      "raw_content": "Apple's WWDC nears: Here's what you can look forward to.",
+      "summary": "Apple's WWDC nears: Here's what you can look forward to.",
+      "importance": 1.5
+    },
+    {
+      "title": "WWDC 2026: How to watch and what to expect",
+      "url": "https://www.theverge.com/tech/944099/wwdc-2026-how-to-watch",
+      "source": "The Verge",
+      "published_at": "2026-06-08T07:00:00-04:00",
+      "raw_content": "Apple's biggest event of the year is nearly here. The company's Worldwide Developers Conference will spotlight updates to iOS, macOS, and all of Apple's other operating systems, and this year's event could also include a major overhaul for Siri. Here's how you can watch along live. When WWDC will happen and where you can watch [&#8230;]",
+      "summary": "Apple's biggest event of the year is nearly here. The company's Worldwide Developers Conference will spotlight updates to iOS, macOS, and all of Apple's other operating systems, and this year's event ",
+      "importance": 1.5
     },
     {
       "title": "Google will pay SpaceX $920M per month for compute",
@@ -101,6 +119,15 @@
       "importance": 1.25
     },
     {
+      "title": "AI ‘content creators’ are getting harder to spot",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/943187/ai-content-creators",
+      "source": "The Verge",
+      "published_at": "2026-06-07T08:00:00-04:00",
+      "raw_content": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI confusion, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started At first, AI influencers were relatively easy to identify - and to [&#8230;]",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI confusion, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM E",
+      "importance": 1.25
+    },
+    {
       "title": "Meta made its own AI-generated clickbait news feed",
       "url": "https://www.theverge.com/ai-artificial-intelligence/944235/meta-app-ai-clickbait-articles",
       "source": "The Verge",
@@ -134,16 +161,7 @@
       "published_at": "2026-06-05T09:57:31-04:00",
       "raw_content": "When Quilty hit the industry trades earlier this year, the AI startup promised that its tool could accurately predict a film's success just by reading the script. When people actually got a chance to experiment with Quilty's product, though, they were left skeptical. Even with all the available data in the world, it predicted the [&#8230;]",
       "summary": "When Quilty hit the industry trades earlier this year, the AI startup promised that its tool could accurately predict a film's success just by reading the script. When people actually got a chance to ",
-      "importance": 1.25
-    },
-    {
-      "title": "What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates",
-      "url": "https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
-      "source": "TechCrunch",
-      "published_at": "Sat, 06 Jun 2026 18:13:36 +0000",
-      "raw_content": "Apple's WWDC nears: Here's what you can look forward to.",
-      "summary": "Apple's WWDC nears: Here's what you can look forward to.",
-      "importance": 1.2
+      "importance": 1.05
     },
     {
       "title": "New York lawmakers pass one-year ban on new data centers",
@@ -152,25 +170,7 @@
       "published_at": "2026-06-05T11:25:10-04:00",
       "raw_content": "The New York State legislature passed a one-year moratorium on new large data centers, the first statewide ban of its kind if Democratic Governor Kathy Hochul signs it into law. Lawmakers behind the bill say it's meant to give policymakers time to understand the impact of large data centers on the environment and energy prices. [&#8230;]",
       "summary": "The New York State legislature passed a one-year moratorium on new large data centers, the first statewide ban of its kind if Democratic Governor Kathy Hochul signs it into law. Lawmakers behind the b",
-      "importance": 1.2
-    },
-    {
-      "title": "TSMC struggles to keep up with AI demand: &#8216;We can only support so much&#8217;",
-      "url": "https://www.theverge.com/tech/943066/tsmc-ai-demand-struggles",
-      "source": "The Verge",
-      "published_at": "2026-06-04T10:15:44-04:00",
-      "raw_content": "Taiwan Semiconductor Manufacturing Co. - the world's biggest semiconductor-maker - is struggling to meet demands from American customers even with its factory buildout in the US, according to reports from Reuters and Bloomberg. \"Customer demand is so high, and we can only support so much,\" TSMC CEO C.C. Wei said after a shareholder meeting on [&#8230;]",
-      "summary": "Taiwan Semiconductor Manufacturing Co. - the world's biggest semiconductor-maker - is struggling to meet demands from American customers even with its factory buildout in the US, according to reports ",
-      "importance": 1.05
-    },
-    {
-      "title": "Elon Musk is steamrolling Wall Street to become a trillionaire",
-      "url": "https://www.theverge.com/podcast/942586/elon-musk-spacex-ipo-x-xai-index-funds",
-      "source": "The Verge",
-      "published_at": "2026-06-04T10:00:00-04:00",
-      "raw_content": "Today on Decoder, I’m talking to Ryan Mac, a technology reporter at The New York Times and coauthor of the excellent book Character Limit: How Elon Musk Destroyed Twitter, which came out in 2024. I can’t recommend it enough.  I wanted to have Ryan on the show because we’re on the cusp of the SpaceX [&#8230;]",
-      "summary": "Today on Decoder, I’m talking to Ryan Mac, a technology reporter at The New York Times and coauthor of the excellent book Character Limit: How Elon Musk Destroyed Twitter, which came out in 2024. I ca",
-      "importance": 1.05
+      "importance": 1.0
     },
     {
       "title": "Kevin O’Leary agrees to downsize massive Utah data center",
