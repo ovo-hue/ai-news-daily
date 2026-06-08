@@ -1,15 +1,6 @@
 {
-  "generated_at": "2026-06-07T19:20:12.806566+00:00",
+  "generated_at": "2026-06-08T03:51:50.287257+00:00",
   "items": [
-    {
-      "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
-      "url": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
-      "source": "TechCrunch",
-      "published_at": "Sat, 06 Jun 2026 20:32:24 +0000",
-      "raw_content": "Even with Lockdown Mode, ChatGPT could be still vulnerable to prompt injections, but the goal is to reduce the likelihood that sensitive data gets shared in the process.",
-      "summary": "Even with Lockdown Mode, ChatGPT could be still vulnerable to prompt injections, but the goal is to reduce the likelihood that sensitive data gets shared in the process.",
-      "importance": 1.65
-    },
     {
       "title": "Notion restores access to Anthropic after service disruption",
       "url": "https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/",
@@ -27,6 +18,15 @@
       "raw_content": "\"Chat is dead\" — at least, according to a senior OpenAI employee.",
       "summary": "\"Chat is dead\" — at least, according to a senior OpenAI employee.",
       "importance": 1.6
+    },
+    {
+      "title": "Is this the dawn of the Tokenpocalypse?",
+      "url": "https://techcrunch.com/2026/06/07/is-this-the-dawn-of-the-tokenpocalypse/",
+      "source": "TechCrunch",
+      "published_at": "Sun, 07 Jun 2026 20:26:13 +0000",
+      "raw_content": "We're likely to see more price increases as the big AI companies plan to go public.",
+      "summary": "We're likely to see more price increases as the big AI companies plan to go public.",
+      "importance": 1.55
     },
     {
       "title": "AI ‘content creators’ are getting harder to spot",
@@ -54,6 +54,15 @@
       "raw_content": "While the AI fundraising machine&#160;keeps breaking its own records, some founders are building in the other direction.&#160; Mirror founder Brynn Putnam just raised money for&#160;Board, a startup focused on bringing people together through in-person games and social experiences.&#160;Cyberdeck creators are going viral&#160;crafting whimsical DIY computers that&#160;literally encourage&#160;users to touch grass. Unlike the&#160;AI-free browser crowd, this&#160;doesn&#8217;t&#160;just&#160;feel&#160;like&#160;backlash, [&#8230;]",
       "summary": "While the AI fundraising machine&#160;keeps breaking its own records, some founders are building in the other direction.&#160; Mirror founder Brynn Putnam just raised money for&#160;Board, a startup f",
       "importance": 1.4
+    },
+    {
+      "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
+      "url": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
+      "source": "TechCrunch",
+      "published_at": "Sat, 06 Jun 2026 20:32:24 +0000",
+      "raw_content": "Even with Lockdown Mode, ChatGPT could be still vulnerable to prompt injections, but the goal is to reduce the likelihood that sensitive data gets shared in the process.",
+      "summary": "Even with Lockdown Mode, ChatGPT could be still vulnerable to prompt injections, but the goal is to reduce the likelihood that sensitive data gets shared in the process.",
+      "importance": 1.35
     },
     {
       "title": "The mayor of Shelbyville, Indiana, says only people who live in ‘shitty houses’ oppose data center",
@@ -89,15 +98,6 @@
       "published_at": "Fri, 05 Jun 2026 20:00:00 +0000",
       "raw_content": "Applications for Startup Battlefield 200 officially close on June 8, 11:59 p.m. PT. Don't wait any longer. Secure your shot at competing on the Disrupt Stage at TechCrunch Disrupt 2026 this October at San Francisco's Moscone West.",
       "summary": "Applications for Startup Battlefield 200 officially close on June 8, 11:59 p.m. PT. Don't wait any longer. Secure your shot at competing on the Disrupt Stage at TechCrunch Disrupt 2026 this October at",
-      "importance": 1.25
-    },
-    {
-      "title": "The token bill comes due: Inside the industry scramble to manage AI’s runaway costs",
-      "url": "https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/",
-      "source": "TechCrunch",
-      "published_at": "Fri, 05 Jun 2026 14:49:12 +0000",
-      "raw_content": "\"The whole conversation shifted from tokenmaxxing and 'go fast' to 'we need guardrails, how do we control this?'\"",
-      "summary": "\"The whole conversation shifted from tokenmaxxing and 'go fast' to 'we need guardrails, how do we control this?'\"",
       "importance": 1.25
     },
     {
