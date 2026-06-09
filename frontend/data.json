@@ -1,14 +1,104 @@
 {
-  "generated_at": "2026-06-08T20:12:19.519828+00:00",
+  "generated_at": "2026-06-09T02:56:10.679822+00:00",
   "items": [
+    {
+      "title": "OpenAI files for IPO, following Anthropic",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/946335/openai-ipo-s-1-confidential",
+      "source": "The Verge",
+      "published_at": "2026-06-08T17:38:29-04:00",
+      "raw_content": "OpenAI on Monday checked off a preliminary step in the IPO race that it and rival Anthropic have been competing in for the better part of a year: The company announced it has confidentially submitted a Form S-1 with the US Securities and Exchange Commission, following Anthropic's decision to do the same on June 1st. [&#8230;]",
+      "summary": "OpenAI on Monday checked off a preliminary step in the IPO race that it and rival Anthropic have been competing in for the better part of a year: The company announced it has confidentially submitted ",
+      "importance": 1.8
+    },
+    {
+      "title": "NotebookLM&#8217;s Gemini 3.5 upgrade adds a cloud computer and help finding sources",
+      "url": "https://www.theverge.com/tech/944325/google-notebooklm-ai-gemini-update",
+      "source": "The Verge",
+      "published_at": "2026-06-08T12:00:00-04:00",
+      "raw_content": "Google is rolling out \"across the board\" updates to NotebookLM. The AI-powered note-taking app now uses Google's upgraded Gemini 3.5 model, which will allow it to respond with \"more accurate and reliable information,\" according to a blog post on Monday. Launched in 2023, NotebookLM allows you to interact with your notes and sources using AI, [&#8230;]",
+      "summary": "Google is rolling out \"across the board\" updates to NotebookLM. The AI-powered note-taking app now uses Google's upgraded Gemini 3.5 model, which will allow it to respond with \"more accurate and relia",
+      "importance": 1.75
+    },
     {
       "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence and more",
       "url": "https://techcrunch.com/2026/06/08/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
       "source": "TechCrunch",
       "published_at": "Mon, 08 Jun 2026 19:41:32 +0000",
-      "raw_content": "Apple&#8217;s WWDC 2026 event kicked off this morning at 10 a.m. PT at Apple Park, starting a week full of expected announcements around Siri, iOS 27, Apple Intelligence and more, along with developer events and demos. This year&#8217;s event is particularly notable for a couple things. It marks CEO Tim Cook&#8217;s last with the company, [&#8230;]",
-      "summary": "Apple&#8217;s WWDC 2026 event kicked off this morning at 10 a.m. PT at Apple Park, starting a week full of expected announcements around Siri, iOS 27, Apple Intelligence and more, along with developer",
+      "raw_content": "Apple primarily made the case for an improved experience with its longstanding Siri assistant, which like most other announcements had a hefty helping of AI.",
+      "summary": "Apple primarily made the case for an improved experience with its longstanding Siri assistant, which like most other announcements had a hefty helping of AI.",
       "importance": 1.7
+    },
+    {
+      "title": "Amazon is launching AI-generated custom merch",
+      "url": "https://www.theverge.com/news/945905/amazon-alexa-shopping-ai-generated-custom-merch-design-printing",
+      "source": "The Verge",
+      "published_at": "2026-06-08T13:52:51-04:00",
+      "raw_content": "Amazon is expanding its print-on-demand features to AI-generated designs created using Alexa for Shopping for products like T-shirts, water bottles, and hoodies. Shoppers can use text prompts to generate images that are then printed onto blanks for sale on Amazon. They can then share the link to the design so other people can buy the [&#8230;]",
+      "summary": "Amazon is expanding its print-on-demand features to AI-generated designs created using Alexa for Shopping for products like T-shirts, water bottles, and hoodies. Shoppers can use text prompts to gener",
+      "importance": 1.7
+    },
+    {
+      "title": "Apple announces Siri AI and its next generation of Apple Intelligence",
+      "url": "https://www.theverge.com/tech/942416/apple-siri-ai-update-wwdc",
+      "source": "The Verge",
+      "published_at": "2026-06-08T13:34:24-04:00",
+      "raw_content": "Two years after first revealing its plans for Apple Intelligence and a smarter Siri that never fully materialized, at WWDC, Apple just revealed a new set of AI features and a smarter, more personalized Siri. Apple calls Siri AI an \"entirely new version of Siri\" and says it's both more conversational and more capable than [&#8230;]",
+      "summary": "Two years after first revealing its plans for Apple Intelligence and a smarter Siri that never fully materialized, at WWDC, Apple just revealed a new set of AI features and a smarter, more personalize",
+      "importance": 1.7
+    },
+    {
+      "title": "OpenAI files confidentially for IPO, following Anthropic",
+      "url": "https://techcrunch.com/2026/06/08/following-anthropic-openai-files-confidentially-for-ipo/",
+      "source": "TechCrunch",
+      "published_at": "Mon, 08 Jun 2026 21:29:57 +0000",
+      "raw_content": "The filing comes a little more than a week after its main rival, Anthropic, also filed to go public, ramping up the race between the two AI firms.",
+      "summary": "The filing comes a little more than a week after its main rival, Anthropic, also filed to go public, ramping up the race between the two AI firms.",
+      "importance": 1.65
+    },
+    {
+      "title": "As OpenAI files for IPO, Sam Altman’s eye-scanning company is doing layoffs, report says",
+      "url": "https://techcrunch.com/2026/06/08/as-openai-files-for-ipo-sam-altmans-eye-scanning-company-is-doing-layoffs-report-says/",
+      "source": "TechCrunch",
+      "published_at": "Mon, 08 Jun 2026 22:41:45 +0000",
+      "raw_content": "Tools for Humanity, Sam Altman's identity verification company, is reportedly struggling to generate revenue and will downsize its staff.",
+      "summary": "Tools for Humanity, Sam Altman's identity verification company, is reportedly struggling to generate revenue and will downsize its staff.",
+      "importance": 1.6
+    },
+    {
+      "title": "Why Apple’s slow-and-steady AI bet is starting to look pretty smart",
+      "url": "https://techcrunch.com/2026/06/08/why-apples-slow-and-steady-ai-bet-is-starting-to-look-pretty-smart/",
+      "source": "TechCrunch",
+      "published_at": "Tue, 09 Jun 2026 01:56:48 +0000",
+      "raw_content": "Can Apple's new AI glow up put to bed accusations that it's losing an all-important industry race?",
+      "summary": "Can Apple's new AI glow up put to bed accusations that it's losing an all-important industry race?",
+      "importance": 1.55
+    },
+    {
+      "title": "Apple’s WWDC AI demos looked more real after $250M false ad settlement",
+      "url": "https://techcrunch.com/2026/06/08/apples-wwdc-ai-demos-looked-more-real-after-250m-false-ad-settlement/",
+      "source": "TechCrunch",
+      "published_at": "Mon, 08 Jun 2026 22:39:57 +0000",
+      "raw_content": "The vibe of Apple's 2026 WWDC keynote felt like a spouse proudly listing all the honey-do-list items tackled. One subtle example: the many AI demos of someone standing, phone in hand.",
+      "summary": "The vibe of Apple's 2026 WWDC keynote felt like a spouse proudly listing all the honey-do-list items tackled. One subtle example: the many AI demos of someone standing, phone in hand.",
+      "importance": 1.55
+    },
+    {
+      "title": "Apple plays catch-up at WWDC",
+      "url": "https://techcrunch.com/2026/06/08/apple-plays-catch-up-at-wwdc/",
+      "source": "TechCrunch",
+      "published_at": "Mon, 08 Jun 2026 21:15:42 +0000",
+      "raw_content": "Apple spent much of its WWDC keynote highlighting fixes, performance improvements, and long-requested features before unveiling its upgraded AI-powered Siri, signaling that the company wants users to see AI as just one part of a broader effort to improve its software.",
+      "summary": "Apple spent much of its WWDC keynote highlighting fixes, performance improvements, and long-requested features before unveiling its upgraded AI-powered Siri, signaling that the company wants users to ",
+      "importance": 1.55
+    },
+    {
+      "title": "Apple bets cheaper AI will woo small developers",
+      "url": "https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers/",
+      "source": "TechCrunch",
+      "published_at": "Mon, 08 Jun 2026 20:53:55 +0000",
+      "raw_content": "As AI experimentation grows more expensive, Apple is waiving cloud API costs for developers with fewer than 2 million first-time App Store downloads.",
+      "summary": "As AI experimentation grows more expensive, Apple is waiving cloud API costs for developers with fewer than 2 million first-time App Store downloads.",
+      "importance": 1.55
     },
     {
       "title": "Apple just taught your iPhone to finish your sentences, your photos, and your workflows",
@@ -29,48 +119,12 @@
       "importance": 1.55
     },
     {
-      "title": "Apple’s Image Playground doesn’t suck anymore",
-      "url": "https://techcrunch.com/2026/06/08/apples-image-playground-doesnt-suck-anymore/",
-      "source": "TechCrunch",
-      "published_at": "Mon, 08 Jun 2026 18:38:07 +0000",
-      "raw_content": "Apple's AI image generator is getting a makeover that could make it more competitive.",
-      "summary": "Apple's AI image generator is getting a makeover that could make it more competitive.",
-      "importance": 1.55
-    },
-    {
-      "title": "Apple’s Photos app is getting new AI editing features",
-      "url": "https://techcrunch.com/2026/06/08/apples-photos-app-is-getting-new-ai-editing-features/",
-      "source": "TechCrunch",
-      "published_at": "Mon, 08 Jun 2026 18:36:04 +0000",
-      "raw_content": "A new spatial \"Reframe\" feature will let users use AI to adjust perspectives.",
-      "summary": "A new spatial \"Reframe\" feature will let users use AI to adjust perspectives.",
-      "importance": 1.55
-    },
-    {
-      "title": "Apple is fixing the headache of splitting the bill with its new Siri in Camera feature",
-      "url": "https://techcrunch.com/2026/06/08/apple-is-fixing-the-headache-of-splitting-the-bill-with-its-new-siri-in-camera-feature/",
-      "source": "TechCrunch",
-      "published_at": "Mon, 08 Jun 2026 18:23:04 +0000",
-      "raw_content": "\"If you're grabbing a bite with friends and point your iPhone at the bill, then [you can] select what you ordered to split the tab with Apple Cash,\" said Apple VP of Software Sebastien Marineau-Mes.",
-      "summary": "\"If you're grabbing a bite with friends and point your iPhone at the bill, then [you can] select what you ordered to split the tab with Apple Cash,\" said Apple VP of Software Sebastien Marineau-Mes.",
-      "importance": 1.55
-    },
-    {
-      "title": "Apple’s long-awaited AI Siri overhaul is finally here",
-      "url": "https://techcrunch.com/2026/06/08/apples-long-awaited-ai-siri-overhaul-is-finally-here/",
-      "source": "TechCrunch",
-      "published_at": "Mon, 08 Jun 2026 17:56:21 +0000",
-      "raw_content": "The idea behind the new \"Siri AI\" is to turn the assistant from a voice controlled assistant into an AI companion that can do a lot more.",
-      "summary": "The idea behind the new \"Siri AI\" is to turn the assistant from a voice controlled assistant into an AI companion that can do a lot more.",
-      "importance": 1.55
-    },
-    {
-      "title": "Amazon now lets you design custom merch using AI",
-      "url": "https://techcrunch.com/2026/06/08/amazon-now-lets-you-design-custom-merch-using-ai/",
-      "source": "TechCrunch",
-      "published_at": "Mon, 08 Jun 2026 15:49:12 +0000",
-      "raw_content": "A new feature in the Amazon Shopping app allows users to generate designs with Alexa, then print them on products like T-shirts, hoodies, and tumblers.",
-      "summary": "A new feature in the Amazon Shopping app allows users to generate designs with Alexa, then print them on products like T-shirts, hoodies, and tumblers.",
+      "title": "Apple is using AI to fix Safari’s extension problem",
+      "url": "https://www.theverge.com/tech/946345/apple-safari-ai-update-extensions",
+      "source": "The Verge",
+      "published_at": "2026-06-08T18:14:17-04:00",
+      "raw_content": "Apple is trying to solve one of Safari's biggest weaknesses with AI. Safari has long lacked the robust library of extensions that its rivals have, mainly due to the stringent development requirements from Apple. But now, Apple is inviting users to essentially vibe-code their own extensions. In a demo shared by Apple, the company showed [&#8230;]",
+      "summary": "Apple is trying to solve one of Safari's biggest weaknesses with AI. Safari has long lacked the robust library of extensions that its rivals have, mainly due to the stringent development requirements ",
       "importance": 1.55
     },
     {
@@ -83,21 +137,12 @@
       "importance": 1.55
     },
     {
-      "title": "Apple gives Siri its own dedicated app",
-      "url": "https://techcrunch.com/2026/06/08/apple-gives-siri-its-own-dedicated-app/",
+      "title": "Mercor’s Brendan Foody calls out Sequoia, accusing it of ‘dual-pricing’ valuation tricks",
+      "url": "https://techcrunch.com/2026/06/08/mercors-brendan-foody-calls-out-sequoia-over-dual-pricing-valuation-tricks/",
       "source": "TechCrunch",
-      "published_at": "Mon, 08 Jun 2026 18:33:42 +0000",
-      "raw_content": "Siri is finally getting its own app.",
-      "summary": "Siri is finally getting its own app.",
-      "importance": 1.5
-    },
-    {
-      "title": "WWDC 2026: What to expect, from Siri’s highly anticipated revamp to Apple Intelligence and iOS 27",
-      "url": "https://techcrunch.com/2026/06/08/wwdc-2026-what-to-expect-from-siris-highly-anticipated-revamp-to-apple-intelligence-and-ios-27/",
-      "source": "TechCrunch",
-      "published_at": "Mon, 08 Jun 2026 15:34:59 +0000",
-      "raw_content": "Apple's WWDC nears: Here's what you can look forward to.",
-      "summary": "Apple's WWDC nears: Here's what you can look forward to.",
+      "published_at": "Tue, 09 Jun 2026 00:45:56 +0000",
+      "raw_content": "Sequoia is just one of the top firms that sells same equity at two different prices.",
+      "summary": "Sequoia is just one of the top firms that sells same equity at two different prices.",
       "importance": 1.5
     },
     {
@@ -135,51 +180,6 @@
       "raw_content": "Facebook has long been filled with feeds of clickbait articles. Now, Meta is making its own clickbait articles with AI. The standalone Meta AI app now has a \"For You\" section that populates a list of clickbait-style stories for you to read. But the topics, images, and text are all AI-generated - and as questionable [&#8230;]",
       "summary": "Facebook has long been filled with feeds of clickbait articles. Now, Meta is making its own clickbait articles with AI. The standalone Meta AI app now has a \"For You\" section that populates a list of ",
       "importance": 1.25
-    },
-    {
-      "title": "Here comes new Siri again",
-      "url": "https://www.theverge.com/tech/944245/apple-wwdc-2026-ai-siri-gemini",
-      "source": "The Verge",
-      "published_at": "2026-06-06T08:00:00-04:00",
-      "raw_content": "Apple has been on its back foot, AI-wise, for the past few years. But in a strange way, playing from behind might not be such a bad move. At WWDC on Monday, Apple appears to be getting ready to reintroduce us to the new Siri. Again. As a reminder, we met the new Siri in [&#8230;]",
-      "summary": "Apple has been on its back foot, AI-wise, for the past few years. But in a strange way, playing from behind might not be such a bad move. At WWDC on Monday, Apple appears to be getting ready to reintr",
-      "importance": 1.25
-    },
-    {
-      "title": "This is your laptop… on AI",
-      "url": "https://www.theverge.com/podcast/944058/ai-laptop-nvidia-build-gemini-spark-vergecast",
-      "source": "The Verge",
-      "published_at": "2026-06-05T12:39:07-04:00",
-      "raw_content": "We're now deep into developer conference season, and one of the themes so far is the relentless conviction from Big Tech companies that AI is going to change everything about how we do everything. Nvidia's Jensen Huang made that clearer than anyone this week, when he described a completely new way of using our laptops [&#8230;]",
-      "summary": "We're now deep into developer conference season, and one of the themes so far is the relentless conviction from Big Tech companies that AI is going to change everything about how we do everything. Nvi",
-      "importance": 1.05
-    },
-    {
-      "title": "This AI startup says it can tell if a script will make a hit film",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/943531/ai-script-quilty-simon-horsman-daniel-wood",
-      "source": "The Verge",
-      "published_at": "2026-06-05T09:57:31-04:00",
-      "raw_content": "When Quilty hit the industry trades earlier this year, the AI startup promised that its tool could accurately predict a film's success just by reading the script. When people actually got a chance to experiment with Quilty's product, though, they were left skeptical. Even with all the available data in the world, it predicted the [&#8230;]",
-      "summary": "When Quilty hit the industry trades earlier this year, the AI startup promised that its tool could accurately predict a film's success just by reading the script. When people actually got a chance to ",
-      "importance": 1.05
-    },
-    {
-      "title": "New York lawmakers pass one-year ban on new data centers",
-      "url": "https://www.theverge.com/policy/944041/new-york-data-center-moratorium",
-      "source": "The Verge",
-      "published_at": "2026-06-05T11:25:10-04:00",
-      "raw_content": "The New York State legislature passed a one-year moratorium on new large data centers, the first statewide ban of its kind if Democratic Governor Kathy Hochul signs it into law. Lawmakers behind the bill say it's meant to give policymakers time to understand the impact of large data centers on the environment and energy prices. [&#8230;]",
-      "summary": "The New York State legislature passed a one-year moratorium on new large data centers, the first statewide ban of its kind if Democratic Governor Kathy Hochul signs it into law. Lawmakers behind the b",
-      "importance": 1.0
-    },
-    {
-      "title": "Kevin O’Leary agrees to downsize massive Utah data center",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/943234/kevin-oleary-agrees-to-downsize-massive-utah-data-center",
-      "source": "The Verge",
-      "published_at": "2026-06-04T14:38:04-04:00",
-      "raw_content": "Kevin O'Leary agreed to halve the size of his planned 40,000-acre data center in Utah amid mounting pressure from residents and activists, as reported earlier by local affiliate ABC4. The Shark Tank star sent a letter to Utah Senate President J. Stuart Adams on Thursday, saying that he will remove 19,430 acres from the project, [&#8230;]",
-      "summary": "Kevin O'Leary agreed to halve the size of his planned 40,000-acre data center in Utah amid mounting pressure from residents and activists, as reported earlier by local affiliate ABC4. The Shark Tank s",
-      "importance": 1.0
     }
   ]
 }
