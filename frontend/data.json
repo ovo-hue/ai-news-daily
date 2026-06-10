@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10T03:33:55.473023+00:00",
+  "generated_at": "2026-06-10T09:56:31.239363+00:00",
   "items": [
     {
       "title": "Anthropic releases its first Mythos-class model Claude Fable",
@@ -101,6 +101,15 @@
       "importance": 1.6
     },
     {
+      "title": "Meta signs first AI data center deal in India with Reliance",
+      "url": "https://techcrunch.com/2026/06/10/meta-signs-first-ai-data-center-deal-in-india-with-reliance/",
+      "source": "TechCrunch",
+      "published_at": "Wed, 10 Jun 2026 07:05:26 +0000",
+      "raw_content": "The 168-megawatt facility will support Meta's global AI computing needs and can be expanded over time.",
+      "summary": "The 168-megawatt facility will support Meta's global AI computing needs and can be expanded over time.",
+      "importance": 1.55
+    },
+    {
       "title": "Google just fired a warning shot in the AI subscription price wars",
       "url": "https://techcrunch.com/2026/06/09/google-just-fired-a-warning-shot-in-the-ai-subscription-price-wars/",
       "source": "TechCrunch",
@@ -162,15 +171,6 @@
       "raw_content": "As expected, yesterday's WWDC keynote was mostly about AI. And also as expected, Apple tried to turn its late arrival into its sales pitch: It didn't rush into AI because it was taking its time to do things right. In this case, \"right\" means \"with more privacy than anyone else.\" It's a good pitch - [&#8230;]",
       "summary": "As expected, yesterday's WWDC keynote was mostly about AI. And also as expected, Apple tried to turn its late arrival into its sales pitch: It didn't rush into AI because it was taking its time to do ",
       "importance": 1.55
-    },
-    {
-      "title": "Lovable says it has hit $500M in annualized revenue, with 1 million new projects a week",
-      "url": "https://techcrunch.com/2026/06/09/lovable-says-it-has-hit-500m-in-annualized-revenue-with-1-million-new-projects-a-week/",
-      "source": "TechCrunch",
-      "published_at": "Tue, 09 Jun 2026 13:00:00 +0000",
-      "raw_content": "Lovable says it has now surpassed $500 million in annualized run-rate revenue and its users are building businesses and replacing internal software.",
-      "summary": "Lovable says it has now surpassed $500 million in annualized run-rate revenue and its users are building businesses and replacing internal software.",
-      "importance": 1.5
     },
     {
       "title": "Amazon employees ask Seattle to put the brakes on new data centers",
