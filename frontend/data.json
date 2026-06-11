@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-11T10:20:32.728743+00:00",
+  "generated_at": "2026-06-11T15:57:19.144467+00:00",
   "items": [
     {
       "title": "Claude Fable won’t answer basic biology questions",
@@ -20,13 +20,13 @@
       "importance": 1.95
     },
     {
-      "title": "Datadog veterans launch AI coding startup Niteshift on a bet against Big AI lock-in",
-      "url": "https://techcrunch.com/2026/06/10/datadog-veterans-launch-ai-coding-startup-niteshift-on-a-bet-against-big-ai-lock-in/",
-      "source": "TechCrunch",
-      "published_at": "Wed, 10 Jun 2026 15:00:00 +0000",
-      "raw_content": "AI coding agent startup Niteshift has raised a $7 million seed round from a who's who of angels. It's betting companies will want power over, not lock-in with model makers.",
-      "summary": "AI coding agent startup Niteshift has raised a $7 million seed round from a who's who of angels. It's betting companies will want power over, not lock-in with model makers.",
-      "importance": 1.9
+      "title": "Anthropic apologizes for invisible Claude Fable guardrails",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
+      "source": "The Verge",
+      "published_at": "2026-06-11T07:40:43-04:00",
+      "raw_content": "Anthropic has apologized for stealthily throttling its new AI model, Claude Fable 5, with hidden guardrails that undermine both researchers and rivals using it to develop competing systems. The company says it is reversing course and will be more transparent about when the restrictions kick in, even if that means Fable refuses more queries. Fable [&#8230;]",
+      "summary": "Anthropic has apologized for stealthily throttling its new AI model, Claude Fable 5, with hidden guardrails that undermine both researchers and rivals using it to develop competing systems. The compan",
+      "importance": 1.8
     },
     {
       "title": "xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims",
@@ -47,13 +47,22 @@
       "importance": 1.7
     },
     {
-      "title": "Cybersecurity researchers aren’t happy about the guardrails on Anthropic’s Fable",
-      "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
+      "title": "Datadog veterans launch AI coding startup Niteshift on a bet against Big AI lock-in",
+      "url": "https://techcrunch.com/2026/06/10/datadog-veterans-launch-ai-coding-startup-niteshift-on-a-bet-against-big-ai-lock-in/",
       "source": "TechCrunch",
-      "published_at": "Wed, 10 Jun 2026 15:41:22 +0000",
-      "raw_content": "Cybersecurity researchers are complaining that Anthropic's new model Fable has guardrails that are too strict for any cybersecurity work.",
-      "summary": "Cybersecurity researchers are complaining that Anthropic's new model Fable has guardrails that are too strict for any cybersecurity work.",
+      "published_at": "Wed, 10 Jun 2026 15:00:00 +0000",
+      "raw_content": "AI coding agent startup Niteshift has raised a $7 million seed round from a who's who of angels. It's betting companies will want power over, not lock-in with model makers.",
+      "summary": "AI coding agent startup Niteshift has raised a $7 million seed round from a who's who of angels. It's betting companies will want power over, not lock-in with model makers.",
       "importance": 1.6
+    },
+    {
+      "title": "DoorDash’s new AI chatbot lets you order with prompts and photos",
+      "url": "https://techcrunch.com/2026/06/11/doordashs-new-ai-chatbot-lets-you-order-with-prompts-and-photos/",
+      "source": "TechCrunch",
+      "published_at": "Thu, 11 Jun 2026 14:23:43 +0000",
+      "raw_content": "The new chatbot, called Ask DoorDash, allows users to search the app for what they're looking for in their own words instead of having to scroll through restaurants and stores to build a cart.",
+      "summary": "The new chatbot, called Ask DoorDash, allows users to search the app for what they're looking for in their own words instead of having to scroll through restaurants and stores to build a cart.",
+      "importance": 1.55
     },
     {
       "title": "Opendoor’s India exit is fueling a bigger conversation about AI and outsourcing",
@@ -101,15 +110,6 @@
       "importance": 1.55
     },
     {
-      "title": "Warner Music acquires AI attribution startup Sureel AI",
-      "url": "https://techcrunch.com/2026/06/10/warner-music-acquires-ai-attribution-startup-sureel-ai/",
-      "source": "TechCrunch",
-      "published_at": "Wed, 10 Jun 2026 14:31:30 +0000",
-      "raw_content": "Through the acquisition, WMG aims to better track when its artists' work is used in AI-generated content or for training AI models.",
-      "summary": "Through the acquisition, WMG aims to better track when its artists' work is used in AI-generated content or for training AI models.",
-      "importance": 1.55
-    },
-    {
       "title": "Microsoft, like, totally gets why students are booing AI-pilled graduation speakers",
       "url": "https://www.theverge.com/news/947831/college-speakers-booed-ai-microsoft",
       "source": "The Verge",
@@ -146,21 +146,12 @@
       "importance": 1.55
     },
     {
-      "title": "The three hard-tech moonshots fueling SpaceX’s unbelievable IPO",
-      "url": "https://techcrunch.com/2026/06/10/the-three-hard-tech-moonshots-fueling-spacexs-unbelievable-ipo/",
+      "title": "Pool’s new app turns your screenshots into something useful",
+      "url": "https://techcrunch.com/2026/06/11/pools-new-app-turns-your-screenshots-into-a-searchable-memory-bank/",
       "source": "TechCrunch",
-      "published_at": "Wed, 10 Jun 2026 14:48:01 +0000",
-      "raw_content": "Most of the value in SpaceX's IPO is effectively a call option on the company's ambitious space data center plans.",
-      "summary": "Most of the value in SpaceX's IPO is effectively a call option on the company's ambitious space data center plans.",
-      "importance": 1.5
-    },
-    {
-      "title": "Microsoft AI head calls out Anthropic for acting like Claude is conscious",
-      "url": "https://www.theverge.com/tech/947197/microsoft-ai-mustafa-suleyman-anthropic-claude-conscious",
-      "source": "The Verge",
-      "published_at": "2026-06-09T16:24:25-04:00",
-      "raw_content": "Microsoft AI CEO Mustafa Suleyman says it's \"really, really dangerous\" for Anthropic to speculate about Claude's consciousness inside its \"constitution,\" or the instructions that tell the model how to behave. During an episode of Decoder, Suleyman argues that this kind of speculation may have set up the chatbot to act as though it's conscious: I [&#8230;]",
-      "summary": "Microsoft AI CEO Mustafa Suleyman says it's \"really, really dangerous\" for Anthropic to speculate about Claude's consciousness inside its \"constitution,\" or the instructions that tell the model how to",
+      "published_at": "Thu, 11 Jun 2026 15:30:00 +0000",
+      "raw_content": "Pool's new app automatically sorts screenshots into personalized collections, tracks down the original links behind saved content, and helps you rediscover products, recipes, travel ideas, and other things you meant to revisit.",
+      "summary": "Pool's new app automatically sorts screenshots into personalized collections, tracks down the original links behind saved content, and helps you rediscover products, recipes, travel ideas, and other t",
       "importance": 1.5
     },
     {
@@ -171,6 +162,15 @@
       "raw_content": "At an event in San Francisco today, General Motors made a series of announcements around EV batteries, energy storage, and grid resiliency in the face of growing electricity demand from AI data centers. The automaker announced that it would be activating new vehicle-to-grid capabilities for its current EV and home energy customers. It's releasing a [&#8230;]",
       "summary": "At an event in San Francisco today, General Motors made a series of announcements around EV batteries, energy storage, and grid resiliency in the face of growing electricity demand from AI data center",
       "importance": 1.4
+    },
+    {
+      "title": "Cybersecurity researchers aren’t happy about the guardrails on Anthropic’s Fable",
+      "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
+      "source": "TechCrunch",
+      "published_at": "Wed, 10 Jun 2026 15:41:22 +0000",
+      "raw_content": "Cybersecurity researchers are complaining that Anthropic's new model Fable has guardrails that are too strict for any cybersecurity work.",
+      "summary": "Cybersecurity researchers are complaining that Anthropic's new model Fable has guardrails that are too strict for any cybersecurity work.",
+      "importance": 1.3
     },
     {
       "title": "I tried Siri AI, and so far it actually works",
