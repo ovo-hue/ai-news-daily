@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10T20:28:07.571697+00:00",
+  "generated_at": "2026-06-11T03:48:13.194573+00:00",
   "items": [
     {
       "title": "Claude Fable won’t answer basic biology questions",
@@ -47,12 +47,12 @@
       "importance": 1.75
     },
     {
-      "title": "Fresh off bond sale, Amazon borrows $17.5 billion from banks as AI spending continues",
-      "url": "https://techcrunch.com/2026/06/10/fresh-off-bond-sale-amazon-borrows-17-5-billion-from-banks-as-ai-spending-continues/",
+      "title": "xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims",
+      "url": "https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/",
       "source": "TechCrunch",
-      "published_at": "Wed, 10 Jun 2026 20:19:31 +0000",
-      "raw_content": "As AI spending continues to climb, the e-commerce giant has taken out a fresh $17.5 billion loan from a small coterie of banks.",
-      "summary": "As AI spending continues to climb, the e-commerce giant has taken out a fresh $17.5 billion loan from a small coterie of banks.",
+      "published_at": "Wed, 10 Jun 2026 22:31:19 +0000",
+      "raw_content": "A former xAI engineer is suing the company and SpaceX, alleging he was fired for raising AI safety concerns about Grok days before SpaceX's historic IPO.",
+      "summary": "A former xAI engineer is suing the company and SpaceX, alleging he was fired for raising AI safety concerns about Grok days before SpaceX's historic IPO.",
       "importance": 1.7
     },
     {
@@ -65,15 +65,6 @@
       "importance": 1.7
     },
     {
-      "title": "GM thinks EVs can help offset AI’s energy suck with vehicle-to-grid tech",
-      "url": "https://www.theverge.com/transportation/946820/gm-energy-ev-v2g-storage-sodium-ion",
-      "source": "The Verge",
-      "published_at": "2026-06-09T17:00:00-04:00",
-      "raw_content": "At an event in San Francisco today, General Motors made a series of announcements around EV batteries, energy storage, and grid resiliency in the face of growing electricity demand from AI data centers. The automaker announced that it would be activating new vehicle-to-grid capabilities for its current EV and home energy customers. It's releasing a [&#8230;]",
-      "summary": "At an event in San Francisco today, General Motors made a series of announcements around EV batteries, energy storage, and grid resiliency in the face of growing electricity demand from AI data center",
-      "importance": 1.7
-    },
-    {
       "title": "Cybersecurity researchers aren’t happy about the guardrails on Anthropic’s Fable",
       "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
       "source": "TechCrunch",
@@ -81,6 +72,15 @@
       "raw_content": "Cybersecurity researchers are complaining that Anthropic's new model Fable has guardrails that are too strict for any cybersecurity work.",
       "summary": "Cybersecurity researchers are complaining that Anthropic's new model Fable has guardrails that are too strict for any cybersecurity work.",
       "importance": 1.6
+    },
+    {
+      "title": "Fresh off bond sale, Amazon borrows $17.5B from banks as AI spending continues",
+      "url": "https://techcrunch.com/2026/06/10/fresh-off-bond-sale-amazon-borrows-17-5-billion-from-banks-as-ai-spending-continues/",
+      "source": "TechCrunch",
+      "published_at": "Wed, 10 Jun 2026 20:19:31 +0000",
+      "raw_content": "Companies are burning through exorbitant sums of money to keep pace in the AI arms race. Debt is climbing.",
+      "summary": "Companies are burning through exorbitant sums of money to keep pace in the AI arms race. Debt is climbing.",
+      "importance": 1.55
     },
     {
       "title": "‘AI-pilled’ firms spend $7,500 per employee each month on AI",
@@ -107,15 +107,6 @@
       "published_at": "Wed, 10 Jun 2026 14:31:30 +0000",
       "raw_content": "Through the acquisition, WMG aims to better track when its artists' work is used in AI-generated content or for training AI models.",
       "summary": "Through the acquisition, WMG aims to better track when its artists' work is used in AI-generated content or for training AI models.",
-      "importance": 1.55
-    },
-    {
-      "title": "Meta signs first AI data center deal in India with Reliance",
-      "url": "https://techcrunch.com/2026/06/10/meta-signs-first-ai-data-center-deal-in-india-with-reliance/",
-      "source": "TechCrunch",
-      "published_at": "Wed, 10 Jun 2026 07:05:26 +0000",
-      "raw_content": "The 168-megawatt facility will support Meta's global AI computing needs and can be expanded over time.",
-      "summary": "The 168-megawatt facility will support Meta's global AI computing needs and can be expanded over time.",
       "importance": 1.55
     },
     {
@@ -155,15 +146,6 @@
       "importance": 1.55
     },
     {
-      "title": "I tried Siri AI, and so far it actually works",
-      "url": "https://www.theverge.com/tech/947432/siri-ai-apple-intelligence-ios-27-wwdc",
-      "source": "The Verge",
-      "published_at": "2026-06-09T19:43:00-04:00",
-      "raw_content": "Parents want one thing, and one thing only, out of AI: to add a list of soccer games or \"spirit week\" theme days from an email or a poorly formatted flyer onto their calendar in one shot. And I have good news for parents with iPhones - the new Siri can finally do this. After [&#8230;]",
-      "summary": "Parents want one thing, and one thing only, out of AI: to add a list of soccer games or \"spirit week\" theme days from an email or a poorly formatted flyer onto their calendar in one shot. And I have g",
-      "importance": 1.55
-    },
-    {
       "title": "The three hard-tech moonshots fueling SpaceX’s unbelievable IPO",
       "url": "https://techcrunch.com/2026/06/10/the-three-hard-tech-moonshots-fueling-spacexs-unbelievable-ipo/",
       "source": "TechCrunch",
@@ -180,6 +162,24 @@
       "raw_content": "Microsoft AI CEO Mustafa Suleyman says it's \"really, really dangerous\" for Anthropic to speculate about Claude's consciousness inside its \"constitution,\" or the instructions that tell the model how to behave. During an episode of Decoder, Suleyman argues that this kind of speculation may have set up the chatbot to act as though it's conscious: I [&#8230;]",
       "summary": "Microsoft AI CEO Mustafa Suleyman says it's \"really, really dangerous\" for Anthropic to speculate about Claude's consciousness inside its \"constitution,\" or the instructions that tell the model how to",
       "importance": 1.5
+    },
+    {
+      "title": "GM thinks EVs can help offset AI’s energy suck with vehicle-to-grid tech",
+      "url": "https://www.theverge.com/transportation/946820/gm-energy-ev-v2g-storage-sodium-ion",
+      "source": "The Verge",
+      "published_at": "2026-06-09T17:00:00-04:00",
+      "raw_content": "At an event in San Francisco today, General Motors made a series of announcements around EV batteries, energy storage, and grid resiliency in the face of growing electricity demand from AI data centers. The automaker announced that it would be activating new vehicle-to-grid capabilities for its current EV and home energy customers. It's releasing a [&#8230;]",
+      "summary": "At an event in San Francisco today, General Motors made a series of announcements around EV batteries, energy storage, and grid resiliency in the face of growing electricity demand from AI data center",
+      "importance": 1.4
+    },
+    {
+      "title": "I tried Siri AI, and so far it actually works",
+      "url": "https://www.theverge.com/tech/947432/siri-ai-apple-intelligence-ios-27-wwdc",
+      "source": "The Verge",
+      "published_at": "2026-06-09T19:43:00-04:00",
+      "raw_content": "Parents want one thing, and one thing only, out of AI: to add a list of soccer games or \"spirit week\" theme days from an email or a poorly formatted flyer onto their calendar in one shot. And I have good news for parents with iPhones - the new Siri can finally do this. After [&#8230;]",
+      "summary": "Parents want one thing, and one thing only, out of AI: to add a list of soccer games or \"spirit week\" theme days from an email or a poorly formatted flyer onto their calendar in one shot. And I have g",
+      "importance": 1.25
     }
   ]
 }
