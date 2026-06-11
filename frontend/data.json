@@ -1,24 +1,6 @@
 {
-  "generated_at": "2026-06-11T15:57:19.144467+00:00",
+  "generated_at": "2026-06-11T20:19:14.055222+00:00",
   "items": [
-    {
-      "title": "Claude Fable won’t answer basic biology questions",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/947973/fable-wont-answer-basic-biology-questions",
-      "source": "The Verge",
-      "published_at": "2026-06-10T14:43:34-04:00",
-      "raw_content": "Anthropic just released Claude Fable 5, calling it the most powerful AI model it has ever made widely available and praising its skills in biology, among others. But the model won't answer basic biology questions - the kind you'd expect a high schooler to handle. Instead, it hands off the query to the former flagship [&#8230;]",
-      "summary": "Anthropic just released Claude Fable 5, calling it the most powerful AI model it has ever made widely available and praising its skills in biology, among others. But the model won't answer basic biolo",
-      "importance": 1.95
-    },
-    {
-      "title": "Microsoft restricts Claude Fable for employees over data retention concerns",
-      "url": "https://www.theverge.com/report/947575/microsoft-claude-fable-5-restricted-internally",
-      "source": "The Verge",
-      "published_at": "2026-06-10T12:50:23-04:00",
-      "raw_content": "Anthropic released Claude Fable, its first Mythos-class AI model, yesterday and it's already causing concerns inside Microsoft. Sources tell me that Microsoft is limiting the use of Claude Fable 5 for employees because of Anthropic's new data retention requirements. While Microsoft quickly rolled out Claude Fable 5 to its GitHub Copilot and Foundry customers, I'm [&#8230;]",
-      "summary": "Anthropic released Claude Fable, its first Mythos-class AI model, yesterday and it's already causing concerns inside Microsoft. Sources tell me that Microsoft is limiting the use of Claude Fable 5 for",
-      "importance": 1.95
-    },
     {
       "title": "Anthropic apologizes for invisible Claude Fable guardrails",
       "url": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
@@ -38,6 +20,15 @@
       "importance": 1.7
     },
     {
+      "title": "Amazon&#8217;s data centers used 2.5 billion gallons of water last year",
+      "url": "https://www.theverge.com/tech/948534/amazon-data-centers-water-use",
+      "source": "The Verge",
+      "published_at": "2026-06-11T13:26:57-04:00",
+      "raw_content": "Just after Seattle enacted a one-year data center moratorium that some of Amazon's own employees pushed for, Amazon shared how much water its data centers use, reportedly for the first time. With concerns about water consumption and energy use a focus of new AI data center construction debates, Amazon says its global data center operations [&#8230;]",
+      "summary": "Just after Seattle enacted a one-year data center moratorium that some of Amazon's own employees pushed for, Amazon shared how much water its data centers use, reportedly for the first time. With conc",
+      "importance": 1.7
+    },
+    {
       "title": "Deezer launches an AI music detector for other streaming services",
       "url": "https://www.theverge.com/ai-artificial-intelligence/948153/deezer-ai-music-detector-spotify-apple",
       "source": "The Verge",
@@ -47,13 +38,40 @@
       "importance": 1.7
     },
     {
-      "title": "Datadog veterans launch AI coding startup Niteshift on a bet against Big AI lock-in",
-      "url": "https://techcrunch.com/2026/06/10/datadog-veterans-launch-ai-coding-startup-niteshift-on-a-bet-against-big-ai-lock-in/",
+      "title": "Claude Fable won’t answer basic biology questions",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/947973/fable-wont-answer-basic-biology-questions",
+      "source": "The Verge",
+      "published_at": "2026-06-10T14:43:34-04:00",
+      "raw_content": "Anthropic just released Claude Fable 5, calling it the most powerful AI model it has ever made widely available and praising its skills in biology, among others. But the model won't answer basic biology questions - the kind you'd expect a high schooler to handle. Instead, it hands off the query to the former flagship [&#8230;]",
+      "summary": "Anthropic just released Claude Fable 5, calling it the most powerful AI model it has ever made widely available and praising its skills in biology, among others. But the model won't answer basic biolo",
+      "importance": 1.65
+    },
+    {
+      "title": "Microsoft restricts Claude Fable for employees over data retention concerns",
+      "url": "https://www.theverge.com/report/947575/microsoft-claude-fable-5-restricted-internally",
+      "source": "The Verge",
+      "published_at": "2026-06-10T12:50:23-04:00",
+      "raw_content": "Anthropic released Claude Fable, its first Mythos-class AI model, yesterday and it's already causing concerns inside Microsoft. Sources tell me that Microsoft is limiting the use of Claude Fable 5 for employees because of Anthropic's new data retention requirements. While Microsoft quickly rolled out Claude Fable 5 to its GitHub Copilot and Foundry customers, I'm [&#8230;]",
+      "summary": "Anthropic released Claude Fable, its first Mythos-class AI model, yesterday and it's already causing concerns inside Microsoft. Sources tell me that Microsoft is limiting the use of Claude Fable 5 for",
+      "importance": 1.65
+    },
+    {
+      "title": "Anthropic’s Dario Amodei has just one direct report",
+      "url": "https://techcrunch.com/2026/06/10/anthropics-dario-amodei-has-just-one-direct-report/",
       "source": "TechCrunch",
-      "published_at": "Wed, 10 Jun 2026 15:00:00 +0000",
-      "raw_content": "AI coding agent startup Niteshift has raised a $7 million seed round from a who's who of angels. It's betting companies will want power over, not lock-in with model makers.",
-      "summary": "AI coding agent startup Niteshift has raised a $7 million seed round from a who's who of angels. It's betting companies will want power over, not lock-in with model makers.",
+      "published_at": "Thu, 11 Jun 2026 03:53:06 +0000",
+      "raw_content": "If founders and other business leaders weren't already envious of Dario Amodei, who sits atop one of the world's fastest-growing AI companies, they're going to be seriously envious now.",
+      "summary": "If founders and other business leaders weren't already envious of Dario Amodei, who sits atop one of the world's fastest-growing AI companies, they're going to be seriously envious now.",
       "importance": 1.6
+    },
+    {
+      "title": "Deezer’s new tool can identify AI music from Spotify, Apple Music, and others",
+      "url": "https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/",
+      "source": "TechCrunch",
+      "published_at": "Thu, 11 Jun 2026 16:36:20 +0000",
+      "raw_content": "Deezer introduced a tool that scans playlists from Spotify, Apple Music, and other platforms to identify AI music.",
+      "summary": "Deezer introduced a tool that scans playlists from Spotify, Apple Music, and other platforms to identify AI music.",
+      "importance": 1.55
     },
     {
       "title": "DoorDash’s new AI chatbot lets you order with prompts and photos",
@@ -74,15 +92,6 @@
       "importance": 1.55
     },
     {
-      "title": "Anthropic’s Dario Amodei has just one direct report",
-      "url": "https://techcrunch.com/2026/06/10/anthropics-dario-amodei-has-just-one-direct-report/",
-      "source": "TechCrunch",
-      "published_at": "Thu, 11 Jun 2026 03:53:06 +0000",
-      "raw_content": "If you doubted his genius, doubt no more.",
-      "summary": "If you doubted his genius, doubt no more.",
-      "importance": 1.55
-    },
-    {
       "title": "Fresh off bond sale, Amazon borrows $17.5B from banks as AI spending continues",
       "url": "https://techcrunch.com/2026/06/10/fresh-off-bond-sale-amazon-borrows-17-5-billion-from-banks-as-ai-spending-continues/",
       "source": "TechCrunch",
@@ -92,58 +101,13 @@
       "importance": 1.55
     },
     {
-      "title": "‘AI-pilled’ firms spend $7,500 per employee each month on AI",
-      "url": "https://techcrunch.com/2026/06/10/ai-pilled-firms-spend-7500-per-employee-each-month-on-ai/",
+      "title": "SpaceX SPV investors won’t know their true holdings until post-IPO lock-ups lift",
+      "url": "https://techcrunch.com/2026/06/11/spacex-spv-investors-wont-know-their-true-holdings-until-post-ipo-lock-ups-lift/",
       "source": "TechCrunch",
-      "published_at": "Wed, 10 Jun 2026 17:07:35 +0000",
-      "raw_content": "The most AI-obsessed firms are spending roughly $7,500 monthly per employee on AI, per Ramp AI Index. That's not more than an engineer's salary — yet.",
-      "summary": "The most AI-obsessed firms are spending roughly $7,500 monthly per employee on AI, per Ramp AI Index. That's not more than an engineer's salary — yet.",
-      "importance": 1.55
-    },
-    {
-      "title": "How memory tools can make AI models worse",
-      "url": "https://techcrunch.com/2026/06/10/how-memory-tools-can-make-ai-models-worse/",
-      "source": "TechCrunch",
-      "published_at": "Wed, 10 Jun 2026 16:11:08 +0000",
-      "raw_content": "New research suggests that AI memory systems can degrade model performance and encourage sycophantic tendencies.",
-      "summary": "New research suggests that AI memory systems can degrade model performance and encourage sycophantic tendencies.",
-      "importance": 1.55
-    },
-    {
-      "title": "Microsoft, like, totally gets why students are booing AI-pilled graduation speakers",
-      "url": "https://www.theverge.com/news/947831/college-speakers-booed-ai-microsoft",
-      "source": "The Verge",
-      "published_at": "2026-06-10T13:45:11-04:00",
-      "raw_content": "New college graduates around the country have been booing and heckling commencement speakers who hype up AI. Microsoft would like everyone to talk it out. In a blog post running more than 3,100 words, Microsoft vice chair and president Brad Smith addressed the recent spate of viral clips from graduation ceremonies, like former Google CEO [&#8230;]",
-      "summary": "New college graduates around the country have been booing and heckling commencement speakers who hype up AI. Microsoft would like everyone to talk it out. In a blog post running more than 3,100 words,",
-      "importance": 1.55
-    },
-    {
-      "title": "The future of AI regulation is courting the strangest, most anxious bedfellows",
-      "url": "https://www.theverge.com/column/947838/washington-ai-network-honors-2026-midterms",
-      "source": "The Verge",
-      "published_at": "2026-06-10T13:38:00-04:00",
-      "raw_content": "Hello and welcome to Regulator, a newsletter for Verge subscribers about tech politics, tech influence, and tech shenanigans in Washington, DC. (If you're not a subscriber, you can get on board here.) We're back after a two-week hiatus, during most of which I was gallivanting in the Netherlands for a family wedding, and a trip [&#8230;]",
-      "summary": "Hello and welcome to Regulator, a newsletter for Verge subscribers about tech politics, tech influence, and tech shenanigans in Washington, DC. (If you're not a subscriber, you can get on board here.)",
-      "importance": 1.55
-    },
-    {
-      "title": "Google won’t just admit it’s feeding YouTube creators to its music AI",
-      "url": "https://www.theverge.com/tech/947770/google-lyria-music-ai-lawsuit-youtube",
-      "source": "The Verge",
-      "published_at": "2026-06-10T13:20:36-04:00",
-      "raw_content": "If you've uploaded a song to YouTube, Google almost certainly considers your video fair game for training its Lyria music AI, it just won't admit it right now. A group of independent musicians is suing Google, claiming that it illegally used songs they uploaded to YouTube to train its Lyria 3 model. Google has filed [&#8230;]",
-      "summary": "If you've uploaded a song to YouTube, Google almost certainly considers your video fair game for training its Lyria music AI, it just won't admit it right now. A group of independent musicians is suin",
-      "importance": 1.55
-    },
-    {
-      "title": "Google will save your Lens photos, Search Live recordings, and Translate audio for AI training",
-      "url": "https://www.theverge.com/tech/947836/google-search-privacy-settings-images-audio",
-      "source": "The Verge",
-      "published_at": "2026-06-10T12:18:45-04:00",
-      "raw_content": "Google is making some changes to how it saves your interactions with Search. In an email sent to users, Google says it will save the images, files, audio, and video you use to search under a new \"Search Services History\" setting. That includes the images you search for with Google Lens, recordings from its real-time [&#8230;]",
-      "summary": "Google is making some changes to how it saves your interactions with Search. In an email sent to users, Google says it will save the images, files, audio, and video you use to search under a new \"Sear",
-      "importance": 1.55
+      "published_at": "Thu, 11 Jun 2026 19:58:01 +0000",
+      "raw_content": "After SpaceX makes its public debut, lower-tier SPV investors face hidden fees, lengthy payout delays, and the  risk of outright fraud.",
+      "summary": "After SpaceX makes its public debut, lower-tier SPV investors face hidden fees, lengthy payout delays, and the  risk of outright fraud.",
+      "importance": 1.5
     },
     {
       "title": "Pool’s new app turns your screenshots into something useful",
@@ -155,22 +119,58 @@
       "importance": 1.5
     },
     {
-      "title": "GM thinks EVs can help offset AI’s energy suck with vehicle-to-grid tech",
-      "url": "https://www.theverge.com/transportation/946820/gm-energy-ev-v2g-storage-sodium-ion",
-      "source": "The Verge",
-      "published_at": "2026-06-09T17:00:00-04:00",
-      "raw_content": "At an event in San Francisco today, General Motors made a series of announcements around EV batteries, energy storage, and grid resiliency in the face of growing electricity demand from AI data centers. The automaker announced that it would be activating new vehicle-to-grid capabilities for its current EV and home energy customers. It's releasing a [&#8230;]",
-      "summary": "At an event in San Francisco today, General Motors made a series of announcements around EV batteries, energy storage, and grid resiliency in the face of growing electricity demand from AI data center",
-      "importance": 1.4
+      "title": "‘AI-pilled’ firms spend $7,500 per employee each month on AI",
+      "url": "https://techcrunch.com/2026/06/10/ai-pilled-firms-spend-7500-per-employee-each-month-on-ai/",
+      "source": "TechCrunch",
+      "published_at": "Wed, 10 Jun 2026 17:07:35 +0000",
+      "raw_content": "The most AI-obsessed firms are spending roughly $7,500 monthly per employee on AI, per Ramp AI Index. That's not more than an engineer's salary — yet.",
+      "summary": "The most AI-obsessed firms are spending roughly $7,500 monthly per employee on AI, per Ramp AI Index. That's not more than an engineer's salary — yet.",
+      "importance": 1.25
     },
     {
-      "title": "Cybersecurity researchers aren’t happy about the guardrails on Anthropic’s Fable",
-      "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
+      "title": "How memory tools can make AI models worse",
+      "url": "https://techcrunch.com/2026/06/10/how-memory-tools-can-make-ai-models-worse/",
       "source": "TechCrunch",
-      "published_at": "Wed, 10 Jun 2026 15:41:22 +0000",
-      "raw_content": "Cybersecurity researchers are complaining that Anthropic's new model Fable has guardrails that are too strict for any cybersecurity work.",
-      "summary": "Cybersecurity researchers are complaining that Anthropic's new model Fable has guardrails that are too strict for any cybersecurity work.",
-      "importance": 1.3
+      "published_at": "Wed, 10 Jun 2026 16:11:08 +0000",
+      "raw_content": "New research suggests that AI memory systems can degrade model performance and encourage sycophantic tendencies.",
+      "summary": "New research suggests that AI memory systems can degrade model performance and encourage sycophantic tendencies.",
+      "importance": 1.25
+    },
+    {
+      "title": "Microsoft, like, totally gets why students are booing AI-pilled graduation speakers",
+      "url": "https://www.theverge.com/news/947831/college-speakers-booed-ai-microsoft",
+      "source": "The Verge",
+      "published_at": "2026-06-10T13:45:11-04:00",
+      "raw_content": "New college graduates around the country have been booing and heckling commencement speakers who hype up AI. Microsoft would like everyone to talk it out. In a blog post running more than 3,100 words, Microsoft vice chair and president Brad Smith addressed the recent spate of viral clips from graduation ceremonies, like former Google CEO [&#8230;]",
+      "summary": "New college graduates around the country have been booing and heckling commencement speakers who hype up AI. Microsoft would like everyone to talk it out. In a blog post running more than 3,100 words,",
+      "importance": 1.25
+    },
+    {
+      "title": "The future of AI regulation is courting the strangest, most anxious bedfellows",
+      "url": "https://www.theverge.com/column/947838/washington-ai-network-honors-2026-midterms",
+      "source": "The Verge",
+      "published_at": "2026-06-10T13:38:00-04:00",
+      "raw_content": "Hello and welcome to Regulator, a newsletter for Verge subscribers about tech politics, tech influence, and tech shenanigans in Washington, DC. (If you're not a subscriber, you can get on board here.) We're back after a two-week hiatus, during most of which I was gallivanting in the Netherlands for a family wedding, and a trip [&#8230;]",
+      "summary": "Hello and welcome to Regulator, a newsletter for Verge subscribers about tech politics, tech influence, and tech shenanigans in Washington, DC. (If you're not a subscriber, you can get on board here.)",
+      "importance": 1.25
+    },
+    {
+      "title": "Google won’t just admit it’s feeding YouTube creators to its music AI",
+      "url": "https://www.theverge.com/tech/947770/google-lyria-music-ai-lawsuit-youtube",
+      "source": "The Verge",
+      "published_at": "2026-06-10T13:20:36-04:00",
+      "raw_content": "If you've uploaded a song to YouTube, Google almost certainly considers your video fair game for training its Lyria music AI, it just won't admit it right now. A group of independent musicians is suing Google, claiming that it illegally used songs they uploaded to YouTube to train its Lyria 3 model. Google has filed [&#8230;]",
+      "summary": "If you've uploaded a song to YouTube, Google almost certainly considers your video fair game for training its Lyria music AI, it just won't admit it right now. A group of independent musicians is suin",
+      "importance": 1.25
+    },
+    {
+      "title": "Google will save your Lens photos, Search Live recordings, and Translate audio for AI training",
+      "url": "https://www.theverge.com/tech/947836/google-search-privacy-settings-images-audio",
+      "source": "The Verge",
+      "published_at": "2026-06-10T12:18:45-04:00",
+      "raw_content": "Google is making some changes to how it saves your interactions with Search. In an email sent to users, Google says it will save the images, files, audio, and video you use to search under a new \"Search Services History\" setting. That includes the images you search for with Google Lens, recordings from its real-time [&#8230;]",
+      "summary": "Google is making some changes to how it saves your interactions with Search. In an email sent to users, Google says it will save the images, files, audio, and video you use to search under a new \"Sear",
+      "importance": 1.25
     },
     {
       "title": "I tried Siri AI, and so far it actually works",
