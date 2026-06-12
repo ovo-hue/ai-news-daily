@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-12T14:54:53.306378+00:00",
+  "generated_at": "2026-06-12T20:08:27.016249+00:00",
   "items": [
     {
       "title": "Jeff Bezos’s Prometheus raises $12B to build an ‘artificial general engineer’ for the physical world",
@@ -11,6 +11,15 @@
       "importance": 1.85
     },
     {
+      "title": "Mistral is rumored to be raising €3B at €20B valuation",
+      "url": "https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/",
+      "source": "TechCrunch",
+      "published_at": "Fri, 12 Jun 2026 17:38:11 +0000",
+      "raw_content": "The funding round would value the company at around €20 billion (about $23.15 billion), nearly double its Series C valuation of €11.7 billion.",
+      "summary": "The funding round would value the company at around €20 billion (about $23.15 billion), nearly double its Series C valuation of €11.7 billion.",
+      "importance": 1.7
+    },
+    {
       "title": "Theker just raised $85M to build the factory robot that doesn’t specialize in anything",
       "url": "https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/",
       "source": "TechCrunch",
@@ -20,13 +29,40 @@
       "importance": 1.7
     },
     {
-      "title": "Amazon&#8217;s data centers used 2.5 billion gallons of water last year",
-      "url": "https://www.theverge.com/tech/948534/amazon-data-centers-water-use",
+      "title": "Elon Musk is the world&#8217;s first trillionaire",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/948409/elon-musk-trillionaire-spacex-ipo",
       "source": "The Verge",
-      "published_at": "2026-06-11T13:26:57-04:00",
-      "raw_content": "Just after Seattle enacted a one-year data center moratorium that some of Amazon's own employees pushed for, Amazon shared how much water its data centers use, reportedly for the first time. With concerns about water consumption and energy use a focus of new AI data center construction debates, Amazon says its global data center operations [&#8230;]",
-      "summary": "Just after Seattle enacted a one-year data center moratorium that some of Amazon's own employees pushed for, Amazon shared how much water its data centers use, reportedly for the first time. With conc",
+      "published_at": "2026-06-12T12:24:39-04:00",
+      "raw_content": "Elon Musk's net worth has passed the trillion-dollar mark after SpaceX's IPO. His net worth, which was hovering around $800 billion before the IPO, includes the value of his 4.8 billion shares in SpaceX, along with his wealth from his other companies, like Tesla. Shares of SPCX opened at $150 and have remained well above [&#8230;]",
+      "summary": "Elon Musk's net worth has passed the trillion-dollar mark after SpaceX's IPO. His net worth, which was hovering around $800 billion before the IPO, includes the value of his 4.8 billion shares in Spac",
       "importance": 1.7
+    },
+    {
+      "title": "SpaceX’s massive IPO: all the latest news",
+      "url": "https://www.theverge.com/business/948996/spacex-ipo-elon-musk",
+      "source": "The Verge",
+      "published_at": "2026-06-12T10:35:48-04:00",
+      "raw_content": "SpaceX&#8217;s IPO on Friday allows the public to buy shares of the combined rocket, AI, and social media company for the first time, and raised enough money to make Elon Musk the first trillionaire.  He has more wealth, on paper at least, than the economies of nations like Ireland, Sweden, or his home country of [&#8230;]",
+      "summary": "SpaceX&#8217;s IPO on Friday allows the public to buy shares of the combined rocket, AI, and social media company for the first time, and raised enough money to make Elon Musk the first trillionaire. ",
+      "importance": 1.7
+    },
+    {
+      "title": "SpaceX, Anthropic, and OpenAI’s hot IPO summer",
+      "url": "https://techcrunch.com/video/spacex-anthropic-and-openais-hot-ipo-summer/",
+      "source": "TechCrunch",
+      "published_at": "Fri, 12 Jun 2026 16:23:25 +0000",
+      "raw_content": "The IPO market is back, and&#160;it&#8217;s&#160;not the same&#160;companies&#160;leading the charge. FAANG had a good run, but a&#160;new acronym is taking over: MANGOS&#160;— Meta (or Microsoft, depending on who you ask), Anthropic, Nvidia, Google, OpenAI, and SpaceX. Half&#160;of that&#160;bunch is heading to public markets in the same window,&#160;and&#160;it&#8217;s&#160;a stress test for investors, for valuations, and for [&#8230;]",
+      "summary": "The IPO market is back, and&#160;it&#8217;s&#160;not the same&#160;companies&#160;leading the charge. FAANG had a good run, but a&#160;new acronym is taking over: MANGOS&#160;— Meta (or Microsoft, dep",
+      "importance": 1.65
+    },
+    {
+      "title": "It’s hot IPO summer, and the MANGOS are ripe",
+      "url": "https://techcrunch.com/podcast/its-hot-ipo-summer-and-the-mangos-are-ripe/",
+      "source": "TechCrunch",
+      "published_at": "Fri, 12 Jun 2026 15:50:52 +0000",
+      "raw_content": "The IPO market is back, and&#160;it&#8217;s&#160;not the same&#160;companies&#160;leading the charge. FAANG had a good run, but a&#160;new acronym is taking over: MANGOS&#160;— Meta (or Microsoft, depending on who you ask), Anthropic, Nvidia, Google, OpenAI, and SpaceX. Half&#160;of that&#160;bunch is heading to public markets in the same window,&#160;and&#160;it&#8217;s&#160;a stress test for investors, for valuations, and for [&#8230;]",
+      "summary": "The IPO market is back, and&#160;it&#8217;s&#160;not the same&#160;companies&#160;leading the charge. FAANG had a good run, but a&#160;new acronym is taking over: MANGOS&#160;— Meta (or Microsoft, dep",
+      "importance": 1.65
     },
     {
       "title": "SpaceX officially prices shares at $135 in the largest IPO ever",
@@ -56,30 +92,21 @@
       "importance": 1.6
     },
     {
+      "title": "Google sues alleged Chinese cybercrime operation that used AI to send scam texts",
+      "url": "https://techcrunch.com/2026/06/12/google-sues-alleged-chinese-cybercrime-operation-that-used-ai-to-send-scam-texts/",
+      "source": "TechCrunch",
+      "published_at": "Fri, 12 Jun 2026 17:26:08 +0000",
+      "raw_content": "The tech giant said a group called \"Outsider Enterprise\" used AI to scam hundreds of thousands of victims, sending 2.5 million text messages over a span of two weeks.",
+      "summary": "The tech giant said a group called \"Outsider Enterprise\" used AI to scam hundreds of thousands of victims, sending 2.5 million text messages over a span of two weeks.",
+      "importance": 1.55
+    },
+    {
       "title": "Cheaper, faster, and culturally aware, Avataar’s video AI is built for India’s scale",
       "url": "https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/",
       "source": "TechCrunch",
       "published_at": "Fri, 12 Jun 2026 04:30:00 +0000",
-      "raw_content": "Avataar AI's distilled video model is priced at $0.005 for every second of generation",
-      "summary": "Avataar AI's distilled video model is priced at $0.005 for every second of generation",
-      "importance": 1.55
-    },
-    {
-      "title": "Deezer’s new tool can identify AI music from Spotify, Apple Music, and others",
-      "url": "https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/",
-      "source": "TechCrunch",
-      "published_at": "Thu, 11 Jun 2026 16:36:20 +0000",
-      "raw_content": "Deezer introduced a tool that scans playlists from Spotify, Apple Music, and other platforms to identify AI music.",
-      "summary": "Deezer introduced a tool that scans playlists from Spotify, Apple Music, and other platforms to identify AI music.",
-      "importance": 1.55
-    },
-    {
-      "title": "SpaceX’s massive IPO: all the latest news",
-      "url": "https://www.theverge.com/business/948996/spacex-ipo-elon-musk",
-      "source": "The Verge",
-      "published_at": "2026-06-12T10:35:48-04:00",
-      "raw_content": "SpaceX&#8217;s IPO on Friday allows the public to buy shares of the combined rocket, AI, and social media company for the first time, and is raising enough money to likely make Elon Musk the first trillionaire.&#160; He&#8217;ll have more wealth, on paper at least, than the economies of nations like Ireland, Sweden, or his home [&#8230;]",
-      "summary": "SpaceX&#8217;s IPO on Friday allows the public to buy shares of the combined rocket, AI, and social media company for the first time, and is raising enough money to likely make Elon Musk the first tri",
+      "raw_content": "Avataar AI's distilled video model is priced at $0.005 for every second of generation.",
+      "summary": "Avataar AI's distilled video model is priced at $0.005 for every second of generation.",
       "importance": 1.55
     },
     {
@@ -92,30 +119,21 @@
       "importance": 1.55
     },
     {
-      "title": "SpaceX IPO: Everything you need to know",
-      "url": "https://techcrunch.com/2026/06/12/spacex-ipo-everything-you-need-to-know/",
+      "title": "SpaceX IPO: Live updates on everything you need to know",
+      "url": "https://techcrunch.com/2026/06/12/spacex-ipo-live-updates-on-everything-you-need-to-know/",
       "source": "TechCrunch",
-      "published_at": "Fri, 12 Jun 2026 14:08:54 +0000",
+      "published_at": "Fri, 12 Jun 2026 20:04:38 +0000",
       "raw_content": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and maybe some who won't), pre-IPO deals, and what's tucked inside its S-1 registration document.",
       "summary": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and mayb",
       "importance": 1.5
     },
     {
-      "title": "SpaceX SPV investors won’t know their true holdings until post-IPO lock-ups lift",
-      "url": "https://techcrunch.com/2026/06/11/spacex-spv-investors-wont-know-their-true-holdings-until-post-ipo-lock-ups-lift/",
-      "source": "TechCrunch",
-      "published_at": "Thu, 11 Jun 2026 19:58:01 +0000",
-      "raw_content": "After SpaceX makes its public debut, lower-tier SPV investors face hidden fees, lengthy payout delays, and the  risk of outright fraud.",
-      "summary": "After SpaceX makes its public debut, lower-tier SPV investors face hidden fees, lengthy payout delays, and the  risk of outright fraud.",
-      "importance": 1.5
-    },
-    {
-      "title": "Pool’s new app turns your screenshots into something useful",
-      "url": "https://techcrunch.com/2026/06/11/pools-new-app-turns-your-screenshots-into-a-searchable-memory-bank/",
-      "source": "TechCrunch",
-      "published_at": "Thu, 11 Jun 2026 15:30:00 +0000",
-      "raw_content": "Pool's new app automatically sorts screenshots into personalized collections, tracks down the original links behind saved content, and helps you rediscover products, recipes, travel ideas, and other things you meant to revisit.",
-      "summary": "Pool's new app automatically sorts screenshots into personalized collections, tracks down the original links behind saved content, and helps you rediscover products, recipes, travel ideas, and other t",
+      "title": "Siri is good now??",
+      "url": "https://www.theverge.com/podcast/949079/siri-ai-good-vergecast",
+      "source": "The Verge",
+      "published_at": "2026-06-12T13:17:04-04:00",
+      "raw_content": "You'd be forgiven for thinking this day would never come. Siri has spent a decade and half somewhere between \"sort of useful at a few things\" and \"utterly disastrous, why did I even try, can it honestly not even set a timer.\" But the wildest thing just happened: Apple put out a new version of [&#8230;]",
+      "summary": "You'd be forgiven for thinking this day would never come. Siri has spent a decade and half somewhere between \"sort of useful at a few things\" and \"utterly disastrous, why did I even try, can it honest",
       "importance": 1.5
     },
     {
@@ -128,6 +146,15 @@
       "importance": 1.5
     },
     {
+      "title": "Amazon&#8217;s data centers used 2.5 billion gallons of water last year",
+      "url": "https://www.theverge.com/tech/948534/amazon-data-centers-water-use",
+      "source": "The Verge",
+      "published_at": "2026-06-11T13:26:57-04:00",
+      "raw_content": "Just after Seattle enacted a one-year data center moratorium that some of Amazon's own employees pushed for, Amazon shared how much water its data centers use, reportedly for the first time. With concerns about water consumption and energy use a focus of new AI data center construction debates, Amazon says its global data center operations [&#8230;]",
+      "summary": "Just after Seattle enacted a one-year data center moratorium that some of Amazon's own employees pushed for, Amazon shared how much water its data centers use, reportedly for the first time. With conc",
+      "importance": 1.4
+    },
+    {
       "title": "Deezer launches an AI music detector for other streaming services",
       "url": "https://www.theverge.com/ai-artificial-intelligence/948153/deezer-ai-music-detector-spotify-apple",
       "source": "The Verge",
@@ -135,24 +162,6 @@
       "raw_content": "Deezer will now scan your playlists on other streaming platforms to detect AI-generated music. Deezer was the first of the big streaming services to start labeling AI-generated music. It even offered its tech to other platforms, but it doesn't seem like it had many buyers. Qobuz launched its own detection tech, while Apple and Spotify [&#8230;]",
       "summary": "Deezer will now scan your playlists on other streaming platforms to detect AI-generated music. Deezer was the first of the big streaming services to start labeling AI-generated music. It even offered ",
       "importance": 1.4
-    },
-    {
-      "title": "DoorDash’s new AI chatbot lets you order with prompts and photos",
-      "url": "https://techcrunch.com/2026/06/11/doordashs-new-ai-chatbot-lets-you-order-with-prompts-and-photos/",
-      "source": "TechCrunch",
-      "published_at": "Thu, 11 Jun 2026 14:23:43 +0000",
-      "raw_content": "The new chatbot, called Ask DoorDash, allows users to search the app for what they're looking for in their own words instead of having to scroll through restaurants and stores to build a cart.",
-      "summary": "The new chatbot, called Ask DoorDash, allows users to search the app for what they're looking for in their own words instead of having to scroll through restaurants and stores to build a cart.",
-      "importance": 1.25
-    },
-    {
-      "title": "Opendoor’s India exit is fueling a bigger conversation about AI and outsourcing",
-      "url": "https://techcrunch.com/2026/06/10/opendoors-india-exit-is-fueling-a-bigger-conversation-about-ai-and-outsourcing/",
-      "source": "TechCrunch",
-      "published_at": "Thu, 11 Jun 2026 04:02:19 +0000",
-      "raw_content": "The decision comes as India emerges as the world’s largest GCC market.",
-      "summary": "The decision comes as India emerges as the world’s largest GCC market.",
-      "importance": 1.25
     },
     {
       "title": "Microsoft, like, totally gets why students are booing AI-pilled graduation speakers",
@@ -164,22 +173,13 @@
       "importance": 1.25
     },
     {
-      "title": "The future of AI regulation is courting the strangest, most anxious bedfellows",
-      "url": "https://www.theverge.com/column/947838/washington-ai-network-honors-2026-midterms",
-      "source": "The Verge",
-      "published_at": "2026-06-10T13:38:00-04:00",
-      "raw_content": "Hello and welcome to Regulator, a newsletter for Verge subscribers about tech politics, tech influence, and tech shenanigans in Washington, DC. (If you're not a subscriber, you can get on board here.) We're back after a two-week hiatus, during most of which I was gallivanting in the Netherlands for a family wedding, and a trip [&#8230;]",
-      "summary": "Hello and welcome to Regulator, a newsletter for Verge subscribers about tech politics, tech influence, and tech shenanigans in Washington, DC. (If you're not a subscriber, you can get on board here.)",
-      "importance": 1.25
-    },
-    {
-      "title": "Google won’t just admit it’s feeding YouTube creators to its music AI",
-      "url": "https://www.theverge.com/tech/947770/google-lyria-music-ai-lawsuit-youtube",
-      "source": "The Verge",
-      "published_at": "2026-06-10T13:20:36-04:00",
-      "raw_content": "If you've uploaded a song to YouTube, Google almost certainly considers your video fair game for training its Lyria music AI, it just won't admit it right now. A group of independent musicians is suing Google, claiming that it illegally used songs they uploaded to YouTube to train its Lyria 3 model. Google has filed [&#8230;]",
-      "summary": "If you've uploaded a song to YouTube, Google almost certainly considers your video fair game for training its Lyria music AI, it just won't admit it right now. A group of independent musicians is suin",
-      "importance": 1.25
+      "title": "SpaceX SPV investors won’t know their true holdings until post-IPO lock-ups lift",
+      "url": "https://techcrunch.com/2026/06/11/spacex-spv-investors-wont-know-their-true-holdings-until-post-ipo-lock-ups-lift/",
+      "source": "TechCrunch",
+      "published_at": "Thu, 11 Jun 2026 19:58:01 +0000",
+      "raw_content": "After SpaceX makes its public debut, lower-tier SPV investors face hidden fees, lengthy payout delays, and the  risk of outright fraud.",
+      "summary": "After SpaceX makes its public debut, lower-tier SPV investors face hidden fees, lengthy payout delays, and the  risk of outright fraud.",
+      "importance": 1.2
     }
   ]
 }
