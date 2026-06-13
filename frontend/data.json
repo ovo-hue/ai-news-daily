@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-13T08:56:03.280068+00:00",
+  "generated_at": "2026-06-13T13:56:05.041271+00:00",
   "items": [
     {
       "title": "Mistral is rumored to be raising €3B at €20B valuation",
@@ -47,15 +47,6 @@
       "importance": 1.65
     },
     {
-      "title": "Claude Fable won’t answer basic biology questions",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/947973/fable-wont-answer-basic-biology-questions",
-      "source": "The Verge",
-      "published_at": "2026-06-10T14:43:34-04:00",
-      "raw_content": "Anthropic just released Claude Fable 5, calling it the most powerful AI model it has ever made widely available and praising its skills in biology, among others. But the model won't answer basic biology questions - the kind you'd expect a high schooler to handle. Instead, it hands off the query to the former flagship [&#8230;]",
-      "summary": "Anthropic just released Claude Fable 5, calling it the most powerful AI model it has ever made widely available and praising its skills in biology, among others. But the model won't answer basic biolo",
-      "importance": 1.65
-    },
-    {
       "title": "Anthropic’s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI",
       "url": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/",
       "source": "TechCrunch",
@@ -80,6 +71,42 @@
       "published_at": "Fri, 12 Jun 2026 20:38:09 +0000",
       "raw_content": "The tech giant said a group called \"Outsider Enterprise\" used AI to scam hundreds of thousands of victims, sending 2.5 million text messages over a span of two weeks.",
       "summary": "The tech giant said a group called \"Outsider Enterprise\" used AI to scam hundreds of thousands of victims, sending 2.5 million text messages over a span of two weeks.",
+      "importance": 1.55
+    },
+    {
+      "title": "My yard is dying, so I made an app for that",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/942119/vibecoding-backyard-app-gardening-organizing",
+      "source": "The Verge",
+      "published_at": "2026-06-13T09:00:00-04:00",
+      "raw_content": "When I returned to my computer five minutes after giving Gemini a lengthy prompt, I had two things: a functional app in a preview window, and a message about a bug. \"~ Channel is unrecoverably broken and will be disposed!\" Sounded bad! But right below it was a button to fix the bug. Pretty weird [&#8230;]",
+      "summary": "When I returned to my computer five minutes after giving Gemini a lengthy prompt, I had two things: a functional app in a preview window, and a message about a bug. \"~ Channel is unrecoverably broken ",
+      "importance": 1.55
+    },
+    {
+      "title": "Anthropic cuts off Fable 5 and Mythos 5 access following government order",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/949553/anthropic-fable-5-mythos-5-government-national-security",
+      "source": "The Verge",
+      "published_at": "2026-06-13T08:55:49-04:00",
+      "raw_content": "On Friday evening, the government ordered Anthropic to block access to Fable 5 and Mythos 5 for all foreign nations, both inside and outside the US, due to national security concerns. That order included employees of Anthropic. To meet those demands, the company has completely cut off access to the models for all customers. In [&#8230;]",
+      "summary": "On Friday evening, the government ordered Anthropic to block access to Fable 5 and Mythos 5 for all foreign nations, both inside and outside the US, due to national security concerns. That order inclu",
+      "importance": 1.55
+    },
+    {
+      "title": "Apple’s new AI photo editing tools mostly work, for better and worse",
+      "url": "https://www.theverge.com/tech/949360/apple-ai-photo-edit-reframe-extend-clean-up-hands-on",
+      "source": "The Verge",
+      "published_at": "2026-06-13T08:00:00-04:00",
+      "raw_content": "The most popular camera in the world just got its first set of serious AI photo editing features, and I don't think any of us are ready. As far as AI photo editing goes, the new features in iOS 27 are pretty tame compared to what you can do on, say, Google's Pixel phones. But [&#8230;]",
+      "summary": "The most popular camera in the world just got its first set of serious AI photo editing features, and I don't think any of us are ready. As far as AI photo editing goes, the new features in iOS 27 are",
+      "importance": 1.55
+    },
+    {
+      "title": "The future of Hollywood isn’t feeding prompts into vanilla gen AI models",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/948425/tribeca-2026-dear-upstairs-neighbors-google-deepmind-openai",
+      "source": "The Verge",
+      "published_at": "2026-06-13T07:00:00-04:00",
+      "raw_content": "For all the noise that's been made about how generative AI is poised to revolutionize the filmmaking industry, there haven't really been any projects created with the technology that felt like the sort of entertainment people would pay to see. Most AI firms' video models are still only capable of churning out short bursts of [&#8230;]",
+      "summary": "For all the noise that's been made about how generative AI is poised to revolutionize the filmmaking industry, there haven't really been any projects created with the technology that felt like the sor",
       "importance": 1.55
     },
     {
@@ -119,15 +146,6 @@
       "importance": 1.5
     },
     {
-      "title": "Anthropic apologizes for invisible Claude Fable guardrails",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
-      "source": "The Verge",
-      "published_at": "2026-06-11T07:40:43-04:00",
-      "raw_content": "Anthropic has apologized for stealthily throttling its new AI model, Claude Fable 5, with hidden guardrails that undermine both researchers and rivals using it to develop competing systems. The company says it is reversing course and will be more transparent about when the restrictions kick in, even if that means Fable refuses more queries. Fable [&#8230;]",
-      "summary": "Anthropic has apologized for stealthily throttling its new AI model, Claude Fable 5, with hidden guardrails that undermine both researchers and rivals using it to develop competing systems. The compan",
-      "importance": 1.5
-    },
-    {
       "title": "Theker just raised $85M to build the factory robot that doesn’t specialize in anything",
       "url": "https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/",
       "source": "TechCrunch",
@@ -146,15 +164,6 @@
       "importance": 1.4
     },
     {
-      "title": "Deezer launches an AI music detector for other streaming services",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/948153/deezer-ai-music-detector-spotify-apple",
-      "source": "The Verge",
-      "published_at": "2026-06-11T04:00:00-04:00",
-      "raw_content": "Deezer will now scan your playlists on other streaming platforms to detect AI-generated music. Deezer was the first of the big streaming services to start labeling AI-generated music. It even offered its tech to other platforms, but it doesn't seem like it had many buyers. Qobuz launched its own detection tech, while Apple and Spotify [&#8230;]",
-      "summary": "Deezer will now scan your playlists on other streaming platforms to detect AI-generated music. Deezer was the first of the big streaming services to start labeling AI-generated music. It even offered ",
-      "importance": 1.4
-    },
-    {
       "title": "Siri won’t be your AI girlfriend",
       "url": "https://www.theverge.com/tech/948890/siri-wont-be-your-ai-girlfriend",
       "source": "The Verge",
@@ -170,15 +179,6 @@
       "published_at": "Fri, 12 Jun 2026 04:30:00 +0000",
       "raw_content": "Avataar AI's distilled video model is priced at $0.005 for every second of generation.",
       "summary": "Avataar AI's distilled video model is priced at $0.005 for every second of generation.",
-      "importance": 1.25
-    },
-    {
-      "title": "Microsoft, like, totally gets why students are booing AI-pilled graduation speakers",
-      "url": "https://www.theverge.com/news/947831/college-speakers-booed-ai-microsoft",
-      "source": "The Verge",
-      "published_at": "2026-06-10T13:45:11-04:00",
-      "raw_content": "New college graduates around the country have been booing and heckling commencement speakers who hype up AI. Microsoft would like everyone to talk it out. In a blog post running more than 3,100 words, Microsoft vice chair and president Brad Smith addressed the recent spate of viral clips from graduation ceremonies, like former Google CEO [&#8230;]",
-      "summary": "New college graduates around the country have been booing and heckling commencement speakers who hype up AI. Microsoft would like everyone to talk it out. In a blog post running more than 3,100 words,",
       "importance": 1.25
     }
   ]
