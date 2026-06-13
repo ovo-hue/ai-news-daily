@@ -1,50 +1,23 @@
 {
-  "generated_at": "2026-06-13T13:56:05.041271+00:00",
+  "generated_at": "2026-06-13T19:23:22.406828+00:00",
   "items": [
     {
-      "title": "Mistral is rumored to be raising €3B at €20B valuation",
-      "url": "https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/",
+      "title": "Amazon CEO reportedly raised Anthropic model concerns before government crackdown",
+      "url": "https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/",
       "source": "TechCrunch",
-      "published_at": "Fri, 12 Jun 2026 17:38:11 +0000",
-      "raw_content": "The funding round would value the company at around €20 billion (about $23.15 billion), nearly double its Series C valuation of €11.7 billion.",
-      "summary": "The funding round would value the company at around €20 billion (about $23.15 billion), nearly double its Series C valuation of €11.7 billion.",
-      "importance": 1.7
+      "published_at": "Sat, 13 Jun 2026 19:11:41 +0000",
+      "raw_content": "Amazon CEO Andy Jassy may have been the source of security concerns that led Anthropic to cut off worldwide access to two models on Friday.",
+      "summary": "Amazon CEO Andy Jassy may have been the source of security concerns that led Anthropic to cut off worldwide access to two models on Friday.",
+      "importance": 1.75
     },
     {
-      "title": "Elon Musk is the world&#8217;s first trillionaire",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/948409/elon-musk-trillionaire-spacex-ipo",
-      "source": "The Verge",
-      "published_at": "2026-06-12T12:24:39-04:00",
-      "raw_content": "Elon Musk's net worth has passed the trillion-dollar mark after SpaceX's IPO. His net worth, which was hovering around $800 billion before the IPO, includes the value of his 4.8 billion shares in SpaceX, along with his wealth from his other companies, like Tesla. Shares of SPCX opened at $150 and have remained well above [&#8230;]",
-      "summary": "Elon Musk's net worth has passed the trillion-dollar mark after SpaceX's IPO. His net worth, which was hovering around $800 billion before the IPO, includes the value of his 4.8 billion shares in Spac",
-      "importance": 1.7
-    },
-    {
-      "title": "SpaceX’s massive IPO: all the latest news",
-      "url": "https://www.theverge.com/business/948996/spacex-ipo-elon-musk",
-      "source": "The Verge",
-      "published_at": "2026-06-12T10:35:48-04:00",
-      "raw_content": "SpaceX&#8217;s IPO on Friday allows the public to buy shares of the combined rocket, AI, and social media company for the first time, and raised enough money to make Elon Musk the first trillionaire.  He has more wealth, on paper at least, than the economies of nations like Ireland, Sweden, or his home country of [&#8230;]",
-      "summary": "SpaceX&#8217;s IPO on Friday allows the public to buy shares of the combined rocket, AI, and social media company for the first time, and raised enough money to make Elon Musk the first trillionaire. ",
-      "importance": 1.7
-    },
-    {
-      "title": "SpaceX, Anthropic, and OpenAI’s hot IPO summer",
-      "url": "https://techcrunch.com/video/spacex-anthropic-and-openais-hot-ipo-summer/",
+      "title": "OpenAI faces investigation from state attorneys general",
+      "url": "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/",
       "source": "TechCrunch",
-      "published_at": "Fri, 12 Jun 2026 16:23:25 +0000",
-      "raw_content": "The IPO market is back, and&#160;it&#8217;s&#160;not the same&#160;companies&#160;leading the charge. FAANG had a good run, but a&#160;new acronym is taking over: MANGOS&#160;— Meta (or Microsoft, depending on who you ask), Anthropic, Nvidia, Google, OpenAI, and SpaceX. Half&#160;of that&#160;bunch is heading to public markets in the same window,&#160;and&#160;it&#8217;s&#160;a stress test for investors, for valuations, and for [&#8230;]",
-      "summary": "The IPO market is back, and&#160;it&#8217;s&#160;not the same&#160;companies&#160;leading the charge. FAANG had a good run, but a&#160;new acronym is taking over: MANGOS&#160;— Meta (or Microsoft, dep",
-      "importance": 1.65
-    },
-    {
-      "title": "It’s hot IPO summer, and the MANGOS are ripe",
-      "url": "https://techcrunch.com/podcast/its-hot-ipo-summer-and-the-mangos-are-ripe/",
-      "source": "TechCrunch",
-      "published_at": "Fri, 12 Jun 2026 15:50:52 +0000",
-      "raw_content": "The IPO market is back, and&#160;it&#8217;s&#160;not the same&#160;companies&#160;leading the charge. FAANG had a good run, but a&#160;new acronym is taking over: MANGOS&#160;— Meta (or Microsoft, depending on who you ask), Anthropic, Nvidia, Google, OpenAI, and SpaceX. Half&#160;of that&#160;bunch is heading to public markets in the same window,&#160;and&#160;it&#8217;s&#160;a stress test for investors, for valuations, and for [&#8230;]",
-      "summary": "The IPO market is back, and&#160;it&#8217;s&#160;not the same&#160;companies&#160;leading the charge. FAANG had a good run, but a&#160;new acronym is taking over: MANGOS&#160;— Meta (or Microsoft, dep",
-      "importance": 1.65
+      "published_at": "Sat, 13 Jun 2026 16:47:18 +0000",
+      "raw_content": "It's not clear which states are involved, but they're asking about everything from OpenAI's ad policies to its handling of health data.",
+      "summary": "It's not clear which states are involved, but they're asking about everything from OpenAI's ad policies to its handling of health data.",
+      "importance": 1.6
     },
     {
       "title": "Anthropic’s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI",
@@ -110,15 +83,6 @@
       "importance": 1.55
     },
     {
-      "title": "Jeff Bezos’ AI startup aims to build an ‘artificial general engineer’",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/949005/jeff-bezos-prometheus-artificial-general-engineer",
-      "source": "The Verge",
-      "published_at": "2026-06-12T10:03:39-04:00",
-      "raw_content": "Amazon founder Jeff Bezos says his new AI startup will work toward developing an \"artificial general engineer,\" according to reports from The New York Times and CNBC. The startup, called Prometheus, aims to develop AI-powered engineering tools to aid in the design of physical products. The NYT first reported on Prometheus last November, but now [&#8230;]",
-      "summary": "Amazon founder Jeff Bezos says his new AI startup will work toward developing an \"artificial general engineer,\" according to reports from The New York Times and CNBC. The startup, called Prometheus, a",
-      "importance": 1.55
-    },
-    {
       "title": "Andrew Yang thinks the next big startup opportunity is lowering the cost of living",
       "url": "https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living/",
       "source": "TechCrunch",
@@ -137,21 +101,30 @@
       "importance": 1.5
     },
     {
-      "title": "Siri is good now??",
-      "url": "https://www.theverge.com/podcast/949079/siri-ai-good-vergecast",
-      "source": "The Verge",
-      "published_at": "2026-06-12T13:17:04-04:00",
-      "raw_content": "You'd be forgiven for thinking this day would never come. Siri has spent a decade and half somewhere between \"sort of useful at a few things\" and \"utterly disastrous, why did I even try, can it honestly not even set a timer.\" But the wildest thing just happened: Apple put out a new version of [&#8230;]",
-      "summary": "You'd be forgiven for thinking this day would never come. Siri has spent a decade and half somewhere between \"sort of useful at a few things\" and \"utterly disastrous, why did I even try, can it honest",
-      "importance": 1.5
+      "title": "Mistral is rumored to be raising €3B at €20B valuation",
+      "url": "https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/",
+      "source": "TechCrunch",
+      "published_at": "Fri, 12 Jun 2026 17:38:11 +0000",
+      "raw_content": "The funding round would value the company at around €20 billion (about $23.15 billion), nearly double its Series C valuation of €11.7 billion.",
+      "summary": "The funding round would value the company at around €20 billion (about $23.15 billion), nearly double its Series C valuation of €11.7 billion.",
+      "importance": 1.4
     },
     {
-      "title": "Theker just raised $85M to build the factory robot that doesn’t specialize in anything",
-      "url": "https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/",
-      "source": "TechCrunch",
-      "published_at": "Fri, 12 Jun 2026 01:48:07 +0000",
-      "raw_content": "Unlike humanoid robots designed around a fixed form — think Boston Dynamics — Theker's machines are built to be reconfigured.",
-      "summary": "Unlike humanoid robots designed around a fixed form — think Boston Dynamics — Theker's machines are built to be reconfigured.",
+      "title": "Elon Musk is the world&#8217;s first trillionaire",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/948409/elon-musk-trillionaire-spacex-ipo",
+      "source": "The Verge",
+      "published_at": "2026-06-12T12:24:39-04:00",
+      "raw_content": "Elon Musk's net worth has passed the trillion-dollar mark after SpaceX's IPO. His net worth, which was hovering around $800 billion before the IPO, includes the value of his 4.8 billion shares in SpaceX, along with his wealth from his other companies, like Tesla. Shares of SPCX opened at $150 and have remained well above [&#8230;]",
+      "summary": "Elon Musk's net worth has passed the trillion-dollar mark after SpaceX's IPO. His net worth, which was hovering around $800 billion before the IPO, includes the value of his 4.8 billion shares in Spac",
+      "importance": 1.4
+    },
+    {
+      "title": "SpaceX’s massive IPO: all the latest news",
+      "url": "https://www.theverge.com/business/948996/spacex-ipo-elon-musk",
+      "source": "The Verge",
+      "published_at": "2026-06-12T10:35:48-04:00",
+      "raw_content": "SpaceX&#8217;s IPO on Friday allows the public to buy shares of the combined rocket, AI, and social media company for the first time, and raised enough money to make Elon Musk the first trillionaire.  He has more wealth, on paper at least, than the economies of nations like Ireland, Sweden, or his home country of [&#8230;]",
+      "summary": "SpaceX&#8217;s IPO on Friday allows the public to buy shares of the combined rocket, AI, and social media company for the first time, and raised enough money to make Elon Musk the first trillionaire. ",
       "importance": 1.4
     },
     {
@@ -164,6 +137,24 @@
       "importance": 1.4
     },
     {
+      "title": "SpaceX, Anthropic, and OpenAI’s hot IPO summer",
+      "url": "https://techcrunch.com/video/spacex-anthropic-and-openais-hot-ipo-summer/",
+      "source": "TechCrunch",
+      "published_at": "Fri, 12 Jun 2026 16:23:25 +0000",
+      "raw_content": "The IPO market is back, and&#160;it&#8217;s&#160;not the same&#160;companies&#160;leading the charge. FAANG had a good run, but a&#160;new acronym is taking over: MANGOS&#160;— Meta (or Microsoft, depending on who you ask), Anthropic, Nvidia, Google, OpenAI, and SpaceX. Half&#160;of that&#160;bunch is heading to public markets in the same window,&#160;and&#160;it&#8217;s&#160;a stress test for investors, for valuations, and for [&#8230;]",
+      "summary": "The IPO market is back, and&#160;it&#8217;s&#160;not the same&#160;companies&#160;leading the charge. FAANG had a good run, but a&#160;new acronym is taking over: MANGOS&#160;— Meta (or Microsoft, dep",
+      "importance": 1.35
+    },
+    {
+      "title": "It’s hot IPO summer, and the MANGOS are ripe",
+      "url": "https://techcrunch.com/podcast/its-hot-ipo-summer-and-the-mangos-are-ripe/",
+      "source": "TechCrunch",
+      "published_at": "Fri, 12 Jun 2026 15:50:52 +0000",
+      "raw_content": "The IPO market is back, and&#160;it&#8217;s&#160;not the same&#160;companies&#160;leading the charge. FAANG had a good run, but a&#160;new acronym is taking over: MANGOS&#160;— Meta (or Microsoft, depending on who you ask), Anthropic, Nvidia, Google, OpenAI, and SpaceX. Half&#160;of that&#160;bunch is heading to public markets in the same window,&#160;and&#160;it&#8217;s&#160;a stress test for investors, for valuations, and for [&#8230;]",
+      "summary": "The IPO market is back, and&#160;it&#8217;s&#160;not the same&#160;companies&#160;leading the charge. FAANG had a good run, but a&#160;new acronym is taking over: MANGOS&#160;— Meta (or Microsoft, dep",
+      "importance": 1.35
+    },
+    {
       "title": "Siri won’t be your AI girlfriend",
       "url": "https://www.theverge.com/tech/948890/siri-wont-be-your-ai-girlfriend",
       "source": "The Verge",
@@ -173,13 +164,22 @@
       "importance": 1.3
     },
     {
-      "title": "Cheaper, faster, and culturally aware, Avataar’s video AI is built for India’s scale",
-      "url": "https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/",
-      "source": "TechCrunch",
-      "published_at": "Fri, 12 Jun 2026 04:30:00 +0000",
-      "raw_content": "Avataar AI's distilled video model is priced at $0.005 for every second of generation.",
-      "summary": "Avataar AI's distilled video model is priced at $0.005 for every second of generation.",
+      "title": "Jeff Bezos’ AI startup aims to build an ‘artificial general engineer’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/949005/jeff-bezos-prometheus-artificial-general-engineer",
+      "source": "The Verge",
+      "published_at": "2026-06-12T10:03:39-04:00",
+      "raw_content": "Amazon founder Jeff Bezos says his new AI startup will work toward developing an \"artificial general engineer,\" according to reports from The New York Times and CNBC. The startup, called Prometheus, aims to develop AI-powered engineering tools to aid in the design of physical products. The NYT first reported on Prometheus last November, but now [&#8230;]",
+      "summary": "Amazon founder Jeff Bezos says his new AI startup will work toward developing an \"artificial general engineer,\" according to reports from The New York Times and CNBC. The startup, called Prometheus, a",
       "importance": 1.25
+    },
+    {
+      "title": "Siri is good now??",
+      "url": "https://www.theverge.com/podcast/949079/siri-ai-good-vergecast",
+      "source": "The Verge",
+      "published_at": "2026-06-12T13:17:04-04:00",
+      "raw_content": "You'd be forgiven for thinking this day would never come. Siri has spent a decade and half somewhere between \"sort of useful at a few things\" and \"utterly disastrous, why did I even try, can it honestly not even set a timer.\" But the wildest thing just happened: Apple put out a new version of [&#8230;]",
+      "summary": "You'd be forgiven for thinking this day would never come. Siri has spent a decade and half somewhere between \"sort of useful at a few things\" and \"utterly disastrous, why did I even try, can it honest",
+      "importance": 1.2
     }
   ]
 }
