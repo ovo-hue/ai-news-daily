@@ -1,15 +1,6 @@
 {
-  "generated_at": "2026-06-12T20:08:27.016249+00:00",
+  "generated_at": "2026-06-13T03:33:31.079093+00:00",
   "items": [
-    {
-      "title": "Jeff Bezos’s Prometheus raises $12B to build an ‘artificial general engineer’ for the physical world",
-      "url": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/",
-      "source": "TechCrunch",
-      "published_at": "Fri, 12 Jun 2026 01:04:38 +0000",
-      "raw_content": "The new round values the physical AI startup that aims to automate heavy engineering and drug design at $41 billion.",
-      "summary": "The new round values the physical AI startup that aims to automate heavy engineering and drug design at $41 billion.",
-      "importance": 1.85
-    },
     {
       "title": "Mistral is rumored to be raising €3B at €20B valuation",
       "url": "https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/",
@@ -17,15 +8,6 @@
       "published_at": "Fri, 12 Jun 2026 17:38:11 +0000",
       "raw_content": "The funding round would value the company at around €20 billion (about $23.15 billion), nearly double its Series C valuation of €11.7 billion.",
       "summary": "The funding round would value the company at around €20 billion (about $23.15 billion), nearly double its Series C valuation of €11.7 billion.",
-      "importance": 1.7
-    },
-    {
-      "title": "Theker just raised $85M to build the factory robot that doesn’t specialize in anything",
-      "url": "https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/",
-      "source": "TechCrunch",
-      "published_at": "Fri, 12 Jun 2026 01:48:07 +0000",
-      "raw_content": "Unlike humanoid robots designed around a fixed form — think Boston Dynamics — Theker's machines are built to be reconfigured.",
-      "summary": "Unlike humanoid robots designed around a fixed form — think Boston Dynamics — Theker's machines are built to be reconfigured.",
       "importance": 1.7
     },
     {
@@ -65,15 +47,6 @@
       "importance": 1.65
     },
     {
-      "title": "SpaceX officially prices shares at $135 in the largest IPO ever",
-      "url": "https://techcrunch.com/2026/06/11/spacex-officially-prices-shares-at-135-in-the-largest-ipo-ever/",
-      "source": "TechCrunch",
-      "published_at": "Thu, 11 Jun 2026 20:33:10 +0000",
-      "raw_content": "Wits its official share pricing announcement, SpaceX's IPO has begun.",
-      "summary": "Wits its official share pricing announcement, SpaceX's IPO has begun.",
-      "importance": 1.65
-    },
-    {
       "title": "Claude Fable won’t answer basic biology questions",
       "url": "https://www.theverge.com/ai-artificial-intelligence/947973/fable-wont-answer-basic-biology-questions",
       "source": "The Verge",
@@ -81,6 +54,15 @@
       "raw_content": "Anthropic just released Claude Fable 5, calling it the most powerful AI model it has ever made widely available and praising its skills in biology, among others. But the model won't answer basic biology questions - the kind you'd expect a high schooler to handle. Instead, it hands off the query to the former flagship [&#8230;]",
       "summary": "Anthropic just released Claude Fable 5, calling it the most powerful AI model it has ever made widely available and praising its skills in biology, among others. But the model won't answer basic biolo",
       "importance": 1.65
+    },
+    {
+      "title": "Anthropic’s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI",
+      "url": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/",
+      "source": "TechCrunch",
+      "published_at": "Sat, 13 Jun 2026 02:26:30 +0000",
+      "raw_content": "Anthropic isn't hiding its frustration. \"We disagree that the finding of a narrow potential jailbreak should be cause for recalling a commercial model deployed to hundreds of millions of people,\" the company wrote in a blog post.",
+      "summary": "Anthropic isn't hiding its frustration. \"We disagree that the finding of a narrow potential jailbreak should be cause for recalling a commercial model deployed to hundreds of millions of people,\" the ",
+      "importance": 1.6
     },
     {
       "title": "Siri won’t be your AI girlfriend",
@@ -92,10 +74,19 @@
       "importance": 1.6
     },
     {
-      "title": "Google sues alleged Chinese cybercrime operation that used AI to send scam texts",
-      "url": "https://techcrunch.com/2026/06/12/google-sues-alleged-chinese-cybercrime-operation-that-used-ai-to-send-scam-texts/",
+      "title": "Meta’s months-old AI unit is a soul-crushing gulag, say the engineers stuck inside it",
+      "url": "https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/",
       "source": "TechCrunch",
-      "published_at": "Fri, 12 Jun 2026 17:26:08 +0000",
+      "published_at": "Fri, 12 Jun 2026 23:00:54 +0000",
+      "raw_content": "A new report suggests the unit, which employs 6,500 people, is on the verge of revolt.",
+      "summary": "A new report suggests the unit, which employs 6,500 people, is on the verge of revolt.",
+      "importance": 1.55
+    },
+    {
+      "title": "Chinese cybercrime operation that used AI to scam ‘hundreds of thousands of victims’ sued by Google",
+      "url": "https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/",
+      "source": "TechCrunch",
+      "published_at": "Fri, 12 Jun 2026 20:38:09 +0000",
       "raw_content": "The tech giant said a group called \"Outsider Enterprise\" used AI to scam hundreds of thousands of victims, sending 2.5 million text messages over a span of two weeks.",
       "summary": "The tech giant said a group called \"Outsider Enterprise\" used AI to scam hundreds of thousands of victims, sending 2.5 million text messages over a span of two weeks.",
       "importance": 1.55
@@ -107,6 +98,15 @@
       "published_at": "Fri, 12 Jun 2026 04:30:00 +0000",
       "raw_content": "Avataar AI's distilled video model is priced at $0.005 for every second of generation.",
       "summary": "Avataar AI's distilled video model is priced at $0.005 for every second of generation.",
+      "importance": 1.55
+    },
+    {
+      "title": "Jeff Bezos’s Prometheus raises $12B to build an ‘artificial general engineer’ for the physical world",
+      "url": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/",
+      "source": "TechCrunch",
+      "published_at": "Fri, 12 Jun 2026 01:04:38 +0000",
+      "raw_content": "The new round values the physical AI startup that aims to automate heavy engineering and drug design at $41 billion.",
+      "summary": "The new round values the physical AI startup that aims to automate heavy engineering and drug design at $41 billion.",
       "importance": 1.55
     },
     {
@@ -122,7 +122,7 @@
       "title": "SpaceX IPO: Live updates on everything you need to know",
       "url": "https://techcrunch.com/2026/06/12/spacex-ipo-live-updates-on-everything-you-need-to-know/",
       "source": "TechCrunch",
-      "published_at": "Fri, 12 Jun 2026 20:04:38 +0000",
+      "published_at": "Fri, 12 Jun 2026 23:15:14 +0000",
       "raw_content": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and maybe some who won't), pre-IPO deals, and what's tucked inside its S-1 registration document.",
       "summary": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and mayb",
       "importance": 1.5
@@ -144,6 +144,15 @@
       "raw_content": "Anthropic has apologized for stealthily throttling its new AI model, Claude Fable 5, with hidden guardrails that undermine both researchers and rivals using it to develop competing systems. The company says it is reversing course and will be more transparent about when the restrictions kick in, even if that means Fable refuses more queries. Fable [&#8230;]",
       "summary": "Anthropic has apologized for stealthily throttling its new AI model, Claude Fable 5, with hidden guardrails that undermine both researchers and rivals using it to develop competing systems. The compan",
       "importance": 1.5
+    },
+    {
+      "title": "Theker just raised $85M to build the factory robot that doesn’t specialize in anything",
+      "url": "https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/",
+      "source": "TechCrunch",
+      "published_at": "Fri, 12 Jun 2026 01:48:07 +0000",
+      "raw_content": "Unlike humanoid robots designed around a fixed form — think Boston Dynamics — Theker's machines are built to be reconfigured.",
+      "summary": "Unlike humanoid robots designed around a fixed form — think Boston Dynamics — Theker's machines are built to be reconfigured.",
+      "importance": 1.4
     },
     {
       "title": "Amazon&#8217;s data centers used 2.5 billion gallons of water last year",
@@ -171,15 +180,6 @@
       "raw_content": "New college graduates around the country have been booing and heckling commencement speakers who hype up AI. Microsoft would like everyone to talk it out. In a blog post running more than 3,100 words, Microsoft vice chair and president Brad Smith addressed the recent spate of viral clips from graduation ceremonies, like former Google CEO [&#8230;]",
       "summary": "New college graduates around the country have been booing and heckling commencement speakers who hype up AI. Microsoft would like everyone to talk it out. In a blog post running more than 3,100 words,",
       "importance": 1.25
-    },
-    {
-      "title": "SpaceX SPV investors won’t know their true holdings until post-IPO lock-ups lift",
-      "url": "https://techcrunch.com/2026/06/11/spacex-spv-investors-wont-know-their-true-holdings-until-post-ipo-lock-ups-lift/",
-      "source": "TechCrunch",
-      "published_at": "Thu, 11 Jun 2026 19:58:01 +0000",
-      "raw_content": "After SpaceX makes its public debut, lower-tier SPV investors face hidden fees, lengthy payout delays, and the  risk of outright fraud.",
-      "summary": "After SpaceX makes its public debut, lower-tier SPV investors face hidden fees, lengthy payout delays, and the  risk of outright fraud.",
-      "importance": 1.2
     }
   ]
 }
