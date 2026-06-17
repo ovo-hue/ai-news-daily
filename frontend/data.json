@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-17T03:57:42.124369+00:00",
+  "generated_at": "2026-06-17T10:52:22.709093+00:00",
   "items": [
     {
       "title": "SpaceX is officially buying Cursor for $60 billion",
@@ -110,6 +110,15 @@
       "importance": 1.55
     },
     {
+      "title": "The next humanoid robot might not look human at all",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/951283/genesis-ai-humanoid-robot-eno",
+      "source": "The Verge",
+      "published_at": "2026-06-17T05:46:56-04:00",
+      "raw_content": "The next humanoid robot might not have a head. It might not have legs. It might even sit on a wheeled base and fold down like a deck chair. But, as Genesis AI puts it, \"humanoid robots don't need to look human.\" That explains the look of Eno, the new robot from the French startup [&#8230;]",
+      "summary": "The next humanoid robot might not have a head. It might not have legs. It might even sit on a wheeled base and fold down like a deck chair. But, as Genesis AI puts it, \"humanoid robots don't need to l",
+      "importance": 1.55
+    },
+    {
       "title": "SpaceX valuation balloons to $2.6T, briefly passes Amazon",
       "url": "https://techcrunch.com/2026/06/16/spacex-valuation-balloons-to-2-6t-briefly-passes-amazon/",
       "source": "TechCrunch",
@@ -161,15 +170,6 @@
       "published_at": "2026-06-15T13:44:10-04:00",
       "raw_content": "For months, Big Tech's Washington lobbyists have chased after the holy grail of pro-AI legislation: preemption. This would be a comprehensive federal law, passed in Congress and signed by the president, applying one set of AI rules across the entire country and overriding the legally messy state-by-state approach to regulation. For months, lobbyists have run [&#8230;]",
       "summary": "For months, Big Tech's Washington lobbyists have chased after the holy grail of pro-AI legislation: preemption. This would be a comprehensive federal law, passed in Congress and signed by the presiden",
-      "importance": 1.25
-    },
-    {
-      "title": "China may have accessed Mythos",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/949644/china-white-house-anthropic-mythos",
-      "source": "The Verge",
-      "published_at": "2026-06-14T14:27:55-04:00",
-      "raw_content": "According to a new report from Semafor, the White House's decision to impose export restrictions on Anthropic's Mythos was driven in part by fears that it had been accessed by a group linked to China. If the Chinese government actually had access to Mythos 5 or Fable 5, it would present a serious national security [&#8230;]",
-      "summary": "According to a new report from Semafor, the White House's decision to impose export restrictions on Anthropic's Mythos was driven in part by fears that it had been accessed by a group linked to China.",
       "importance": 1.25
     },
     {
