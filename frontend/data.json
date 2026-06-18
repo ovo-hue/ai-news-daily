@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-18T03:44:22.765401+00:00",
+  "generated_at": "2026-06-18T10:18:24.995965+00:00",
   "items": [
     {
       "title": "NEA’s Tiffany Luck on AI IPOs, personal agents, and the ROI reckoning",
@@ -110,7 +110,7 @@
       "importance": 1.55
     },
     {
-      "title": "Midjourney Medical goes from generating ‘cat images’ to full-body ultrasound scans",
+      "title": "Midjourney goes from generating cat images to full-body ultrasound scans",
       "url": "https://www.theverge.com/ai-artificial-intelligence/952011/midjourney-medical-ai-ultrasound-scan",
       "source": "The Verge",
       "published_at": "2026-06-17T23:12:31-04:00",
@@ -125,15 +125,6 @@
       "published_at": "2026-06-17T09:30:00-04:00",
       "raw_content": "AI is pretty reliable at putting things on your calendar these days, but it hasn't quite cracked answering the related and all-important question of \"What should I do this weekend?\" Meta's new AI Mode in search could be a useful tool - if it ever learns to stop getting stuff wrong. AI Mode is a [&#8230;]",
       "summary": "AI is pretty reliable at putting things on your calendar these days, but it hasn't quite cracked answering the related and all-important question of \"What should I do this weekend?\" Meta's new AI Mode",
-      "importance": 1.55
-    },
-    {
-      "title": "The next humanoid robot might not look human at all",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/951283/genesis-ai-humanoid-robot-eno",
-      "source": "The Verge",
-      "published_at": "2026-06-17T05:46:56-04:00",
-      "raw_content": "The next humanoid robot might not have a head. It might not have legs. It might even sit on a wheeled base and fold down like a deck chair. But, as Genesis AI puts it, \"humanoid robots don't need to look human.\" That explains the look of Eno, the new robot from the French startup [&#8230;]",
-      "summary": "The next humanoid robot might not have a head. It might not have legs. It might even sit on a wheeled base and fold down like a deck chair. But, as Genesis AI puts it, \"humanoid robots don't need to l",
       "importance": 1.55
     },
     {
@@ -171,6 +162,15 @@
       "raw_content": "Now that we're clear of WWDC and all of the new AI-powered features coming to Apple's platforms, Bloomberg reporter Mark Gurman has more details about rumored new hardware, like the camera-equipped AirPods he'd previously written about. He says they are currently on schedule for a late 2027 launch, and that while we're checking out beta [&#8230;]",
       "summary": "Now that we're clear of WWDC and all of the new AI-powered features coming to Apple's platforms, Bloomberg reporter Mark Gurman has more details about rumored new hardware, like the camera-equipped Ai",
       "importance": 1.4
+    },
+    {
+      "title": "The next humanoid robot might not look human at all",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/951283/genesis-ai-humanoid-robot-eno",
+      "source": "The Verge",
+      "published_at": "2026-06-17T05:46:56-04:00",
+      "raw_content": "The next humanoid robot might not have a head. It might not have legs. It might even sit on a wheeled base and fold down like a deck chair. But, as Genesis AI puts it, \"humanoid robots don't need to look human.\" That explains the look of Eno, the new robot from the French startup [&#8230;]",
+      "summary": "The next humanoid robot might not have a head. It might not have legs. It might even sit on a wheeled base and fold down like a deck chair. But, as Genesis AI puts it, \"humanoid robots don't need to l",
+      "importance": 1.25
     },
     {
       "title": "Qualcomm’s latest chip hints that more powerful smart glasses could be on the way",
