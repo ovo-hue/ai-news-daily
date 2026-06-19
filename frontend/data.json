@@ -1,15 +1,6 @@
 {
-  "generated_at": "2026-06-19T10:23:26.277265+00:00",
+  "generated_at": "2026-06-19T15:11:42.585331+00:00",
   "items": [
-    {
-      "title": "Adobe’s redesigned AI studio remembers what your creations look like",
-      "url": "https://www.theverge.com/tech/952104/adobe-firefly-ai-agent-elements-projects-update",
-      "source": "The Verge",
-      "published_at": "2026-06-18T09:00:00-04:00",
-      "raw_content": "Adobe is introducing some new capabilities for its Firefly AI assistant, alongside a \"reimagined\" AI studio that lets you edit and generate new designs from a single interface. The new Firefly experience launching today in private beta is designed to give you \"persistent context, reusable assets, and organized workflows\" across your projects, according to Adobe, [&#8230;]",
-      "summary": "Adobe is introducing some new capabilities for its Firefly AI assistant, alongside a \"reimagined\" AI studio that lets you edit and generate new designs from a single interface. The new Firefly experie",
-      "importance": 1.75
-    },
     {
       "title": "AI inference startup Baseten reportedly raising $1.5B months after its last mega-round",
       "url": "https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/",
@@ -38,22 +29,13 @@
       "importance": 1.7
     },
     {
-      "title": "‘Queer Eye’ life coach Karamo Brown launches Kē, a wellness app featuring his AI digital clone",
-      "url": "https://techcrunch.com/2026/06/18/queer-eyes-life-coach-karamo-brown-launches-ke-a-wellness-app-featuring-his-ai-digital-clone/",
-      "source": "TechCrunch",
-      "published_at": "Thu, 18 Jun 2026 16:55:04 +0000",
-      "raw_content": "After spending a year and a half focusing on his own journey — from fitness and nutrition to meditation, sobriety, relationships, and personal growth — Brown wants to help others do the same.",
-      "summary": "After spending a year and a half focusing on his own journey — from fitness and nutrition to meditation, sobriety, relationships, and personal growth — Brown wants to help others do the same.",
-      "importance": 1.7
-    },
-    {
-      "title": "Photoshop and Premiere now have AI assistants",
-      "url": "https://www.theverge.com/tech/952099/adobe-ai-assistants-photoshop-premiere-illustrator-beta-launch",
+      "title": "The film about Sam Altman has been dropped by Amazon MGM",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/952906/sam-altman-film-artificial-openai-amazon-mgm-dropped",
       "source": "The Verge",
-      "published_at": "2026-06-18T09:00:00-04:00",
-      "raw_content": "Adobe's plan to stick AI assistants into all of its Creative Cloud suite is now fully underway, with new chatbots now rolling out to its biggest editing and design apps. As part of a public beta launching today, Photoshop, Premiere, Illustrator, InDesign, and Frame.io now each have a bespoke AI Assistant that can be used [&#8230;]",
-      "summary": "Adobe's plan to stick AI assistants into all of its Creative Cloud suite is now fully underway, with new chatbots now rolling out to its biggest editing and design apps. As part of a public beta launc",
-      "importance": 1.7
+      "published_at": "2026-06-19T10:15:29-04:00",
+      "raw_content": "Luca Guadagnino's film about OpenAI CEO Sam Altman, Artificial, has reportedly been dropped by Amazon MGM. The film, which stars Andrew Garfield and covers the rollercoaster five days in 2023 spanning Altman's termination and reinstatement as CEO, had been in the works for about a year. The cast also includes A Complete Unknown actress Monica [&#8230;]",
+      "summary": "Luca Guadagnino's film about OpenAI CEO Sam Altman, Artificial, has reportedly been dropped by Amazon MGM. The film, which stars Andrew Garfield and covers the rollercoaster five days in 2023 spanning",
+      "importance": 1.6
     },
     {
       "title": "Barret Zoph is out at OpenAI again after just five months",
@@ -65,13 +47,13 @@
       "importance": 1.6
     },
     {
-      "title": "Who decides when AI is too dangerous?",
-      "url": "https://www.theverge.com/podcast/951542/anthropic-claude-fable-5-mythos-ban-pentagon-ai-regulation-trump",
-      "source": "The Verge",
-      "published_at": "2026-06-18T10:00:00-04:00",
-      "raw_content": "On today’s episode of Decoder, my guest is Hayden Field, senior AI reporter for The Verge. Often when Hayden comes on the show, it’s because something has gone wrong in the world of AI. Last weekend, that something was a pretty intense mix of Anthropic, the Trump administration, and Anthropic’s new AI model, Fable 5.&#160; [&#8230;]",
-      "summary": "On today’s episode of Decoder, my guest is Hayden Field, senior AI reporter for The Verge. Often when Hayden comes on the show, it’s because something has gone wrong in the world of AI. Last weekend, ",
-      "importance": 1.6
+      "title": "The CEO of Allbirds’ new AI biz has a plan, but no employees",
+      "url": "https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/",
+      "source": "TechCrunch",
+      "published_at": "Fri, 19 Jun 2026 13:00:00 +0000",
+      "raw_content": "Call it a startup with a sole founder and a very large seed round, but what's next is less clear.",
+      "summary": "Call it a startup with a sole founder and a very large seed round, but what's next is less clear.",
+      "importance": 1.55
     },
     {
       "title": "The US says ASML’s top chip tool may be in China. ASML says it isn’t",
@@ -137,6 +119,33 @@
       "importance": 1.5
     },
     {
+      "title": "Adobe’s redesigned AI studio remembers what your creations look like",
+      "url": "https://www.theverge.com/tech/952104/adobe-firefly-ai-agent-elements-projects-update",
+      "source": "The Verge",
+      "published_at": "2026-06-18T09:00:00-04:00",
+      "raw_content": "Adobe is introducing some new capabilities for its Firefly AI assistant, alongside a \"reimagined\" AI studio that lets you edit and generate new designs from a single interface. The new Firefly experience launching today in private beta is designed to give you \"persistent context, reusable assets, and organized workflows\" across your projects, according to Adobe, [&#8230;]",
+      "summary": "Adobe is introducing some new capabilities for its Firefly AI assistant, alongside a \"reimagined\" AI studio that lets you edit and generate new designs from a single interface. The new Firefly experie",
+      "importance": 1.45
+    },
+    {
+      "title": "Photoshop and Premiere now have AI assistants",
+      "url": "https://www.theverge.com/tech/952099/adobe-ai-assistants-photoshop-premiere-illustrator-beta-launch",
+      "source": "The Verge",
+      "published_at": "2026-06-18T09:00:00-04:00",
+      "raw_content": "Adobe's plan to stick AI assistants into all of its Creative Cloud suite is now fully underway, with new chatbots now rolling out to its biggest editing and design apps. As part of a public beta launching today, Photoshop, Premiere, Illustrator, InDesign, and Frame.io now each have a bespoke AI Assistant that can be used [&#8230;]",
+      "summary": "Adobe's plan to stick AI assistants into all of its Creative Cloud suite is now fully underway, with new chatbots now rolling out to its biggest editing and design apps. As part of a public beta launc",
+      "importance": 1.4
+    },
+    {
+      "title": "Who decides when AI is too dangerous?",
+      "url": "https://www.theverge.com/podcast/951542/anthropic-claude-fable-5-mythos-ban-pentagon-ai-regulation-trump",
+      "source": "The Verge",
+      "published_at": "2026-06-18T10:00:00-04:00",
+      "raw_content": "On today’s episode of Decoder, my guest is Hayden Field, senior AI reporter for The Verge. Often when Hayden comes on the show, it’s because something has gone wrong in the world of AI. Last weekend, that something was a pretty intense mix of Anthropic, the Trump administration, and Anthropic’s new AI model, Fable 5.&#160; [&#8230;]",
+      "summary": "On today’s episode of Decoder, my guest is Hayden Field, senior AI reporter for The Verge. Often when Hayden comes on the show, it’s because something has gone wrong in the world of AI. Last weekend, ",
+      "importance": 1.3
+    },
+    {
       "title": "Anthropic got hit by export rules nobody understands",
       "url": "https://www.theverge.com/ai-artificial-intelligence/951703/anthropic-shutdown-export-controls",
       "source": "The Verge",
@@ -171,15 +180,6 @@
       "raw_content": "Midjourney CEO David Holz just showed off the company's first hardware product and plans to build a San Francisco spa, which he admitted is a bit different from the \"cat pictures\" produced by its AI image generator. Dubbed The Midjourney Scanner, it's an ultrasound-based full-body scanner that uses a ring of sensors to capture vertical [&#8230;]",
       "summary": "Midjourney CEO David Holz just showed off the company's first hardware product and plans to build a San Francisco spa, which he admitted is a bit different from the \"cat pictures\" produced by its AI i",
       "importance": 1.25
-    },
-    {
-      "title": "Can anyone look cool wearing Snap’s $2,000 glasses?",
-      "url": "https://www.theverge.com/report/951481/snap-specs-wearables-smart-glasses-fashion",
-      "source": "The Verge",
-      "published_at": "2026-06-17T12:13:34-04:00",
-      "raw_content": "Yesterday, Snap debuted its new $2,195 Specs glasses. In an interview with CNBC, Snap CEO Evan Spiegel described the Specs as something the company had been working on for more than 12 years, an attempt to \"bring computing into the world\" and \"make it more human.\" He positioned them as a device to help people [&#8230;]",
-      "summary": "Yesterday, Snap debuted its new $2,195 Specs glasses. In an interview with CNBC, Snap CEO Evan Spiegel described the Specs as something the company had been working on for more than 12 years, an attem",
-      "importance": 1.2
     }
   ]
 }
