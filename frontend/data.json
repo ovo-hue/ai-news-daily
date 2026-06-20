@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-19T19:47:45.099916+00:00",
+  "generated_at": "2026-06-20T03:31:25.692237+00:00",
   "items": [
     {
       "title": "The US banned Anthropic’s Fable 5 release, but the numbers don’t seem to care",
@@ -17,24 +17,6 @@
       "published_at": "Fri, 19 Jun 2026 15:23:28 +0000",
       "raw_content": "Reliance is weaving AI into telecom services used by more than 500 million people.",
       "summary": "Reliance is weaving AI into telecom services used by more than 500 million people.",
-      "importance": 1.7
-    },
-    {
-      "title": "AI inference startup Baseten reportedly raising $1.5B months after its last mega-round",
-      "url": "https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/",
-      "source": "TechCrunch",
-      "published_at": "Thu, 18 Jun 2026 21:20:13 +0000",
-      "raw_content": "Startup Baseten is reportedly close to finalizing a $1.5 billion round at a $13 billion as the “inference gold rush\" marches on.",
-      "summary": "Startup Baseten is reportedly close to finalizing a $1.5 billion round at a $13 billion as the “inference gold rush\" marches on.",
-      "importance": 1.7
-    },
-    {
-      "title": "OpenAI is bringing on some big guns in the lead-up to its IPO",
-      "url": "https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/",
-      "source": "TechCrunch",
-      "published_at": "Thu, 18 Jun 2026 19:59:22 +0000",
-      "raw_content": "OpenAI is bulking up before its IPO, landing Transformer co-inventor Noam Shazeer from Google DeepMind and former Trump AI policy official Dean Ball in the same week.",
-      "summary": "OpenAI is bulking up before its IPO, landing Transformer co-inventor Noam Shazeer from Google DeepMind and former Trump AI policy official Dean Ball in the same week.",
       "importance": 1.7
     },
     {
@@ -65,7 +47,16 @@
       "importance": 1.6
     },
     {
-      "title": "The CEO of Allbirds’ new AI biz has a plan, but no employees",
+      "title": "Encryption, spyware, and now Mythos: History shows why cyber export control doesn’t work",
+      "url": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
+      "source": "TechCrunch",
+      "published_at": "Fri, 19 Jun 2026 22:40:14 +0000",
+      "raw_content": "For the last 30 years, stopping the flow of cybersecurity-related software has proven to be ineffective. It's unclear why it would work now with Anthropic’s cybersecurity model Mythos.",
+      "summary": "For the last 30 years, stopping the flow of cybersecurity-related software has proven to be ineffective. It's unclear why it would work now with Anthropic’s cybersecurity model Mythos.",
+      "importance": 1.55
+    },
+    {
+      "title": "The CEO of Allbirds’ new AI biz has a plan, but no team",
       "url": "https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/",
       "source": "TechCrunch",
       "published_at": "Fri, 19 Jun 2026 13:00:00 +0000",
@@ -74,30 +65,12 @@
       "importance": 1.55
     },
     {
-      "title": "The US says ASML’s top chip tool may be in China. ASML says it isn’t.",
+      "title": "The US says ASML’s top chip tool may be in China, but how?",
       "url": "https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/",
       "source": "TechCrunch",
       "published_at": "Fri, 19 Jun 2026 07:59:12 +0000",
       "raw_content": "There's a commercial logic that cuts against the idea that ASML would risk its export license to arm a Chinese customer.",
       "summary": "There's a commercial logic that cuts against the idea that ASML would risk its export license to arm a Chinese customer.",
-      "importance": 1.55
-    },
-    {
-      "title": "Source: Elastic agrees to buy CRV-backed Deductive AI for up to $85M",
-      "url": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/",
-      "source": "TechCrunch",
-      "published_at": "Fri, 19 Jun 2026 00:51:11 +0000",
-      "raw_content": "Deductive AI, a startup that uses AI to catch and resolve bugs in software, was founded just three years ago.",
-      "summary": "Deductive AI, a startup that uses AI to catch and resolve bugs in software, was founded just three years ago.",
-      "importance": 1.55
-    },
-    {
-      "title": "Snap spins off AI video team into new company, Dotmo, due to costs",
-      "url": "https://techcrunch.com/2026/06/18/snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs/",
-      "source": "TechCrunch",
-      "published_at": "Thu, 18 Jun 2026 20:30:00 +0000",
-      "raw_content": "The Snapchat maker is spinning off yet another internal unit. Dotmo will be composed of current Snap staff who are leaving the social media company to focus on AI video development.",
-      "summary": "The Snapchat maker is spinning off yet another internal unit. Dotmo will be composed of current Snap staff who are leaving the social media company to focus on AI video development.",
       "importance": 1.55
     },
     {
@@ -108,6 +81,24 @@
       "raw_content": "Adobe is introducing some new capabilities for its Firefly AI assistant, alongside a \"reimagined\" AI studio that lets you edit and generate new designs from a single interface. The new Firefly experience launching today in private beta is designed to give you \"persistent context, reusable assets, and organized workflows\" across your projects, according to Adobe, [&#8230;]",
       "summary": "Adobe is introducing some new capabilities for its Firefly AI assistant, alongside a \"reimagined\" AI studio that lets you edit and generate new designs from a single interface. The new Firefly experie",
       "importance": 1.45
+    },
+    {
+      "title": "AI inference startup Baseten reportedly raising $1.5B months after its last mega-round",
+      "url": "https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/",
+      "source": "TechCrunch",
+      "published_at": "Thu, 18 Jun 2026 21:20:13 +0000",
+      "raw_content": "Startup Baseten is reportedly close to finalizing a $1.5 billion round at a $13 billion as the “inference gold rush\" marches on.",
+      "summary": "Startup Baseten is reportedly close to finalizing a $1.5 billion round at a $13 billion as the “inference gold rush\" marches on.",
+      "importance": 1.4
+    },
+    {
+      "title": "OpenAI is bringing on some big guns in the lead-up to its IPO",
+      "url": "https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/",
+      "source": "TechCrunch",
+      "published_at": "Thu, 18 Jun 2026 19:59:22 +0000",
+      "raw_content": "OpenAI is bulking up before its IPO, landing Transformer co-inventor Noam Shazeer from Google DeepMind and former Trump AI policy official Dean Ball in the same week.",
+      "summary": "OpenAI is bulking up before its IPO, landing Transformer co-inventor Noam Shazeer from Google DeepMind and former Trump AI policy official Dean Ball in the same week.",
+      "importance": 1.4
     },
     {
       "title": "Photoshop and Premiere now have AI assistants",
@@ -155,12 +146,21 @@
       "importance": 1.3
     },
     {
-      "title": "Almost half of US singles feel negatively about AI in dating, Match says",
-      "url": "https://techcrunch.com/2026/06/18/almost-half-of-u-s-singles-feel-negatively-about-ai-in-dating-match-says/",
+      "title": "Source: Elastic agrees to buy CRV-backed Deductive AI for up to $85M",
+      "url": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/",
       "source": "TechCrunch",
-      "published_at": "Thu, 18 Jun 2026 18:51:46 +0000",
-      "raw_content": "About 47% of singles look negatively at the use of AI in dating -- but many dating app users are open to AI helping with profile punch-ups and conversation starters.",
-      "summary": "About 47% of singles look negatively at the use of AI in dating -- but many dating app users are open to AI helping with profile punch-ups and conversation starters.",
+      "published_at": "Fri, 19 Jun 2026 00:51:11 +0000",
+      "raw_content": "Deductive AI, a startup that uses AI to catch and resolve bugs in software, was founded just three years ago.",
+      "summary": "Deductive AI, a startup that uses AI to catch and resolve bugs in software, was founded just three years ago.",
+      "importance": 1.25
+    },
+    {
+      "title": "Snap spins off AI video team into new company, Dotmo, due to costs",
+      "url": "https://techcrunch.com/2026/06/18/snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs/",
+      "source": "TechCrunch",
+      "published_at": "Thu, 18 Jun 2026 20:30:00 +0000",
+      "raw_content": "The Snapchat maker is spinning off yet another internal unit. Dotmo will be composed of current Snap staff who are leaving the social media company to focus on AI video development.",
+      "summary": "The Snapchat maker is spinning off yet another internal unit. Dotmo will be composed of current Snap staff who are leaving the social media company to focus on AI video development.",
       "importance": 1.25
     },
     {
