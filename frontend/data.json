@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-20T08:53:07.766704+00:00",
+  "generated_at": "2026-06-20T13:59:13.915411+00:00",
   "items": [
     {
       "title": "The US banned Anthropic’s Fable 5 release, but the numbers don’t seem to care",
@@ -44,15 +44,6 @@
       "published_at": "Fri, 19 Jun 2026 22:40:14 +0000",
       "raw_content": "For the last 30 years, stopping the flow of cybersecurity-related software has proven to be ineffective. It's unclear why it would work now with Anthropic’s cybersecurity model Mythos.",
       "summary": "For the last 30 years, stopping the flow of cybersecurity-related software has proven to be ineffective. It's unclear why it would work now with Anthropic’s cybersecurity model Mythos.",
-      "importance": 1.55
-    },
-    {
-      "title": "The CEO of Allbirds’ new AI biz has a plan, but no team",
-      "url": "https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/",
-      "source": "TechCrunch",
-      "published_at": "Fri, 19 Jun 2026 13:00:00 +0000",
-      "raw_content": "Call it a startup with a sole founder and a very large seed round, but what's next is less clear.",
-      "summary": "Call it a startup with a sole founder and a very large seed round, but what's next is less clear.",
       "importance": 1.55
     },
     {
@@ -135,6 +126,15 @@
       "raw_content": "Hello and welcome to Regulator, an email for Verge subscribers about technology, politics, and what happens when science crashes headlong into self-interest. Not a subscriber? Sign up here today! Got the scoop on a petty feud that's going to somehow fundamentally reshape the entire field of frontier AI development? Send 'em over to tina.nguyen+tips@theverge.com. Back [&#8230;]",
       "summary": "Hello and welcome to Regulator, an email for Verge subscribers about technology, politics, and what happens when science crashes headlong into self-interest. Not a subscriber? Sign up here today! Got ",
       "importance": 1.3
+    },
+    {
+      "title": "The CEO of Allbirds’ new AI biz has a plan, but no team",
+      "url": "https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/",
+      "source": "TechCrunch",
+      "published_at": "Fri, 19 Jun 2026 13:00:00 +0000",
+      "raw_content": "Call it a startup with a sole founder and a very large seed round, but what's next is less clear.",
+      "summary": "Call it a startup with a sole founder and a very large seed round, but what's next is less clear.",
+      "importance": 1.25
     },
     {
       "title": "The US says ASML’s top chip tool may be in China, but how?",
