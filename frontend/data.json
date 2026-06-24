@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T09:25:22.966444+00:00",
+  "generated_at": "2026-06-24T14:28:40.702311+00:00",
   "items": [
     {
       "title": "Anthropic’s Claude Tag is learning your company, one Slack message at a time",
@@ -11,15 +11,6 @@
       "importance": 1.8
     },
     {
-      "title": "Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates",
-      "url": "https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates/",
-      "source": "TechCrunch",
-      "published_at": "Tue, 23 Jun 2026 13:00:00 +0000",
-      "raw_content": "Stockholm-based startup Fika Jobs is building a video-first hiring platform that combines AI interview agents with short-form video profiles, creating something that feels like a cross between LinkedIn and TikTok.",
-      "summary": "Stockholm-based startup Fika Jobs is building a video-first hiring platform that combines AI interview agents with short-form video profiles, creating something that feels like a cross between LinkedI",
-      "importance": 1.75
-    },
-    {
       "title": "Something&#8217;s off with Midjourney’s pivot to body scanners",
       "url": "https://www.theverge.com/report/954826/midjourney-medical-ai-ultrasound-body-scanner-lacks-evidence",
       "source": "The Verge",
@@ -27,24 +18,6 @@
       "raw_content": "Last week, Midjourney, an AI startup best known for its image generator, made an unusual pivot: medical imaging. The company announced a futuristic ultrasound scanner that would dunk users into a vat of water and, hopefully, produce \"something as powerful as MRI\" yet \"as casual as a trip to the spa.\" Midjourney says the goal [&#8230;]",
       "summary": "Last week, Midjourney, an AI startup best known for its image generator, made an unusual pivot: medical imaging. The company announced a futuristic ultrasound scanner that would dunk users into a vat ",
       "importance": 1.75
-    },
-    {
-      "title": "Sony’s AI Camera Assistant is exactly as bad as it looks",
-      "url": "https://www.theverge.com/tech/954676/sony-xperia-1-viii-ai-camera-assistant",
-      "source": "The Verge",
-      "published_at": "2026-06-23T09:25:42-04:00",
-      "raw_content": "When Sony announced the Xperia 1 VIII last month, it promoted the phone by sharing some of the worst photos taken on a Sony camera in years. These weren't just any photos, though: they were taken with Sony's new AI Camera Assistant. After a week with the Xperia 1 VIII, I'm here to tell you [&#8230;]",
-      "summary": "When Sony announced the Xperia 1 VIII last month, it promoted the phone by sharing some of the worst photos taken on a Sony camera in years. These weren't just any photos, though: they were taken with",
-      "importance": 1.7
-    },
-    {
-      "title": "Meta launches cheaper smart glasses without Ray-Ban",
-      "url": "https://www.theverge.com/tech/954052/meta-glasses-hands-on-kylie-jenner-smart-glasses-price-battery-privacy",
-      "source": "The Verge",
-      "published_at": "2026-06-23T09:00:00-04:00",
-      "raw_content": "For the past three years, \"Meta\" and \"Ray-Ban\" have been synonymous in the smart glasses space. Not anymore. Yesterday, I slipped on several pairs of Meta Glasses - no Ray-Bans - in three different styles and seven colors. One style, I was told several times by various enthusiastic Meta spokespeople, is a collaboration with socialite [&#8230;]",
-      "summary": "For the past three years, \"Meta\" and \"Ray-Ban\" have been synonymous in the smart glasses space. Not anymore. Yesterday, I slipped on several pairs of Meta Glasses - no Ray-Bans - in three different st",
-      "importance": 1.7
     },
     {
       "title": "India’s MoEngage bets that the future of marketing is millions of AI agents",
@@ -74,6 +47,15 @@
       "importance": 1.6
     },
     {
+      "title": "The Google Home Speaker sounds good and looks great — but it’s finicky",
+      "url": "https://www.theverge.com/gadgets/955537/google-home-smart-speaker-hands-on",
+      "source": "The Verge",
+      "published_at": "2026-06-24T09:00:00-04:00",
+      "raw_content": "Right out of the box, the new Google Home Speaker passed a couple of important tests. Even with the volume at 100 percent and music blaring out of the speaker, it quickly ducked the audio and listened every time I said \"Hey, Google.\" In fact, in two days of testing, the speaker's three microphones haven't [&#8230;]",
+      "summary": "Right out of the box, the new Google Home Speaker passed a couple of important tests. Even with the volume at 100 percent and music blaring out of the speaker, it quickly ducked the audio and listened",
+      "importance": 1.55
+    },
+    {
       "title": "Why corporate AI super PACs spent $27 million on a local election",
       "url": "https://www.theverge.com/policy/954970/ai-super-pacs-alex-bores-new-york-12th-district",
       "source": "The Verge",
@@ -92,12 +74,12 @@
       "importance": 1.55
     },
     {
-      "title": "4 days left to save up to $190 on TechCrunch Founder Summit 2026",
-      "url": "https://techcrunch.com/2026/06/23/4-days-left-to-save-up-to-190-on-techcrunch-founder-summit-2026/",
+      "title": "3 days left to save up to $190 on your TechCrunch Founder Summit 2026 pass",
+      "url": "https://techcrunch.com/2026/06/24/3-days-left-to-save-up-to-190-on-techcrunch-founder-summit-2026/",
       "source": "TechCrunch",
-      "published_at": "Tue, 23 Jun 2026 14:00:00 +0000",
-      "raw_content": "Four days left to save up to $190 on your pass to TechCrunch Founder Summit 2026 — the ultimate founder bootcamp — before Early Bird rates end on June 26 at 11:59 p.m. PT. Register today.",
-      "summary": "Four days left to save up to $190 on your pass to TechCrunch Founder Summit 2026 — the ultimate founder bootcamp — before Early Bird rates end on June 26 at 11:59 p.m. PT. Register today.",
+      "published_at": "Wed, 24 Jun 2026 14:00:00 +0000",
+      "raw_content": "You have just 3 days left to save up to $190 on your pass to TechCrunch Founder Summit 2026 before Early Bird rates end on June 26 at 11:59 p.m. PT. Register here.",
+      "summary": "You have just 3 days left to save up to $190 on your pass to TechCrunch Founder Summit 2026 before Early Bird rates end on June 26 at 11:59 p.m. PT. Register here.",
       "importance": 1.5
     },
     {
@@ -108,6 +90,15 @@
       "raw_content": "A new update for Google Home could make it less likely your smart home cameras mistake you for someone else, just because you're facing away from the camera. Starting June 23rd, Google's expanding its facial recognition feature so that people you've tagged in your Familiar Faces library can continue to be identified when their faces [&#8230;]",
       "summary": "A new update for Google Home could make it less likely your smart home cameras mistake you for someone else, just because you're facing away from the camera. Starting June 23rd, Google's expanding its",
       "importance": 1.5
+    },
+    {
+      "title": "Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates",
+      "url": "https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates/",
+      "source": "TechCrunch",
+      "published_at": "Tue, 23 Jun 2026 13:00:00 +0000",
+      "raw_content": "Stockholm-based startup Fika Jobs is building a video-first hiring platform that combines AI interview agents with short-form video profiles, creating something that feels like a cross between LinkedIn and TikTok.",
+      "summary": "Stockholm-based startup Fika Jobs is building a video-first hiring platform that combines AI interview agents with short-form video profiles, creating something that feels like a cross between LinkedI",
+      "importance": 1.45
     },
     {
       "title": "The running list: major tech layoffs in 2026 where employers cited AI",
@@ -137,13 +128,22 @@
       "importance": 1.4
     },
     {
-      "title": "Read this before you vibe-code another app",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/950844/vibe-coding-security-risks-apps",
+      "title": "Sony’s AI Camera Assistant is exactly as bad as it looks",
+      "url": "https://www.theverge.com/tech/954676/sony-xperia-1-viii-ai-camera-assistant",
       "source": "The Verge",
-      "published_at": "2026-06-22T07:00:00-04:00",
-      "raw_content": "Bob Starr was delighted with his vibe-coded website. \"Boomberg\" showed how much US tax money is going to tech companies, and Starr launched it online immediately after making it. It wasn't until months after the site went live that he realized there was a problem: a hidden SQL injection risk. It could've left the site [&#8230;]",
-      "summary": "Bob Starr was delighted with his vibe-coded website. \"Boomberg\" showed how much US tax money is going to tech companies, and Starr launched it online immediately after making it. It wasn't until month",
-      "importance": 1.35
+      "published_at": "2026-06-23T09:25:42-04:00",
+      "raw_content": "When Sony announced the Xperia 1 VIII last month, it promoted the phone by sharing some of the worst photos taken on a Sony camera in years. These weren't just any photos, though: they were taken with Sony's new AI Camera Assistant. After a week with the Xperia 1 VIII, I'm here to tell you [&#8230;]",
+      "summary": "When Sony announced the Xperia 1 VIII last month, it promoted the phone by sharing some of the worst photos taken on a Sony camera in years. These weren't just any photos, though: they were taken with",
+      "importance": 1.4
+    },
+    {
+      "title": "Meta launches cheaper smart glasses without Ray-Ban",
+      "url": "https://www.theverge.com/tech/954052/meta-glasses-hands-on-kylie-jenner-smart-glasses-price-battery-privacy",
+      "source": "The Verge",
+      "published_at": "2026-06-23T09:00:00-04:00",
+      "raw_content": "For the past three years, \"Meta\" and \"Ray-Ban\" have been synonymous in the smart glasses space. Not anymore. Yesterday, I slipped on several pairs of Meta Glasses - no Ray-Bans - in three different styles and seven colors. One style, I was told several times by various enthusiastic Meta spokespeople, is a collaboration with socialite [&#8230;]",
+      "summary": "For the past three years, \"Meta\" and \"Ray-Ban\" have been synonymous in the smart glasses space. Not anymore. Yesterday, I slipped on several pairs of Meta Glasses - no Ray-Bans - in three different st",
+      "importance": 1.4
     },
     {
       "title": "The AI world is getting ‘loopy’",
@@ -152,15 +152,6 @@
       "published_at": "Mon, 22 Jun 2026 20:53:11 +0000",
       "raw_content": "The loop takes agentic AI a step further by authorizing a swarm of agents to work continuously in the background, endlessly.",
       "summary": "The loop takes agentic AI a step further by authorizing a swarm of agents to work continuously in the background, endlessly.",
-      "importance": 1.3
-    },
-    {
-      "title": "Google DeepMind bets $75M on AI’s future in Hollywood with A24 deal",
-      "url": "https://techcrunch.com/2026/06/22/google-deepmind-bets-75m-on-ais-future-in-hollywood-with-a24-deal/",
-      "source": "TechCrunch",
-      "published_at": "Mon, 22 Jun 2026 18:49:44 +0000",
-      "raw_content": "Google DeepMind and A24 are teaming up to build AI filmmaking tools.",
-      "summary": "Google DeepMind and A24 are teaming up to build AI filmmaking tools.",
       "importance": 1.3
     },
     {
@@ -180,6 +171,15 @@
       "raw_content": "Joyce, a native New Yorker, didn't think finding her first solo apartment in the city would be easy. But she also didn't think it'd be \"hell.\" After looking at a lot of tiny, overpriced places she described as \"shitholes,\" Joyce found her dream apartment: a reasonably priced studio in Manhattan. \"It was big and airy, [&#8230;]",
       "summary": "Joyce, a native New Yorker, didn't think finding her first solo apartment in the city would be easy. But she also didn't think it'd be \"hell.\" After looking at a lot of tiny, overpriced places she des",
       "importance": 1.25
+    },
+    {
+      "title": "4 days left to save up to $190 on TechCrunch Founder Summit 2026",
+      "url": "https://techcrunch.com/2026/06/23/4-days-left-to-save-up-to-190-on-techcrunch-founder-summit-2026/",
+      "source": "TechCrunch",
+      "published_at": "Tue, 23 Jun 2026 14:00:00 +0000",
+      "raw_content": "Four days left to save up to $190 on your pass to TechCrunch Founder Summit 2026 — the ultimate founder bootcamp — before Early Bird rates end on June 26 at 11:59 p.m. PT. Register today.",
+      "summary": "Four days left to save up to $190 on your pass to TechCrunch Founder Summit 2026 — the ultimate founder bootcamp — before Early Bird rates end on June 26 at 11:59 p.m. PT. Register today.",
+      "importance": 1.2
     }
   ]
 }
