@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-06-25T14:29:18.844578+00:00",
+  "generated_at": "2026-06-25T19:57:55.360361+00:00",
   "items": [
+    {
+      "title": "Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT",
+      "url": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
+      "source": "TechCrunch",
+      "published_at": "Thu, 25 Jun 2026 17:38:27 +0000",
+      "raw_content": "Despite ChatGPT's commanding market lead, consumers who pay for AI have been increasingly choosing Anthropic's Claude, data shows.",
+      "summary": "Despite ChatGPT's commanding market lead, consumers who pay for AI have been increasingly choosing Anthropic's Claude, data shows.",
+      "importance": 1.85
+    },
+    {
+      "title": "General Intuition’s $2.3B bet that video games can train AI agents for the real world",
+      "url": "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
+      "source": "TechCrunch",
+      "published_at": "Thu, 25 Jun 2026 16:55:00 +0000",
+      "raw_content": "General Intuition has raised $320 million to scale AI trained on millions of hours of gameplay, betting action data can help AI develop something closer to human intuition.",
+      "summary": "General Intuition has raised $320 million to scale AI trained on millions of hours of gameplay, betting action data can help AI develop something closer to human intuition.",
+      "importance": 1.75
+    },
     {
       "title": "Facebook’s Creator Studio has been revived as an AI companion app",
       "url": "https://www.theverge.com/tech/956668/meta-facebook-creator-studio-ai-app-relaunch",
@@ -11,49 +29,22 @@
       "importance": 1.75
     },
     {
-      "title": "OpenAI reveals its first AI processor: Jalapeño",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/955939/openai-reveals-its-first-ai-processor-jalapeno",
-      "source": "The Verge",
-      "published_at": "2026-06-24T10:36:47-04:00",
-      "raw_content": "OpenAI has just revealed a new \"intelligence processor\" chip for AI servers made in partnership with Broadcom. The chip, called Jalape&#241;o, is designed to power current and future large language models, according to an announcement on Wednesday. Jalape&#241;o is an ASIC (Application-Specific Integrated Circuit), meaning it's designed for a specific purpose: AI inference. With AI [&#8230;]",
-      "summary": "OpenAI has just revealed a new \"intelligence processor\" chip for AI servers made in partnership with Broadcom. The chip, called Jalape&#241;o, is designed to power current and future large language mo",
-      "importance": 1.75
-    },
-    {
-      "title": "The memory chip crunch is paying off for this US company",
-      "url": "https://techcrunch.com/2026/06/24/the-memory-chip-crunch-is-paying-off-for-this-u-s-company/",
+      "title": "Netris raises $15M Series A from a16z to help AI neoclouds go live faster",
+      "url": "https://techcrunch.com/2026/06/25/netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster/",
       "source": "TechCrunch",
-      "published_at": "Wed, 24 Jun 2026 21:30:55 +0000",
-      "raw_content": "Revenue quadrupled to $41.45 billion compared with the same period a year ago. The company's profit, meanwhile, rose from $1.88 billion to an incredible $28.2 billion year-over-year.",
-      "summary": "Revenue quadrupled to $41.45 billion compared with the same period a year ago. The company's profit, meanwhile, rose from $1.88 billion to an incredible $28.2 billion year-over-year.",
-      "importance": 1.65
+      "published_at": "Thu, 25 Jun 2026 14:55:38 +0000",
+      "raw_content": "Netris provides software that runs on network switches, and offers a platform that helps neocloud operators reduce the time it takes to go live.",
+      "summary": "Netris provides software that runs on network switches, and offers a platform that helps neocloud operators reduce the time it takes to go live.",
+      "importance": 1.7
     },
     {
-      "title": "The $27 million Al proxy war over Alex Bores ends in a draw",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/956263/alex-bores-new-york-12th-district-congressional-primary-results",
-      "source": "The Verge",
-      "published_at": "2026-06-24T13:25:00-04:00",
-      "raw_content": "The expensive, $27 million political proxy war between Anthropic and OpenAI came to a draw last night when Alex Bores, a New York state Assemblyman whose popularity surged after being targeted by a pro-AI super PAC, narrowly lost the Democratic primary to represent New York's 12th Congressional district. Prior to the race, Bores, a former [&#8230;]",
-      "summary": "The expensive, $27 million political proxy war between Anthropic and OpenAI came to a draw last night when Alex Bores, a New York state Assemblyman whose popularity surged after being targeted by a pr",
-      "importance": 1.65
-    },
-    {
-      "title": "Figma now has AI motion graphics and shader tools",
-      "url": "https://www.theverge.com/tech/955831/figma-code-design-tools-config-2026-announcements",
-      "source": "The Verge",
-      "published_at": "2026-06-24T12:15:00-04:00",
-      "raw_content": "Figma has revealed some new design and coding product updates at its annual Config conference that aim to help creatives \"push their ideas further\" and automate tedious tasks with AI. Part of this is a reimagined canvas that's now optimized for full-stack development, according to Figma, bringing teams, AI agents, tools, and materials \"together in [&#8230;]",
-      "summary": "Figma has revealed some new design and coding product updates at its annual Config conference that aim to help creatives \"push their ideas further\" and automate tedious tasks with AI. Part of this is ",
-      "importance": 1.65
-    },
-    {
-      "title": "AI researchers continue to leave Google for its rivals",
-      "url": "https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/",
+      "title": "Databricks’ former AI chief thinks he can cut AI’s power bill by 1,000x",
+      "url": "https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/",
       "source": "TechCrunch",
-      "published_at": "Wed, 24 Jun 2026 21:42:07 +0000",
-      "raw_content": "Top AI researchers Jonas Adler and Alexander Pritzel are leaving Google for Anthropic, following departures from top scientists Noam Shazeer and John Jumper.",
-      "summary": "Top AI researchers Jonas Adler and Alexander Pritzel are leaving Google for Anthropic, following departures from top scientists Noam Shazeer and John Jumper.",
-      "importance": 1.6
+      "published_at": "Thu, 25 Jun 2026 16:48:11 +0000",
+      "raw_content": "Un-0 is an image-generation system tool that shows for the first time how the company's technology can replicate conventional AI systems.",
+      "summary": "Un-0 is an image-generation system tool that shows for the first time how the company's technology can replicate conventional AI systems.",
+      "importance": 1.55
     },
     {
       "title": "Adobe acquires image and video enhancement tool maker Topaz Labs",
@@ -92,24 +83,6 @@
       "importance": 1.55
     },
     {
-      "title": "AI was supposed to kill engineering jobs, but new data suggests they’re the most resilient",
-      "url": "https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient/",
-      "source": "TechCrunch",
-      "published_at": "Wed, 24 Jun 2026 21:56:41 +0000",
-      "raw_content": "While AI dominates the layoff narrative, engineers are actually making up a larger share of new hires, according to SignalFire data.",
-      "summary": "While AI dominates the layoff narrative, engineers are actually making up a larger share of new hires, according to SignalFire data.",
-      "importance": 1.55
-    },
-    {
-      "title": "Companies are scrambling to stop employees from maxing out AI budgets with small tasks",
-      "url": "https://techcrunch.com/2026/06/24/companies-are-scrambling-to-stop-employees-from-maxing-out-ai-budgets-with-small-tasks/",
-      "source": "TechCrunch",
-      "published_at": "Wed, 24 Jun 2026 20:09:45 +0000",
-      "raw_content": "The tokenmaxxing era was brief. We now appear to be entering the era of token rationing.",
-      "summary": "The tokenmaxxing era was brief. We now appear to be entering the era of token rationing.",
-      "importance": 1.55
-    },
-    {
       "title": "Ford had to hire back former engineers to fix mistakes made by its automated systems",
       "url": "https://www.theverge.com/transportation/956316/ford-quality-jd-power-ranking-ai-automated-mistakes",
       "source": "The Verge",
@@ -119,21 +92,12 @@
       "importance": 1.55
     },
     {
-      "title": "Congresswoman denies staff used AI to write defense funding amendment",
-      "url": "https://www.theverge.com/policy/956394/florida-anna-paulina-luna-anthropic-claude",
-      "source": "The Verge",
-      "published_at": "2026-06-24T15:36:46-04:00",
-      "raw_content": "Rep. Anna Paulina Luna (R-FL) says her staff used AI for \"spellcheck\" in an amendment summary for a major defense bill, but denies it was used for the bill text itself and says \"NO Legislation is ever drafted with AI.\" Luna issued the response after accounts on X began sharing screenshots of an amendment summary [&#8230;]",
-      "summary": "Rep. Anna Paulina Luna (R-FL) says her staff used AI for \"spellcheck\" in an amendment summary for a major defense bill, but denies it was used for the bill text itself and says \"NO Legislation is ever",
-      "importance": 1.55
-    },
-    {
       "title": "2 days left to save up to $190: Join 1,000+ founders and investors at TechCrunch Founder Summit",
       "url": "https://techcrunch.com/2026/06/25/2-days-left-to-save-up-to-190-join-1000-founders-and-investors-at-techcrunch-founder-summit/",
       "source": "TechCrunch",
       "published_at": "Thu, 25 Jun 2026 14:00:00 +0000",
-      "raw_content": "2 days left to lock in your spot at TechCrunch Founder Summit 2026 and save up to $190 before Early Bird rates expire on June 26 at 11:59 p.m. PT. Register here.",
-      "summary": "2 days left to lock in your spot at TechCrunch Founder Summit 2026 and save up to $190 before Early Bird rates expire on June 26 at 11:59 p.m. PT. Register here.",
+      "raw_content": "Two days left to lock in your spot at TechCrunch Founder Summit 2026 and save up to $190 before Early Bird rates expire on June 26 at 11:59 p.m. PT. Register today.",
+      "summary": "Two days left to lock in your spot at TechCrunch Founder Summit 2026 and save up to $190 before Early Bird rates expire on June 26 at 11:59 p.m. PT. Register today.",
       "importance": 1.5
     },
     {
@@ -146,6 +110,33 @@
       "importance": 1.5
     },
     {
+      "title": "OpenAI reveals its first AI processor: Jalapeño",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/955939/openai-reveals-its-first-ai-processor-jalapeno",
+      "source": "The Verge",
+      "published_at": "2026-06-24T10:36:47-04:00",
+      "raw_content": "OpenAI has just revealed a new \"intelligence processor\" chip for AI servers made in partnership with Broadcom. The chip, called Jalape&#241;o, is designed to power current and future large language models, according to an announcement on Wednesday. Jalape&#241;o is an ASIC (Application-Specific Integrated Circuit), meaning it's designed for a specific purpose: AI inference. With AI [&#8230;]",
+      "summary": "OpenAI has just revealed a new \"intelligence processor\" chip for AI servers made in partnership with Broadcom. The chip, called Jalape&#241;o, is designed to power current and future large language mo",
+      "importance": 1.45
+    },
+    {
+      "title": "The $27 million Al proxy war over Alex Bores ends in a draw",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/956263/alex-bores-new-york-12th-district-congressional-primary-results",
+      "source": "The Verge",
+      "published_at": "2026-06-24T13:25:00-04:00",
+      "raw_content": "The expensive, $27 million political proxy war between Anthropic and OpenAI came to a draw last night when Alex Bores, a New York state Assemblyman whose popularity surged after being targeted by a pro-AI super PAC, narrowly lost the Democratic primary to represent New York's 12th Congressional district. Prior to the race, Bores, a former [&#8230;]",
+      "summary": "The expensive, $27 million political proxy war between Anthropic and OpenAI came to a draw last night when Alex Bores, a New York state Assemblyman whose popularity surged after being targeted by a pr",
+      "importance": 1.35
+    },
+    {
+      "title": "Figma now has AI motion graphics and shader tools",
+      "url": "https://www.theverge.com/tech/955831/figma-code-design-tools-config-2026-announcements",
+      "source": "The Verge",
+      "published_at": "2026-06-24T12:15:00-04:00",
+      "raw_content": "Figma has revealed some new design and coding product updates at its annual Config conference that aim to help creatives \"push their ideas further\" and automate tedious tasks with AI. Part of this is a reimagined canvas that's now optimized for full-stack development, according to Figma, bringing teams, AI agents, tools, and materials \"together in [&#8230;]",
+      "summary": "Figma has revealed some new design and coding product updates at its annual Config conference that aim to help creatives \"push their ideas further\" and automate tedious tasks with AI. Part of this is ",
+      "importance": 1.35
+    },
+    {
       "title": "Hollywood is bending the knee to OpenAI",
       "url": "https://www.theverge.com/entertainment/954899/luca-guadagnino-artificial-sam-altman-amazon-a24-neon-mubi-chatgpt",
       "source": "The Verge",
@@ -153,6 +144,15 @@
       "raw_content": "Netflix, A24, Focus Features, and Warner Bros.' Clockwork have all reportedly decided to pass on picking up Artificial - director Luca Guadagnino's new biographical drama about OpenAI cofounder / CEO Sam Altman - for distribution deals. And while Neon and Mubi are still said to be interested in the film, this situation makes it seem [&#8230;]",
       "summary": "Netflix, A24, Focus Features, and Warner Bros.' Clockwork have all reportedly decided to pass on picking up Artificial - director Luca Guadagnino's new biographical drama about OpenAI cofounder / CEO ",
       "importance": 1.3
+    },
+    {
+      "title": "Congresswoman denies staff used AI to write defense funding amendment",
+      "url": "https://www.theverge.com/policy/956394/florida-anna-paulina-luna-anthropic-claude",
+      "source": "The Verge",
+      "published_at": "2026-06-24T15:36:46-04:00",
+      "raw_content": "Rep. Anna Paulina Luna (R-FL) says her staff used AI for \"spellcheck\" in an amendment summary for a major defense bill, but denies it was used for the bill text itself and says \"NO Legislation is ever drafted with AI.\" Luna issued the response after accounts on X began sharing screenshots of an amendment summary [&#8230;]",
+      "summary": "Rep. Anna Paulina Luna (R-FL) says her staff used AI for \"spellcheck\" in an amendment summary for a major defense bill, but denies it was used for the bill text itself and says \"NO Legislation is ever",
+      "importance": 1.25
     },
     {
       "title": "The Google Home Speaker sounds good and looks great — but it’s finicky",
