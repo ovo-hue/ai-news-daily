@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-06-25T08:58:31.776751+00:00",
+  "generated_at": "2026-06-25T14:29:18.844578+00:00",
   "items": [
+    {
+      "title": "Facebook’s Creator Studio has been revived as an AI companion app",
+      "url": "https://www.theverge.com/tech/956668/meta-facebook-creator-studio-ai-app-relaunch",
+      "source": "The Verge",
+      "published_at": "2026-06-25T05:06:19-04:00",
+      "raw_content": "Meta is bringing back the Facebook Creator Studio page manager, now \"reimagined\" as a standalone AI companion app. The new app aims to make it easier for creators to connect with their audiences and show them \"exactly how to grow on Facebook,\" according to Meta's announcement. Meta's AI Creator Assistant is a central focus of [&#8230;]",
+      "summary": "Meta is bringing back the Facebook Creator Studio page manager, now \"reimagined\" as a standalone AI companion app. The new app aims to make it easier for creators to connect with their audiences and s",
+      "importance": 1.75
+    },
     {
       "title": "OpenAI reveals its first AI processor: Jalapeño",
       "url": "https://www.theverge.com/ai-artificial-intelligence/955939/openai-reveals-its-first-ai-processor-jalapeno",
@@ -9,15 +18,6 @@
       "raw_content": "OpenAI has just revealed a new \"intelligence processor\" chip for AI servers made in partnership with Broadcom. The chip, called Jalape&#241;o, is designed to power current and future large language models, according to an announcement on Wednesday. Jalape&#241;o is an ASIC (Application-Specific Integrated Circuit), meaning it's designed for a specific purpose: AI inference. With AI [&#8230;]",
       "summary": "OpenAI has just revealed a new \"intelligence processor\" chip for AI servers made in partnership with Broadcom. The chip, called Jalape&#241;o, is designed to power current and future large language mo",
       "importance": 1.75
-    },
-    {
-      "title": "Facebook rolls out an AI companion app for creators",
-      "url": "https://techcrunch.com/2026/06/24/facebook-rolls-out-an-ai-companion-app-for-creators/",
-      "source": "TechCrunch",
-      "published_at": "Wed, 24 Jun 2026 17:16:24 +0000",
-      "raw_content": "The new app, which is currently being tested with select creators, will have Facebook's recently launched AI creator assistant built into it.",
-      "summary": "The new app, which is currently being tested with select creators, will have Facebook's recently launched AI creator assistant built into it.",
-      "importance": 1.7
     },
     {
       "title": "The memory chip crunch is paying off for this US company",
@@ -56,6 +56,24 @@
       "importance": 1.6
     },
     {
+      "title": "Adobe acquires image and video enhancement tool maker Topaz Labs",
+      "url": "https://techcrunch.com/2026/06/25/adobe-acquires-image-and-video-enhancement-tool-maker-topaz-labs/",
+      "source": "TechCrunch",
+      "published_at": "Thu, 25 Jun 2026 13:30:00 +0000",
+      "raw_content": "Adobe said that it will integrate Topaz Labs' tools across its apps.",
+      "summary": "Adobe said that it will integrate Topaz Labs' tools across its apps.",
+      "importance": 1.55
+    },
+    {
+      "title": "Amazon ups India bet with fresh $13B AI infrastructure investment",
+      "url": "https://techcrunch.com/2026/06/25/amazon-ups-india-bet-with-fresh-13b-ai-infrastructure-investment/",
+      "source": "TechCrunch",
+      "published_at": "Thu, 25 Jun 2026 12:00:38 +0000",
+      "raw_content": "Amazon’s latest India investment comes as global tech companies race to expand AI infrastructure in the country.",
+      "summary": "Amazon’s latest India investment comes as global tech companies race to expand AI infrastructure in the country.",
+      "importance": 1.55
+    },
+    {
       "title": "Former Infosys chief has a new startup that wants to challenge the IT services world",
       "url": "https://techcrunch.com/2026/06/24/former-infosys-chief-has-a-new-startup-that-wants-to-challenge-the-it-services-world/",
       "source": "TechCrunch",
@@ -92,21 +110,12 @@
       "importance": 1.55
     },
     {
-      "title": "Agility Robotics plans to go public via SPAC in a $2.5B deal",
-      "url": "https://techcrunch.com/2026/06/24/agility-robotics-plans-to-go-public-via-spac-in-a-2-5b-deal/",
-      "source": "TechCrunch",
-      "published_at": "Wed, 24 Jun 2026 16:48:43 +0000",
-      "raw_content": "Agility Robotics, the humanoid robotics startup that spun out of Oregon State University in 2015, expects to generate $620 million in proceeds.",
-      "summary": "Agility Robotics, the humanoid robotics startup that spun out of Oregon State University in 2015, expects to generate $620 million in proceeds.",
-      "importance": 1.55
-    },
-    {
-      "title": "Figma adds code layers, support for animations, more AI features in new update",
-      "url": "https://techcrunch.com/2026/06/24/figma-adds-code-layers-support-for-animations-more-ai-features-in-new-update/",
-      "source": "TechCrunch",
-      "published_at": "Wed, 24 Jun 2026 16:15:00 +0000",
-      "raw_content": "Figma's update adds a new code layer, support for motion and shaders, and the ability to create custom plug-ins for various tasks using AI.",
-      "summary": "Figma's update adds a new code layer, support for motion and shaders, and the ability to create custom plug-ins for various tasks using AI.",
+      "title": "Ford had to hire back former engineers to fix mistakes made by its automated systems",
+      "url": "https://www.theverge.com/transportation/956316/ford-quality-jd-power-ranking-ai-automated-mistakes",
+      "source": "The Verge",
+      "published_at": "2026-06-25T08:00:00-04:00",
+      "raw_content": "To celebrate its new status as No. 1 in JD Power's initial quality ranking among mainstream automakers, Ford is opening up about the challenges it has faced in recent years, especially around its reliance on automated systems in production and design. It turns out that those automated systems were not as robust as previously assumed, [&#8230;]",
+      "summary": "To celebrate its new status as No. 1 in JD Power's initial quality ranking among mainstream automakers, Ford is opening up about the challenges it has faced in recent years, especially around its reli",
       "importance": 1.55
     },
     {
@@ -119,13 +128,13 @@
       "importance": 1.55
     },
     {
-      "title": "The Google Home Speaker sounds good and looks great — but it’s finicky",
-      "url": "https://www.theverge.com/gadgets/955537/google-home-smart-speaker-hands-on",
-      "source": "The Verge",
-      "published_at": "2026-06-24T09:00:00-04:00",
-      "raw_content": "Right out of the box, the new Google Home Speaker passed a couple of important tests. Even with the volume at 100 percent and music blaring out of the speaker, it quickly ducked the audio and listened every time I said \"Hey, Google.\" In fact, in two days of testing, the speaker's three microphones haven't [&#8230;]",
-      "summary": "Right out of the box, the new Google Home Speaker passed a couple of important tests. Even with the volume at 100 percent and music blaring out of the speaker, it quickly ducked the audio and listened",
-      "importance": 1.55
+      "title": "2 days left to save up to $190: Join 1,000+ founders and investors at TechCrunch Founder Summit",
+      "url": "https://techcrunch.com/2026/06/25/2-days-left-to-save-up-to-190-join-1000-founders-and-investors-at-techcrunch-founder-summit/",
+      "source": "TechCrunch",
+      "published_at": "Thu, 25 Jun 2026 14:00:00 +0000",
+      "raw_content": "2 days left to lock in your spot at TechCrunch Founder Summit 2026 and save up to $190 before Early Bird rates expire on June 26 at 11:59 p.m. PT. Register here.",
+      "summary": "2 days left to lock in your spot at TechCrunch Founder Summit 2026 and save up to $190 before Early Bird rates expire on June 26 at 11:59 p.m. PT. Register here.",
+      "importance": 1.5
     },
     {
       "title": "Europe is pushing back on Washington’s chip war",
@@ -137,15 +146,6 @@
       "importance": 1.5
     },
     {
-      "title": "Something&#8217;s off with Midjourney’s pivot to body scanners",
-      "url": "https://www.theverge.com/report/954826/midjourney-medical-ai-ultrasound-body-scanner-lacks-evidence",
-      "source": "The Verge",
-      "published_at": "2026-06-23T11:56:35-04:00",
-      "raw_content": "Last week, Midjourney, an AI startup best known for its image generator, made an unusual pivot: medical imaging. The company announced a futuristic ultrasound scanner that would dunk users into a vat of water and, hopefully, produce \"something as powerful as MRI\" yet \"as casual as a trip to the spa.\" Midjourney says the goal [&#8230;]",
-      "summary": "Last week, Midjourney, an AI startup best known for its image generator, made an unusual pivot: medical imaging. The company announced a futuristic ultrasound scanner that would dunk users into a vat ",
-      "importance": 1.45
-    },
-    {
       "title": "Hollywood is bending the knee to OpenAI",
       "url": "https://www.theverge.com/entertainment/954899/luca-guadagnino-artificial-sam-altman-amazon-a24-neon-mubi-chatgpt",
       "source": "The Verge",
@@ -155,21 +155,21 @@
       "importance": 1.3
     },
     {
+      "title": "The Google Home Speaker sounds good and looks great — but it’s finicky",
+      "url": "https://www.theverge.com/gadgets/955537/google-home-smart-speaker-hands-on",
+      "source": "The Verge",
+      "published_at": "2026-06-24T09:00:00-04:00",
+      "raw_content": "Right out of the box, the new Google Home Speaker passed a couple of important tests. Even with the volume at 100 percent and music blaring out of the speaker, it quickly ducked the audio and listened every time I said \"Hey, Google.\" In fact, in two days of testing, the speaker's three microphones haven't [&#8230;]",
+      "summary": "Right out of the box, the new Google Home Speaker passed a couple of important tests. Even with the volume at 100 percent and music blaring out of the speaker, it quickly ducked the audio and listened",
+      "importance": 1.25
+    },
+    {
       "title": "Why corporate AI super PACs spent $27 million on a local election",
       "url": "https://www.theverge.com/policy/954970/ai-super-pacs-alex-bores-new-york-12th-district",
       "source": "The Verge",
       "published_at": "2026-06-23T13:00:00-04:00",
       "raw_content": "Hello and welcome to Regulator, the newsletter for Verge subscribers chronicling the misadventures of their favorite tech overlords and Washington swamp creatures. (\"Favorite\" is, of course, subjective.) Not a subscriber yet? Sign up here, especially if you want the hot scoop on quality Amazon Prime Day deals recommended by the wonderful humans of The Verge's [&#8230;]",
       "summary": "Hello and welcome to Regulator, the newsletter for Verge subscribers chronicling the misadventures of their favorite tech overlords and Washington swamp creatures. (\"Favorite\" is, of course, subjectiv",
-      "importance": 1.25
-    },
-    {
-      "title": "The Fitbit Air takes a smarter approach to the AI health dumpster fire",
-      "url": "https://www.theverge.com/tech/954768/google-fitbit-air-review-fitness-tracker-wearable-ai-health-coach",
-      "source": "The Verge",
-      "published_at": "2026-06-23T11:00:00-04:00",
-      "raw_content": "Google Health Coach seems to think I'm on the verge of physical collapse. My sleep is not where it needs to be, hence my unimpressive readiness score. My heart rate variability, a measure of how recovered I am, is below baseline. I'm spending too much time in a hot, humid environment, it says, reminding me [&#8230;]",
-      "summary": "Google Health Coach seems to think I'm on the verge of physical collapse. My sleep is not where it needs to be, hence my unimpressive readiness score. My heart rate variability, a measure of how recov",
       "importance": 1.25
     },
     {
