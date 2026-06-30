@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-30T03:30:31.039732+00:00",
+  "generated_at": "2026-06-30T09:31:16.316317+00:00",
   "items": [
     {
       "title": "Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price",
@@ -56,13 +56,13 @@
       "importance": 1.7
     },
     {
-      "title": "Omen AI’s plan to optimize data centers is all wet",
-      "url": "https://techcrunch.com/2026/06/29/omen-ais-plan-to-optimize-data-centers-is-all-wet/",
+      "title": "Crypto exchange OKX wants AI agents to hire and pay each other",
+      "url": "https://techcrunch.com/2026/06/30/crypto-exchange-okx-wants-ai-agents-to-hire-and-pay-each-other/",
       "source": "TechCrunch",
-      "published_at": "Mon, 29 Jun 2026 13:00:00 +0000",
-      "raw_content": "Omen AI raised a $31 million Series A to monitor chip coolant and stop bacterial outbreaks in data centers.",
-      "summary": "Omen AI raised a $31 million Series A to monitor chip coolant and stop bacterial outbreaks in data centers.",
-      "importance": 1.7
+      "published_at": "Tue, 30 Jun 2026 09:00:00 +0000",
+      "raw_content": "OKX is bringing together payments, identity and reputation into a marketplace for AI agents.",
+      "summary": "OKX is bringing together payments, identity and reputation into a marketplace for AI agents.",
+      "importance": 1.6
     },
     {
       "title": "Gemini’s personalized AI image generation is now free for US users",
@@ -83,6 +83,15 @@
       "importance": 1.6
     },
     {
+      "title": "The AI jobs debate just got messier",
+      "url": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/",
+      "source": "TechCrunch",
+      "published_at": "Tue, 30 Jun 2026 04:01:00 +0000",
+      "raw_content": "A new report finds \"high-intensity AI adopters” saw headcount increase 10.2%. Among those companies, entry-level headcount rose by 12%, countering the rhetoric that AI kills junior jobs.",
+      "summary": "A new report finds \"high-intensity AI adopters” saw headcount increase 10.2%. Among those companies, entry-level headcount rose by 12%, countering the rhetoric that AI kills junior jobs.",
+      "importance": 1.55
+    },
+    {
       "title": "South Korean tech giants commit over $550B to ease ‘RAMageddon’",
       "url": "https://techcrunch.com/2026/06/29/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/",
       "source": "TechCrunch",
@@ -101,7 +110,7 @@
       "importance": 1.55
     },
     {
-      "title": "Tidal won’t pay royalties on AI-generated music but isn’t banning it outright",
+      "title": "Tidal won’t pay royalties on AI-generated music, but isn’t banning it outright",
       "url": "https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label",
       "source": "The Verge",
       "published_at": "2026-06-29T15:47:35-04:00",
@@ -144,15 +153,6 @@
       "raw_content": "Jonathan Rinderknecht was facing arson charges for setting a fire on New Year's Day in 2025, which became one of the deadliest wildfires in LA history. To make their case, prosecutors turned to location data from his iPhone, security camera footage, and witness testimony. But they also turned to his ChatGPT logs. Prosecutors said that [&#8230;]",
       "summary": "Jonathan Rinderknecht was facing arson charges for setting a fire on New Year's Day in 2025, which became one of the deadliest wildfires in LA history. To make their case, prosecutors turned to locati",
       "importance": 1.3
-    },
-    {
-      "title": "Ford rehires ‘gray beard’ engineers after AI falls short",
-      "url": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
-      "source": "TechCrunch",
-      "published_at": "Sun, 28 Jun 2026 19:05:39 +0000",
-      "raw_content": "\"Mistakenly we thought that by just introducing artificial intelligence ... that would produce a high-quality product.”",
-      "summary": "\"Mistakenly we thought that by just introducing artificial intelligence ... that would produce a high-quality product.”",
-      "importance": 1.25
     },
     {
       "title": "Margaret Atwood says the problem with AI is &#8216;garbage in, garbage out&#8217;",
