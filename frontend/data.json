@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-30T09:31:16.316317+00:00",
+  "generated_at": "2026-06-30T14:14:44.179594+00:00",
   "items": [
     {
       "title": "Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price",
@@ -8,15 +8,6 @@
       "published_at": "Mon, 29 Jun 2026 18:10:26 +0000",
       "raw_content": "As Anthropic forges a closer relationship with the state of California, the federal government has made an enemy out of the OpenAI rival.",
       "summary": "As Anthropic forges a closer relationship with the state of California, the federal government has made an enemy out of the OpenAI rival.",
-      "importance": 1.85
-    },
-    {
-      "title": "Robot hand company settles Tesla trade secret suit and announces $11M raise",
-      "url": "https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/",
-      "source": "TechCrunch",
-      "published_at": "Mon, 29 Jun 2026 14:00:08 +0000",
-      "raw_content": "The startup, Proception, is taking a unique approach to collecting training data to tackle one of the hardest problems in robotics: hands.",
-      "summary": "The startup, Proception, is taking a unique approach to collecting training data to tackle one of the hardest problems in robotics: hands.",
       "importance": 1.85
     },
     {
@@ -29,12 +20,12 @@
       "importance": 1.8
     },
     {
-      "title": "Vibe coding platform Base44 launches own model as AI startups seek defensibility",
+      "title": "Vibe-coding platform Base44 launches own model as AI startups seek defensibility",
       "url": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/",
       "source": "TechCrunch",
       "published_at": "Tue, 30 Jun 2026 02:28:41 +0000",
-      "raw_content": "Wix-owned vibe coding platform Base44 has started rolling out its own AI model — with hopes that it will eventually outperform frontier models.",
-      "summary": "Wix-owned vibe coding platform Base44 has started rolling out its own AI model — with hopes that it will eventually outperform frontier models.",
+      "raw_content": "Wix-owned vibe-coding platform Base44 has started rolling out its own AI model — with hopes that it will eventually outperform frontier models.",
+      "summary": "Wix-owned vibe-coding platform Base44 has started rolling out its own AI model — with hopes that it will eventually outperform frontier models.",
       "importance": 1.7
     },
     {
@@ -60,8 +51,8 @@
       "url": "https://techcrunch.com/2026/06/30/crypto-exchange-okx-wants-ai-agents-to-hire-and-pay-each-other/",
       "source": "TechCrunch",
       "published_at": "Tue, 30 Jun 2026 09:00:00 +0000",
-      "raw_content": "OKX is bringing together payments, identity and reputation into a marketplace for AI agents.",
-      "summary": "OKX is bringing together payments, identity and reputation into a marketplace for AI agents.",
+      "raw_content": "OKX is bringing together payments, identity, and reputation into a marketplace for AI agents.",
+      "summary": "OKX is bringing together payments, identity, and reputation into a marketplace for AI agents.",
       "importance": 1.6
     },
     {
@@ -74,6 +65,15 @@
       "importance": 1.6
     },
     {
+      "title": "Meet the lawyer who beat Elon Musk — twice",
+      "url": "https://www.theverge.com/column/959270/elon-musk-open-ai-bill-savitt-twitter",
+      "source": "The Verge",
+      "published_at": "2026-06-30T08:00:00-04:00",
+      "raw_content": "Watching Elon Musk fulminate at Bill Savitt during Musk v. Altman - the case in which Musk sued Sam Altman and OpenAI instead of seeing a therapist about his AI failures - was a bit like watching a toddler have a temper tantrum at his nursery school teacher. Savitt's questions were \"designed to trick me,\" [&#8230;]",
+      "summary": "Watching Elon Musk fulminate at Bill Savitt during Musk v. Altman - the case in which Musk sued Sam Altman and OpenAI instead of seeing a therapist about his AI failures - was a bit like watching a to",
+      "importance": 1.6
+    },
+    {
       "title": "OpenAI is teasing new hardware… for Codex",
       "url": "https://www.theverge.com/ai-artificial-intelligence/959174/openai-codex-hardware-work-louder",
       "source": "The Verge",
@@ -81,6 +81,15 @@
       "raw_content": "OpenAI is releasing some sort of device related to its AI-powered coding tool, Codex, on July 15th. In a video posted to X on Monday, OpenAI shows a square-shaped device with several buttons, alongside the caption, \"Your favorite Codex shortcuts are getting an upgrade.\" This isn't the mysterious AI-powered device OpenAI is working on with [&#8230;]",
       "summary": "OpenAI is releasing some sort of device related to its AI-powered coding tool, Codex, on July 15th. In a video posted to X on Monday, OpenAI shows a square-shaped device with several buttons, alongsid",
       "importance": 1.6
+    },
+    {
+      "title": "Lumo, Proton’s privacy-focused AI chatbot, gets an upgrade",
+      "url": "https://techcrunch.com/2026/06/30/lumo-protons-privacy-focused-ai-chatbot-gets-an-upgrade/",
+      "source": "TechCrunch",
+      "published_at": "Tue, 30 Jun 2026 14:00:00 +0000",
+      "raw_content": "Proton's Lumo 2.0 is dropping this week, giving users a broader variety of capabilities.",
+      "summary": "Proton's Lumo 2.0 is dropping this week, giving users a broader variety of capabilities.",
+      "importance": 1.55
     },
     {
       "title": "The AI jobs debate just got messier",
@@ -128,15 +137,6 @@
       "importance": 1.5
     },
     {
-      "title": "OpenAI unveils GPT-5.6 amid US AI regulatory drama",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview",
-      "source": "The Verge",
-      "published_at": "2026-06-26T13:00:00-04:00",
-      "raw_content": "Less than 24 hours after news broke that OpenAI would stagger its next model release at the request of the Trump administration, that model, GPT-5.6, is here. On Friday, the company unveiled the limited preview of its new GPT 5.6 model suite: Sol, the flagship; Terra, a medium-tier model for \"high-volume work\"; and Luna, a [&#8230;]",
-      "summary": "Less than 24 hours after news broke that OpenAI would stagger its next model release at the request of the Trump administration, that model, GPT-5.6, is here. On Friday, the company unveiled the limit",
-      "importance": 1.45
-    },
-    {
       "title": "Suno launches Spark incubator program to feed independent artists to its AI machine",
       "url": "https://www.theverge.com/ai-artificial-intelligence/958801/suno-launches-spark-incubator-program-to-feed-independent-artists-to-its-ai-machine",
       "source": "The Verge",
@@ -170,7 +170,7 @@
       "published_at": "2026-06-27T09:30:00-04:00",
       "raw_content": "Tim Cook recently said price increases were \"unavoidable\" and described the company's pricing as \"unsustainable.\" The 16-inch MacBook Pro saw its price go up by $300. The 11-inch iPad Air went from $599 to $749. Even the HomePod Mini got a $30 bump to $129. Cook squarely placed the blame at the feet of the [&#8230;]",
       "summary": "Tim Cook recently said price increases were \"unavoidable\" and described the company's pricing as \"unsustainable.\" The 16-inch MacBook Pro saw its price go up by $300. The 11-inch iPad Air went from $5",
-      "importance": 1.25
+      "importance": 1.05
     },
     {
       "title": "Anthropic&#8217;s Mythos 5 is back",
