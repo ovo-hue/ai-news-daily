@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-29T19:54:36.687699+00:00",
+  "generated_at": "2026-06-30T03:30:31.039732+00:00",
   "items": [
     {
       "title": "Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price",
@@ -29,13 +29,13 @@
       "importance": 1.8
     },
     {
-      "title": "China’s Z.ai claims it can match Mythos on cybersecurity",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity",
-      "source": "The Verge",
-      "published_at": "2026-06-28T17:42:51-04:00",
-      "raw_content": "China's Zhipu AI (Z.ai) released its open-weight GLM-5.2, and some researchers have claimed that it matches Mythos in certain bug-finding and cybersecurity scenarios. While GLM lags behind models from Anthropic and OpenAI in other, more general tasks, it seems that China has dramatically reduced the gap in the capabilities between its models and those of [&#8230;]",
-      "summary": "China's Zhipu AI (Z.ai) released its open-weight GLM-5.2, and some researchers have claimed that it matches Mythos in certain bug-finding and cybersecurity scenarios. While GLM lags behind models from",
-      "importance": 1.8
+      "title": "Vibe coding platform Base44 launches own model as AI startups seek defensibility",
+      "url": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/",
+      "source": "TechCrunch",
+      "published_at": "Tue, 30 Jun 2026 02:28:41 +0000",
+      "raw_content": "Wix-owned vibe coding platform Base44 has started rolling out its own AI model — with hopes that it will eventually outperform frontier models.",
+      "summary": "Wix-owned vibe coding platform Base44 has started rolling out its own AI model — with hopes that it will eventually outperform frontier models.",
+      "importance": 1.7
     },
     {
       "title": "Arena, the AI leaderboard everyone uses, is now a $100M business",
@@ -65,13 +65,22 @@
       "importance": 1.7
     },
     {
-      "title": "Suno launches Spark incubator program to feed independent artists to its AI machine",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/958801/suno-launches-spark-incubator-program-to-feed-independent-artists-to-its-ai-machine",
+      "title": "Gemini’s personalized AI image generation is now free for US users",
+      "url": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/",
+      "source": "TechCrunch",
+      "published_at": "Mon, 29 Jun 2026 20:12:59 +0000",
+      "raw_content": "Google is expanding Gemini’s personalized AI image generation to eligible free users in the U.S., allowing the chatbot to create images based on your interests and data from connected Google apps.",
+      "summary": "Google is expanding Gemini’s personalized AI image generation to eligible free users in the U.S., allowing the chatbot to create images based on your interests and data from connected Google apps.",
+      "importance": 1.6
+    },
+    {
+      "title": "OpenAI is teasing new hardware… for Codex",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/959174/openai-codex-hardware-work-louder",
       "source": "The Verge",
-      "published_at": "2026-06-28T16:27:36-04:00",
-      "raw_content": "Suno has ambitions to be more than just a toy to churn out AI slop, it also wants to be a streaming destination and to break new artists. Spark is their new incubator program for independent artists that provides grants, mentorship, and marketing support. To apply, artists need to be an unsigned singer, songwriter, or [&#8230;]",
-      "summary": "Suno has ambitions to be more than just a toy to churn out AI slop, it also wants to be a streaming destination and to break new artists. Spark is their new incubator program for independent artists t",
-      "importance": 1.7
+      "published_at": "2026-06-29T14:52:03-04:00",
+      "raw_content": "OpenAI is releasing some sort of device related to its AI-powered coding tool, Codex, on July 15th. In a video posted to X on Monday, OpenAI shows a square-shaped device with several buttons, alongside the caption, \"Your favorite Codex shortcuts are getting an upgrade.\" This isn't the mysterious AI-powered device OpenAI is working on with [&#8230;]",
+      "summary": "OpenAI is releasing some sort of device related to its AI-powered coding tool, Codex, on July 15th. In a video posted to X on Monday, OpenAI shows a square-shaped device with several buttons, alongsid",
+      "importance": 1.6
     },
     {
       "title": "South Korean tech giants commit over $550B to ease ‘RAMageddon’",
@@ -92,6 +101,24 @@
       "importance": 1.55
     },
     {
+      "title": "Tidal won’t pay royalties on AI-generated music but isn’t banning it outright",
+      "url": "https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label",
+      "source": "The Verge",
+      "published_at": "2026-06-29T15:47:35-04:00",
+      "raw_content": "Tidal shared its new policies regarding AI-generated music today and how the platform plans to \"protect artists\" and \"inform listeners.\" Instead of banning it outright, starting on July 15th Tidal will label tracks it has identified as being 100 percent AI-generated with an icon. But starting today those tracks will no longer be monetizable. \"Tidal's [&#8230;]",
+      "summary": "Tidal shared its new policies regarding AI-generated music today and how the platform plans to \"protect artists\" and \"inform listeners.\" Instead of banning it outright, starting on July 15th Tidal wil",
+      "importance": 1.55
+    },
+    {
+      "title": "China’s Z.ai claims it can match Mythos on cybersecurity",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity",
+      "source": "The Verge",
+      "published_at": "2026-06-28T17:42:51-04:00",
+      "raw_content": "China's Zhipu AI (Z.ai) released its open-weight GLM-5.2, and some researchers have claimed that it matches Mythos in certain bug-finding and cybersecurity scenarios. While GLM lags behind models from Anthropic and OpenAI in other, more general tasks, it seems that China has dramatically reduced the gap in the capabilities between its models and those of [&#8230;]",
+      "summary": "China's Zhipu AI (Z.ai) released its open-weight GLM-5.2, and some researchers have claimed that it matches Mythos in certain bug-finding and cybersecurity scenarios. While GLM lags behind models from",
+      "importance": 1.5
+    },
+    {
       "title": "OpenAI unveils GPT-5.6 amid US AI regulatory drama",
       "url": "https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview",
       "source": "The Verge",
@@ -101,13 +128,13 @@
       "importance": 1.45
     },
     {
-      "title": "OpenAI will delay GPT-5.6 after Trump administration request",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request",
+      "title": "Suno launches Spark incubator program to feed independent artists to its AI machine",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/958801/suno-launches-spark-incubator-program-to-feed-independent-artists-to-its-ai-machine",
       "source": "The Verge",
-      "published_at": "2026-06-25T17:57:06-04:00",
-      "raw_content": "The Trump administration, apprehensive of potential security issues, has reportedly asked OpenAI to stagger the release of its next big-ticket model, GPT-5.6. The Information reported that OpenAI CEO Sam Altman told employees Wednesday in a company Q&#38;A that it would release GPT-5.6 in limited preview form - granting access only to a small group of [&#8230;]",
-      "summary": "The Trump administration, apprehensive of potential security issues, has reportedly asked OpenAI to stagger the release of its next big-ticket model, GPT-5.6. The Information reported that OpenAI CEO ",
-      "importance": 1.45
+      "published_at": "2026-06-28T16:27:36-04:00",
+      "raw_content": "Suno has ambitions to be more than just a toy to churn out AI slop, it also wants to be a streaming destination and to break new artists. Spark is their new incubator program for independent artists that provides grants, mentorship, and marketing support. To apply, artists need to be an unsigned singer, songwriter, or [&#8230;]",
+      "summary": "Suno has ambitions to be more than just a toy to churn out AI slop, it also wants to be a streaming destination and to break new artists. Spark is their new incubator program for independent artists t",
+      "importance": 1.4
     },
     {
       "title": "Prosecutors used ChatGPT logs as evidence in the Palisades fire trial",
@@ -125,15 +152,6 @@
       "published_at": "Sun, 28 Jun 2026 19:05:39 +0000",
       "raw_content": "\"Mistakenly we thought that by just introducing artificial intelligence ... that would produce a high-quality product.”",
       "summary": "\"Mistakenly we thought that by just introducing artificial intelligence ... that would produce a high-quality product.”",
-      "importance": 1.25
-    },
-    {
-      "title": "Why Wall Street thinks US memory maker Micron is the next Nvidia",
-      "url": "https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/",
-      "source": "TechCrunch",
-      "published_at": "Sun, 28 Jun 2026 15:00:00 +0000",
-      "raw_content": "Eager to find more public AI-related companies that may do as well as Nvidia, Wall Street investors think they've found a winner with Micron.",
-      "summary": "Eager to find more public AI-related companies that may do as well as Nvidia, Wall Street investors think they've found a winner with Micron.",
       "importance": 1.25
     },
     {
@@ -161,24 +179,6 @@
       "published_at": "2026-06-26T20:33:44-04:00",
       "raw_content": "After a rollercoaster negotiation process with the Trump administration that dragged on for two weeks, Anthropic's Mythos 5 is finally back in action - at least, somewhat, for a select group of organizations, according to a letter from the government to Anthropic that was viewed by The Verge. Fable 5, however - the public-facing Mythos-class [&#8230;]",
       "summary": "After a rollercoaster negotiation process with the Trump administration that dragged on for two weeks, Anthropic's Mythos 5 is finally back in action - at least, somewhat, for a select group of organi",
-      "importance": 1.25
-    },
-    {
-      "title": "SoftBank’s CEO isn’t the only one with questions about Elon Musk’s orbital data center hype",
-      "url": "https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/",
-      "source": "TechCrunch",
-      "published_at": "Sat, 27 Jun 2026 20:42:36 +0000",
-      "raw_content": "Not everyone is buying Elon Musk’s vision for orbital data centers.",
-      "summary": "Not everyone is buying Elon Musk’s vision for orbital data centers.",
-      "importance": 1.2
-    },
-    {
-      "title": "Anthropic&#8217;s Mythos mess is only getting worse",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/957327/anthropic-mythos-fable-ai-trump-administration-negotiations",
-      "source": "The Verge",
-      "published_at": "2026-06-26T10:07:03-04:00",
-      "raw_content": "It's been two weeks since Anthropic took its Mythos-class models offline after a Friday evening ultimatum from the Trump administration. The company sprang into action immediately, sending a barrage of executives to Washington, DC. But updates have been suspiciously lacking, with no resolution in sight. Anthropic declined to comment multiple times this week about the [&#8230;]",
-      "summary": "It's been two weeks since Anthropic took its Mythos-class models offline after a Friday evening ultimatum from the Trump administration. The company sprang into action immediately, sending a barrage o",
       "importance": 1.05
     }
   ]
