@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-30T19:52:58.176065+00:00",
+  "generated_at": "2026-07-01T03:38:59.315978+00:00",
   "items": [
     {
       "title": "Anthropic launches Claude Sonnet 5 as a cheaper way to run agents",
@@ -11,13 +11,22 @@
       "importance": 2.2
     },
     {
-      "title": "Amazon launches new $1 billion FDE org, following OpenAI and Anthropic",
-      "url": "https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/",
+      "title": "Anthropic&#8217;s long-sidelined Fable 5 is greenlit to return",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back",
+      "source": "The Verge",
+      "published_at": "2026-06-30T20:03:55-04:00",
+      "raw_content": "After weeks of negotiating with the Trump administration, Anthropic is finally going to be able to bring Claude Fable 5 back online. In a post on X, Anthropic said it plans to begin restoring access tomorrow. Anthropic: We've received notice that the Department of Commerce has lifted export controls on Claude Fable 5 and Mythos [&#8230;]",
+      "summary": "After weeks of negotiating with the Trump administration, Anthropic is finally going to be able to bring Claude Fable 5 back online. In a post on X, Anthropic said it plans to begin restoring access t",
+      "importance": 1.8
+    },
+    {
+      "title": "OpenClaw is finally available on Android and iOS",
+      "url": "https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios/",
       "source": "TechCrunch",
-      "published_at": "Tue, 30 Jun 2026 15:00:00 +0000",
-      "raw_content": "Engineers on the new team will embed within companies to deploy purpose-built agents, focusing on fast deployments and customer self-sufficiency.",
-      "summary": "Engineers on the new team will embed within companies to deploy purpose-built agents, focusing on fast deployments and customer self-sufficiency.",
-      "importance": 2.0
+      "published_at": "Tue, 30 Jun 2026 21:53:28 +0000",
+      "raw_content": "The free open source agentic program is finally invading your phone.",
+      "summary": "The free open source agentic program is finally invading your phone.",
+      "importance": 1.75
     },
     {
       "title": "Anthropic’s Claude Science bets on workflow, not a new model, to win over scientists",
@@ -29,6 +38,15 @@
       "importance": 1.75
     },
     {
+      "title": "Wayve launches $85M employee tender offer at $8.5B valuation",
+      "url": "https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/",
+      "source": "TechCrunch",
+      "published_at": "Wed, 01 Jul 2026 02:04:40 +0000",
+      "raw_content": "Wayve’s offering is part of a growing trend of AI startups using employee tenders as a strategic tool to attract and retain talent.",
+      "summary": "Wayve’s offering is part of a growing trend of AI startups using employee tenders as a strategic tool to attract and retain talent.",
+      "importance": 1.7
+    },
+    {
       "title": "Nvidia competitor Etched hits $5B valuation, $1B in sales for AI chip",
       "url": "https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/",
       "source": "TechCrunch",
@@ -38,13 +56,22 @@
       "importance": 1.7
     },
     {
-      "title": "X now offers an MCP server to make its platform easier for AI tools to use",
-      "url": "https://techcrunch.com/2026/06/30/x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use/",
+      "title": "Trump drops restrictions on Anthropic’s Mythos and Fable models",
+      "url": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/",
       "source": "TechCrunch",
-      "published_at": "Tue, 30 Jun 2026 15:08:42 +0000",
-      "raw_content": "X has launched a hosted MCP server, making it easier for developers to connect AI applications with the company’s API.",
-      "summary": "X has launched a hosted MCP server, making it easier for developers to connect AI applications with the company’s API.",
-      "importance": 1.7
+      "published_at": "Wed, 01 Jul 2026 02:16:06 +0000",
+      "raw_content": "Anthropic said it would begin restoring access to the Fable on July 1.",
+      "summary": "Anthropic said it would begin restoring access to the Fable on July 1.",
+      "importance": 1.6
+    },
+    {
+      "title": "The DeepMind trio who built a poker AI are now making money for quant hedge funds",
+      "url": "https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/",
+      "source": "TechCrunch",
+      "published_at": "Tue, 30 Jun 2026 20:33:48 +0000",
+      "raw_content": "EquiLibre Technologies, a Prague-based AI lab founded by three ex-DeepMind researchers, is now valued at more than $500 million.",
+      "summary": "EquiLibre Technologies, a Prague-based AI lab founded by three ex-DeepMind researchers, is now valued at more than $500 million.",
+      "importance": 1.6
     },
     {
       "title": "Acti puts AI agents directly into your smartphone keyboard",
@@ -53,15 +80,6 @@
       "published_at": "Tue, 30 Jun 2026 17:52:46 +0000",
       "raw_content": "Acti is betting the smartphone keyboard is the next home for AI assistants. The startup's new keyboard for iOS and Android works across apps and lets users create custom AI-powered shortcuts using natural language.",
       "summary": "Acti is betting the smartphone keyboard is the next home for AI assistants. The startup's new keyboard for iOS and Android works across apps and lets users create custom AI-powered shortcuts using nat",
-      "importance": 1.6
-    },
-    {
-      "title": "Crypto exchange OKX wants AI agents to hire and pay each other",
-      "url": "https://techcrunch.com/2026/06/30/crypto-exchange-okx-wants-ai-agents-to-hire-and-pay-each-other/",
-      "source": "TechCrunch",
-      "published_at": "Tue, 30 Jun 2026 09:00:00 +0000",
-      "raw_content": "OKX is bringing together payments, identity, and reputation into a marketplace for AI agents.",
-      "summary": "OKX is bringing together payments, identity, and reputation into a marketplace for AI agents.",
       "importance": 1.6
     },
     {
@@ -80,24 +98,6 @@
       "published_at": "Tue, 30 Jun 2026 19:02:38 +0000",
       "raw_content": "Google is updating its image generator to make it faster and cheaper, making it a more useful tool for creators looking to make AI content.",
       "summary": "Google is updating its image generator to make it faster and cheaper, making it a more useful tool for creators looking to make AI content.",
-      "importance": 1.55
-    },
-    {
-      "title": "Podcasting platform Riverside enters the newsletter publishing game",
-      "url": "https://techcrunch.com/2026/06/30/podcasting-platform-riverside-enters-the-newsletter-publishing-game/",
-      "source": "TechCrunch",
-      "published_at": "Tue, 30 Jun 2026 15:00:00 +0000",
-      "raw_content": "Users will be able use AI to create newsletters based on their recordings.",
-      "summary": "Users will be able use AI to create newsletters based on their recordings.",
-      "importance": 1.55
-    },
-    {
-      "title": "Lumo, Proton’s privacy-focused AI chatbot, gets an upgrade",
-      "url": "https://techcrunch.com/2026/06/30/lumo-protons-privacy-focused-ai-chatbot-gets-an-upgrade/",
-      "source": "TechCrunch",
-      "published_at": "Tue, 30 Jun 2026 14:00:00 +0000",
-      "raw_content": "Proton's Lumo 2.0 is dropping this week, giving users a broader variety of capabilities.",
-      "summary": "Proton's Lumo 2.0 is dropping this week, giving users a broader variety of capabilities.",
       "importance": 1.55
     },
     {
@@ -126,6 +126,15 @@
       "raw_content": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. \"AI is the new frontier for us,\" says Marc DeBevoise, who took over as the new CEO of OverDrive last week. OverDrive is best known for the ebook lending app [&#8230;]",
       "summary": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. \"AI is the new frontier for us,\" sa",
       "importance": 1.55
+    },
+    {
+      "title": "The “Father of the Internet” is finally retiring",
+      "url": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
+      "source": "TechCrunch",
+      "published_at": "Wed, 01 Jul 2026 03:15:37 +0000",
+      "raw_content": "Vinton Cerf, one of the creators of the protocols underlying the internet, will step down as Google's chief internet evangelist next week.",
+      "summary": "Vinton Cerf, one of the creators of the protocols underlying the internet, will step down as Google's chief internet evangelist next week.",
+      "importance": 1.5
     },
     {
       "title": "Lawmakers want to ban AI companies from selling your health data",
@@ -161,15 +170,6 @@
       "published_at": "2026-06-29T14:52:03-04:00",
       "raw_content": "OpenAI is releasing some sort of device related to its AI-powered coding tool, Codex, on July 15th. In a video posted to X on Monday, OpenAI shows a square-shaped device with several buttons, alongside the caption, \"Your favorite Codex shortcuts are getting an upgrade.\" This isn't the mysterious AI-powered device OpenAI is working on with [&#8230;]",
       "summary": "OpenAI is releasing some sort of device related to its AI-powered coding tool, Codex, on July 15th. In a video posted to X on Monday, OpenAI shows a square-shaped device with several buttons, alongsid",
-      "importance": 1.3
-    },
-    {
-      "title": "Prosecutors used ChatGPT logs as evidence in the Palisades fire trial",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial",
-      "source": "The Verge",
-      "published_at": "2026-06-28T10:12:06-04:00",
-      "raw_content": "Jonathan Rinderknecht was facing arson charges for setting a fire on New Year's Day in 2025, which became one of the deadliest wildfires in LA history. To make their case, prosecutors turned to location data from his iPhone, security camera footage, and witness testimony. But they also turned to his ChatGPT logs. Prosecutors said that [&#8230;]",
-      "summary": "Jonathan Rinderknecht was facing arson charges for setting a fire on New Year's Day in 2025, which became one of the deadliest wildfires in LA history. To make their case, prosecutors turned to locati",
       "importance": 1.3
     },
     {
