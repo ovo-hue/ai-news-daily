@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-07-03T09:15:07.686608+00:00",
+  "generated_at": "2026-07-03T13:59:31.644058+00:00",
   "items": [
     {
-      "title": "Microsoft launches its own AI deployment company with $2.5 billion commitment",
-      "url": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
-      "source": "TechCrunch",
-      "published_at": "Thu, 02 Jul 2026 13:53:00 +0000",
-      "raw_content": "Microsoft follows Amazon, OpenAI, and Anthropic with its new AI deployment group.",
-      "summary": "Microsoft follows Amazon, OpenAI, and Anthropic with its new AI deployment group.",
-      "importance": 1.95
+      "title": "Anthropic wants to develop its own drugs",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development",
+      "source": "The Verge",
+      "published_at": "2026-07-03T09:56:52-04:00",
+      "raw_content": "At the event \"The Briefing: AI for Science\" earlier this week, Anthropic announced Claude Science, a new \"AI workbench for scientists\" that pulls fragmented tools and datasets into one environment, and generates figures and visuals. Anthropic, already dominating the industry with its popular coding tools and powerful AI models, framed the launch around what it [&#8230;]",
+      "summary": "At the event \"The Briefing: AI for Science\" earlier this week, Anthropic announced Claude Science, a new \"AI workbench for scientists\" that pulls fragmented tools and datasets into one environment, an",
+      "importance": 2.1
     },
     {
       "title": "Anthropic is discussing a new custom chip with Samsung",
@@ -20,6 +20,15 @@
       "importance": 1.8
     },
     {
+      "title": "A behind-the-scenes look at Midjourney’s medical scanner leaves many questions unanswered",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video",
+      "source": "The Verge",
+      "published_at": "2026-07-03T07:49:10-04:00",
+      "raw_content": "Midjourney has shown more of its futuristic medical scanner. It still hasn't shown much proof it works. The AI startup, best known for generating images, released a behind-the-scenes video of its dunk-tank ultrasound scanner, which it plans to deploy in spas and hopes will transform medicine with cheap, detailed, radiation-free imaging. The nearly 20-minute tour [&#8230;]",
+      "summary": "Midjourney has shown more of its futuristic medical scanner. It still hasn't shown much proof it works. The AI startup, best known for generating images, released a behind-the-scenes video of its dunk",
+      "importance": 1.75
+    },
+    {
       "title": "Meta quietly launches vibe-coded gaming app Pocket",
       "url": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
       "source": "TechCrunch",
@@ -29,13 +38,13 @@
       "importance": 1.7
     },
     {
-      "title": "Yep, we’re using OpenClaw to date now",
-      "url": "https://techcrunch.com/2026/07/02/yep-were-using-openclaw-to-date-now/",
+      "title": "Microsoft launches its own AI deployment company with $2.5 billion commitment",
+      "url": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
       "source": "TechCrunch",
-      "published_at": "Thu, 02 Jul 2026 12:00:00 +0000",
-      "raw_content": "Ben Guez has \"a bunch of potential international wives in [his] DMs,\" thanks to an automated script he set up using OpenClaw, Claude code, and Instagram trials.",
-      "summary": "Ben Guez has \"a bunch of potential international wives in [his] DMs,\" thanks to an automated script he set up using OpenClaw, Claude code, and Instagram trials.",
-      "importance": 1.7
+      "published_at": "Thu, 02 Jul 2026 13:53:00 +0000",
+      "raw_content": "Microsoft follows Amazon, OpenAI, and Anthropic with its new AI deployment group.",
+      "summary": "Microsoft follows Amazon, OpenAI, and Anthropic with its new AI deployment group.",
+      "importance": 1.65
     },
     {
       "title": "Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped",
@@ -53,15 +62,6 @@
       "published_at": "Thu, 02 Jul 2026 15:20:51 +0000",
       "raw_content": "OpenAI CEO Sam Altman has reportedly proposed giving 5% of the company’s equity to a U.S. sovereign wealth fund, reviving discussions about letting the public share in the financial gains from the AI boom.",
       "summary": "OpenAI CEO Sam Altman has reportedly proposed giving 5% of the company’s equity to a U.S. sovereign wealth fund, reviving discussions about letting the public share in the financial gains from the AI ",
-      "importance": 1.6
-    },
-    {
-      "title": "OpenAI floats giving Trump administration 5 percent cut of AI boom",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump",
-      "source": "The Verge",
-      "published_at": "2026-07-02T06:23:27-04:00",
-      "raw_content": "OpenAI has floated giving the US government a 5 percent ownership stake as a way of easing tensions with the Trump administration and blunting mounting public backlash against AI, according to the Financial Times. CEO Sam Altman argued that giving the public a financial interest in the company would be the best way to share [&#8230;]",
-      "summary": "OpenAI has floated giving the US government a 5 percent ownership stake as a way of easing tensions with the Trump administration and blunting mounting public backlash against AI, according to the Fin",
       "importance": 1.6
     },
     {
@@ -83,6 +83,15 @@
       "importance": 1.5
     },
     {
+      "title": "Yep, we’re using OpenClaw to date now",
+      "url": "https://techcrunch.com/2026/07/02/yep-were-using-openclaw-to-date-now/",
+      "source": "TechCrunch",
+      "published_at": "Thu, 02 Jul 2026 12:00:00 +0000",
+      "raw_content": "Ben Guez has \"a bunch of potential international wives in [his] DMs,\" thanks to an automated script he set up using OpenClaw, Claude code, and Instagram trials.",
+      "summary": "Ben Guez has \"a bunch of potential international wives in [his] DMs,\" thanks to an automated script he set up using OpenClaw, Claude code, and Instagram trials.",
+      "importance": 1.4
+    },
+    {
       "title": "Ashton Kutcher leaving Sound Ventures to launch new VC firm with Morgan Beller",
       "url": "https://techcrunch.com/2026/07/01/ashton-kutcher-leaving-sound-ventures-to-launch-new-vc-firm-with-morgan-beller/",
       "source": "TechCrunch",
@@ -92,30 +101,21 @@
       "importance": 1.4
     },
     {
+      "title": "OpenAI floats giving Trump administration 5 percent cut of AI boom",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump",
+      "source": "The Verge",
+      "published_at": "2026-07-02T06:23:27-04:00",
+      "raw_content": "OpenAI has floated giving the US government a 5 percent ownership stake as a way of easing tensions with the Trump administration and blunting mounting public backlash against AI, according to the Financial Times. CEO Sam Altman argued that giving the public a financial interest in the company would be the best way to share [&#8230;]",
+      "summary": "OpenAI has floated giving the US government a 5 percent ownership stake as a way of easing tensions with the Trump administration and blunting mounting public backlash against AI, according to the Fin",
+      "importance": 1.3
+    },
+    {
       "title": "Google built a great smart speaker, but Gemini isn’t ready for it",
       "url": "https://www.theverge.com/tech/959503/google-home-speaker-review-gemini-for-home",
       "source": "The Verge",
       "published_at": "2026-07-01T08:00:00-04:00",
       "raw_content": "Smart speakers have spent the past few years searching for a compelling second act. Beyond music, timers, and controlling your lights, they've struggled to justify taking up space on the kitchen counter. AI promised to change that. Amazon debuted its new hardware powered by a revamped Alexa last fall, and now it's finally Google's turn. [&#8230;]",
       "summary": "Smart speakers have spent the past few years searching for a compelling second act. Beyond music, timers, and controlling your lights, they've struggled to justify taking up space on the kitchen count",
-      "importance": 1.3
-    },
-    {
-      "title": "Meet the lawyer who beat Elon Musk — twice",
-      "url": "https://www.theverge.com/column/959270/elon-musk-open-ai-bill-savitt-twitter",
-      "source": "The Verge",
-      "published_at": "2026-06-30T08:00:00-04:00",
-      "raw_content": "Watching Elon Musk fulminate at Bill Savitt during Musk v. Altman - the case in which Musk sued Sam Altman and OpenAI instead of seeing a therapist about his AI failures - was a bit like watching a toddler have a temper tantrum at his nursery school teacher. Savitt's questions were \"designed to trick me,\" [&#8230;]",
-      "summary": "Watching Elon Musk fulminate at Bill Savitt during Musk v. Altman - the case in which Musk sued Sam Altman and OpenAI instead of seeing a therapist about his AI failures - was a bit like watching a to",
-      "importance": 1.3
-    },
-    {
-      "title": "Lawmakers want to ban AI companies from selling your health data",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/959033/health-location-data-protection-act-ai-warren-scanlon",
-      "source": "The Verge",
-      "published_at": "2026-06-29T12:00:00-04:00",
-      "raw_content": "A new proposal would ban the sale of Americans' health and location information to data brokers - including information people reveal to an AI chatbot like ChatGPT or Claude. In the coming weeks, Senator Elizabeth Warren (D-MA) and Representative Mary Gay Scanlon (D-PA) are planning to debut a new version of the Health and Location [&#8230;]",
-      "summary": "A new proposal would ban the sale of Americans' health and location information to data brokers - including information people reveal to an AI chatbot like ChatGPT or Claude. In the coming weeks, Sena",
       "importance": 1.3
     },
     {
@@ -164,12 +164,12 @@
       "importance": 1.25
     },
     {
-      "title": "OpenAI is teasing new hardware… for Codex",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/959174/openai-codex-hardware-work-louder",
+      "title": "Meet the lawyer who beat Elon Musk — twice",
+      "url": "https://www.theverge.com/column/959270/elon-musk-open-ai-bill-savitt-twitter",
       "source": "The Verge",
-      "published_at": "2026-06-29T14:52:03-04:00",
-      "raw_content": "OpenAI is releasing some sort of device related to its AI-powered coding tool, Codex, on July 15th. In a video posted to X on Monday, OpenAI shows a square-shaped device with several buttons, alongside the caption, \"Your favorite Codex shortcuts are getting an upgrade.\" This isn't the mysterious AI-powered device OpenAI is working on with [&#8230;]",
-      "summary": "OpenAI is releasing some sort of device related to its AI-powered coding tool, Codex, on July 15th. In a video posted to X on Monday, OpenAI shows a square-shaped device with several buttons, alongsid",
+      "published_at": "2026-06-30T08:00:00-04:00",
+      "raw_content": "Watching Elon Musk fulminate at Bill Savitt during Musk v. Altman - the case in which Musk sued Sam Altman and OpenAI instead of seeing a therapist about his AI failures - was a bit like watching a toddler have a temper tantrum at his nursery school teacher. Savitt's questions were \"designed to trick me,\" [&#8230;]",
+      "summary": "Watching Elon Musk fulminate at Bill Savitt during Musk v. Altman - the case in which Musk sued Sam Altman and OpenAI instead of seeing a therapist about his AI failures - was a bit like watching a to",
       "importance": 1.1
     },
     {
