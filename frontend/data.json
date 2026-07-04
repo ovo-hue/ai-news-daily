@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-04T08:34:04.391236+00:00",
+  "generated_at": "2026-07-04T13:20:40.688561+00:00",
   "items": [
     {
       "title": "Anthropic wants to develop its own drugs",
@@ -9,15 +9,6 @@
       "raw_content": "At the event \"The Briefing: AI for Science\" earlier this week, Anthropic announced Claude Science, a new \"AI workbench for scientists\" that pulls fragmented tools and datasets into one environment, and generates figures and visuals. Anthropic, already dominating the industry with its popular coding tools and powerful AI models, framed the launch around what it [&#8230;]",
       "summary": "At the event \"The Briefing: AI for Science\" earlier this week, Anthropic announced Claude Science, a new \"AI workbench for scientists\" that pulls fragmented tools and datasets into one environment, an",
       "importance": 2.1
-    },
-    {
-      "title": "A behind-the-scenes look at Midjourney’s medical scanner leaves many questions unanswered",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video",
-      "source": "The Verge",
-      "published_at": "2026-07-03T07:49:10-04:00",
-      "raw_content": "Midjourney has shown more of its futuristic medical scanner. It still hasn't shown much proof it works. The AI startup, best known for generating images, released a behind-the-scenes video of its dunk-tank ultrasound scanner, which it plans to deploy in spas and hopes will transform medicine with cheap, detailed, radiation-free imaging. The nearly 20-minute tour [&#8230;]",
-      "summary": "Midjourney has shown more of its futuristic medical scanner. It still hasn't shown much proof it works. The AI startup, best known for generating images, released a behind-the-scenes video of its dunk",
-      "importance": 1.75
     },
     {
       "title": "Microsoft launches its own AI deployment company with $2.5 billion commitment",
@@ -54,6 +45,15 @@
       "raw_content": "The news comes about a week after OpenAI announced its own custom AI chip in a partnership with Broadcom.",
       "summary": "The news comes about a week after OpenAI announced its own custom AI chip in a partnership with Broadcom.",
       "importance": 1.5
+    },
+    {
+      "title": "A behind-the-scenes look at Midjourney’s medical scanner leaves many questions unanswered",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video",
+      "source": "The Verge",
+      "published_at": "2026-07-03T07:49:10-04:00",
+      "raw_content": "Midjourney has shown more of its futuristic medical scanner. It still hasn't shown much proof it works. The AI startup, best known for generating images, released a behind-the-scenes video of its dunk-tank ultrasound scanner, which it plans to deploy in spas and hopes will transform medicine with cheap, detailed, radiation-free imaging. The nearly 20-minute tour [&#8230;]",
+      "summary": "Midjourney has shown more of its futuristic medical scanner. It still hasn't shown much proof it works. The AI startup, best known for generating images, released a behind-the-scenes video of its dunk",
+      "importance": 1.45
     },
     {
       "title": "Meta quietly launches vibe-coded gaming app Pocket",
@@ -101,15 +101,6 @@
       "importance": 1.3
     },
     {
-      "title": "Google built a great smart speaker, but Gemini isn’t ready for it",
-      "url": "https://www.theverge.com/tech/959503/google-home-speaker-review-gemini-for-home",
-      "source": "The Verge",
-      "published_at": "2026-07-01T08:00:00-04:00",
-      "raw_content": "Smart speakers have spent the past few years searching for a compelling second act. Beyond music, timers, and controlling your lights, they've struggled to justify taking up space on the kitchen counter. AI promised to change that. Amazon debuted its new hardware powered by a revamped Alexa last fall, and now it's finally Google's turn. [&#8230;]",
-      "summary": "Smart speakers have spent the past few years searching for a compelling second act. Beyond music, timers, and controlling your lights, they've struggled to justify taking up space on the kitchen count",
-      "importance": 1.3
-    },
-    {
       "title": "Anthropic&#8217;s long-sidelined Fable 5 is greenlit to return",
       "url": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back",
       "source": "The Verge",
@@ -135,6 +126,15 @@
       "raw_content": "Neo is Bhavin Turakhia’s fifth venture and his latest involving enterprise software. This time he's taking on Microsoft Office and Google Apps with AI.",
       "summary": "Neo is Bhavin Turakhia’s fifth venture and his latest involving enterprise software. This time he's taking on Microsoft Office and Google Apps with AI.",
       "importance": 1.25
+    },
+    {
+      "title": "Google built a great smart speaker, but Gemini isn’t ready for it",
+      "url": "https://www.theverge.com/tech/959503/google-home-speaker-review-gemini-for-home",
+      "source": "The Verge",
+      "published_at": "2026-07-01T08:00:00-04:00",
+      "raw_content": "Smart speakers have spent the past few years searching for a compelling second act. Beyond music, timers, and controlling your lights, they've struggled to justify taking up space on the kitchen counter. AI promised to change that. Amazon debuted its new hardware powered by a revamped Alexa last fall, and now it's finally Google's turn. [&#8230;]",
+      "summary": "Smart speakers have spent the past few years searching for a compelling second act. Beyond music, timers, and controlling your lights, they've struggled to justify taking up space on the kitchen count",
+      "importance": 1.1
     },
     {
       "title": "Meet the lawyer who beat Elon Musk — twice",
