@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-04T19:08:55.758188+00:00",
+  "generated_at": "2026-07-05T02:54:10.395796+00:00",
   "items": [
     {
       "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
@@ -38,21 +38,21 @@
       "importance": 1.7
     },
     {
+      "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
+      "url": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
+      "source": "TechCrunch",
+      "published_at": "Sat, 04 Jul 2026 20:55:25 +0000",
+      "raw_content": "Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial asks: What if the Founding Fathers had access to Google Workspace?",
+      "summary": "Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial asks: What if the Founding Fathers had access to Google Workspace?",
+      "importance": 1.6
+    },
+    {
       "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
       "url": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
       "source": "TechCrunch",
       "published_at": "Sat, 04 Jul 2026 18:00:05 +0000",
       "raw_content": "As part of an ongoing legal dispute with three Hollywood studios, Midjourney is seeking to compel those studios to reveal how they use AI themselves.",
       "summary": "As part of an ongoing legal dispute with three Hollywood studios, Midjourney is seeking to compel those studios to reveal how they use AI themselves.",
-      "importance": 1.55
-    },
-    {
-      "title": "The only AI glossary you’ll need this year",
-      "url": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-      "source": "TechCrunch",
-      "published_at": "Fri, 03 Jul 2026 21:20:00 +0000",
-      "raw_content": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
-      "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
       "importance": 1.55
     },
     {
@@ -92,15 +92,6 @@
       "importance": 1.3
     },
     {
-      "title": "OpenAI proposed donating 5% of its equity to a US sovereign wealth fund",
-      "url": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
-      "source": "TechCrunch",
-      "published_at": "Thu, 02 Jul 2026 15:20:51 +0000",
-      "raw_content": "OpenAI CEO Sam Altman has reportedly proposed giving 5% of the company’s equity to a U.S. sovereign wealth fund, reviving discussions about letting the public share in the financial gains from the AI boom.",
-      "summary": "OpenAI CEO Sam Altman has reportedly proposed giving 5% of the company’s equity to a U.S. sovereign wealth fund, reviving discussions about letting the public share in the financial gains from the AI ",
-      "importance": 1.3
-    },
-    {
       "title": "OpenAI floats giving Trump administration 5 percent cut of AI boom",
       "url": "https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump",
       "source": "The Verge",
@@ -117,6 +108,15 @@
       "raw_content": "After weeks of negotiating with the Trump administration, Anthropic is finally going to be able to bring Claude Fable 5 back online. In a post on X, Anthropic said it plans to begin restoring access Wednesday to users globally on Claude platforms, and that the company would re-enable access on AWS, Google Cloud, and Microsoft [&#8230;]",
       "summary": "After weeks of negotiating with the Trump administration, Anthropic is finally going to be able to bring Claude Fable 5 back online. In a post on X, Anthropic said it plans to begin restoring access W",
       "importance": 1.3
+    },
+    {
+      "title": "The only AI glossary you’ll need this year",
+      "url": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "source": "TechCrunch",
+      "published_at": "Fri, 03 Jul 2026 21:20:00 +0000",
+      "raw_content": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+      "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+      "importance": 1.25
     },
     {
       "title": "The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari",
