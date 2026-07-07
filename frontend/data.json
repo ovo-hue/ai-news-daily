@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-07-07T14:28:55.012542+00:00",
+  "generated_at": "2026-07-07T19:52:24.328123+00:00",
   "items": [
+    {
+      "title": "Anthropic is launching Claude Cowork on mobile and web",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/961978/anthropic-claude-cowork-mobile-web",
+      "source": "The Verge",
+      "published_at": "2026-07-07T13:46:59-04:00",
+      "raw_content": "Starting Tuesday, Anthropic's Claude Cowork AI platform will be available on mobile and web for the first time. The expanded access is rolling out first to Max subscribers and coming to Claude users on other plans \"in the coming weeks.\" Claude Cowork was previously only accessible through the Claude desktop app for macOS and Windows, [&#8230;]",
+      "summary": "Starting Tuesday, Anthropic's Claude Cowork AI platform will be available on mobile and web for the first time. The expanded access is rolling out first to Max subscribers and coming to Claude users o",
+      "importance": 1.95
+    },
     {
       "title": "Savi’s app aims to protect consumers from realistic AI scams like kidnappers demanding ransom",
       "url": "https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/",
@@ -11,21 +20,21 @@
       "importance": 1.85
     },
     {
+      "title": "Claude Cowork expands to mobile and web",
+      "url": "https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/",
+      "source": "TechCrunch",
+      "published_at": "Tue, 07 Jul 2026 16:27:18 +0000",
+      "raw_content": "With this update, users can start a task from their desk, get status updates on their phone, and pick up the finished output later — even if their laptop is closed.",
+      "summary": "With this update, users can start a task from their desk, get status updates on their phone, and pick up the finished output later — even if their laptop is closed.",
+      "importance": 1.7
+    },
+    {
       "title": "US investors will soon get access to SK Hynix, another memory maker riding the AI boom",
       "url": "https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/",
       "source": "TechCrunch",
       "published_at": "Mon, 06 Jul 2026 23:21:03 +0000",
       "raw_content": "SK Hynix is experiencing a boom credited to AI. It will ride that to a multibillion-dollar U.S. IPO, expected to take place on Friday.",
       "summary": "SK Hynix is experiencing a boom credited to AI. It will ride that to a multibillion-dollar U.S. IPO, expected to take place on Friday.",
-      "importance": 1.7
-    },
-    {
-      "title": "Every major tech layoff in 2026 that has name-checked AI",
-      "url": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
-      "source": "TechCrunch",
-      "published_at": "Mon, 06 Jul 2026 18:35:00 +0000",
-      "raw_content": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
-      "summary": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
       "importance": 1.7
     },
     {
@@ -47,15 +56,6 @@
       "importance": 1.6
     },
     {
-      "title": "Reddit is using LLMs to solve a problem LLMs largely created",
-      "url": "https://techcrunch.com/2026/07/06/reddit-is-using-llms-to-solve-a-problem-llms-largely-created/",
-      "source": "TechCrunch",
-      "published_at": "Mon, 06 Jul 2026 15:22:08 +0000",
-      "raw_content": "In the AI era, platforms have no choice but to fight fire with fire to cull spam.",
-      "summary": "In the AI era, platforms have no choice but to fight fire with fire to cull spam.",
-      "importance": 1.6
-    },
-    {
       "title": "Anthropic wants to develop its own drugs",
       "url": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development",
       "source": "The Verge",
@@ -63,6 +63,15 @@
       "raw_content": "At the event \"The Briefing: AI for Science\" earlier this week, Anthropic announced Claude Science, a new \"AI workbench for scientists\" that pulls fragmented tools and datasets into one environment, and generates figures and visuals. Anthropic, already dominating the industry with its popular coding tools and powerful AI models, framed the launch around what it [&#8230;]",
       "summary": "At the event \"The Briefing: AI for Science\" earlier this week, Anthropic announced Claude Science, a new \"AI workbench for scientists\" that pulls fragmented tools and datasets into one environment, an",
       "importance": 1.6
+    },
+    {
+      "title": "Discord admits AI moderation bug wrongfully banned users over harmless images",
+      "url": "https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/",
+      "source": "TechCrunch",
+      "published_at": "Tue, 07 Jul 2026 19:28:38 +0000",
+      "raw_content": "The company confirmed that the issue had been affecting accounts since May, with an additional 200 users banned over the weekend before its team identified and fixed the problem.",
+      "summary": "The company confirmed that the issue had been affecting accounts since May, with an additional 200 users banned over the weekend before its team identified and fixed the problem.",
+      "importance": 1.55
     },
     {
       "title": "The first American autonomous ground vehicles are fighting in Ukraine",
@@ -74,49 +83,13 @@
       "importance": 1.55
     },
     {
-      "title": "Vercel CEO Guillermo Rauch on the fight to split off models from agents",
-      "url": "https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/",
+      "title": "Every major tech layoff in 2026 that has name-checked AI",
+      "url": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
       "source": "TechCrunch",
-      "published_at": "Mon, 06 Jul 2026 19:49:10 +0000",
-      "raw_content": "\"The reality is, when you're optimizing for production, you start looking at a price/performance,\" Guillermo Rauch tells TechCrunch.",
-      "summary": "\"The reality is, when you're optimizing for production, you start looking at a price/performance,\" Guillermo Rauch tells TechCrunch.",
-      "importance": 1.55
-    },
-    {
-      "title": "You can now customize Siri’s pace and expressivity in the latest iOS 27 beta",
-      "url": "https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/",
-      "source": "TechCrunch",
-      "published_at": "Mon, 06 Jul 2026 19:01:59 +0000",
-      "raw_content": "The update is part of Apple's broader effort to make Siri feel more natural and personal, as it rebuilds the assistant around generative AI.",
-      "summary": "The update is part of Apple's broader effort to make Siri feel more natural and personal, as it rebuilds the assistant around generative AI.",
-      "importance": 1.55
-    },
-    {
-      "title": "If you use Google, you’re training its AI. Here’s how to opt out.",
-      "url": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/",
-      "source": "TechCrunch",
-      "published_at": "Mon, 06 Jul 2026 17:04:58 +0000",
-      "raw_content": "Consider this a belated PSA: A recent change to Google’s privacy settings is allowing the company to store more of your data, including media such as “images, files, and audio and video recordings,” to improve its AI models.",
-      "summary": "Consider this a belated PSA: A recent change to Google’s privacy settings is allowing the company to store more of your data, including media such as “images, files, and audio and video recordings,” t",
-      "importance": 1.55
-    },
-    {
-      "title": "Microsoft lays off nearly 5,000 employees across Xbox, commercial sales",
-      "url": "https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/",
-      "source": "TechCrunch",
-      "published_at": "Mon, 06 Jul 2026 15:32:43 +0000",
-      "raw_content": "Microsoft cut around 4,800 roles, or 2.1% of its global workforce, on Monday — the latest in a series of layoffs that’s stoking fears of AI replacing jobs. The layoffs will hit Xbox and commercial sales the hardest.",
-      "summary": "Microsoft cut around 4,800 roles, or 2.1% of its global workforce, on Monday — the latest in a series of layoffs that’s stoking fears of AI replacing jobs. The layoffs will hit Xbox and commercial sal",
-      "importance": 1.55
-    },
-    {
-      "title": "I spy",
-      "url": "https://www.theverge.com/column/961707/smart-glasses-ai-wearables-meta-surveillance-privacy",
-      "source": "The Verge",
-      "published_at": "2026-07-06T12:00:00-04:00",
-      "raw_content": "I've long argued that Hollywood has simultaneously set and ruined our expectations for smart glasses. But after binge-watching two seasons of Netflix's A Man on the Inside, this is perhaps the first time I've seen Hollywood, perhaps inadvertently, illustrate the biggest cultural problem with smart glasses as they stand today. In a nutshell, Ted Danson [&#8230;]",
-      "summary": "I've long argued that Hollywood has simultaneously set and ruined our expectations for smart glasses. But after binge-watching two seasons of Netflix's A Man on the Inside, this is perhaps the first t",
-      "importance": 1.5
+      "published_at": "Mon, 06 Jul 2026 18:35:00 +0000",
+      "raw_content": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
+      "summary": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
+      "importance": 1.4
     },
     {
       "title": "Infuriating Google commercial imagines the founding fathers embracing AI",
@@ -137,6 +110,33 @@
       "importance": 1.3
     },
     {
+      "title": "Vercel CEO Guillermo Rauch on the fight to split off models from agents",
+      "url": "https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/",
+      "source": "TechCrunch",
+      "published_at": "Mon, 06 Jul 2026 19:49:10 +0000",
+      "raw_content": "\"The reality is, when you're optimizing for production, you start looking at a price/performance,\" Guillermo Rauch tells TechCrunch.",
+      "summary": "\"The reality is, when you're optimizing for production, you start looking at a price/performance,\" Guillermo Rauch tells TechCrunch.",
+      "importance": 1.25
+    },
+    {
+      "title": "You can now customize Siri’s pace and expressivity in the latest iOS 27 beta",
+      "url": "https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/",
+      "source": "TechCrunch",
+      "published_at": "Mon, 06 Jul 2026 19:01:59 +0000",
+      "raw_content": "The update is part of Apple's broader effort to make Siri feel more natural and personal, as it rebuilds the assistant around generative AI.",
+      "summary": "The update is part of Apple's broader effort to make Siri feel more natural and personal, as it rebuilds the assistant around generative AI.",
+      "importance": 1.25
+    },
+    {
+      "title": "If you use Google, you’re training its AI. Here’s how to opt out.",
+      "url": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/",
+      "source": "TechCrunch",
+      "published_at": "Mon, 06 Jul 2026 17:04:58 +0000",
+      "raw_content": "Consider this a belated PSA: A recent change to Google’s privacy settings is allowing the company to store more of your data, including media such as “images, files, and audio and video recordings,” to improve its AI models.",
+      "summary": "Consider this a belated PSA: A recent change to Google’s privacy settings is allowing the company to store more of your data, including media such as “images, files, and audio and video recordings,” t",
+      "importance": 1.25
+    },
+    {
       "title": "Some of the nation’s rich are letting AI teach their kids",
       "url": "https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep",
       "source": "The Verge",
@@ -155,6 +155,15 @@
       "importance": 1.25
     },
     {
+      "title": "I spy",
+      "url": "https://www.theverge.com/column/961707/smart-glasses-ai-wearables-meta-surveillance-privacy",
+      "source": "The Verge",
+      "published_at": "2026-07-06T12:00:00-04:00",
+      "raw_content": "I've long argued that Hollywood has simultaneously set and ruined our expectations for smart glasses. But after binge-watching two seasons of Netflix's A Man on the Inside, this is perhaps the first time I've seen Hollywood, perhaps inadvertently, illustrate the biggest cultural problem with smart glasses as they stand today. In a nutshell, Ted Danson [&#8230;]",
+      "summary": "I've long argued that Hollywood has simultaneously set and ruined our expectations for smart glasses. But after binge-watching two seasons of Netflix's A Man on the Inside, this is perhaps the first t",
+      "importance": 1.2
+    },
+    {
       "title": "Microsoft is laying off 4,800 employees",
       "url": "https://www.theverge.com/news/961528/microsoft-layoffs-july-2026-sales-xbox",
       "source": "The Verge",
@@ -170,15 +179,6 @@
       "published_at": "2026-07-02T06:23:27-04:00",
       "raw_content": "OpenAI has floated giving the US government a 5 percent ownership stake as a way of easing tensions with the Trump administration and blunting mounting public backlash against AI, according to the Financial Times. CEO Sam Altman argued that giving the public a financial interest in the company would be the best way to share [&#8230;]",
       "summary": "OpenAI has floated giving the US government a 5 percent ownership stake as a way of easing tensions with the Trump administration and blunting mounting public backlash against AI, according to the Fin",
-      "importance": 1.1
-    },
-    {
-      "title": "Google built a great smart speaker, but Gemini isn’t ready for it",
-      "url": "https://www.theverge.com/tech/959503/google-home-speaker-review-gemini-for-home",
-      "source": "The Verge",
-      "published_at": "2026-07-01T08:00:00-04:00",
-      "raw_content": "Smart speakers have spent the past few years searching for a compelling second act. Beyond music, timers, and controlling your lights, they've struggled to justify taking up space on the kitchen counter. AI promised to change that. Amazon debuted its new hardware powered by a revamped Alexa last fall, and now it's finally Google's turn. [&#8230;]",
-      "summary": "Smart speakers have spent the past few years searching for a compelling second act. Beyond music, timers, and controlling your lights, they've struggled to justify taking up space on the kitchen count",
       "importance": 1.1
     }
   ]
