@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-07T02:54:22.996685+00:00",
+  "generated_at": "2026-07-07T09:37:36.570112+00:00",
   "items": [
     {
       "title": "Station F ramps up as a launchpad for Europe’s hottest AI startups",
@@ -54,6 +54,15 @@
       "raw_content": "At the event \"The Briefing: AI for Science\" earlier this week, Anthropic announced Claude Science, a new \"AI workbench for scientists\" that pulls fragmented tools and datasets into one environment, and generates figures and visuals. Anthropic, already dominating the industry with its popular coding tools and powerful AI models, framed the launch around what it [&#8230;]",
       "summary": "At the event \"The Briefing: AI for Science\" earlier this week, Anthropic announced Claude Science, a new \"AI workbench for scientists\" that pulls fragmented tools and datasets into one environment, an",
       "importance": 1.6
+    },
+    {
+      "title": "The first American autonomous ground vehicles are fighting in Ukraine",
+      "url": "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/",
+      "source": "TechCrunch",
+      "published_at": "Tue, 07 Jul 2026 09:00:00 +0000",
+      "raw_content": "Forterra has deployed more than 100",
+      "summary": "Forterra has deployed more than 100",
+      "importance": 1.55
     },
     {
       "title": "Vercel CEO Guillermo Rauch on the fight to split off models from agents",
@@ -153,15 +162,6 @@
       "raw_content": "Midjourney has shown more of its futuristic medical scanner. It still hasn't shown much proof it works. The AI startup, best known for generating images, released a behind-the-scenes video of its dunk-tank ultrasound scanner, which it plans to deploy in spas and hopes will transform medicine with cheap, detailed, radiation-free imaging. The nearly 20-minute tour [&#8230;]",
       "summary": "Midjourney has shown more of its futuristic medical scanner. It still hasn't shown much proof it works. The AI startup, best known for generating images, released a behind-the-scenes video of its dunk",
       "importance": 1.25
-    },
-    {
-      "title": "Amazon will stop accepting new customers for Mechanical Turk",
-      "url": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
-      "source": "TechCrunch",
-      "published_at": "Sun, 05 Jul 2026 17:43:36 +0000",
-      "raw_content": "These may be the last days of Amazon’s Mechanical Turk.",
-      "summary": "These may be the last days of Amazon’s Mechanical Turk.",
-      "importance": 1.2
     },
     {
       "title": "OpenAI floats giving Trump administration 5 percent cut of AI boom",
