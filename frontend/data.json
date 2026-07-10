@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-07-09T19:42:47.072108+00:00",
+  "generated_at": "2026-07-10T02:51:11.314823+00:00",
   "items": [
+    {
+      "title": "OpenAI launches its new family of models with GPT-5.6",
+      "url": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
+      "source": "TechCrunch",
+      "published_at": "Thu, 09 Jul 2026 22:24:24 +0000",
+      "raw_content": "OpenAI's latest family of models promises improvements across a range of areas, including cybersecurity.",
+      "summary": "OpenAI's latest family of models promises improvements across a range of areas, including cybersecurity.",
+      "importance": 1.95
+    },
+    {
+      "title": "The ChatGPT browser is already dead",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/963654/openai-chatgpt-atlas-ai-browser-shut-down-sunset",
+      "source": "The Verge",
+      "published_at": "2026-07-09T16:34:05-04:00",
+      "raw_content": "OpenAI is already shutting down ChatGPT Atlas, its browser that could do tasks for you on your behalf, less than a year after launching it. Atlas was announced in October, but as part of its wave of news about ChatGPT Work today, the company confirmed that it will be \"sunsetting\" Atlas and is targeting an [&#8230;]",
+      "summary": "OpenAI is already shutting down ChatGPT Atlas, its browser that could do tasks for you on your behalf, less than a year after launching it. Atlas was announced in October, but as part of its wave of n",
+      "importance": 1.95
+    },
     {
       "title": "OpenAI rolls out GPT-5.6 after government greenlight — and announces ‘ChatGPT Work’",
       "url": "https://www.theverge.com/ai-artificial-intelligence/963464/openai-gpt-5-6-codex-chatgpt-work",
@@ -20,22 +38,31 @@
       "importance": 1.95
     },
     {
-      "title": "How did the government decide OpenAI’s frontier model was safe to release?",
-      "url": "https://techcrunch.com/2026/07/09/how-did-the-government-decide-openais-frontier-model-was-safe-to-release/",
+      "title": "Elon Musk praises Mythos/Fable, promises not to ‘cut off’ Anthropic",
+      "url": "https://techcrunch.com/2026/07/09/elon-musk-praises-mythos-fable-promises-not-to-cut-off-anthropic/",
       "source": "TechCrunch",
-      "published_at": "Thu, 09 Jul 2026 18:22:39 +0000",
-      "raw_content": "\"Exactly what that dialog looked like between the government and Anthropic and OpenAI is unclear.\"",
-      "summary": "\"Exactly what that dialog looked like between the government and Anthropic and OpenAI is unclear.\"",
+      "published_at": "Thu, 09 Jul 2026 21:57:42 +0000",
+      "raw_content": "Should Anthropic trust Elon Musk to host its models? With about $40 billion in revenue at stake, Musk insists that the company can.",
+      "summary": "Should Anthropic trust Elon Musk to host its models? With about $40 billion in revenue at stake, Musk insists that the company can.",
+      "importance": 1.9
+    },
+    {
+      "title": "Fidji Simo steps down from leading OpenAI’s AGI work due to illness",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/963738/openai-fidji-simo-steps-down-ceo-advisor",
+      "source": "The Verge",
+      "published_at": "2026-07-09T19:24:04-04:00",
+      "raw_content": "OpenAI's Fidji Simo is departing her full-time role as the company's AGI chief and is transitioning to being a \"part-time advisor,\" she said on X. The news follows Simo's original announcement in April that she would take a few weeks of medical leave due to a neuroimmune condition, shortly after she had taken on the [&#8230;]",
+      "summary": "OpenAI's Fidji Simo is departing her full-time role as the company's AGI chief and is transitioning to being a \"part-time advisor,\" she said on X. The news follows Simo's original announcement in Apri",
       "importance": 1.8
     },
     {
-      "title": "Anthropic’s new Claude feature is quietly selling you on AI",
-      "url": "https://techcrunch.com/2026/07/09/anthropics-new-claude-feature-is-quietly-selling-you-on-ai/",
+      "title": "An AI agent startup just let its agent run its $100M fundraise",
+      "url": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/",
       "source": "TechCrunch",
-      "published_at": "Thu, 09 Jul 2026 14:53:09 +0000",
-      "raw_content": "Claude’s new Reflect dashboard doesn’t just visualize how you use AI. It also subtly reinforces how much of your daily work now depends on Anthropic’s chatbot.",
-      "summary": "Claude’s new Reflect dashboard doesn’t just visualize how you use AI. It also subtly reinforces how much of your daily work now depends on Anthropic’s chatbot.",
-      "importance": 1.8
+      "published_at": "Thu, 09 Jul 2026 22:08:58 +0000",
+      "raw_content": "Lyzr, a startup that builds AI agents for enterprises, used its own AI agent to raise a $100 million round — proof, evidently, that the product actually works.",
+      "summary": "Lyzr, a startup that builds AI agents for enterprises, used its own AI agent to raise a $100 million round — proof, evidently, that the product actually works.",
+      "importance": 1.75
     },
     {
       "title": "Character.AI wants a piece of the microdrama pie",
@@ -47,12 +74,12 @@
       "importance": 1.75
     },
     {
-      "title": "Paris-based AI voice startup Gradium raises $100M seed, backed by Nvidia",
-      "url": "https://techcrunch.com/2026/07/09/paris-based-ai-voice-startup-gradium-raises-100m-seed-backed-by-nvidia/",
-      "source": "TechCrunch",
-      "published_at": "Thu, 09 Jul 2026 18:34:35 +0000",
-      "raw_content": "The company is using the cash to open an office in the Bay Area and compete for talent there, \"strengthening its position at the heart of the world's leading AI ecosystem.\"",
-      "summary": "The company is using the cash to open an office in the Bay Area and compete for talent there, \"strengthening its position at the heart of the world's leading AI ecosystem.\"",
+      "title": "Google will now tell you if an ad was made with AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/963628/google-ai-generated-ads-label",
+      "source": "The Verge",
+      "published_at": "2026-07-09T16:11:38-04:00",
+      "raw_content": "You can see if ads on Google Search, Google Discover, and YouTube were made or edited using AI from a new section in Google's \"My Ad Center,\" as reported earlier by TechCrunch. The update, announced on Thursday, adds a \"created or edited with AI\" label under the \"how this ad was made\" tab. Users can [&#8230;]",
+      "summary": "You can see if ads on Google Search, Google Discover, and YouTube were made or edited using AI from a new section in Google's \"My Ad Center,\" as reported earlier by TechCrunch. The update, announced o",
       "importance": 1.7
     },
     {
@@ -74,12 +101,30 @@
       "importance": 1.7
     },
     {
-      "title": "Meta enters the crowded AI coding battle with Muse Spark 1.1",
-      "url": "https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/",
+      "title": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter",
+      "url": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
       "source": "TechCrunch",
-      "published_at": "Thu, 09 Jul 2026 19:40:45 +0000",
-      "raw_content": "Meta's new Muse Spark 1.1. will go up against similar products offered by Anthropic and OpenAI.",
-      "summary": "Meta's new Muse Spark 1.1. will go up against similar products offered by Anthropic and OpenAI.",
+      "published_at": "Fri, 10 Jul 2026 00:16:54 +0000",
+      "raw_content": "OpenAI's new family of models will continue to power Microsoft's suite of workplace and productivity apps.",
+      "summary": "OpenAI's new family of models will continue to power Microsoft's suite of workplace and productivity apps.",
+      "importance": 1.65
+    },
+    {
+      "title": "Fidji Simo steps down from OpenAI’s no. 2 role",
+      "url": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
+      "source": "TechCrunch",
+      "published_at": "Thu, 09 Jul 2026 23:38:00 +0000",
+      "raw_content": "OpenAI's No. 2 executive, Fidji Simo, is stepping down from her full-time role after her medical leave proved longer than expected — a leadership vacuum that comes at a tricky time as the company eyes a possible IPO and races to catch Anthropic in the enterprise market.",
+      "summary": "OpenAI's No. 2 executive, Fidji Simo, is stepping down from her full-time role after her medical leave proved longer than expected — a leadership vacuum that comes at a tricky time as the company eyes",
+      "importance": 1.65
+    },
+    {
+      "title": "OpenAI is shutting down Atlas, but its AI browser ambitions are still growing",
+      "url": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/",
+      "source": "TechCrunch",
+      "published_at": "Thu, 09 Jul 2026 22:03:54 +0000",
+      "raw_content": "OpenAI is sunsetting its AI-powered browser after less than a year. But it's moving some agentic browsing features to its desktop app and a Chrome extension.",
+      "summary": "OpenAI is sunsetting its AI-powered browser after less than a year. But it's moving some agentic browsing features to its desktop app and a Chrome extension.",
       "importance": 1.65
     },
     {
@@ -92,22 +137,22 @@
       "importance": 1.65
     },
     {
-      "title": "Anthropic, OpenAI, and SpaceX are bigger than the last 25 years of tech exits",
-      "url": "https://techcrunch.com/2026/07/09/anthropic-openai-and-spacex-are-bigger-than-the-last-25-years-of-tech-exits/",
+      "title": "Meta enters the crowded AI coding battle with Muse Spark 1.1",
+      "url": "https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/",
       "source": "TechCrunch",
-      "published_at": "Thu, 09 Jul 2026 14:51:00 +0000",
-      "raw_content": "Three big AI IPOs are set to generate more value than all the U.S. VC-backed exits since 2000.",
-      "summary": "Three big AI IPOs are set to generate more value than all the U.S. VC-backed exits since 2000.",
-      "importance": 1.65
+      "published_at": "Thu, 09 Jul 2026 19:40:45 +0000",
+      "raw_content": "Meta's pitch to users is Spark's ability to handle large agentic workloads, fix bugs, and help with large code migrations — the kind of automation that enterprises are increasingly turning to AI companies to provide.",
+      "summary": "Meta's pitch to users is Spark's ability to handle large agentic workloads, fix bugs, and help with large code migrations — the kind of automation that enterprises are increasingly turning to AI compa",
+      "importance": 1.6
     },
     {
-      "title": "Anthropic is launching Claude Cowork on mobile and web",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/961978/anthropic-claude-cowork-mobile-web",
-      "source": "The Verge",
-      "published_at": "2026-07-07T13:46:59-04:00",
-      "raw_content": "Starting Tuesday, Anthropic's Claude Cowork AI platform will be available on mobile and web for the first time. The expanded access is rolling out first to Max subscribers and coming to Claude users on other plans \"in the coming weeks.\" Claude Cowork was previously only accessible through the Claude desktop app for macOS and Windows, [&#8230;]",
-      "summary": "Starting Tuesday, Anthropic's Claude Cowork AI platform will be available on mobile and web for the first time. The expanded access is rolling out first to Max subscribers and coming to Claude users o",
-      "importance": 1.65
+      "title": "Can AI answer the $3 trillion question?",
+      "url": "https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question/",
+      "source": "TechCrunch",
+      "published_at": "Thu, 09 Jul 2026 21:47:50 +0000",
+      "raw_content": "The AI ROI debate has returned and the numbers are even bigger, as are, perhaps, the consequences.",
+      "summary": "The AI ROI debate has returned and the numbers are even bigger, as are, perhaps, the consequences.",
+      "importance": 1.55
     },
     {
       "title": "Google will now disclose which ads are made with AI",
@@ -119,21 +164,12 @@
       "importance": 1.55
     },
     {
-      "title": "Instagram users: Here’s how to stop Meta’s AI from using your photos",
-      "url": "https://techcrunch.com/2026/07/09/how-to-stop-metas-ai-image-generator-from-using-your-instagram-photos/",
-      "source": "TechCrunch",
-      "published_at": "Thu, 09 Jul 2026 17:56:47 +0000",
-      "raw_content": "Muse Image allows users to generate AI images using photos from public Instagram accounts. As long as a person's profile is public, another user can tag that account and use their images as part of an AI-generated creation.",
-      "summary": "Muse Image allows users to generate AI images using photos from public Instagram accounts. As long as a person's profile is public, another user can tag that account and use their images as part of an",
-      "importance": 1.55
-    },
-    {
-      "title": "Meta’s new AI chips will begin production in September",
-      "url": "https://techcrunch.com/2026/07/09/metas-new-ai-chips-will-begin-production-in-september/",
-      "source": "TechCrunch",
-      "published_at": "Thu, 09 Jul 2026 17:17:37 +0000",
-      "raw_content": "The company is taking a modular approach to designing these chips, anticipating that their needs will change as AI evolves rapidly by the time the chips are in production.",
-      "summary": "The company is taking a modular approach to designing these chips, anticipating that their needs will change as AI evolves rapidly by the time the chips are in production.",
+      "title": "Microsoft’s carbon emissions went up 25 percent last year",
+      "url": "https://www.theverge.com/tech/963728/microsoft-sustainability-report-2026",
+      "source": "The Verge",
+      "published_at": "2026-07-09T20:04:13-04:00",
+      "raw_content": "Microsoft may once again be struggling to keep up with its own climate goals, according to its 2026 sustainability report. As reported by GeekWire, the report states that Microsoft's carbon emissions increased 25 percent in 2025, totalling 34 million metric tons \"without select interventions.\" Microsoft says this was \"driven primarily by the expansion of our [&#8230;]",
+      "summary": "Microsoft may once again be struggling to keep up with its own climate goals, according to its 2026 sustainability report. As reported by GeekWire, the report states that Microsoft's carbon emissions ",
       "importance": 1.55
     },
     {
@@ -144,42 +180,6 @@
       "raw_content": "After reentering the AI race with its first in-house Muse Spark model in April, Meta is now opening up the doors to developers with a new model that can plug into AI coding software with the new Meta Model API. Meta says that Muse Spark 1.1 is a \"step-change\" from the first generation, with improvements [&#8230;]",
       "summary": "After reentering the AI race with its first in-house Muse Spark model in April, Meta is now opening up the doors to developers with a new model that can plug into AI coding software with the new Meta ",
       "importance": 1.55
-    },
-    {
-      "title": "Meta’s new Muse Image model can pull other Instagram users into AI photos",
-      "url": "https://www.theverge.com/tech/962485/meta-muse-image-ai-model-instagram",
-      "source": "The Verge",
-      "published_at": "2026-07-07T16:31:58-04:00",
-      "raw_content": "Meta is launching the first AI image generation model made by its Superintelligence Labs division. The Muse Image model now powers the image-making tools across the Meta AI app, Instagram, and WhatsApp, and it's coming soon to Facebook and Messenger, according to an announcement on Tuesday. It's part of the growing Muse family of AI [&#8230;]",
-      "summary": "Meta is launching the first AI image generation model made by its Superintelligence Labs division. The Muse Image model now powers the image-making tools across the Meta AI app, Instagram, and WhatsAp",
-      "importance": 1.55
-    },
-    {
-      "title": "Nvidia is a victim of the compute marketplace it created",
-      "url": "https://techcrunch.com/2026/07/09/nvidia-is-a-victim-of-the-compute-marketplace-it-created/",
-      "source": "TechCrunch",
-      "published_at": "Thu, 09 Jul 2026 17:06:11 +0000",
-      "raw_content": "Having proven how valuable compute can be, the company finds itself at the center of a market everyone wants to be in — while simpler technologies and less interesting companies get rich on the sidelines.",
-      "summary": "Having proven how valuable compute can be, the company finds itself at the center of a market everyone wants to be in — while simpler technologies and less interesting companies get rich on the sideli",
-      "importance": 1.5
-    },
-    {
-      "title": "Solos debuts an even lighter version of its camera-less smart glasses",
-      "url": "https://www.theverge.com/tech/961711/solos-airgo-a6-smart-glasses-ai-assistant-privacy",
-      "source": "The Verge",
-      "published_at": "2026-07-07T09:00:00-04:00",
-      "raw_content": "Solos announced a new version of its AirGo smart glasses, one that forgoes cameras for a sleeker design and an AI assistant that relies on voice interactions. Last year's AirGo A5 weighed 36 to 40 grams depending on the frame style, but the new AirGo A6 weigh around 19 grams. Part of the weight savings [&#8230;]",
-      "summary": "Solos announced a new version of its AirGo smart glasses, one that forgoes cameras for a sleeker design and an AI assistant that relies on voice interactions. Last year's AirGo A5 weighed 36 to 40 gra",
-      "importance": 1.4
-    },
-    {
-      "title": "ChatGPT’s upgraded voice mode is better at shutting up",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/962856/chatgpt-upgraded-voice-mode-gpt-live",
-      "source": "The Verge",
-      "published_at": "2026-07-08T13:00:00-04:00",
-      "raw_content": "OpenAI is overhauling ChatGPT's voice mode with a new model that it says is more like \"talking to another person.\" The new GPT-Live-1 is designed to interrupt you less and will also wait for you to continue speaking if you pause mid-conversation. During a press briefing, OpenAI research lead Kundan Kumar called GPT-Live-1 the company's [&#8230;]",
-      "summary": "OpenAI is overhauling ChatGPT's voice mode with a new model that it says is more like \"talking to another person.\" The new GPT-Live-1 is designed to interrupt you less and will also wait for you to co",
-      "importance": 1.35
     }
   ]
 }
