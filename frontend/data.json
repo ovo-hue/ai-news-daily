@@ -1,29 +1,11 @@
 {
-  "generated_at": "2026-07-11T13:14:20.639521+00:00",
+  "generated_at": "2026-07-11T18:59:48.715586+00:00",
   "items": [
     {
       "title": "Open source AI matters more than ever, according to Hugging Face’s Clem Delangue",
       "url": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/",
       "source": "TechCrunch",
       "published_at": "Fri, 10 Jul 2026 19:00:00 +0000",
-      "raw_content": "Open source AI is booming, according to&#160;Hugging Face&#160;CEO&#160;Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models and datasets, now used by roughly half the Fortune 500. Delangue has seen the same story play out again and again: companies start [&#8230;]",
-      "summary": "Open source AI is booming, according to&#160;Hugging Face&#160;CEO&#160;Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and downlo",
-      "importance": 1.7
-    },
-    {
-      "title": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
-      "url": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
-      "source": "TechCrunch",
-      "published_at": "Fri, 10 Jul 2026 17:17:12 +0000",
-      "raw_content": "The AI chip boom just produced its biggest Wall Street moment yet. Now SK Hynix and Samsung are being asked to build U.S. factories.",
-      "summary": "The AI chip boom just produced its biggest Wall Street moment yet. Now SK Hynix and Samsung are being asked to build U.S. factories.",
-      "importance": 1.7
-    },
-    {
-      "title": "Hugging Face’s CEO on why companies are done renting their AI",
-      "url": "https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/",
-      "source": "TechCrunch",
-      "published_at": "Fri, 10 Jul 2026 14:00:00 +0000",
       "raw_content": "Open source AI is booming, according to&#160;Hugging Face&#160;CEO&#160;Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models and datasets, now used by roughly half the Fortune 500. Delangue has seen the same story play out again and again: companies start [&#8230;]",
       "summary": "Open source AI is booming, according to&#160;Hugging Face&#160;CEO&#160;Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and downlo",
       "importance": 1.7
@@ -38,13 +20,13 @@
       "importance": 1.7
     },
     {
-      "title": "Would you host part of an AI data center in your home?",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/963930/sunrun-distributed-ai-data-center",
-      "source": "The Verge",
-      "published_at": "2026-07-10T09:20:25-04:00",
-      "raw_content": "A solar and home energy storage company is expanding into AI data centers, but not by building one - instead, it's offering to pay its customers to put its compute units in their homes. Sunrun is launching a pilot program for a new \"distributed AI compute\" program that will \"place numerous compute nodes in homes [&#8230;]",
-      "summary": "A solar and home energy storage company is expanding into AI data centers, but not by building one - instead, it's offering to pay its customers to put its compute units in their homes. Sunrun is laun",
-      "importance": 1.7
+      "title": "OpenAI bets on families as ChatGPT goes deeper into households",
+      "url": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
+      "source": "TechCrunch",
+      "published_at": "Sat, 11 Jul 2026 14:13:00 +0000",
+      "raw_content": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting.",
+      "summary": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting.",
+      "importance": 1.65
     },
     {
       "title": "OpenAI launches its new family of models with GPT-5.6",
@@ -101,15 +83,6 @@
       "importance": 1.55
     },
     {
-      "title": "Instagram’s Adam Mosseri: If you don&#8217;t like AI, &#8216;then you shouldn&#8217;t have it in your feed&#8217;",
-      "url": "https://www.theverge.com/tech/963961/instagram-adam-mosseri-ai-feed-filters",
-      "source": "The Verge",
-      "published_at": "2026-07-10T09:45:02-04:00",
-      "raw_content": "Though Instagram head Adam Mosseri doesn't want to filter out AI content on the platform, he argues that you \"shouldn't have it in your feed\" if you don't like it. \"I don't think we should filter out AI content,\" Mosseri said during an interview on Lenny Rachitsky's podcast. \"I think we should let you know [&#8230;]",
-      "summary": "Though Instagram head Adam Mosseri doesn't want to filter out AI content on the platform, he argues that you \"shouldn't have it in your feed\" if you don't like it. \"I don't think we should filter out ",
-      "importance": 1.55
-    },
-    {
       "title": "Fidji Simo steps down from leading OpenAI’s AGI work due to illness",
       "url": "https://www.theverge.com/ai-artificial-intelligence/963738/openai-fidji-simo-steps-down-ceo-advisor",
       "source": "The Verge",
@@ -126,6 +99,33 @@
       "raw_content": "Lyzr, a startup that builds AI agents for enterprises, used its own AI agent to raise a $100 million round — proof, evidently, that the product actually works.",
       "summary": "Lyzr, a startup that builds AI agents for enterprises, used its own AI agent to raise a $100 million round — proof, evidently, that the product actually works.",
       "importance": 1.45
+    },
+    {
+      "title": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
+      "url": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
+      "source": "TechCrunch",
+      "published_at": "Fri, 10 Jul 2026 17:17:12 +0000",
+      "raw_content": "The AI chip boom just produced its biggest Wall Street moment yet. Now SK Hynix and Samsung are being asked to build U.S. factories.",
+      "summary": "The AI chip boom just produced its biggest Wall Street moment yet. Now SK Hynix and Samsung are being asked to build U.S. factories.",
+      "importance": 1.4
+    },
+    {
+      "title": "Hugging Face’s CEO on why companies are done renting their AI",
+      "url": "https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/",
+      "source": "TechCrunch",
+      "published_at": "Fri, 10 Jul 2026 14:00:00 +0000",
+      "raw_content": "Open source AI is booming, according to&#160;Hugging Face&#160;CEO&#160;Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models and datasets, now used by roughly half the Fortune 500. Delangue has seen the same story play out again and again: companies start [&#8230;]",
+      "summary": "Open source AI is booming, according to&#160;Hugging Face&#160;CEO&#160;Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and downlo",
+      "importance": 1.4
+    },
+    {
+      "title": "Would you host part of an AI data center in your home?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/963930/sunrun-distributed-ai-data-center",
+      "source": "The Verge",
+      "published_at": "2026-07-10T09:20:25-04:00",
+      "raw_content": "A solar and home energy storage company is expanding into AI data centers, but not by building one - instead, it's offering to pay its customers to put its compute units in their homes. Sunrun is launching a pilot program for a new \"distributed AI compute\" program that will \"place numerous compute nodes in homes [&#8230;]",
+      "summary": "A solar and home energy storage company is expanding into AI data centers, but not by building one - instead, it's offering to pay its customers to put its compute units in their homes. Sunrun is laun",
+      "importance": 1.4
     },
     {
       "title": "Google will now tell you if an ad was made with AI",
@@ -164,13 +164,13 @@
       "importance": 1.35
     },
     {
-      "title": "OpenAI is shutting down Atlas, but its AI browser ambitions are still growing",
-      "url": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/",
-      "source": "TechCrunch",
-      "published_at": "Thu, 09 Jul 2026 22:03:54 +0000",
-      "raw_content": "OpenAI is sunsetting its AI-powered browser after less than a year. But it's moving some agentic browsing features to its desktop app and a Chrome extension.",
-      "summary": "OpenAI is sunsetting its AI-powered browser after less than a year. But it's moving some agentic browsing features to its desktop app and a Chrome extension.",
-      "importance": 1.35
+      "title": "Instagram’s Adam Mosseri: If you don&#8217;t like AI, &#8216;then you shouldn&#8217;t have it in your feed&#8217;",
+      "url": "https://www.theverge.com/tech/963961/instagram-adam-mosseri-ai-feed-filters",
+      "source": "The Verge",
+      "published_at": "2026-07-10T09:45:02-04:00",
+      "raw_content": "Though Instagram head Adam Mosseri doesn't want to filter out AI content on the platform, he argues that you \"shouldn't have it in your feed\" if you don't like it. \"I don't think we should filter out AI content,\" Mosseri said during an interview on Lenny Rachitsky's podcast. \"I think we should let you know [&#8230;]",
+      "summary": "Though Instagram head Adam Mosseri doesn't want to filter out AI content on the platform, he argues that you \"shouldn't have it in your feed\" if you don't like it. \"I don't think we should filter out ",
+      "importance": 1.25
     },
     {
       "title": "Microsoft’s carbon emissions went up 25 percent last year",
