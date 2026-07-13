@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-07-13T02:35:55.587832+00:00",
+  "generated_at": "2026-07-13T09:22:11.088036+00:00",
   "items": [
+    {
+      "title": "Waze is getting a bunch of new AI-powered features",
+      "url": "https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty",
+      "source": "The Verge",
+      "published_at": "2026-07-13T05:00:00-04:00",
+      "raw_content": "Waze is getting an AI makeover. Google is integrating its flagship AI assistant, Gemini, into the driving app with the goal of letting users personalize their trips a little more. Of the four new updates, only two are being described as involving Gemini. Waze says its updating its conversation reporting feature, first introduced in 2024, [&#8230;]",
+      "summary": "Waze is getting an AI makeover. Google is integrating its flagship AI assistant, Gemini, into the driving app with the goal of letting users personalize their trips a little more. Of the four new upda",
+      "importance": 1.6
+    },
     {
       "title": "Lorde says Ray-Ban Meta AI glasses are ‘not sexy’",
       "url": "https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy",
@@ -35,15 +44,6 @@
       "published_at": "Thu, 09 Jul 2026 22:24:24 +0000",
       "raw_content": "OpenAI's latest family of models promises improvements across a range of areas, including cybersecurity.",
       "summary": "OpenAI's latest family of models promises improvements across a range of areas, including cybersecurity.",
-      "importance": 1.45
-    },
-    {
-      "title": "The ChatGPT browser is already dead",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/963654/openai-chatgpt-atlas-ai-browser-shut-down-sunset",
-      "source": "The Verge",
-      "published_at": "2026-07-09T16:34:05-04:00",
-      "raw_content": "OpenAI is already shutting down ChatGPT Atlas, its browser that could do tasks for you on your behalf, less than a year after launching it. Atlas was announced in October, but as part of its wave of news about ChatGPT Work today, the company confirmed that it will be \"sunsetting\" Atlas and is targeting an [&#8230;]",
-      "summary": "OpenAI is already shutting down ChatGPT Atlas, its browser that could do tasks for you on your behalf, less than a year after launching it. Atlas was announced in October, but as part of its wave of n",
       "importance": 1.45
     },
     {
