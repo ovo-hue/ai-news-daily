@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T02:20:56.921057+00:00",
+  "generated_at": "2026-07-14T08:00:14.648561+00:00",
   "items": [
     {
       "title": "Anthropic starts localizing Claude pricing for India, its biggest market after the US",
@@ -83,6 +83,15 @@
       "importance": 1.6
     },
     {
+      "title": "Already rich, already successful, why the last wave of tech winners is grinding again",
+      "url": "https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/",
+      "source": "TechCrunch",
+      "published_at": "Tue, 14 Jul 2026 02:46:42 +0000",
+      "raw_content": "They're rolling up their sleeves again, seemingly out of fear of missing AI's defining moment and, presumably, the irresistible allure of making even more money -- potentially a lot more.",
+      "summary": "They're rolling up their sleeves again, seemingly out of fear of missing AI's defining moment and, presumably, the irresistible allure of making even more money -- potentially a lot more.",
+      "importance": 1.55
+    },
+    {
       "title": "Uber’s product chief on hotels, robotaxis, and why the company doesn’t want to be “everything for everyone”",
       "url": "https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/",
       "source": "TechCrunch",
@@ -108,15 +117,6 @@
       "raw_content": "What does a world of total user-aligned AI actually look like?",
       "summary": "What does a world of total user-aligned AI actually look like?",
       "importance": 1.55
-    },
-    {
-      "title": "OpenAI bets on families as ChatGPT goes deeper into households",
-      "url": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
-      "source": "TechCrunch",
-      "published_at": "Sat, 11 Jul 2026 14:13:00 +0000",
-      "raw_content": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting.",
-      "summary": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting.",
-      "importance": 1.35
     },
     {
       "title": "Lorde says Ray-Ban Meta AI glasses are ‘not sexy’",
