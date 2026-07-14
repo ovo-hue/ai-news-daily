@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T19:20:48.685009+00:00",
+  "generated_at": "2026-07-14T02:20:56.921057+00:00",
   "items": [
     {
       "title": "Anthropic starts localizing Claude pricing for India, its biggest market after the US",
@@ -18,6 +18,42 @@
       "raw_content": "When Apple employees interviewed for jobs at OpenAI, the AI startup's hardware head allegedly asked them to show up with something unusual: components they were working on and unreleased product samples. That's according to a blockbuster lawsuit filed by Apple, which accuses OpenAI of stealing confidential documents, spying on hardware prototypes, and tricking one of [&#8230;]",
       "summary": "When Apple employees interviewed for jobs at OpenAI, the AI startup's hardware head allegedly asked them to show up with something unusual: components they were working on and unreleased product sampl",
       "importance": 1.75
+    },
+    {
+      "title": "Video-generation startup PixVerse raises $439M, valuation soars past $2B",
+      "url": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/",
+      "source": "TechCrunch",
+      "published_at": "Tue, 14 Jul 2026 00:00:00 +0000",
+      "raw_content": "With the cash, the company aims to expand its world model offering and reach customers across geographies.",
+      "summary": "With the cash, the company aims to expand its world model offering and reach customers across geographies.",
+      "importance": 1.7
+    },
+    {
+      "title": "Siri AI is already changing how I use my iPhone",
+      "url": "https://www.theverge.com/tech/964714/siri-ai-public-beta-preview-ios-27-hands-on",
+      "source": "The Verge",
+      "published_at": "2026-07-13T16:43:20-04:00",
+      "raw_content": "iOS 27 escaped the developer world today with the launch of the first public beta. I've been testing the new operating system since early June, looking for quirks and seeing if it can live up to the hype Apple promised in the keynote. This year's iOS upgrades are what one might call a Snow Leopard [&#8230;]",
+      "summary": "iOS 27 escaped the developer world today with the launch of the first public beta. I've been testing the new operating system since early June, looking for quirks and seeing if it can live up to the h",
+      "importance": 1.7
+    },
+    {
+      "title": "Hermes agent maker Nous Research in talks for new funding at $1.5B valuation",
+      "url": "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/",
+      "source": "TechCrunch",
+      "published_at": "Mon, 13 Jul 2026 23:31:18 +0000",
+      "raw_content": "The company is raising at least $75 million, led by Robot Ventures, with significant participation from USV and other prominent investors.",
+      "summary": "The company is raising at least $75 million, led by Robot Ventures, with significant participation from USV and other prominent investors.",
+      "importance": 1.6
+    },
+    {
+      "title": "Satya Nadella has issued a shocking warning to companies using AI",
+      "url": "https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/",
+      "source": "TechCrunch",
+      "published_at": "Mon, 13 Jul 2026 20:59:00 +0000",
+      "raw_content": "Of all the debates raging about the potential downsides of AI, there is one worry causing the most hand-wringing among AI enthusiasts in Silicon Valley — that the giant AI labs that sell proprietary models are somehow acting like Trojan horses.",
+      "summary": "Of all the debates raging about the potential downsides of AI, there is one worry causing the most hand-wringing among AI enthusiasts in Silicon Valley — that the giant AI labs that sell proprietary m",
+      "importance": 1.6
     },
     {
       "title": "The wildest allegations in Apple’s trade secrets lawsuit against OpenAI",
@@ -47,6 +83,15 @@
       "importance": 1.6
     },
     {
+      "title": "Uber’s product chief on hotels, robotaxis, and why the company doesn’t want to be “everything for everyone”",
+      "url": "https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/",
+      "source": "TechCrunch",
+      "published_at": "Tue, 14 Jul 2026 00:45:00 +0000",
+      "raw_content": "Uber Chief Product Officer Sachin Kansal walks TechCrunch through the company's financial-services ambitions, its increasingly complicated relationship with Waymo, its new AV Labs data operation, and how AI is starting to show up in ways riders and drivers will actually notice.",
+      "summary": "Uber Chief Product Officer Sachin Kansal walks TechCrunch through the company's financial-services ambitions, its increasingly complicated relationship with Waymo, its new AV Labs data operation, and ",
+      "importance": 1.55
+    },
+    {
       "title": "Sam Altman’s space data center trash talk is what most experts already believe",
       "url": "https://techcrunch.com/2026/07/13/sam-altmans-space-data-center-trash-talk-is-what-most-experts-already-believe/",
       "source": "TechCrunch",
@@ -65,24 +110,6 @@
       "importance": 1.55
     },
     {
-      "title": "Lorde says Ray-Ban Meta AI glasses are ‘not sexy’",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy",
-      "source": "The Verge",
-      "published_at": "2026-07-12T16:10:19-04:00",
-      "raw_content": "Lorde was performing at the Mad Cool Festival in Madrid on Thursday and took some time during her set to speak out against AI glasses. While she didn't specify any brands in particular, it's likely she was taking a shot at festival sponsor Ray-Ban, which has collaborated with Meta on a pair of AI smart [&#8230;]",
-      "summary": "Lorde was performing at the Mad Cool Festival in Madrid on Thursday and took some time during her set to speak out against AI glasses. While she didn't specify any brands in particular, it's likely sh",
-      "importance": 1.55
-    },
-    {
-      "title": "Meta turns off the Instagram feature that let users make AI deepfakes of public accounts",
-      "url": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
-      "source": "The Verge",
-      "published_at": "2026-07-10T19:49:50-04:00",
-      "raw_content": "Following significant backlash, Meta is turning off the feature it announced this week that let users generate AI images based on content from public Instagram accounts just by tagging them. The feature, as originally set up, meant that content from any public Instagram account could be used in AI creations without the account owner's permission. [&#8230;]",
-      "summary": "Following significant backlash, Meta is turning off the feature it announced this week that let users generate AI images based on content from public Instagram accounts just by tagging them. The featu",
-      "importance": 1.4
-    },
-    {
       "title": "OpenAI bets on families as ChatGPT goes deeper into households",
       "url": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
       "source": "TechCrunch",
@@ -92,30 +119,12 @@
       "importance": 1.35
     },
     {
-      "title": "Apple sues OpenAI over alleged trade secret theft",
-      "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
-      "source": "TechCrunch",
-      "published_at": "Fri, 10 Jul 2026 21:00:29 +0000",
-      "raw_content": "Apple alleges the misconduct was directed by OpenAI's senior leadership, including a longtime former employee.",
-      "summary": "Apple alleges the misconduct was directed by OpenAI's senior leadership, including a longtime former employee.",
-      "importance": 1.3
-    },
-    {
-      "title": "Apple sues OpenAI for allegedly stealing hardware secrets",
-      "url": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets",
+      "title": "Lorde says Ray-Ban Meta AI glasses are ‘not sexy’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy",
       "source": "The Verge",
-      "published_at": "2026-07-10T17:36:51-04:00",
-      "raw_content": "Apple has sued OpenAI, alleging that engineers stole Apple secrets to advance the AI startup's hardware plans. In its complaint, Apple says it uncovered \"a pattern of theft of Apple's trade secrets by OpenAI employees who were formerly at Apple.\" In addition to OpenAI, the lawsuit also names IO Products - Jony Ive's hardware startup, [&#8230;]",
-      "summary": "Apple has sued OpenAI, alleging that engineers stole Apple secrets to advance the AI startup's hardware plans. In its complaint, Apple says it uncovered \"a pattern of theft of Apple's trade secrets by",
-      "importance": 1.3
-    },
-    {
-      "title": "Meta removes controversial AI feature on Instagram after backlash",
-      "url": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
-      "source": "TechCrunch",
-      "published_at": "Fri, 10 Jul 2026 23:55:07 +0000",
-      "raw_content": "\"Our intent was to provide a useful creative tool and to give people control over whether their public content could be referenced in this way,\" the company said in a blog post. \"We've heard the feedback that this feature missed the mark, so it's no longer available.\"",
-      "summary": "\"Our intent was to provide a useful creative tool and to give people control over whether their public content could be referenced in this way,\" the company said in a blog post. \"We've heard the feedb",
+      "published_at": "2026-07-12T16:10:19-04:00",
+      "raw_content": "Lorde was performing at the Mad Cool Festival in Madrid on Thursday and took some time during her set to speak out against AI glasses. While she didn't specify any brands in particular, it's likely she was taking a shot at festival sponsor Ray-Ban, which has collaborated with Meta on a pair of AI smart [&#8230;]",
+      "summary": "Lorde was performing at the Mad Cool Festival in Madrid on Thursday and took some time during her set to speak out against AI glasses. While she didn't specify any brands in particular, it's likely sh",
       "importance": 1.25
     },
     {
@@ -137,21 +146,12 @@
       "importance": 1.25
     },
     {
-      "title": "Open source AI matters more than ever, according to Hugging Face’s Clem Delangue",
-      "url": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/",
-      "source": "TechCrunch",
-      "published_at": "Fri, 10 Jul 2026 19:00:00 +0000",
-      "raw_content": "Open source AI is booming, according to&#160;Hugging Face&#160;CEO&#160;Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models and datasets, now used by roughly half the Fortune 500. Delangue has seen the same story play out again and again: companies start [&#8230;]",
-      "summary": "Open source AI is booming, according to&#160;Hugging Face&#160;CEO&#160;Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and downlo",
-      "importance": 1.2
-    },
-    {
-      "title": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
-      "url": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
-      "source": "TechCrunch",
-      "published_at": "Fri, 10 Jul 2026 17:17:12 +0000",
-      "raw_content": "The AI chip boom just produced its biggest Wall Street moment yet. Now SK Hynix and Samsung are being asked to build U.S. factories.",
-      "summary": "The AI chip boom just produced its biggest Wall Street moment yet. Now SK Hynix and Samsung are being asked to build U.S. factories.",
+      "title": "Meta turns off the Instagram feature that let users make AI deepfakes of public accounts",
+      "url": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
+      "source": "The Verge",
+      "published_at": "2026-07-10T19:49:50-04:00",
+      "raw_content": "Following significant backlash, Meta is turning off the feature it announced this week that let users generate AI images based on content from public Instagram accounts just by tagging them. The feature, as originally set up, meant that content from any public Instagram account could be used in AI creations without the account owner's permission. [&#8230;]",
+      "summary": "Following significant backlash, Meta is turning off the feature it announced this week that let users generate AI images based on content from public Instagram accounts just by tagging them. The featu",
       "importance": 1.2
     },
     {
@@ -164,21 +164,21 @@
       "importance": 1.2
     },
     {
+      "title": "Apple sues OpenAI for allegedly stealing hardware secrets",
+      "url": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets",
+      "source": "The Verge",
+      "published_at": "2026-07-10T17:36:51-04:00",
+      "raw_content": "Apple has sued OpenAI, alleging that engineers stole Apple secrets to advance the AI startup's hardware plans. In its complaint, Apple says it uncovered \"a pattern of theft of Apple's trade secrets by OpenAI employees who were formerly at Apple.\" In addition to OpenAI, the lawsuit also names IO Products - Jony Ive's hardware startup, [&#8230;]",
+      "summary": "Apple has sued OpenAI, alleging that engineers stole Apple secrets to advance the AI startup's hardware plans. In its complaint, Apple says it uncovered \"a pattern of theft of Apple's trade secrets by",
+      "importance": 1.1
+    },
+    {
       "title": "Instagram’s Adam Mosseri: If you don&#8217;t like AI, &#8216;then you shouldn&#8217;t have it in your feed&#8217;",
       "url": "https://www.theverge.com/tech/963961/instagram-adam-mosseri-ai-feed-filters",
       "source": "The Verge",
       "published_at": "2026-07-10T09:45:02-04:00",
       "raw_content": "Though Instagram head Adam Mosseri doesn't want to filter out AI content on the platform, he argues that you \"shouldn't have it in your feed\" if you don't like it. \"I don't think we should filter out AI content,\" Mosseri said during an interview on Lenny Rachitsky's podcast. \"I think we should let you know [&#8230;]",
       "summary": "Though Instagram head Adam Mosseri doesn't want to filter out AI content on the platform, he argues that you \"shouldn't have it in your feed\" if you don't like it. \"I don't think we should filter out ",
-      "importance": 1.05
-    },
-    {
-      "title": "Microsoft’s carbon emissions went up 25 percent last year",
-      "url": "https://www.theverge.com/tech/963728/microsoft-sustainability-report-2026",
-      "source": "The Verge",
-      "published_at": "2026-07-09T20:04:13-04:00",
-      "raw_content": "Microsoft may once again be struggling to keep up with its own climate goals, according to its 2026 sustainability report. As reported by GeekWire, the report states that Microsoft's carbon emissions increased 25 percent in 2025, totalling 34 million metric tons \"without select interventions.\" Microsoft says this was \"driven primarily by the expansion of our [&#8230;]",
-      "summary": "Microsoft may once again be struggling to keep up with its own climate goals, according to its 2026 sustainability report. As reported by GeekWire, the report states that Microsoft's carbon emissions ",
       "importance": 1.05
     }
   ]
