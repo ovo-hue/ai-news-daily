@@ -1,32 +1,23 @@
 {
-  "generated_at": "2026-07-14T13:38:54.447677+00:00",
+  "generated_at": "2026-07-14T19:16:28.359022+00:00",
   "items": [
     {
-      "title": "Anthropic starts localizing Claude pricing for India, its biggest market after the US",
-      "url": "https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/",
+      "title": "Reflection inks $1B compute deal with Nebius",
+      "url": "https://techcrunch.com/2026/07/14/reflection-inks-1b-compute-deal-with-nebius/",
       "source": "TechCrunch",
-      "published_at": "Mon, 13 Jul 2026 15:34:59 +0000",
-      "raw_content": "Claude users in India are starting to see Indian rupee-denominated subscription plans.",
-      "summary": "Claude users in India are starting to see Indian rupee-denominated subscription plans.",
-      "importance": 1.75
+      "published_at": "Tue, 14 Jul 2026 14:37:48 +0000",
+      "raw_content": "Reflection AI has signed a $1 billion deal to access Nebius' compute. Reflection was founded in 2024 and is developing open source AI technology.",
+      "summary": "Reflection AI has signed a $1 billion deal to access Nebius' compute. Reflection was founded in 2024 and is developing open source AI technology.",
+      "importance": 1.85
     },
     {
-      "title": "The 6 wildest claims in Apple&#8217;s lawsuit against OpenAI",
-      "url": "https://www.theverge.com/tech/964843/apple-openai-lawsuit-wildest-claims",
-      "source": "The Verge",
-      "published_at": "2026-07-13T13:00:00-04:00",
-      "raw_content": "When Apple employees interviewed for jobs at OpenAI, the AI startup's hardware head allegedly asked them to show up with something unusual: components they were working on and unreleased product samples. That's according to a blockbuster lawsuit filed by Apple, which accuses OpenAI of stealing confidential documents, spying on hardware prototypes, and tricking one of [&#8230;]",
-      "summary": "When Apple employees interviewed for jobs at OpenAI, the AI startup's hardware head allegedly asked them to show up with something unusual: components they were working on and unreleased product sampl",
-      "importance": 1.75
-    },
-    {
-      "title": "Video-generation startup PixVerse raises $439M, valuation soars past $2B",
-      "url": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/",
+      "title": "DeepMind CEO calls for an independent standards body to regulate frontier AI",
+      "url": "https://techcrunch.com/2026/07/14/deepmind-ceo-calls-for-an-independent-standards-body-to-regulate-frontier-ai/",
       "source": "TechCrunch",
-      "published_at": "Tue, 14 Jul 2026 00:00:00 +0000",
-      "raw_content": "With the cash, the company aims to expand its world model offering and reach customers across geographies.",
-      "summary": "With the cash, the company aims to expand its world model offering and reach customers across geographies.",
-      "importance": 1.7
+      "published_at": "Tue, 14 Jul 2026 17:45:55 +0000",
+      "raw_content": "DeepMind CEO Demis Hassabis is proposing an AI \"standards body\" modeled after FINRA, to test frontier models and develop best practices for their release.",
+      "summary": "DeepMind CEO Demis Hassabis is proposing an AI \"standards body\" modeled after FINRA, to test frontier models and develop best practices for their release.",
+      "importance": 1.75
     },
     {
       "title": "Siri AI is already changing how I use my iPhone",
@@ -38,39 +29,21 @@
       "importance": 1.7
     },
     {
-      "title": "Hermes agent maker Nous Research in talks for new funding at $1.5B valuation",
-      "url": "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/",
+      "title": "Spotify expands its AI push with a ChatGPT-like music assistant",
+      "url": "https://techcrunch.com/2026/07/14/spotify-expands-its-ai-push-with-a-chatgpt-like-music-assistant/",
       "source": "TechCrunch",
-      "published_at": "Mon, 13 Jul 2026 23:31:18 +0000",
-      "raw_content": "The company is raising at least $75 million, led by Robot Ventures, with significant participation from USV and other prominent investors.",
-      "summary": "The company is raising at least $75 million, led by Robot Ventures, with significant participation from USV and other prominent investors.",
+      "published_at": "Tue, 14 Jul 2026 14:06:47 +0000",
+      "raw_content": "Spotify is rolling out a new AI-powered conversational feature that lets Premium subscribers chat with the app to discover music, podcasts, audiobooks, and more.",
+      "summary": "Spotify is rolling out a new AI-powered conversational feature that lets Premium subscribers chat with the app to discover music, podcasts, audiobooks, and more.",
       "importance": 1.6
     },
     {
-      "title": "Satya Nadella has issued a shocking warning to companies using AI",
-      "url": "https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/",
-      "source": "TechCrunch",
-      "published_at": "Mon, 13 Jul 2026 20:59:00 +0000",
-      "raw_content": "Of all the debates raging about the potential downsides of AI, there is one worry causing the most hand-wringing among AI enthusiasts in Silicon Valley — that the giant AI labs that sell proprietary models are somehow acting like Trojan horses.",
-      "summary": "Of all the debates raging about the potential downsides of AI, there is one worry causing the most hand-wringing among AI enthusiasts in Silicon Valley — that the giant AI labs that sell proprietary m",
-      "importance": 1.6
-    },
-    {
-      "title": "The wildest allegations in Apple’s trade secrets lawsuit against OpenAI",
-      "url": "https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/",
-      "source": "TechCrunch",
-      "published_at": "Mon, 13 Jul 2026 18:22:10 +0000",
-      "raw_content": "Apple’s trade secrets lawsuit against OpenAI contains allegations that range from employees joking about unauthorized access to Apple’s systems to claims that job candidates were asked to bring Apple hardware to interviews. Here are the complaint’s most eye-catching claims.",
-      "summary": "Apple’s trade secrets lawsuit against OpenAI contains allegations that range from employees joking about unauthorized access to Apple’s systems to claims that job candidates were asked to bring Apple ",
-      "importance": 1.6
-    },
-    {
-      "title": "Waze adds new AI-powered features and customization updates",
-      "url": "https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/",
-      "source": "TechCrunch",
-      "published_at": "Mon, 13 Jul 2026 14:18:16 +0000",
-      "raw_content": "Some of the new features are powered by Google's Gemini AI assistant, which reflects the tech giant's broader push to integrate Gemini across its products while also better positioning Waze to compete with rival services such as Apple Maps.",
-      "summary": "Some of the new features are powered by Google's Gemini AI assistant, which reflects the tech giant's broader push to integrate Gemini across its products while also better positioning Waze to compete",
+      "title": "Sam Altman didn’t need another lawsuit",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/965294/openai-apple-trade-secrets-lawsuit-sam-altman-ipo",
+      "source": "The Verge",
+      "published_at": "2026-07-14T10:01:07-04:00",
+      "raw_content": "OpenAI has spent the better part of the year involved in lawsuit after lawsuit, including one from the world's richest man. But last Friday, the company was hit with one of the highest-profile legal actions yet - from Apple. OpenAI's expensive hardware bet is what's on the line. Apple's lawsuit against OpenAI, filed in Northern [&#8230;]",
+      "summary": "OpenAI has spent the better part of the year involved in lawsuit after lawsuit, including one from the world's richest man. But last Friday, the company was hit with one of the highest-profile legal a",
       "importance": 1.6
     },
     {
@@ -83,6 +56,60 @@
       "importance": 1.6
     },
     {
+      "title": "Google faces another AI training lawsuit from major publishers",
+      "url": "https://techcrunch.com/2026/07/14/google-faces-another-ai-training-lawsuit-from-major-publishers/",
+      "source": "TechCrunch",
+      "published_at": "Tue, 14 Jul 2026 18:33:31 +0000",
+      "raw_content": "Hachette, Cengage, Elsevier, and other publishers allege that Google trained its AI on copyrighted works without the necessary permissions.",
+      "summary": "Hachette, Cengage, Elsevier, and other publishers allege that Google trained its AI on copyrighted works without the necessary permissions.",
+      "importance": 1.55
+    },
+    {
+      "title": "Meta’s Adam Mosseri says AI token budgets could soon be capped per engineer",
+      "url": "https://techcrunch.com/2026/07/14/metas-adam-mosseri-says-ai-token-budgets-could-soon-be-capped-per-engineer/",
+      "source": "TechCrunch",
+      "published_at": "Tue, 14 Jul 2026 16:22:15 +0000",
+      "raw_content": "Instagram head Adam Mosseri believes companies will eventually need to manage AI token spending the same way they manage payroll or other operating expenses, predicting that engineers could soon face limits on how much they spend using AI tools.",
+      "summary": "Instagram head Adam Mosseri believes companies will eventually need to manage AI token spending the same way they manage payroll or other operating expenses, predicting that engineers could soon face ",
+      "importance": 1.55
+    },
+    {
+      "title": "Google Images gets a Pinterest-like redesign focused on discovery",
+      "url": "https://techcrunch.com/2026/07/14/google-images-gets-a-pinterest-like-redesign-focused-on-discovery/",
+      "source": "TechCrunch",
+      "published_at": "Tue, 14 Jul 2026 16:00:00 +0000",
+      "raw_content": "Now, when users navigate to Google Images, they'll see a \"For You\" gallery of images tailored to their interests and browsing history.",
+      "summary": "Now, when users navigate to Google Images, they'll see a \"For You\" gallery of images tailored to their interests and browsing history.",
+      "importance": 1.55
+    },
+    {
+      "title": "New York State halts construction of all new data centers",
+      "url": "https://techcrunch.com/2026/07/14/new-york-state-halts-construction-of-all-new-data-centers/",
+      "source": "TechCrunch",
+      "published_at": "Tue, 14 Jul 2026 15:17:59 +0000",
+      "raw_content": "New York has become the first state to temporarily halt approval of large data centers, as Gov. Kathy Hochul argues the AI-driven building boom shouldn’t come at the expense of higher electricity costs, water supplies, or local control.",
+      "summary": "New York has become the first state to temporarily halt approval of large data centers, as Gov. Kathy Hochul argues the AI-driven building boom shouldn’t come at the expense of higher electricity cost",
+      "importance": 1.55
+    },
+    {
+      "title": "The real AI race may no longer be at the frontier",
+      "url": "https://techcrunch.com/2026/07/14/the-real-ai-race-may-no-longer-be-at-the-frontier-open-models-hugging-face/",
+      "source": "TechCrunch",
+      "published_at": "Tue, 14 Jul 2026 14:24:53 +0000",
+      "raw_content": "Hugging Face CEO Clem Delangue says enterprises increasingly want open models, due to cost, accessibility, and ownership. Do frontier models still matter if most production AI ends up running on open models?",
+      "summary": "Hugging Face CEO Clem Delangue says enterprises increasingly want open models, due to cost, accessibility, and ownership. Do frontier models still matter if most production AI ends up running on open ",
+      "importance": 1.55
+    },
+    {
+      "title": "Superhuman’s new auto-draft feature almost makes me like AI replies",
+      "url": "https://techcrunch.com/2026/07/14/superhumans-new-auto-draft-feature-almost-makes-me-like-ai-replies/",
+      "source": "TechCrunch",
+      "published_at": "Tue, 14 Jul 2026 14:00:00 +0000",
+      "raw_content": "Superhuman’s latest AI email drafting feature is its most convincing yet, generating replies that often required little to no editing in our testing.",
+      "summary": "Superhuman’s latest AI email drafting feature is its most convincing yet, generating replies that often required little to no editing in our testing.",
+      "importance": 1.55
+    },
+    {
       "title": "Already rich, already successful, why the last wave of tech winners is grinding again",
       "url": "https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/",
       "source": "TechCrunch",
@@ -92,30 +119,21 @@
       "importance": 1.55
     },
     {
-      "title": "Uber’s product chief on hotels, robotaxis, and why the company doesn’t want to be ‘everything for everyone’",
-      "url": "https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/",
-      "source": "TechCrunch",
-      "published_at": "Tue, 14 Jul 2026 00:45:00 +0000",
-      "raw_content": "Uber Chief Product Officer Sachin Kansal walks TechCrunch through the company's financial services ambitions, its increasingly complicated relationship with Waymo, its new AV Labs data operation, and how AI is starting to show up in ways riders and drivers will actually notice.",
-      "summary": "Uber Chief Product Officer Sachin Kansal walks TechCrunch through the company's financial services ambitions, its increasingly complicated relationship with Waymo, its new AV Labs data operation, and ",
+      "title": "Meta accused of using biased AI targeting for mass layoffs",
+      "url": "https://www.theverge.com/tech/965486/meta-lawsuit-former-employees-ai-layoffs",
+      "source": "The Verge",
+      "published_at": "2026-07-14T13:18:11-04:00",
+      "raw_content": "A group of 26 former Meta employees is suing the company over claims that it used AI tools to unfairly target workers on leave with layoffs, as reported earlier by Reuters. In the lawsuit, the employees allege Meta determined which workers to dismiss based on performance data collected by a \"constellation\" of internal AI tools, [&#8230;]",
+      "summary": "A group of 26 former Meta employees is suing the company over claims that it used AI tools to unfairly target workers on leave with layoffs, as reported earlier by Reuters. In the lawsuit, the employe",
       "importance": 1.55
     },
     {
-      "title": "Sam Altman’s space data center trash talk is what most experts already believe",
-      "url": "https://techcrunch.com/2026/07/13/sam-altmans-space-data-center-trash-talk-is-what-most-experts-already-believe/",
-      "source": "TechCrunch",
-      "published_at": "Mon, 13 Jul 2026 17:28:37 +0000",
-      "raw_content": "Responding to Musk accusing him of being a scammer, Altman said, \"homeboy you're the one sellling [sic] public market investors on short-term space datacenters.\"",
-      "summary": "Responding to Musk accusing him of being a scammer, Altman said, \"homeboy you're the one sellling [sic] public market investors on short-term space datacenters.\"",
-      "importance": 1.55
-    },
-    {
-      "title": "Should AI help you get away with killing your spouse?",
-      "url": "https://techcrunch.com/2026/07/13/should-ai-help-you-get-away-with-killing-your-spouse/",
-      "source": "TechCrunch",
-      "published_at": "Mon, 13 Jul 2026 16:31:23 +0000",
-      "raw_content": "What does a world of total user-aligned AI actually look like?",
-      "summary": "What does a world of total user-aligned AI actually look like?",
+      "title": "Spotify is now an AI chatbot, too",
+      "url": "https://www.theverge.com/entertainment/965358/spotify-ai-chatbot-interface-music-audiobooks-podcasts",
+      "source": "The Verge",
+      "published_at": "2026-07-14T11:47:36-04:00",
+      "raw_content": "Spotify is experimenting with a new AI feature that allows Premium subscribers to play and explore music, audiobooks, and podcasts by having conversations with a chatbot. The \"Talk to Spotify\" feature appears across the Home and Now Playing view on Spotify's mobile app. You can interact with the chatbot by typing your request in the [&#8230;]",
+      "summary": "Spotify is experimenting with a new AI feature that allows Premium subscribers to play and explore music, audiobooks, and podcasts by having conversations with a chatbot. The \"Talk to Spotify\" feature",
       "importance": 1.55
     },
     {
@@ -126,6 +144,24 @@
       "raw_content": "New hyperscale data centers can't set up shop in New York for up to a year now that Governor Kathy Hochul (D) has signed the nation's first statewide moratorium. But a bill passed by the state legislature that could restrict even more developments still awaits her signature. The order blocks new environmental permits for data [&#8230;]",
       "summary": "New hyperscale data centers can't set up shop in New York for up to a year now that Governor Kathy Hochul (D) has signed the nation's first statewide moratorium. But a bill passed by the state legisla",
       "importance": 1.55
+    },
+    {
+      "title": "The Google Images homepage will recommend photos even before you search",
+      "url": "https://www.theverge.com/tech/965138/google-images-homepage-ai-overviews-search-nano-banana",
+      "source": "The Verge",
+      "published_at": "2026-07-14T12:00:00-04:00",
+      "raw_content": "Google is announcing a big change to the Google Images homepage in honor of the platform's 25th anniversary this week. Instead of a mostly blank page with a search bar, the homepage will soon show you a bunch of images that it thinks you might like before you even start searching. The company says the [&#8230;]",
+      "summary": "Google is announcing a big change to the Google Images homepage in honor of the platform's 25th anniversary this week. Instead of a mostly blank page with a search bar, the homepage will soon show you",
+      "importance": 1.5
+    },
+    {
+      "title": "The 6 wildest claims in Apple&#8217;s lawsuit against OpenAI",
+      "url": "https://www.theverge.com/tech/964843/apple-openai-lawsuit-wildest-claims",
+      "source": "The Verge",
+      "published_at": "2026-07-13T13:00:00-04:00",
+      "raw_content": "When Apple employees interviewed for jobs at OpenAI, the AI startup's hardware head allegedly asked them to show up with something unusual: components they were working on and unreleased product samples. That's according to a blockbuster lawsuit filed by Apple, which accuses OpenAI of stealing confidential documents, spying on hardware prototypes, and tricking one of [&#8230;]",
+      "summary": "When Apple employees interviewed for jobs at OpenAI, the AI startup's hardware head allegedly asked them to show up with something unusual: components they were working on and unreleased product sampl",
+      "importance": 1.45
     },
     {
       "title": "Waze is getting a bunch of new AI-powered features",
@@ -144,42 +180,6 @@
       "raw_content": "Lorde was performing at the Mad Cool Festival in Madrid on Thursday and took some time during her set to speak out against AI glasses. While she didn't specify any brands in particular, it's likely she was taking a shot at festival sponsor Ray-Ban, which has collaborated with Meta on a pair of AI smart [&#8230;]",
       "summary": "Lorde was performing at the Mad Cool Festival in Madrid on Thursday and took some time during her set to speak out against AI glasses. While she didn't specify any brands in particular, it's likely sh",
       "importance": 1.25
-    },
-    {
-      "title": "Apple’s failed self-driving car program left a legacy of powerful AI chips",
-      "url": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra",
-      "source": "The Verge",
-      "published_at": "2026-07-12T12:27:06-04:00",
-      "raw_content": "Apple's self-driving car program never really got off the ground, but it may have been what made the company's chips the powerful AI performers they are. Early in the development of the self-driving platform, Apple realized that it would need powerful on-device AI processing. While the car processor was never finished, as Mark Gurman details [&#8230;]",
-      "summary": "Apple's self-driving car program never really got off the ground, but it may have been what made the company's chips the powerful AI performers they are. Early in the development of the self-driving p",
-      "importance": 1.25
-    },
-    {
-      "title": "The fight against AI data centers is just beginning",
-      "url": "https://www.theverge.com/column/963346/ai-data-centers-fight",
-      "source": "The Verge",
-      "published_at": "2026-07-12T08:00:00-04:00",
-      "raw_content": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the data center buildout, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started Years before the AI boom threatened local power [&#8230;]",
-      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the data center buildout, follow Emma Roth. The Stepback arrives in our subscribers' inboxe",
-      "importance": 1.25
-    },
-    {
-      "title": "Meta turns off the Instagram feature that let users make AI deepfakes of public accounts",
-      "url": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
-      "source": "The Verge",
-      "published_at": "2026-07-10T19:49:50-04:00",
-      "raw_content": "Following significant backlash, Meta is turning off the feature it announced this week that let users generate AI images based on content from public Instagram accounts just by tagging them. The feature, as originally set up, meant that content from any public Instagram account could be used in AI creations without the account owner's permission. [&#8230;]",
-      "summary": "Following significant backlash, Meta is turning off the feature it announced this week that let users generate AI images based on content from public Instagram accounts just by tagging them. The featu",
-      "importance": 1.2
-    },
-    {
-      "title": "Apple sues OpenAI for allegedly stealing hardware secrets",
-      "url": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets",
-      "source": "The Verge",
-      "published_at": "2026-07-10T17:36:51-04:00",
-      "raw_content": "Apple has sued OpenAI, alleging that engineers stole Apple secrets to advance the AI startup's hardware plans. In its complaint, Apple says it uncovered \"a pattern of theft of Apple's trade secrets by OpenAI employees who were formerly at Apple.\" In addition to OpenAI, the lawsuit also names IO Products - Jony Ive's hardware startup, [&#8230;]",
-      "summary": "Apple has sued OpenAI, alleging that engineers stole Apple secrets to advance the AI startup's hardware plans. In its complaint, Apple says it uncovered \"a pattern of theft of Apple's trade secrets by",
-      "importance": 1.1
     }
   ]
 }
