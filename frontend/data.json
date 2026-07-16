@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-07-16T13:45:52.235738+00:00",
+  "generated_at": "2026-07-16T19:06:22.956472+00:00",
   "items": [
+    {
+      "title": "How a former DeepMind researcher raised at a $300M pre-seed valuation before launching a product",
+      "url": "https://techcrunch.com/2026/07/16/how-a-former-deepmind-researcher-raised-at-a-300m-pre-seed-valuation-before-launching-a-product/",
+      "source": "TechCrunch",
+      "published_at": "Thu, 16 Jul 2026 15:02:00 +0000",
+      "raw_content": "Drawing on more than a decade spent helping build some of the world's most influential AI systems, including research that later informed the development of ChatGPT, Andrew Dai explains why he believes visual AI is one of the next major frontiers in artificial intelligence.",
+      "summary": "Drawing on more than a decade spent helping build some of the world's most influential AI systems, including research that later informed the development of ChatGPT, Andrew Dai explains why he believe",
+      "importance": 1.95
+    },
     {
       "title": "Claude can now use your 1Password credentials for you",
       "url": "https://www.theverge.com/tech/966442/1password-anthropic-claude-browser-integration",
@@ -11,22 +20,31 @@
       "importance": 1.95
     },
     {
-      "title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
-      "url": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
+      "title": "Why is OpenAI selling a ChatGPT basketball?",
+      "url": "https://techcrunch.com/2026/07/16/why-is-openai-selling-a-chatgpt-basketball/",
       "source": "TechCrunch",
-      "published_at": "Wed, 15 Jul 2026 19:41:38 +0000",
-      "raw_content": "OpenAI, which is in the middle of a legal battle with Apple over hardware trade theft allegations, just released a light-up keyboard designed to be paired with its agentic coding app.",
-      "summary": "OpenAI, which is in the middle of a legal battle with Apple over hardware trade theft allegations, just released a light-up keyboard designed to be paired with its agentic coding app.",
+      "published_at": "Thu, 16 Jul 2026 15:31:09 +0000",
+      "raw_content": "You may have heard that OpenAI released its first piece of hardware this week. You may not have heard about the ChatGPT basketball.",
+      "summary": "You may have heard that OpenAI released its first piece of hardware this week. You may not have heard about the ChatGPT basketball.",
       "importance": 1.8
     },
     {
-      "title": "OpenAI finally launches hardware… for Codex",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/965901/openai-hardware-codex-micro-launch",
+      "title": "Google is renaming NotebookLM to Gemini Notebook",
+      "url": "https://www.theverge.com/tech/966112/google-gemini-notebook-notebooklm",
       "source": "The Verge",
-      "published_at": "2026-07-15T12:00:00-04:00",
-      "raw_content": "OpenAI is finally releasing some hardware. No, it isn't the mysterious AI-powered device the company is developing with former Apple designer Jony Ive, a project already tangled up in a messy lawsuit. Instead, it's a product designed to be used with its coding platform, Codex. The device, a square-shaped block of buttons called Codex Micro, [&#8230;]",
-      "summary": "OpenAI is finally releasing some hardware. No, it isn't the mysterious AI-powered device the company is developing with former Apple designer Jony Ive, a project already tangled up in a messy lawsuit.",
+      "published_at": "2026-07-16T12:00:00-04:00",
+      "raw_content": "Google is giving its AI note-taking app a new name. The company announced on Thursday that NotebookLM is becoming Gemini Notebook, but will remain a standalone app even as it integrates more deeply across Gemini and Google Search. Google first revealed Gemini Notebook - then called Project Tailwind - in May 2023 before widely releasing [&#8230;]",
+      "summary": "Google is giving its AI note-taking app a new name. The company announced on Thursday that NotebookLM is becoming Gemini Notebook, but will remain a standalone app even as it integrates more deeply ac",
       "importance": 1.75
+    },
+    {
+      "title": "Roblox launches an AI-powered game creation feature in its mobile app",
+      "url": "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/",
+      "source": "TechCrunch",
+      "published_at": "Thu, 16 Jul 2026 18:22:06 +0000",
+      "raw_content": "Roblox's new \"Build\" feature lets users generate basic games using a single text prompt.",
+      "summary": "Roblox's new \"Build\" feature lets users generate basic games using a single text prompt.",
+      "importance": 1.7
     },
     {
       "title": "Apple Intelligence approved for launch in China with Alibaba and Baidu",
@@ -47,66 +65,57 @@
       "importance": 1.7
     },
     {
-      "title": "Microsoft patches record number of security vulnerabilities, citing its use of AI",
-      "url": "https://techcrunch.com/2026/07/15/microsoft-patches-record-number-of-security-vulnerabilities-citing-its-use-of-ai/",
+      "title": "Google Vids now lets you star in your own AI videos",
+      "url": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
       "source": "TechCrunch",
-      "published_at": "Wed, 15 Jul 2026 16:20:18 +0000",
-      "raw_content": "Microsoft's monthly release of security fixes, dubbed Patch Tuesday, resolved a record 570 security vulnerabilities across the company's product line, thanks to discoveries with AI.",
-      "summary": "Microsoft's monthly release of security fixes, dubbed Patch Tuesday, resolved a record 570 security vulnerabilities across the company's product line, thanks to discoveries with AI.",
-      "importance": 1.7
-    },
-    {
-      "title": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
-      "url": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
-      "source": "TechCrunch",
-      "published_at": "Wed, 15 Jul 2026 23:59:44 +0000",
-      "raw_content": "Microsoft is looking to sell its in-house AI models as more efficient and cost-effective than its competitors' models.",
-      "summary": "Microsoft is looking to sell its in-house AI models as more efficient and cost-effective than its competitors' models.",
-      "importance": 1.65
-    },
-    {
-      "title": "SpaceX falls to $135 IPO price ahead of Starship launch",
-      "url": "https://techcrunch.com/2026/07/15/spacex-falls-to-135-ipo-price-ahead-of-starship-launch/",
-      "source": "TechCrunch",
-      "published_at": "Wed, 15 Jul 2026 18:06:05 +0000",
-      "raw_content": "The stock has steadily fallen from the euphoric post-IPO high, showing that markets may be sobering up to the promises CEO Elon Musk made before and after SpaceX went public.",
-      "summary": "The stock has steadily fallen from the euphoric post-IPO high, showing that markets may be sobering up to the promises CEO Elon Musk made before and after SpaceX went public.",
-      "importance": 1.65
-    },
-    {
-      "title": "Inside Ode with Anthropic, the startup betting AI services are the future of enterprise",
-      "url": "https://techcrunch.com/video/inside-ode-with-anthropic-the-startup-betting-ai-services-are-the-future-of-enterprise/",
-      "source": "TechCrunch",
-      "published_at": "Wed, 15 Jul 2026 15:00:00 +0000",
-      "raw_content": "Can a handful of engineers really do the work of an army of consultants?&#160;That’s&#160;the bet behind Ode with Anthropic —&#160;the joint venture dedicated to embedding forward-deployed engineers in enterprise firms, backed by&#160;Anthropic, Blackstone, Hellman &#38; Friedman, Goldman&#160;Sachs&#160;and others.&#160;&#160; On this episode of TechCrunch&#8217;s&#160;Equity&#160;podcast, Rebecca Bellan sits down with Ode’s leaders&#160;Chris Taylor&#160;and&#160;Eddie Siegel,&#160;who founded Fractional AI, [&#8230;]",
-      "summary": "Can a handful of engineers really do the work of an army of consultants?&#160;That’s&#160;the bet behind Ode with Anthropic —&#160;the joint venture dedicated to embedding forward-deployed engineers i",
-      "importance": 1.65
-    },
-    {
-      "title": "Whatnot acquires Shaped to power real-time live shopping recommendations",
-      "url": "https://techcrunch.com/2026/07/15/whatnot-acquires-shaped-to-power-real-time-live-shopping-recommendations/",
-      "source": "TechCrunch",
-      "published_at": "Wed, 15 Jul 2026 17:00:00 +0000",
-      "raw_content": "Livestream shopping platform Whatnot has acquired AI startup Shaped, a machine learning company focused on real-time recommendations and search. The deal will bolster Whatnot’s personalization and discovery features as it expands into new product categories.",
-      "summary": "Livestream shopping platform Whatnot has acquired AI startup Shaped, a machine learning company focused on real-time recommendations and search. The deal will bolster Whatnot’s personalization and dis",
+      "published_at": "Thu, 16 Jul 2026 18:32:54 +0000",
+      "raw_content": "Google is adding personalized AI avatars to Vids that let users create videos starring a digital version of themselves, alongside Gemini Omni-powered tools for generating and editing videos from prompts and reference images.",
+      "summary": "Google is adding personalized AI avatars to Vids that let users create videos starring a digital version of themselves, alongside Gemini Omni-powered tools for generating and editing videos from promp",
       "importance": 1.6
     },
     {
-      "title": "Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling",
-      "url": "https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/",
+      "title": "Yes, you can now order DoorDash from the command line",
+      "url": "https://techcrunch.com/2026/07/16/yes-you-can-now-order-doordash-from-the-command-line/",
       "source": "TechCrunch",
-      "published_at": "Wed, 15 Jul 2026 18:04:06 +0000",
-      "raw_content": "It's the company's first public proof point after a year and a half spent building AI infrastructure largely out of public view.",
-      "summary": "It's the company's first public proof point after a year and a half spent building AI infrastructure largely out of public view.",
+      "published_at": "Thu, 16 Jul 2026 15:38:55 +0000",
+      "raw_content": "DoorDash is opening a limited beta of dd-cli, a command-line tool that lets developers and AI agents search stores, build carts, and place orders from the terminal, marking another step toward software designed for AI agents instead of just humans.",
+      "summary": "DoorDash is opening a limited beta of dd-cli, a command-line tool that lets developers and AI agents search stores, build carts, and place orders from the terminal, marking another step toward softwar",
+      "importance": 1.6
+    },
+    {
+      "title": "Why AMI Labs’ Alexandre LeBrun won’t call his AI ‘AGI’ or ‘superintelligence’",
+      "url": "https://techcrunch.com/2026/07/16/why-ami-labs-alexandre-lebrun-wont-call-his-ai-agi-or-superintelligence/",
+      "source": "TechCrunch",
+      "published_at": "Thu, 16 Jul 2026 14:40:00 +0000",
+      "raw_content": "While everyone in AI is chasing \"superintelligence,\" Alexandre LeBrun, CEO of Yann LeCun’s world model startup, AMI Labs, dismisses the word.",
+      "summary": "While everyone in AI is chasing \"superintelligence,\" Alexandre LeBrun, CEO of Yann LeCun’s world model startup, AMI Labs, dismisses the word.",
+      "importance": 1.6
+    },
+    {
+      "title": "Moonshot’s upcoming Kimi 3 is expected to close the gap with Anthropic’s Opus 4.8",
+      "url": "https://techcrunch.com/2026/07/16/moonshots-upcoming-kimi-3-is-expected-to-close-the-gap-with-anthropics-opus-4-8/",
+      "source": "TechCrunch",
+      "published_at": "Thu, 16 Jul 2026 14:26:29 +0000",
+      "raw_content": "The FT reports Kimi K3 will be the largest open AI model from China, with a parameter count between 2 trillion and 3 trillion.",
+      "summary": "The FT reports Kimi K3 will be the largest open AI model from China, with a parameter count between 2 trillion and 3 trillion.",
+      "importance": 1.6
+    },
+    {
+      "title": "Google’s AI Mode now lets you link and interact with select apps",
+      "url": "https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/",
+      "source": "TechCrunch",
+      "published_at": "Thu, 16 Jul 2026 16:00:00 +0000",
+      "raw_content": "With this new update, Google is expanding AI Mode beyond answering questions and into completing tasks across the apps they use regularly.",
+      "summary": "With this new update, Google is expanding AI Mode beyond answering questions and into completing tasks across the apps they use regularly.",
       "importance": 1.55
     },
     {
-      "title": "Hack suggests AI music generator Suno scraped YouTube for training data",
-      "url": "https://techcrunch.com/2026/07/15/hack-suggests-ai-music-generator-suno-scraped-youtube-for-training-data/",
-      "source": "TechCrunch",
-      "published_at": "Wed, 15 Jul 2026 17:00:34 +0000",
-      "raw_content": "The hacker used an employee's credentials to access source code, which revealed how Suno scraped decades of audio.",
-      "summary": "The hacker used an employee's credentials to access source code, which revealed how Suno scraped decades of audio.",
+      "title": "New York governor says she&#8217;s using AI to analyze &#8216;every single rule&#8217; in the state",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/966647/new-york-governor-kathy-hochul-ai-policies",
+      "source": "The Verge",
+      "published_at": "2026-07-16T13:58:37-04:00",
+      "raw_content": "New York Governor Kathy Hochul might have just signed a moratorium on new AI data centers in the state, but she's not against using the technology herself. During an interview with Bloomberg's Odd Lots podcast, Hochul said that her team is using \"AI to analyze every single rule, regulation, [and] policy\" to check for outdated [&#8230;]",
+      "summary": "New York Governor Kathy Hochul might have just signed a moratorium on new AI data centers in the state, but she's not against using the technology herself. During an interview with Bloomberg's Odd Lot",
       "importance": 1.55
     },
     {
@@ -137,15 +146,6 @@
       "importance": 1.55
     },
     {
-      "title": "Suno snatched millions of songs from YouTube, Genius, and Deezer",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/966072/suno-ai-music-training-scraping-youtube-hack",
-      "source": "The Verge",
-      "published_at": "2026-07-15T13:48:01-04:00",
-      "raw_content": "Suno data obtained in a hacking incident has exposed that the AI music generator was trained by scraping millions of songs and lyrics from online audio platforms, including YouTube Music, Deezer, and Genius, 404 Media reports. Given that Suno has avoided revealing what's in its training datasets and how they were acquired, this a rare [&#8230;]",
-      "summary": "Suno data obtained in a hacking incident has exposed that the AI music generator was trained by scraping millions of songs and lyrics from online audio platforms, including YouTube Music, Deezer, and ",
-      "importance": 1.55
-    },
-    {
       "title": "Computer cops",
       "url": "https://www.theverge.com/ai-artificial-intelligence/965066/ai-police-cops",
       "source": "The Verge",
@@ -164,21 +164,21 @@
       "importance": 1.5
     },
     {
-      "title": "SpaceXAI&#8217;s Grok programming tool was uploading its users&#8217; entire codebase to cloud storage",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/965600/spacexai-grok-build-repository-upload",
+      "title": "OpenAI finally launches hardware… for Codex",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/965901/openai-hardware-codex-micro-launch",
       "source": "The Verge",
-      "published_at": "2026-07-14T15:25:00-04:00",
-      "raw_content": "SpaceXAI's Grok Build AI coding tool was spotted uploading users' entire codebases to Google Cloud before it was reported, and the company turned it off. The Register reports that Cereblab published findings on Monday showing how the Grok Build CLI was packaging and uploading entire code repositories, \"including files it was told not to open [&#8230;]",
-      "summary": "SpaceXAI's Grok Build AI coding tool was spotted uploading users' entire codebases to Google Cloud before it was reported, and the company turned it off. The Register reports that Cereblab published f",
-      "importance": 1.3
+      "published_at": "2026-07-15T12:00:00-04:00",
+      "raw_content": "OpenAI is finally releasing some hardware. No, it isn't the mysterious AI-powered device the company is developing with former Apple designer Jony Ive, a project already tangled up in a messy lawsuit. Instead, it's a product designed to be used with its coding platform, Codex. The device, a square-shaped block of buttons called Codex Micro, [&#8230;]",
+      "summary": "OpenAI is finally releasing some hardware. No, it isn't the mysterious AI-powered device the company is developing with former Apple designer Jony Ive, a project already tangled up in a messy lawsuit.",
+      "importance": 1.45
     },
     {
-      "title": "Meta accused of using biased AI targeting for mass layoffs",
-      "url": "https://www.theverge.com/tech/965486/meta-lawsuit-former-employees-ai-layoffs",
+      "title": "Suno snatched millions of songs from YouTube, Genius, and Deezer",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/966072/suno-ai-music-training-scraping-youtube-hack",
       "source": "The Verge",
-      "published_at": "2026-07-14T13:18:11-04:00",
-      "raw_content": "A group of 26 former Meta employees is suing the company over claims that it used AI tools to unfairly target workers on leave with layoffs, as reported earlier by Reuters. In the lawsuit, the employees allege Meta determined which workers to dismiss based on performance data collected by a \"constellation\" of internal AI tools, [&#8230;]",
-      "summary": "A group of 26 former Meta employees is suing the company over claims that it used AI tools to unfairly target workers on leave with layoffs, as reported earlier by Reuters. In the lawsuit, the employe",
+      "published_at": "2026-07-15T13:48:01-04:00",
+      "raw_content": "Suno data obtained in a hacking incident has exposed that the AI music generator was trained by scraping millions of songs and lyrics from online audio platforms, including YouTube Music, Deezer, and Genius, 404 Media reports. Given that Suno has avoided revealing what's in its training datasets and how they were acquired, this a rare [&#8230;]",
+      "summary": "Suno data obtained in a hacking incident has exposed that the AI music generator was trained by scraping millions of songs and lyrics from online audio platforms, including YouTube Music, Deezer, and ",
       "importance": 1.25
     }
   ]
