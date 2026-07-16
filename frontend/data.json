@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-07-16T08:08:55.870391+00:00",
+  "generated_at": "2026-07-16T13:45:52.235738+00:00",
   "items": [
+    {
+      "title": "Claude can now use your 1Password credentials for you",
+      "url": "https://www.theverge.com/tech/966442/1password-anthropic-claude-browser-integration",
+      "source": "The Verge",
+      "published_at": "2026-07-16T09:00:00-04:00",
+      "raw_content": "1Password has launched a new browser integration for Claude that allows the Anthropic chatbot to access stored security credentials like usernames and passwords. The 1Password for Claude feature means that users can authorize Claude to complete multi-step tasks like booking travel and managing online accounts on their behalf without having to manually input their login [&#8230;]",
+      "summary": "1Password has launched a new browser integration for Claude that allows the Anthropic chatbot to access stored security credentials like usernames and passwords. The 1Password for Claude feature means",
+      "importance": 1.95
+    },
     {
       "title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
       "url": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
@@ -20,6 +29,15 @@
       "importance": 1.75
     },
     {
+      "title": "Apple Intelligence approved for launch in China with Alibaba and Baidu",
+      "url": "https://techcrunch.com/2026/07/16/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
+      "source": "TechCrunch",
+      "published_at": "Thu, 16 Jul 2026 13:17:59 +0000",
+      "raw_content": "The deal, which was rumored to be in the works last year, marks an important step for Apple's AI ambitions in a key market.",
+      "summary": "The deal, which was rumored to be in the works last year, marks an important step for Apple's AI ambitions in a key market.",
+      "importance": 1.7
+    },
+    {
       "title": "Applied Computing wants to give oil and gas operators an AI model for the entire plant",
       "url": "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/",
       "source": "TechCrunch",
@@ -35,15 +53,6 @@
       "published_at": "Wed, 15 Jul 2026 16:20:18 +0000",
       "raw_content": "Microsoft's monthly release of security fixes, dubbed Patch Tuesday, resolved a record 570 security vulnerabilities across the company's product line, thanks to discoveries with AI.",
       "summary": "Microsoft's monthly release of security fixes, dubbed Patch Tuesday, resolved a record 570 security vulnerabilities across the company's product line, thanks to discoveries with AI.",
-      "importance": 1.7
-    },
-    {
-      "title": "Apple Intelligence approved for launch in China with Alibaba’s Qwen AI",
-      "url": "https://techcrunch.com/2026/07/15/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
-      "source": "TechCrunch",
-      "published_at": "Wed, 15 Jul 2026 15:29:33 +0000",
-      "raw_content": "The deal, which was rumored to be in the works last year, marks an important step for Apple's AI ambitions in a key market.",
-      "summary": "The deal, which was rumored to be in the works last year, marks an important step for Apple's AI ambitions in a key market.",
       "importance": 1.7
     },
     {
@@ -101,6 +110,15 @@
       "importance": 1.55
     },
     {
+      "title": "Google ordered to open Android and Search to rivals in Europe",
+      "url": "https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma",
+      "source": "The Verge",
+      "published_at": "2026-07-16T08:06:51-04:00",
+      "raw_content": "Google must give rival AI assistants and search engines greater access to key parts of Android and Google Search after the European Union ordered the company to comply with the bloc's digital antitrust rules. The two decisions, handed down Thursday, could weaken Google's control over two of the tech industry's most important platforms and have [&#8230;]",
+      "summary": "Google must give rival AI assistants and search engines greater access to key parts of Android and Google Search after the European Union ordered the company to comply with the bloc's digital antitrus",
+      "importance": 1.55
+    },
+    {
       "title": "xAI sues a man for using Grok to generate CSAM &#8216;deepfakes&#8217;",
       "url": "https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam",
       "source": "The Verge",
@@ -128,6 +146,15 @@
       "importance": 1.55
     },
     {
+      "title": "Computer cops",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/965066/ai-police-cops",
+      "source": "The Verge",
+      "published_at": "2026-07-16T07:00:00-04:00",
+      "raw_content": "I stood before a hulking glass and brick structure in the heart of Fort Worth, Texas. Thousands gathered inside to see what had been billed as \"the future of policing in the digital age.\" As press, I was prohibited from entering, but from a number of nearby locations, I met with attendees who told me [&#8230;]",
+      "summary": "I stood before a hulking glass and brick structure in the heart of Fort Worth, Texas. Thousands gathered inside to see what had been billed as \"the future of policing in the digital age.\" As press, I ",
+      "importance": 1.5
+    },
+    {
       "title": "OpenAI may announce a ChatGPT smart speaker this year",
       "url": "https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device",
       "source": "The Verge",
@@ -146,15 +173,6 @@
       "importance": 1.3
     },
     {
-      "title": "Sam Altman didn’t need another lawsuit",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/965294/openai-apple-trade-secrets-lawsuit-sam-altman-ipo",
-      "source": "The Verge",
-      "published_at": "2026-07-14T10:01:07-04:00",
-      "raw_content": "OpenAI has spent the better part of the year involved in lawsuit after lawsuit, including one from the world's richest man. But last Friday, the company was hit with one of the highest-profile legal actions yet - from Apple. OpenAI's expensive hardware bet is what's on the line. Apple's lawsuit against OpenAI, filed in Northern [&#8230;]",
-      "summary": "OpenAI has spent the better part of the year involved in lawsuit after lawsuit, including one from the world's richest man. But last Friday, the company was hit with one of the highest-profile legal a",
-      "importance": 1.3
-    },
-    {
       "title": "Meta accused of using biased AI targeting for mass layoffs",
       "url": "https://www.theverge.com/tech/965486/meta-lawsuit-former-employees-ai-layoffs",
       "source": "The Verge",
@@ -162,24 +180,6 @@
       "raw_content": "A group of 26 former Meta employees is suing the company over claims that it used AI tools to unfairly target workers on leave with layoffs, as reported earlier by Reuters. In the lawsuit, the employees allege Meta determined which workers to dismiss based on performance data collected by a \"constellation\" of internal AI tools, [&#8230;]",
       "summary": "A group of 26 former Meta employees is suing the company over claims that it used AI tools to unfairly target workers on leave with layoffs, as reported earlier by Reuters. In the lawsuit, the employe",
       "importance": 1.25
-    },
-    {
-      "title": "Spotify is now an AI chatbot, too",
-      "url": "https://www.theverge.com/entertainment/965358/spotify-ai-chatbot-interface-music-audiobooks-podcasts",
-      "source": "The Verge",
-      "published_at": "2026-07-14T11:47:36-04:00",
-      "raw_content": "Spotify is experimenting with a new AI feature that allows Premium subscribers to play and explore music, audiobooks, and podcasts by having conversations with a chatbot. The \"Talk to Spotify\" feature appears across the Home and Now Playing view on Spotify's mobile app. You can interact with the chatbot by typing your request in the [&#8230;]",
-      "summary": "Spotify is experimenting with a new AI feature that allows Premium subscribers to play and explore music, audiobooks, and podcasts by having conversations with a chatbot. The \"Talk to Spotify\" feature",
-      "importance": 1.25
-    },
-    {
-      "title": "The Google Images homepage will recommend photos even before you search",
-      "url": "https://www.theverge.com/tech/965138/google-images-homepage-ai-overviews-search-nano-banana",
-      "source": "The Verge",
-      "published_at": "2026-07-14T12:00:00-04:00",
-      "raw_content": "Google is announcing a big change to the Google Images homepage in honor of the platform's 25th anniversary this week. Instead of a mostly blank page with a search bar, the homepage will soon show you a bunch of images that it thinks you might like before you even start searching. The company says the [&#8230;]",
-      "summary": "Google is announcing a big change to the Google Images homepage in honor of the platform's 25th anniversary this week. Instead of a mostly blank page with a search bar, the homepage will soon show you",
-      "importance": 1.2
     }
   ]
 }
