@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T02:28:49.864896+00:00",
+  "generated_at": "2026-07-17T08:06:44.680957+00:00",
   "items": [
     {
       "title": "How a former DeepMind researcher raised at a $300M pre-seed valuation before launching a product",
@@ -53,15 +53,6 @@
       "published_at": "Thu, 16 Jul 2026 13:17:59 +0000",
       "raw_content": "The deal, which was rumored to be in the works last year, marks an important step for Apple's AI ambitions in a key market.",
       "summary": "The deal, which was rumored to be in the works last year, marks an important step for Apple's AI ambitions in a key market.",
-      "importance": 1.7
-    },
-    {
-      "title": "Applied Computing wants to give oil and gas operators an AI model for the entire plant",
-      "url": "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/",
-      "source": "TechCrunch",
-      "published_at": "Thu, 16 Jul 2026 04:00:00 +0000",
-      "raw_content": "Applied Computing has raised a $20M Series A to build a foundation AI model for the oil, gas and petrochemical industry.",
-      "summary": "Applied Computing has raised a $20M Series A to build a foundation AI model for the oil, gas and petrochemical industry.",
       "importance": 1.7
     },
     {
@@ -153,6 +144,15 @@
       "raw_content": "OpenAI is finally releasing some hardware. No, it isn't the mysterious AI-powered device the company is developing with former Apple designer Jony Ive, a project already tangled up in a messy lawsuit. Instead, it's a product designed to be used with its coding platform, Codex. The device, a square-shaped block of buttons called Codex Micro, [&#8230;]",
       "summary": "OpenAI is finally releasing some hardware. No, it isn't the mysterious AI-powered device the company is developing with former Apple designer Jony Ive, a project already tangled up in a messy lawsuit.",
       "importance": 1.45
+    },
+    {
+      "title": "Applied Computing wants to give oil and gas operators an AI model for the entire plant",
+      "url": "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/",
+      "source": "TechCrunch",
+      "published_at": "Thu, 16 Jul 2026 04:00:00 +0000",
+      "raw_content": "Applied Computing has raised a $20M Series A to build a foundation AI model for the oil, gas and petrochemical industry.",
+      "summary": "Applied Computing has raised a $20M Series A to build a foundation AI model for the oil, gas and petrochemical industry.",
+      "importance": 1.4
     },
     {
       "title": "xAI sues a man for using Grok to generate CSAM &#8216;deepfakes&#8217;",
