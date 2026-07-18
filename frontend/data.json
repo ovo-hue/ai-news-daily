@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T07:45:53.070523+00:00",
+  "generated_at": "2026-07-18T13:09:49.712788+00:00",
   "items": [
     {
       "title": "Claude can now use your 1Password credentials for you",
@@ -92,15 +92,6 @@
       "importance": 1.55
     },
     {
-      "title": "Why the first GPU financiers are turning to inference chips in a $400 million deal",
-      "url": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/",
-      "source": "TechCrunch",
-      "published_at": "Fri, 17 Jul 2026 12:00:00 +0000",
-      "raw_content": "A $400 million chip-backed loan points to the next wave of AI infrastructure deals.",
-      "summary": "A $400 million chip-backed loan points to the next wave of AI infrastructure deals.",
-      "importance": 1.55
-    },
-    {
       "title": "TikTok is testing an AI likeness detection tool",
       "url": "https://www.theverge.com/tech/967486/tiktok-ai-likeness-detection-tool",
       "source": "The Verge",
@@ -119,6 +110,15 @@
       "importance": 1.5
     },
     {
+      "title": "The apps, gadgets, and tools every reader needs",
+      "url": "https://www.theverge.com/tech/967544/best-apps-gadgets-reading-installer",
+      "source": "The Verge",
+      "published_at": "2026-07-18T08:00:00-04:00",
+      "raw_content": "Hi, friends! Welcome to Installer No. 136, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, hope your neighborhood isn't as smoky as mine, and also you can read all the old editions at the Installer homepage.) This week, I've been recording the next season of Version History [&#8230;]",
+      "summary": "Hi, friends! Welcome to Installer No. 136, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, hope your neighborhood isn't as smoky as mine, and also you can read ",
+      "importance": 1.5
+    },
+    {
       "title": "Google is renaming NotebookLM to Gemini Notebook",
       "url": "https://www.theverge.com/tech/966112/google-gemini-notebook-notebooklm",
       "source": "The Verge",
@@ -126,6 +126,15 @@
       "raw_content": "Google is giving its AI note-taking app a new name. The company announced on Thursday that NotebookLM is becoming Gemini Notebook, but will remain a standalone app even as it integrates more deeply across Gemini and Google Search. Google first revealed Gemini Notebook - then called Project Tailwind - in May 2023 before widely releasing [&#8230;]",
       "summary": "Google is giving its AI note-taking app a new name. The company announced on Thursday that NotebookLM is becoming Gemini Notebook, but will remain a standalone app even as it integrates more deeply ac",
       "importance": 1.45
+    },
+    {
+      "title": "Why the first GPU financiers are turning to inference chips in a $400 million deal",
+      "url": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/",
+      "source": "TechCrunch",
+      "published_at": "Fri, 17 Jul 2026 12:00:00 +0000",
+      "raw_content": "A $400 million chip-backed loan points to the next wave of AI infrastructure deals.",
+      "summary": "A $400 million chip-backed loan points to the next wave of AI infrastructure deals.",
+      "importance": 1.25
     },
     {
       "title": "New York governor says she&#8217;s using AI to analyze &#8216;every single rule&#8217; in the state",
@@ -161,15 +170,6 @@
       "published_at": "2026-07-15T16:00:00-04:00",
       "raw_content": "This weekend, cinephiles across the world will march to their local theaters to feast their eyes on Christopher Nolan's new adaptation of The Odyssey. It's on track to rake in anywhere between $80-$100 million in just a few days. People are clearly excited to see how Nolan uses cutting-edge filmmaking tech to make the Homeric [&#8230;]",
       "summary": "This weekend, cinephiles across the world will march to their local theaters to feast their eyes on Christopher Nolan's new adaptation of The Odyssey. It's on track to rake in anywhere between $80-$10",
-      "importance": 1.25
-    },
-    {
-      "title": "Suno snatched millions of songs from YouTube, Genius, and Deezer",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/966072/suno-ai-music-training-scraping-youtube-hack",
-      "source": "The Verge",
-      "published_at": "2026-07-15T13:48:01-04:00",
-      "raw_content": "Suno data obtained in a hacking incident has exposed that the AI music generator was trained by scraping millions of songs and lyrics from online audio platforms, including YouTube Music, Deezer, and Genius, 404 Media reports. Given that Suno has avoided revealing what's in its training datasets and how they were acquired, this a rare [&#8230;]",
-      "summary": "Suno data obtained in a hacking incident has exposed that the AI music generator was trained by scraping millions of songs and lyrics from online audio platforms, including YouTube Music, Deezer, and ",
       "importance": 1.25
     },
     {
