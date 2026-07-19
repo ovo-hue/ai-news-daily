@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T08:13:10.238886+00:00",
+  "generated_at": "2026-07-19T13:13:22.748274+00:00",
   "items": [
     {
       "title": "Kimi: Threat or menace?",
@@ -20,30 +20,21 @@
       "importance": 1.65
     },
     {
-      "title": "Claude can now use your 1Password credentials for you",
-      "url": "https://www.theverge.com/tech/966442/1password-anthropic-claude-browser-integration",
-      "source": "The Verge",
-      "published_at": "2026-07-16T09:00:00-04:00",
-      "raw_content": "1Password has launched a new browser integration for Claude that allows the Anthropic chatbot to access stored security credentials like usernames and passwords. The 1Password for Claude feature means that users can authorize Claude to complete multi-step tasks like booking travel and managing online accounts on their behalf without having to manually input their login [&#8230;]",
-      "summary": "1Password has launched a new browser integration for Claude that allows the Anthropic chatbot to access stored security credentials like usernames and passwords. The 1Password for Claude feature means",
-      "importance": 1.65
-    },
-    {
-      "title": "The apps, gadgets, and tools every reader needs",
-      "url": "https://www.theverge.com/tech/967544/best-apps-gadgets-reading-installer",
-      "source": "The Verge",
-      "published_at": "2026-07-18T08:00:00-04:00",
-      "raw_content": "Hi, friends! Welcome to Installer No. 136, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, hope your neighborhood isn't as smoky as mine, and also you can read all the old editions at the Installer homepage.) This week, I've been recording the next season of Version History [&#8230;]",
-      "summary": "Hi, friends! Welcome to Installer No. 136, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, hope your neighborhood isn't as smoky as mine, and also you can read ",
-      "importance": 1.5
-    },
-    {
       "title": "Google is renaming NotebookLM to Gemini Notebook",
       "url": "https://www.theverge.com/tech/966112/google-gemini-notebook-notebooklm",
       "source": "The Verge",
       "published_at": "2026-07-16T12:00:00-04:00",
       "raw_content": "Google is giving its AI note-taking app a new name. The company announced on Thursday that NotebookLM is becoming Gemini Notebook, but will remain a standalone app even as it integrates more deeply across Gemini and Google Search. Google first revealed Gemini Notebook - then called Project Tailwind - in May 2023 before widely releasing [&#8230;]",
       "summary": "Google is giving its AI note-taking app a new name. The company announced on Thursday that NotebookLM is becoming Gemini Notebook, but will remain a standalone app even as it integrates more deeply ac",
+      "importance": 1.45
+    },
+    {
+      "title": "Claude can now use your 1Password credentials for you",
+      "url": "https://www.theverge.com/tech/966442/1password-anthropic-claude-browser-integration",
+      "source": "The Verge",
+      "published_at": "2026-07-16T09:00:00-04:00",
+      "raw_content": "1Password has launched a new browser integration for Claude that allows the Anthropic chatbot to access stored security credentials like usernames and passwords. The 1Password for Claude feature means that users can authorize Claude to complete multi-step tasks like booking travel and managing online accounts on their behalf without having to manually input their login [&#8230;]",
+      "summary": "1Password has launched a new browser integration for Claude that allows the Anthropic chatbot to access stored security credentials like usernames and passwords. The 1Password for Claude feature means",
       "importance": 1.45
     },
     {
@@ -146,15 +137,6 @@
       "importance": 1.25
     },
     {
-      "title": "Google ordered to open Android and Search to rivals in Europe",
-      "url": "https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma",
-      "source": "The Verge",
-      "published_at": "2026-07-16T08:06:51-04:00",
-      "raw_content": "Google must give rival AI assistants and search engines greater access to key parts of Android and Google Search after the European Union ordered the company to comply with the bloc's digital antitrust rules. The two decisions, handed down Thursday, could weaken Google's control over two of the tech industry's most important platforms and have [&#8230;]",
-      "summary": "Google must give rival AI assistants and search engines greater access to key parts of Android and Google Search after the European Union ordered the company to comply with the bloc's digital antitrus",
-      "importance": 1.25
-    },
-    {
       "title": "The Zoom hack that says, ‘Don’t record me’",
       "url": "https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/",
       "source": "TechCrunch",
@@ -164,13 +146,22 @@
       "importance": 1.2
     },
     {
-      "title": "Computer cops",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/965066/ai-police-cops",
+      "title": "The apps, gadgets, and tools every reader needs",
+      "url": "https://www.theverge.com/tech/967544/best-apps-gadgets-reading-installer",
       "source": "The Verge",
-      "published_at": "2026-07-16T07:00:00-04:00",
-      "raw_content": "I stood before a hulking glass and brick structure in the heart of Fort Worth, Texas. Thousands gathered inside to see what had been billed as \"the future of policing in the digital age.\" As press, I was prohibited from entering, but from a number of nearby locations, I met with attendees who told me [&#8230;]",
-      "summary": "I stood before a hulking glass and brick structure in the heart of Fort Worth, Texas. Thousands gathered inside to see what had been billed as \"the future of policing in the digital age.\" As press, I ",
+      "published_at": "2026-07-18T08:00:00-04:00",
+      "raw_content": "Hi, friends! Welcome to Installer No. 136, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, hope your neighborhood isn't as smoky as mine, and also you can read all the old editions at the Installer homepage.) This week, I've been recording the next season of Version History [&#8230;]",
+      "summary": "Hi, friends! Welcome to Installer No. 136, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, hope your neighborhood isn't as smoky as mine, and also you can read ",
       "importance": 1.2
+    },
+    {
+      "title": "Google ordered to open Android and Search to rivals in Europe",
+      "url": "https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma",
+      "source": "The Verge",
+      "published_at": "2026-07-16T08:06:51-04:00",
+      "raw_content": "Google must give rival AI assistants and search engines greater access to key parts of Android and Google Search after the European Union ordered the company to comply with the bloc's digital antitrust rules. The two decisions, handed down Thursday, could weaken Google's control over two of the tech industry's most important platforms and have [&#8230;]",
+      "summary": "Google must give rival AI assistants and search engines greater access to key parts of Android and Google Search after the European Union ordered the company to comply with the bloc's digital antitrus",
+      "importance": 1.05
     },
     {
       "title": "xAI sues a man for using Grok to generate CSAM &#8216;deepfakes&#8217;",
@@ -180,6 +171,15 @@
       "raw_content": "The Elon Musk-owned xAI is suing a South Carolina man who allegedly used the company's Grok AI chatbot to generate child sexual abuse material (CSAM). In a lawsuit reported earlier by Reuters, xAI claims Terry Wayne Harwood \"knowingly and intentionally used Grok to circumvent safeguards, alter nonconsensual images, and generate and distribute CSAM,\" breaching the [&#8230;]",
       "summary": "The Elon Musk-owned xAI is suing a South Carolina man who allegedly used the company's Grok AI chatbot to generate child sexual abuse material (CSAM). In a lawsuit reported earlier by Reuters, xAI cla",
       "importance": 1.05
+    },
+    {
+      "title": "Computer cops",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/965066/ai-police-cops",
+      "source": "The Verge",
+      "published_at": "2026-07-16T07:00:00-04:00",
+      "raw_content": "I stood before a hulking glass and brick structure in the heart of Fort Worth, Texas. Thousands gathered inside to see what had been billed as \"the future of policing in the digital age.\" As press, I was prohibited from entering, but from a number of nearby locations, I met with attendees who told me [&#8230;]",
+      "summary": "I stood before a hulking glass and brick structure in the heart of Fort Worth, Texas. Thousands gathered inside to see what had been billed as \"the future of policing in the digital age.\" As press, I ",
+      "importance": 1.0
     }
   ]
 }
