@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T14:01:15.863828+00:00",
+  "generated_at": "2026-07-20T19:41:16.450256+00:00",
   "items": [
     {
       "title": "China delivers a one-two punch to America’s AI dominance",
@@ -11,30 +11,48 @@
       "importance": 1.8
     },
     {
-      "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
-      "url": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
+      "title": "X relaunches a rebuilt Android app after year-long effort",
+      "url": "https://techcrunch.com/2026/07/20/x-relaunches-a-rebuilt-android-app-after-year-long-effort/",
       "source": "TechCrunch",
-      "published_at": "Sun, 19 Jul 2026 19:24:45 +0000",
-      "raw_content": "On the latest episode of Equity, we debate whether Apple's lawsuit will cast a shadow over OpenAi's much-discussed plans to get into hardware and go public.",
-      "summary": "On the latest episode of Equity, we debate whether Apple's lawsuit will cast a shadow over OpenAi's much-discussed plans to get into hardware and go public.",
-      "importance": 1.6
+      "published_at": "Mon, 20 Jul 2026 19:37:39 +0000",
+      "raw_content": "X says the rebuilt version of its Android app is now available globally.",
+      "summary": "X says the rebuilt version of its Android app is now available globally.",
+      "importance": 1.7
     },
     {
-      "title": "‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’",
-      "url": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/",
+      "title": "Adobe’s ‘natural look’ camera app embraces generative AI",
+      "url": "https://www.theverge.com/tech/967791/adobe-indigo-camera-app-ai-playground-update",
+      "source": "The Verge",
+      "published_at": "2026-07-20T12:00:00-04:00",
+      "raw_content": "Adobe's experimental camera app has taken an unexpected turn. After Project Indigo was launched last year to provide a \"more natural (SLR-like) look\" for iPhone photography, the Indigo camera app is now being updated with a suite of generative AI tools. And the change doesn't rely upon Adobe's own Firefly AI models. Adobe describes the [&#8230;]",
+      "summary": "Adobe's experimental camera app has taken an unexpected turn. After Project Indigo was launched last year to provide a \"more natural (SLR-like) look\" for iPhone photography, the Indigo camera app is n",
+      "importance": 1.7
+    },
+    {
+      "title": "OpenAI is scared of open-weight models. Should the US be?",
+      "url": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/",
       "source": "TechCrunch",
-      "published_at": "Sun, 19 Jul 2026 14:52:08 +0000",
-      "raw_content": "\"Everybody knows the Greeks are inside.\"",
-      "summary": "\"Everybody knows the Greeks are inside.\"",
+      "published_at": "Mon, 20 Jul 2026 19:33:25 +0000",
+      "raw_content": "Talk of banning Chinese-made open-weight LLMs reveals the challenge of  turning AI into a business.",
+      "summary": "Talk of banning Chinese-made open-weight LLMs reveals the challenge of  turning AI into a business.",
+      "importance": 1.65
+    },
+    {
+      "title": "Adobe camera app’s new feature will critique your photos using AI",
+      "url": "https://techcrunch.com/2026/07/20/adobe-camera-apps-new-feature-will-critique-your-photos-using-ai/",
+      "source": "TechCrunch",
+      "published_at": "Mon, 20 Jul 2026 15:45:00 +0000",
+      "raw_content": "Adobe's Project Indigo can now remove all kinds of backgrounds from photos you snap using the app.",
+      "summary": "Adobe's Project Indigo can now remove all kinds of backgrounds from photos you snap using the app.",
       "importance": 1.55
     },
     {
-      "title": "I hate that I don’t hate this song made with Suno",
-      "url": "https://www.theverge.com/entertainment/967678/1010benja-semiramis-dream-suno-ai-music",
-      "source": "The Verge",
-      "published_at": "2026-07-19T13:35:54-04:00",
-      "raw_content": "I would never go so far as to say there's no place for AI in music (I'm a fan of Holly Herndon, after all). But I generally find music made with generative AI to be offensively boring, especially the outputs of Suno. So I'm having a bit of a tough time processing the fact that [&#8230;]",
-      "summary": "I would never go so far as to say there's no place for AI in music (I'm a fan of Holly Herndon, after all). But I generally find music made with generative AI to be offensively boring, especially the ",
+      "title": "YouTube clarifies policies around AI slop and upsetting videos",
+      "url": "https://techcrunch.com/2026/07/20/youtube-clarifies-policies-around-ai-slop-and-upsetting-videos/",
+      "source": "TechCrunch",
+      "published_at": "Mon, 20 Jul 2026 15:23:06 +0000",
+      "raw_content": "YouTube has updated its monetization policies to more clearly define the kinds of AI-generated and low-quality videos that can’t earn ad revenue.",
+      "summary": "YouTube has updated its monetization policies to more clearly define the kinds of AI-generated and low-quality videos that can’t earn ad revenue.",
       "importance": 1.55
     },
     {
@@ -74,31 +92,22 @@
       "importance": 1.35
     },
     {
-      "title": "Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs",
-      "url": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
+      "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
+      "url": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
       "source": "TechCrunch",
-      "published_at": "Fri, 17 Jul 2026 22:55:09 +0000",
-      "raw_content": "From AI workflows to battery life and security, here's what it's really like to live with Vertu's luxury foldable every day.",
-      "summary": "From AI workflows to battery life and security, here's what it's really like to live with Vertu's luxury foldable every day.",
+      "published_at": "Sun, 19 Jul 2026 19:24:45 +0000",
+      "raw_content": "On the latest episode of Equity, we debate whether Apple's lawsuit will cast a shadow over OpenAi's much-discussed plans to get into hardware and go public.",
+      "summary": "On the latest episode of Equity, we debate whether Apple's lawsuit will cast a shadow over OpenAi's much-discussed plans to get into hardware and go public.",
       "importance": 1.3
     },
     {
-      "title": "Agility Robotics plants its flag in Tesla’s backyard",
-      "url": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/",
+      "title": "‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’",
+      "url": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/",
       "source": "TechCrunch",
-      "published_at": "Fri, 17 Jul 2026 20:19:49 +0000",
-      "raw_content": "Agility is opening a new training center for its Digit robots in Fremont, California.",
-      "summary": "Agility is opening a new training center for its Digit robots in Fremont, California.",
-      "importance": 1.3
-    },
-    {
-      "title": "Apple’s plot to crush OpenAI",
-      "url": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
-      "source": "The Verge",
-      "published_at": "2026-07-17T13:41:32-04:00",
-      "raw_content": "Apple is suing OpenAI. The complaint is readable and intense, as these things often are, though many experts seem to think many of the allegations are just the ways things are done. So what does Apple really want here, and why is it picking such a public fight with OpenAI? On this episode of The [&#8230;]",
-      "summary": "Apple is suing OpenAI. The complaint is readable and intense, as these things often are, though many experts seem to think many of the allegations are just the ways things are done. So what does Apple",
-      "importance": 1.3
+      "published_at": "Sun, 19 Jul 2026 14:52:08 +0000",
+      "raw_content": "\"Everybody knows the Greeks are inside.\"",
+      "summary": "\"Everybody knows the Greeks are inside.\"",
+      "importance": 1.25
     },
     {
       "title": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all",
@@ -119,21 +128,12 @@
       "importance": 1.25
     },
     {
-      "title": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
-      "url": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
-      "source": "TechCrunch",
-      "published_at": "Fri, 17 Jul 2026 22:12:56 +0000",
-      "raw_content": "Databricks has remade its image into an AI company and has published research on the cost savings of open weight AI models for coding.",
-      "summary": "Databricks has remade its image into an AI company and has published research on the cost savings of open weight AI models for coding.",
-      "importance": 1.25
-    },
-    {
-      "title": "TikTok is testing an AI likeness detection tool",
-      "url": "https://www.theverge.com/tech/967486/tiktok-ai-likeness-detection-tool",
+      "title": "I hate that I don’t hate this song made with Suno",
+      "url": "https://www.theverge.com/entertainment/967678/1010benja-semiramis-dream-suno-ai-music",
       "source": "The Verge",
-      "published_at": "2026-07-17T15:34:30-04:00",
-      "raw_content": "TikTok is starting to test an opt-in tool that scans for AI likenesses and lets creators report them to the company, as spotted by social media consultant Matt Navarra. The tool is initially being tested with \"some\" US creators, TikTok US spokesperson Zachary Kizer tells The Verge. YouTube has been working on a similar tool [&#8230;]",
-      "summary": "TikTok is starting to test an opt-in tool that scans for AI likenesses and lets creators report them to the company, as spotted by social media consultant Matt Navarra. The tool is initially being tes",
+      "published_at": "2026-07-19T13:35:54-04:00",
+      "raw_content": "I would never go so far as to say there's no place for AI in music (I'm a fan of Holly Herndon, after all). But I generally find music made with generative AI to be offensively boring, especially the outputs of Suno. So I'm having a bit of a tough time processing the fact that [&#8230;]",
+      "summary": "I would never go so far as to say there's no place for AI in music (I'm a fan of Holly Herndon, after all). But I generally find music made with generative AI to be offensively boring, especially the ",
       "importance": 1.25
     },
     {
@@ -146,15 +146,6 @@
       "importance": 1.25
     },
     {
-      "title": "The Zoom hack that says, ‘Don’t record me’",
-      "url": "https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/",
-      "source": "TechCrunch",
-      "published_at": "Fri, 17 Jul 2026 21:20:47 +0000",
-      "raw_content": "If every meeting, watercooler conversation, and date gets transcribed and summarized, who's actually reading any of it?",
-      "summary": "If every meeting, watercooler conversation, and date gets transcribed and summarized, who's actually reading any of it?",
-      "importance": 1.2
-    },
-    {
       "title": "The apps, gadgets, and tools every reader needs",
       "url": "https://www.theverge.com/tech/967544/best-apps-gadgets-reading-installer",
       "source": "The Verge",
@@ -164,21 +155,30 @@
       "importance": 1.2
     },
     {
+      "title": "Apple’s plot to crush OpenAI",
+      "url": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
+      "source": "The Verge",
+      "published_at": "2026-07-17T13:41:32-04:00",
+      "raw_content": "Apple is suing OpenAI. The complaint is readable and intense, as these things often are, though many experts seem to think many of the allegations are just the ways things are done. So what does Apple really want here, and why is it picking such a public fight with OpenAI? On this episode of The [&#8230;]",
+      "summary": "Apple is suing OpenAI. The complaint is readable and intense, as these things often are, though many experts seem to think many of the allegations are just the ways things are done. So what does Apple",
+      "importance": 1.1
+    },
+    {
+      "title": "TikTok is testing an AI likeness detection tool",
+      "url": "https://www.theverge.com/tech/967486/tiktok-ai-likeness-detection-tool",
+      "source": "The Verge",
+      "published_at": "2026-07-17T15:34:30-04:00",
+      "raw_content": "TikTok is starting to test an opt-in tool that scans for AI likenesses and lets creators report them to the company, as spotted by social media consultant Matt Navarra. The tool is initially being tested with \"some\" US creators, TikTok US spokesperson Zachary Kizer tells The Verge. YouTube has been working on a similar tool [&#8230;]",
+      "summary": "TikTok is starting to test an opt-in tool that scans for AI likenesses and lets creators report them to the company, as spotted by social media consultant Matt Navarra. The tool is initially being tes",
+      "importance": 1.05
+    },
+    {
       "title": "New York governor says she&#8217;s using AI to analyze &#8216;every single rule&#8217; in the state",
       "url": "https://www.theverge.com/ai-artificial-intelligence/966647/new-york-governor-kathy-hochul-ai-policies",
       "source": "The Verge",
       "published_at": "2026-07-16T13:58:37-04:00",
       "raw_content": "New York Governor Kathy Hochul might have just signed a moratorium on new AI data centers in the state, but she's not against using the technology herself. During an interview with Bloomberg's Odd Lots podcast, Hochul said that her team is using \"AI to analyze every single rule, regulation, [and] policy\" to check for outdated [&#8230;]",
       "summary": "New York Governor Kathy Hochul might have just signed a moratorium on new AI data centers in the state, but she's not against using the technology herself. During an interview with Bloomberg's Odd Lot",
-      "importance": 1.05
-    },
-    {
-      "title": "Google ordered to open Android and Search to rivals in Europe",
-      "url": "https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma",
-      "source": "The Verge",
-      "published_at": "2026-07-16T08:06:51-04:00",
-      "raw_content": "Google must give rival AI assistants and search engines greater access to key parts of Android and Google Search after the European Union ordered the company to comply with the bloc's digital antitrust rules. The two decisions, handed down Thursday, could weaken Google's control over two of the tech industry's most important platforms and have [&#8230;]",
-      "summary": "Google must give rival AI assistants and search engines greater access to key parts of Android and Google Search after the European Union ordered the company to comply with the bloc's digital antitrus",
       "importance": 1.05
     }
   ]
