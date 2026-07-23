@@ -1,15 +1,6 @@
 {
-  "generated_at": "2026-07-22T19:14:11.293445+00:00",
+  "generated_at": "2026-07-23T02:33:12.370926+00:00",
   "items": [
-    {
-      "title": "OpenAI says it accidentally hacked Hugging Face with a new AI system",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai",
-      "source": "The Verge",
-      "published_at": "2026-07-21T17:48:54-04:00",
-      "raw_content": "OpenAI says its AI models mistakenly breached open-source AI platform Hugging Face during internal testing. In a blog post on Tuesday, OpenAI writes that GPT-5.6 Sol and \"an even more capable pre-release model\" discovered vulnerabilities within their sandboxed testing environment, allowing them to gain access to the internet and target Hugging Face. On July 16th, [&#8230;]",
-      "summary": "OpenAI says its AI models mistakenly breached open-source AI platform Hugging Face during internal testing. In a blog post on Tuesday, OpenAI writes that GPT-5.6 Sol and \"an even more capable pre-rele",
-      "importance": 1.95
-    },
     {
       "title": "AMD commits up to $5 billion to  Anthropic",
       "url": "https://www.theverge.com/ai-artificial-intelligence/969285/amd-anthropic-ai-infrastructure-deal",
@@ -26,15 +17,6 @@
       "published_at": "Wed, 22 Jul 2026 18:13:58 +0000",
       "raw_content": "Yope, a fast-growing social app focused on private groups of friends and family, has raised $12.3 million in seed funding. Instead of chasing creators and algorithmic feeds, the startup is betting that the future of social networking lies in small, private communities powered by messaging, photo sharing, and AI features designed to strengthen real-world relationships.",
       "summary": "Yope, a fast-growing social app focused on private groups of friends and family, has raised $12.3 million in seed funding. Instead of chasing creators and algorithmic feeds, the startup is betting tha",
-      "importance": 1.75
-    },
-    {
-      "title": "Menlo Ventures’ Matt Murphy explains what AI startups founders must do differently",
-      "url": "https://techcrunch.com/podcast/menlo-ventures-matt-murphy-explains-what-ai-startups-founders-must-do-differently/",
-      "source": "TechCrunch",
-      "published_at": "Wed, 22 Jul 2026 14:00:00 +0000",
-      "raw_content": "Anthropic&#160;leaped to&#160;a&#160;$47 billion&#160;revenue run rate&#160;by May,&#160;compared to&#160;$9 billion&#160;in 2025.&#160;It’s&#160;the kind of growth that&#160;Menlo Ventures&#8217;&#160;Matt Murphy&#160;says&#160;he&#8217;s&#160;never seen in 25 years of investing, not in the internet wave, not in mobile, not in the first cloud boom. Menlo led Anthropic&#8217;s $500M Series D, and Murphy has had a front-row seat as the company went from a pre-revenue, [&#8230;]",
-      "summary": "Anthropic&#160;leaped to&#160;a&#160;$47 billion&#160;revenue run rate&#160;by May,&#160;compared to&#160;$9 billion&#160;in 2025.&#160;It’s&#160;the kind of growth that&#160;Menlo Ventures&#8217;&#16",
       "importance": 1.75
     },
     {
@@ -56,15 +38,6 @@
       "importance": 1.7
     },
     {
-      "title": "Passionfroot raises $15M to expand its B2B creator marketplace to the US",
-      "url": "https://techcrunch.com/2026/07/22/passionfroot-raises-15m-to-expand-its-b2b-creator-marketplace-to-the-us/",
-      "source": "TechCrunch",
-      "published_at": "Wed, 22 Jul 2026 13:00:00 +0000",
-      "raw_content": "Passionfroot, a German startup building a marketplace connecting B2B creators with brands, has raised $15M in a Series A round led by Insight Partners.",
-      "summary": "Passionfroot, a German startup building a marketplace connecting B2B creators with brands, has raised $15M in a Series A round led by Insight Partners.",
-      "importance": 1.7
-    },
-    {
       "title": "Here&#8217;s what Samsung&#8217;s smart glasses actually look like",
       "url": "https://www.theverge.com/tech/969382/samsung-google-smart-glasses-gentle-monster-warby-parker",
       "source": "The Verge",
@@ -74,7 +47,25 @@
       "importance": 1.65
     },
     {
-      "title": "How an OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
+      "title": "OpenAI says it accidentally hacked Hugging Face with a new AI system",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai",
+      "source": "The Verge",
+      "published_at": "2026-07-21T17:48:54-04:00",
+      "raw_content": "OpenAI says its AI models mistakenly breached open-source AI platform Hugging Face during internal testing. In a blog post on Tuesday, OpenAI writes that GPT-5.6 Sol and \"an even more capable pre-release model\" discovered vulnerabilities within their sandboxed testing environment, allowing them to gain access to the internet and target Hugging Face. On July 16th, [&#8230;]",
+      "summary": "OpenAI says its AI models mistakenly breached open-source AI platform Hugging Face during internal testing. In a blog post on Tuesday, OpenAI writes that GPT-5.6 Sol and \"an even more capable pre-rele",
+      "importance": 1.65
+    },
+    {
+      "title": "Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable",
+      "url": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/",
+      "source": "TechCrunch",
+      "published_at": "Wed, 22 Jul 2026 20:49:03 +0000",
+      "raw_content": "The episode has also intensified a broader debate in Washington over the influx of Chinese open models.",
+      "summary": "The episode has also intensified a broader debate in Washington over the influx of Chinese open models.",
+      "importance": 1.6
+    },
+    {
+      "title": "How OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
       "url": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/",
       "source": "TechCrunch",
       "published_at": "Wed, 22 Jul 2026 19:11:46 +0000",
@@ -92,6 +83,24 @@
       "importance": 1.6
     },
     {
+      "title": "After shocking quarter, IBM insists that AI isn’t killing the mainframe",
+      "url": "https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/",
+      "source": "TechCrunch",
+      "published_at": "Wed, 22 Jul 2026 23:47:54 +0000",
+      "raw_content": "After IBM's stock crashed last week on warnings of poor mainframe sales, the CEO explained that AI wrecked corporate hardware budget, temporarily.",
+      "summary": "After IBM's stock crashed last week on warnings of poor mainframe sales, the CEO explained that AI wrecked corporate hardware budget, temporarily.",
+      "importance": 1.55
+    },
+    {
+      "title": "Google justifies its massive AI spending with a booming cloud business",
+      "url": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/",
+      "source": "TechCrunch",
+      "published_at": "Wed, 22 Jul 2026 22:01:52 +0000",
+      "raw_content": "Google's cloud business is thriving, as companies adopting its AI and AI infrastructure services help the tech giant to report record profits.",
+      "summary": "Google's cloud business is thriving, as companies adopting its AI and AI infrastructure services help the tech giant to report record profits.",
+      "importance": 1.55
+    },
+    {
       "title": "Monday.com lays off hundreds to focus on AI",
       "url": "https://techcrunch.com/2026/07/22/monday-com-lays-off-hundreds-to-focuses-on-ai/",
       "source": "TechCrunch",
@@ -107,15 +116,6 @@
       "published_at": "Wed, 22 Jul 2026 16:23:09 +0000",
       "raw_content": "Substack is giving readers a way to estimate how much of a newsletter was written by AI, signaling a broader shift toward transparency around AI-assisted content.",
       "summary": "Substack is giving readers a way to estimate how much of a newsletter was written by AI, signaling a broader shift toward transparency around AI-assisted content.",
-      "importance": 1.55
-    },
-    {
-      "title": "The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari",
-      "url": "https://techcrunch.com/2026/07/22/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
-      "source": "TechCrunch",
-      "published_at": "Wed, 22 Jul 2026 13:20:35 +0000",
-      "raw_content": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.",
-      "summary": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.",
       "importance": 1.55
     },
     {
@@ -137,24 +137,6 @@
       "importance": 1.55
     },
     {
-      "title": "Neill Blomkamp’s new zombie AI ‘film’ is just slop warmed over",
-      "url": "https://www.theverge.com/entertainment/968703/neill-blomkamps-nightborne-barley-studios-seedance",
-      "source": "The Verge",
-      "published_at": "2026-07-21T18:06:43-04:00",
-      "raw_content": "On Monday, District 9 and Gran Turismo director Neill Blomkamp unveiled his latest project: a 13-minute sci-fi short titled Nightborne that's loosely based on Peter Watts' 2014 novel Echopraxia. The short comes from Blomkamp's new AI startup / production company, Barley Studios, and features characters whose voices and faces are modeled after human actors. But [&#8230;]",
-      "summary": "On Monday, District 9 and Gran Turismo director Neill Blomkamp unveiled his latest project: a 13-minute sci-fi short titled Nightborne that's loosely based on Peter Watts' 2014 novel Echopraxia. The s",
-      "importance": 1.55
-    },
-    {
-      "title": "Substack adds an AI detector to help spot blogs written by no one",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/968855/substack-pangram-ai-detecting-tool",
-      "source": "The Verge",
-      "published_at": "2026-07-21T15:22:28-04:00",
-      "raw_content": "Substack will now help users determine whether what they're reading may have been written by AI. A new tool coming to the platform can scan posts, notes, replies, and comments to provide an estimate of how much text could be AI-generated or written with AI assistance, according to a blog post published on Tuesday. The [&#8230;]",
-      "summary": "Substack will now help users determine whether what they're reading may have been written by AI. A new tool coming to the platform can scan posts, notes, replies, and comments to provide an estimate o",
-      "importance": 1.55
-    },
-    {
       "title": "Google launches a cheaper alternative to large AI security models like Mythos",
       "url": "https://www.theverge.com/tech/968572/google-gemini-flash-cyber-ai-security-model",
       "source": "The Verge",
@@ -171,6 +153,24 @@
       "raw_content": "A federal judge has signed off on Anthropic's $1.5 billion class action settlement with authors who accused the company of training its AI models on copyrighted books, as reported earlier by Reuters. In an order on Monday, Judge Araceli Mart&#237;nez-Olgu&#237;n writes that the settlement will provide \"meaningful relief,\" offering authors around $3,000 for each book [&#8230;]",
       "summary": "A federal judge has signed off on Anthropic's $1.5 billion class action settlement with authors who accused the company of training its AI models on copyrighted books, as reported earlier by Reuters. ",
       "importance": 1.45
+    },
+    {
+      "title": "Neill Blomkamp’s new zombie AI ‘film’ is just slop warmed over",
+      "url": "https://www.theverge.com/entertainment/968703/neill-blomkamps-nightborne-barley-studios-seedance",
+      "source": "The Verge",
+      "published_at": "2026-07-21T18:06:43-04:00",
+      "raw_content": "On Monday, District 9 and Gran Turismo director Neill Blomkamp unveiled his latest project: a 13-minute sci-fi short titled Nightborne that's loosely based on Peter Watts' 2014 novel Echopraxia. The short comes from Blomkamp's new AI startup / production company, Barley Studios, and features characters whose voices and faces are modeled after human actors. But [&#8230;]",
+      "summary": "On Monday, District 9 and Gran Turismo director Neill Blomkamp unveiled his latest project: a 13-minute sci-fi short titled Nightborne that's loosely based on Peter Watts' 2014 novel Echopraxia. The s",
+      "importance": 1.25
+    },
+    {
+      "title": "Substack adds an AI detector to help spot blogs written by no one",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/968855/substack-pangram-ai-detecting-tool",
+      "source": "The Verge",
+      "published_at": "2026-07-21T15:22:28-04:00",
+      "raw_content": "Substack will now help users determine whether what they're reading may have been written by AI. A new tool coming to the platform can scan posts, notes, replies, and comments to provide an estimate of how much text could be AI-generated or written with AI assistance, according to a blog post published on Tuesday. The [&#8230;]",
+      "summary": "Substack will now help users determine whether what they're reading may have been written by AI. A new tool coming to the platform can scan posts, notes, replies, and comments to provide an estimate o",
+      "importance": 1.25
     },
     {
       "title": "Halliday’s latest smart glasses feature a much-improved display",
