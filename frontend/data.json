@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T19:24:13.483149+00:00",
+  "generated_at": "2026-07-28T02:23:07.953489+00:00",
   "items": [
     {
       "title": "Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic",
@@ -20,6 +20,15 @@
       "importance": 1.75
     },
     {
+      "title": "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
+      "url": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
+      "source": "TechCrunch",
+      "published_at": "Mon, 27 Jul 2026 20:19:42 +0000",
+      "raw_content": "The issue appears to have originated from Claude’s “share chat” feature, which allows users to create links that enable anyone with the assigned URL view a conversation or project.",
+      "summary": "The issue appears to have originated from Claude’s “share chat” feature, which allows users to create links that enable anyone with the assigned URL view a conversation or project.",
+      "importance": 1.7
+    },
+    {
       "title": "Power up your AI infrastructure! A first look at the Smart Systems Stage agenda at TechCrunch Disrupt 2026",
       "url": "https://techcrunch.com/2026/07/27/power-up-your-ai-infrastructure-a-first-look-at-the-smart-systems-stage-agenda-at-techcrunch-disrupt-2026/",
       "source": "TechCrunch",
@@ -38,13 +47,13 @@
       "importance": 1.7
     },
     {
-      "title": "Enigma raises $71M to make controlling a robot as easy as adjusting the volume",
-      "url": "https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/",
+      "title": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
+      "url": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
       "source": "TechCrunch",
-      "published_at": "Mon, 27 Jul 2026 13:00:00 +0000",
-      "raw_content": "The massive seed round was led by  Index Ventures and Ribbit Capital, with participation from Sarah Guo's Conviction Partners.",
-      "summary": "The massive seed round was led by  Index Ventures and Ribbit Capital, with participation from Sarah Guo's Conviction Partners.",
-      "importance": 1.7
+      "published_at": "Tue, 28 Jul 2026 00:13:33 +0000",
+      "raw_content": "Anthropic founder and CEO Dario Amodei made his views clear about open-weight models and China's growing AI capabilities.",
+      "summary": "Anthropic founder and CEO Dario Amodei made his views clear about open-weight models and China's growing AI capabilities.",
+      "importance": 1.6
     },
     {
       "title": "OpenAI’s Hugging Face breach has reignited the debate over alignment and control",
@@ -54,6 +63,15 @@
       "raw_content": "OpenAI's Hugging Face breach has reignited debate over AI alignment and control, exposing competing views on whether increasingly capable AI should be better aligned, better contained, or both.",
       "summary": "OpenAI's Hugging Face breach has reignited debate over AI alignment and control, exposing competing views on whether increasingly capable AI should be better aligned, better contained, or both.",
       "importance": 1.6
+    },
+    {
+      "title": "Satya Nadella says companies that trust one AI for everything may not survive",
+      "url": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
+      "source": "TechCrunch",
+      "published_at": "Mon, 27 Jul 2026 21:17:11 +0000",
+      "raw_content": "Companies without their own models — or without a layer of AI infrastructure known as AI gateways to separate their prompts from the model itself — will be in trouble, Nadella says.",
+      "summary": "Companies without their own models — or without a layer of AI infrastructure known as AI gateways to separate their prompts from the model itself — will be in trouble, Nadella says.",
+      "importance": 1.55
     },
     {
       "title": "Threads users can now chat with Meta AI in their DMs",
@@ -71,24 +89,6 @@
       "published_at": "Mon, 27 Jul 2026 15:57:12 +0000",
       "raw_content": "Google’s AI Overviews now appear in 43% of searches, underscoring how quickly AI-generated answers are becoming the default way people discover information online.",
       "summary": "Google’s AI Overviews now appear in 43% of searches, underscoring how quickly AI-generated answers are becoming the default way people discover information online.",
-      "importance": 1.55
-    },
-    {
-      "title": "Are brain waves the next unlock for physical AI?",
-      "url": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
-      "source": "TechCrunch",
-      "published_at": "Mon, 27 Jul 2026 00:19:14 +0000",
-      "raw_content": "Forget YouTube videos — frontier physical AI models need multiple camera angles, dense annotation, and, soon, brain wave readings.",
-      "summary": "Forget YouTube videos — frontier physical AI models need multiple camera angles, dense annotation, and, soon, brain wave readings.",
-      "importance": 1.55
-    },
-    {
-      "title": "Making sense of the panic over Chinese AI",
-      "url": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
-      "source": "TechCrunch",
-      "published_at": "Sun, 26 Jul 2026 19:40:57 +0000",
-      "raw_content": "On the latest episode of Equity, we discussed why Moonshot AI's Kimi seemed to panic Silicon Valley and Wall Street.",
-      "summary": "On the latest episode of Equity, we discussed why Moonshot AI's Kimi seemed to panic Silicon Valley and Wall Street.",
       "importance": 1.55
     },
     {
