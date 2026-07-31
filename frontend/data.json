@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T19:22:28.631644+00:00",
+  "generated_at": "2026-07-31T02:37:31.495635+00:00",
   "items": [
     {
       "title": "Google DeepMind’s new AI model can control a robot’s entire body",
@@ -11,30 +11,12 @@
       "importance": 1.8
     },
     {
-      "title": "Microsoft confirms Copilot ‘super app’ coming this year",
-      "url": "https://www.theverge.com/tech/972927/microsoft-copilot-super-app-confirmed",
-      "source": "The Verge",
-      "published_at": "2026-07-29T18:17:38-04:00",
-      "raw_content": "Microsoft is working on an AI \"super app\" that combines Copilot's chat, coding, and agentic capabilities. During an earnings call on Wednesday, Microsoft CEO Satya Nadella said the app will span \"both consumer and commercial experiences\" when it launches this year. \"Copilot is evolving rapidly from chat to Cowork to Autopilots,\" Nadella said. \"This quarter, [&#8230;]",
-      "summary": "Microsoft is working on an AI \"super app\" that combines Copilot's chat, coding, and agentic capabilities. During an earnings call on Wednesday, Microsoft CEO Satya Nadella said the app will span \"both",
-      "importance": 1.75
-    },
-    {
       "title": "Meta says AI is making it easier to build new apps — and more are coming",
       "url": "https://techcrunch.com/2026/07/30/meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming/",
       "source": "TechCrunch",
       "published_at": "Thu, 30 Jul 2026 15:41:16 +0000",
       "raw_content": "Meta says AI is making it dramatically easier to build and launch new consumer apps, with CEO Mark Zuckerberg telling investors the company has more new consumer products on the way.",
       "summary": "Meta says AI is making it dramatically easier to build and launch new consumer apps, with CEO Mark Zuckerberg telling investors the company has more new consumer products on the way.",
-      "importance": 1.7
-    },
-    {
-      "title": "Dili raises $21.7M to bring AI compliance to the infrastructure boom",
-      "url": "https://techcrunch.com/2026/07/30/dili-raises-15-million-to-bring-ai-compliance-to-the-infrastructure-boom/",
-      "source": "TechCrunch",
-      "published_at": "Thu, 30 Jul 2026 13:00:00 +0000",
-      "raw_content": "The Series A was led by Khosla Ventures, with participation from Allianz, Rebel Fund, Brick and Mortar Ventures’ Darren Bechtel, and Y Combinator’s Garry Tan.",
-      "summary": "The Series A was led by Khosla Ventures, with participation from Allianz, Rebel Fund, Brick and Mortar Ventures’ Darren Bechtel, and Y Combinator’s Garry Tan.",
       "importance": 1.7
     },
     {
@@ -47,13 +29,31 @@
       "importance": 1.7
     },
     {
-      "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
-      "url": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
+      "title": "Anthropic says its own AI models breached three companies during security tests",
+      "url": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
       "source": "TechCrunch",
-      "published_at": "Thu, 30 Jul 2026 00:21:06 +0000",
-      "raw_content": "Microsoft pitched its own homegrown AI models, harnesses, and even a Mythos competitor on Wednesday, telling Wall Street it plans for continued growth.",
-      "summary": "Microsoft pitched its own homegrown AI models, harnesses, and even a Mythos competitor on Wednesday, telling Wall Street it plans for continued growth.",
+      "published_at": "Fri, 31 Jul 2026 01:06:54 +0000",
+      "raw_content": "After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents",
+      "summary": "After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents",
       "importance": 1.65
+    },
+    {
+      "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
+      "url": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
+      "source": "TechCrunch",
+      "published_at": "Thu, 30 Jul 2026 23:25:58 +0000",
+      "raw_content": "The former OpenAI researcher’s fund was forced to unwind public equities after leveraged public bets plummeted. But he still has cards to play.",
+      "summary": "The former OpenAI researcher’s fund was forced to unwind public equities after leveraged public bets plummeted. But he still has cards to play.",
+      "importance": 1.65
+    },
+    {
+      "title": "Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label",
+      "url": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
+      "source": "TechCrunch",
+      "published_at": "Thu, 30 Jul 2026 20:26:38 +0000",
+      "raw_content": "A federal judge said the Trump administration has not presented enough evidence to justify labeling Anthropic a supply-chain risk, casting doubt on the government's ban on its AI technology.",
+      "summary": "A federal judge said the Trump administration has not presented enough evidence to justify labeling Anthropic a supply-chain risk, casting doubt on the government's ban on its AI technology.",
+      "importance": 1.6
     },
     {
       "title": "Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI",
@@ -65,7 +65,7 @@
       "importance": 1.6
     },
     {
-      "title": "Okta buys AI security startup Permiso; source says for about $200M",
+      "title": "Okta buys AI security startup Permiso — source says for about $200M",
       "url": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/",
       "source": "TechCrunch",
       "published_at": "Thu, 30 Jul 2026 16:09:42 +0000",
@@ -74,31 +74,31 @@
       "importance": 1.6
     },
     {
-      "title": "In the Hugging Face breach, OpenAI’s hacker was noisy and fast — but not unstoppable",
-      "url": "https://techcrunch.com/2026/07/30/in-the-hugging-face-breach-openais-hacker-was-noisy-and-fast-but-not-unstoppable/",
+      "title": "Reddit reports a solid quarter but shows signs of AI’s impact",
+      "url": "https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/",
       "source": "TechCrunch",
-      "published_at": "Thu, 30 Jul 2026 14:48:32 +0000",
-      "raw_content": "Cybersecurity experts told TechCrunch that one of the biggest lessons to be taken from the OpenAI hack against Hugging Face has nothing to do with AI, but traditional cybersecurity defense.",
-      "summary": "Cybersecurity experts told TechCrunch that one of the biggest lessons to be taken from the OpenAI hack against Hugging Face has nothing to do with AI, but traditional cybersecurity defense.",
-      "importance": 1.6
+      "published_at": "Thu, 30 Jul 2026 23:08:58 +0000",
+      "raw_content": "Reddit's financial situation is looking good but uncertainty about its relationship to Google and the new AI-ified web are stirring market concerns.",
+      "summary": "Reddit's financial situation is looking good but uncertainty about its relationship to Google and the new AI-ified web are stirring market concerns.",
+      "importance": 1.55
     },
     {
-      "title": "Mark Zuckerberg is planning a big push into personal AI agents",
-      "url": "https://www.theverge.com/tech/972294/meta-q2-2026-earnings-mark-zuckerberg-personal-ai-agents",
-      "source": "The Verge",
-      "published_at": "2026-07-29T17:48:07-04:00",
-      "raw_content": "Meta is all-in on AI, and sometime soon, the company is going to make a big push into personal AI agents that can do things on your behalf. On Wednesday's Q2 2026 earnings call, CEO Mark Zuckerberg previewed a high-level vision of how the company is thinking about personal agents and what it will do [&#8230;]",
-      "summary": "Meta is all-in on AI, and sometime soon, the company is going to make a big push into personal AI agents that can do things on your behalf. On Wednesday's Q2 2026 earnings call, CEO Mark Zuckerberg pr",
-      "importance": 1.6
+      "title": "Investors love AI, as long as you’re a cloud host",
+      "url": "https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/",
+      "source": "TechCrunch",
+      "published_at": "Thu, 30 Jul 2026 22:41:41 +0000",
+      "raw_content": "Amazon isn't slowing down on data center spending — but investors don't seem to mind.",
+      "summary": "Amazon isn't slowing down on data center spending — but investors don't seem to mind.",
+      "importance": 1.55
     },
     {
-      "title": "xAI’s last-minute scramble to stop Minnesota’s anti-nudification app law",
-      "url": "https://www.theverge.com/policy/972850/xai-grok-minnesota-nudification-lawsuit",
-      "source": "The Verge",
-      "published_at": "2026-07-29T17:06:52-04:00",
-      "raw_content": "xAI is suing Minnesota Attorney General Keith Ellison over a law passed back in May that broadly targets \"nudification\" apps, claiming that the statute's punitive provisions leave the company with \"no practical choice but to restrict Grok Imagine's image-editing features in various ways.\" The law, the company argues, violates the First Amendment. Back in January, [&#8230;]",
-      "summary": "xAI is suing Minnesota Attorney General Keith Ellison over a law passed back in May that broadly targets \"nudification\" apps, claiming that the statute's punitive provisions leave the company with \"no",
-      "importance": 1.6
+      "title": "Friend, the lonely AI wearable, returns with a new voice and a much bigger price tag",
+      "url": "https://techcrunch.com/2026/07/30/friend-the-lonely-ai-wearable-returns-with-a-new-voice-and-a-much-bigger-price-tag/",
+      "source": "TechCrunch",
+      "published_at": "Thu, 30 Jul 2026 19:44:16 +0000",
+      "raw_content": "Friend, the AI wearable, can now talk to its users — for an enhanced price.",
+      "summary": "Friend, the AI wearable, can now talk to its users — for an enhanced price.",
+      "importance": 1.55
     },
     {
       "title": "LinkedIn adds a button to report AI-generated ‘slop’",
@@ -110,21 +110,12 @@
       "importance": 1.55
     },
     {
-      "title": "Nscale buys Anyscale as it seeks to own more of the AI compute stack",
-      "url": "https://techcrunch.com/2026/07/30/nscale-buys-anyscale-as-it-seeks-to-own-more-of-the-ai-compute-stack/",
-      "source": "TechCrunch",
-      "published_at": "Thu, 30 Jul 2026 15:19:15 +0000",
-      "raw_content": "British AI neocloud Nscale is buying software startup Anyscale, which helps companies scale their AI workloads across data centers and servers.",
-      "summary": "British AI neocloud Nscale is buying software startup Anyscale, which helps companies scale their AI workloads across data centers and servers.",
-      "importance": 1.55
-    },
-    {
-      "title": "Forward-deployed engineers are the AI industry’s latest talent obsession",
-      "url": "https://techcrunch.com/2026/07/30/forward-deployed-engineers-are-the-ai-industrys-latest-talent-obsession/",
-      "source": "TechCrunch",
-      "published_at": "Thu, 30 Jul 2026 15:00:00 +0000",
-      "raw_content": "A new study estimates only 2,000 U.S. engineers have the expertise to deliver meaningful AI ROI, as enterprises race to hire forward-deployed engineers to implement AI at scale.",
-      "summary": "A new study estimates only 2,000 U.S. engineers have the expertise to deliver meaningful AI ROI, as enterprises race to hire forward-deployed engineers to implement AI at scale.",
+      "title": "Tim Cook hints at iCloud Plus tier for AI power users",
+      "url": "https://www.theverge.com/tech/973552/apple-ceo-tim-cook-icloud-plus-ai",
+      "source": "The Verge",
+      "published_at": "2026-07-30T18:29:45-04:00",
+      "raw_content": "Apple may allow users to pay to increase their AI usage limits. During an earnings call on Thursday, Apple CEO Tim Cook said that he believes people will want to use Apple Intelligence and the upcoming Siri AI \"a lot,\" adding that \"we will have some kind of upgrade possibilities on iCloud Plus where people [&#8230;]",
+      "summary": "Apple may allow users to pay to increase their AI usage limits. During an earnings call on Thursday, Apple CEO Tim Cook said that he believes people will want to use Apple Intelligence and the upcomin",
       "importance": 1.55
     },
     {
@@ -137,13 +128,22 @@
       "importance": 1.55
     },
     {
-      "title": "TechCrunch Disrupt 2026’s biggest stage features leaders from Amazon, Replit, Tether, with much more to come",
-      "url": "https://techcrunch.com/2026/07/30/techcrunch-disrupt-2026s-biggest-stage-features-leaders-from-amazon-replit-tether-with-much-more-to-come/",
-      "source": "TechCrunch",
-      "published_at": "Thu, 30 Jul 2026 14:00:00 +0000",
-      "raw_content": "The Disrupt Stage is where many of the biggest conversations in technology happen, with a legacy that stretches back for more than a decade.",
-      "summary": "The Disrupt Stage is where many of the biggest conversations in technology happen, with a legacy that stretches back for more than a decade.",
+      "title": "The loss of Situational Awareness",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/973467/ai-bet-situational-awareness-oops-stonks",
+      "source": "The Verge",
+      "published_at": "2026-07-30T16:46:25-04:00",
+      "raw_content": "I am not by any means an expert at finance but I think I do now have some advice for people who are: Do not name your hedge fund anything that will be hilarious if it blows up. Don't use a name like \"Long-Term Capital Management\" or \"Amaranth Advisors\" (named for the floral symbol for [&#8230;]",
+      "summary": "I am not by any means an expert at finance but I think I do now have some advice for people who are: Do not name your hedge fund anything that will be hilarious if it blows up. Don't use a name like \"",
       "importance": 1.5
+    },
+    {
+      "title": "Microsoft confirms Copilot ‘super app’ coming this year",
+      "url": "https://www.theverge.com/tech/972927/microsoft-copilot-super-app-confirmed",
+      "source": "The Verge",
+      "published_at": "2026-07-29T18:17:38-04:00",
+      "raw_content": "Microsoft is working on an AI \"super app\" that combines Copilot's chat, coding, and agentic capabilities. During an earnings call on Wednesday, Microsoft CEO Satya Nadella said the app will span \"both consumer and commercial experiences\" when it launches this year. \"Copilot is evolving rapidly from chat to Cowork to Autopilots,\" Nadella said. \"This quarter, [&#8230;]",
+      "summary": "Microsoft is working on an AI \"super app\" that combines Copilot's chat, coding, and agentic capabilities. During an earnings call on Wednesday, Microsoft CEO Satya Nadella said the app will span \"both",
+      "importance": 1.45
     },
     {
       "title": "OpenAI president says it&#8217;s &#8216;building a family of devices&#8217; for its AI chatbots",
@@ -155,21 +155,21 @@
       "importance": 1.45
     },
     {
-      "title": "OpenAI’s rogue AI agent didn’t stop at hacking Hugging Face",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face",
+      "title": "Mark Zuckerberg is planning a big push into personal AI agents",
+      "url": "https://www.theverge.com/tech/972294/meta-q2-2026-earnings-mark-zuckerberg-personal-ai-agents",
       "source": "The Verge",
-      "published_at": "2026-07-29T07:54:29-04:00",
-      "raw_content": "The AI agent that escaped from OpenAI and hacked developer platform Hugging Face attacked other companies as well, OpenAI revealed on Tuesday. The update substantially widens the scope of an already concerning incident, which has alarmed industry insiders and fueled growing calls for stronger oversight on frontier AI systems. In an update to a blog [&#8230;]",
-      "summary": "The AI agent that escaped from OpenAI and hacked developer platform Hugging Face attacked other companies as well, OpenAI revealed on Tuesday. The update substantially widens the scope of an already c",
-      "importance": 1.35
+      "published_at": "2026-07-29T17:48:07-04:00",
+      "raw_content": "Meta is all-in on AI, and sometime soon, the company is going to make a big push into personal AI agents that can do things on your behalf. On Wednesday's Q2 2026 earnings call, CEO Mark Zuckerberg previewed a high-level vision of how the company is thinking about personal agents and what it will do [&#8230;]",
+      "summary": "Meta is all-in on AI, and sometime soon, the company is going to make a big push into personal AI agents that can do things on your behalf. On Wednesday's Q2 2026 earnings call, CEO Mark Zuckerberg pr",
+      "importance": 1.3
     },
     {
-      "title": "We’re running out of reasons to ignore AI safety",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/972380/open-ai-hugging-face-hack-ai-safety-warning",
+      "title": "xAI’s last-minute scramble to stop Minnesota’s anti-nudification app law",
+      "url": "https://www.theverge.com/policy/972850/xai-grok-minnesota-nudification-lawsuit",
       "source": "The Verge",
-      "published_at": "2026-07-29T07:00:00-04:00",
-      "raw_content": "Earlier this month, OpenAI gave several of its AI models a task: complete a test designed to measure their cybersecurity capabilities. It put the systems in a sandboxed environment without an internet connection and set them off to work. What happened next is almost laughably silly - but also, as Adam Gleave, cofounder and CEO [&#8230;]",
-      "summary": "Earlier this month, OpenAI gave several of its AI models a task: complete a test designed to measure their cybersecurity capabilities. It put the systems in a sandboxed environment without an internet",
+      "published_at": "2026-07-29T17:06:52-04:00",
+      "raw_content": "xAI is suing Minnesota Attorney General Keith Ellison over a law passed back in May that broadly targets \"nudification\" apps, claiming that the statute's punitive provisions leave the company with \"no practical choice but to restrict Grok Imagine's image-editing features in various ways.\" The law, the company argues, violates the First Amendment. Back in January, [&#8230;]",
+      "summary": "xAI is suing Minnesota Attorney General Keith Ellison over a law passed back in May that broadly targets \"nudification\" apps, claiming that the statute's punitive provisions leave the company with \"no",
       "importance": 1.3
     },
     {
