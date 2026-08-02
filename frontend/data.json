@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T08:21:07.839148+00:00",
+  "generated_at": "2026-08-02T13:15:50.772648+00:00",
   "items": [
     {
       "title": "Is this Billboard Hot 100 hit AI slop?",
@@ -38,6 +38,15 @@
       "importance": 1.55
     },
     {
+      "title": "Is paying artists enough to convince them to embrace AI?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties",
+      "source": "The Verge",
+      "published_at": "2026-08-02T09:00:00-04:00",
+      "raw_content": "Illustrators have spent years sounding the alarm about generative artificial intelligence startups training their models on artists' work without permission. They've pointed out how the practice is tantamount to theft, and in response, many gen AI boosters have argued that it's necessary for the technology's evolution. This has led to contentious legal battles, but it's [&#8230;]",
+      "summary": "Illustrators have spent years sounding the alarm about generative artificial intelligence startups training their models on artists' work without permission. They've pointed out how the practice is ta",
+      "importance": 1.55
+    },
+    {
       "title": "Anthropic says Claude accidentally hacked real companies too",
       "url": "https://www.theverge.com/ai-artificial-intelligence/973670/anthropic-claude-hacked-organizations-during-cyber-tests",
       "source": "The Verge",
@@ -53,15 +62,6 @@
       "published_at": "Sat, 01 Aug 2026 15:58:17 +0000",
       "raw_content": "This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone.",
       "summary": "This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone.",
-      "importance": 1.5
-    },
-    {
-      "title": "Google DeepMind’s new AI model can control a robot’s entire body",
-      "url": "https://www.theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body",
-      "source": "The Verge",
-      "published_at": "2026-07-30T13:18:45-04:00",
-      "raw_content": "Google DeepMind says the latest version of its Gemini Robotics AI model can \"control entire humanoid robots.\" While the previous model focused on controlling a humanoid robot's upper body, Gemini Robotics 2 now supports \"whole-body motions\" ranging from its feet to fingertips, according to an announcement on Thursday. The new model will allow humanoid robots [&#8230;]",
-      "summary": "Google DeepMind says the latest version of its Gemini Robotics AI model can \"control entire humanoid robots.\" While the previous model focused on controlling a humanoid robot's upper body, Gemini Robo",
       "importance": 1.5
     },
     {
