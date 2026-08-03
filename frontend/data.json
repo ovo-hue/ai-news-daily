@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-08-02T19:05:51.444353+00:00",
+  "generated_at": "2026-08-03T02:36:39.502861+00:00",
   "items": [
     {
-      "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
-      "url": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
-      "source": "TechCrunch",
-      "published_at": "Sat, 01 Aug 2026 19:45:45 +0000",
-      "raw_content": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world.\"",
-      "summary": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world.\"",
+      "title": "Fender’s CEO seems to think your bandmates are just analog AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music",
+      "source": "The Verge",
+      "published_at": "2026-08-02T15:36:08-04:00",
+      "raw_content": "Fender CEO Edward \"Bud\" Cole gave an interview to T3 in May celebrating the 75th anniversary of the Telecaster with comments on AI and music that initially flew under the radar. But it has started making the rounds recently, pouring more fuel on an already raging fire of bad PR following the company pissing off [&#8230;]",
+      "summary": "Fender CEO Edward \"Bud\" Cole gave an interview to T3 in May celebrating the 75th anniversary of the Telecaster with comments on AI and music that initially flew under the radar. But it has started mak",
       "importance": 1.6
     },
     {
-      "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
-      "url": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
+      "title": "Sam Altman and AI’s decel debate",
+      "url": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
       "source": "TechCrunch",
-      "published_at": "Sat, 01 Aug 2026 20:26:04 +0000",
-      "raw_content": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward.",
-      "summary": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward.",
+      "published_at": "Sun, 02 Aug 2026 20:54:22 +0000",
+      "raw_content": "On the latest episode of Equity, we discuss why Sam Altman has calling on the industry to \"pace the rate of AI development.\"",
+      "summary": "On the latest episode of Equity, we discuss why Sam Altman has calling on the industry to \"pace the rate of AI development.\"",
       "importance": 1.55
     },
     {
@@ -92,6 +92,15 @@
       "importance": 1.35
     },
     {
+      "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
+      "url": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
+      "source": "TechCrunch",
+      "published_at": "Sat, 01 Aug 2026 19:45:45 +0000",
+      "raw_content": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world.\"",
+      "summary": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world.\"",
+      "importance": 1.3
+    },
+    {
       "title": "Sam Altman isn’t the only one who wants to pump the brakes on AI",
       "url": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
       "source": "TechCrunch",
@@ -101,21 +110,21 @@
       "importance": 1.3
     },
     {
+      "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
+      "url": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
+      "source": "TechCrunch",
+      "published_at": "Sat, 01 Aug 2026 20:26:04 +0000",
+      "raw_content": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward.",
+      "summary": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward.",
+      "importance": 1.25
+    },
+    {
       "title": "Snapchat no longer rewards fully AI-generated Spotlight content",
       "url": "https://techcrunch.com/2026/07/31/snapchat-no-longer-rewards-fully-ai-generated-spotlight-content/",
       "source": "TechCrunch",
       "published_at": "Fri, 31 Jul 2026 16:49:08 +0000",
       "raw_content": "Snapchat has adjusted its recommendation systems to ensure that only videos created by real people are eligible for Spotlight recommendations, taking a stance against AI slop.",
       "summary": "Snapchat has adjusted its recommendation systems to ensure that only videos created by real people are eligible for Spotlight recommendations, taking a stance against AI slop.",
-      "importance": 1.25
-    },
-    {
-      "title": "Siri AI could come with a paywall for power users",
-      "url": "https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users/",
-      "source": "TechCrunch",
-      "published_at": "Fri, 31 Jul 2026 16:08:18 +0000",
-      "raw_content": "Apple CEO Tim Cook envisions users being able to buy more compute for Siri AI via Apple's existing iCloud+ subscriptions.",
-      "summary": "Apple CEO Tim Cook envisions users being able to buy more compute for Siri AI via Apple's existing iCloud+ subscriptions.",
       "importance": 1.25
     },
     {
@@ -137,15 +146,6 @@
       "importance": 1.25
     },
     {
-      "title": "Tim Cook hints at iCloud Plus tier for AI power users",
-      "url": "https://www.theverge.com/tech/973552/apple-ceo-tim-cook-icloud-plus-ai",
-      "source": "The Verge",
-      "published_at": "2026-07-30T18:29:45-04:00",
-      "raw_content": "Apple may allow users to pay to increase their AI usage limits. During an earnings call on Thursday, Apple CEO Tim Cook said that he believes people will want to use Apple Intelligence and the upcoming Siri AI \"a lot,\" adding that \"we will have some kind of upgrade possibilities on iCloud Plus where people [&#8230;]",
-      "summary": "Apple may allow users to pay to increase their AI usage limits. During an earnings call on Thursday, Apple CEO Tim Cook said that he believes people will want to use Apple Intelligence and the upcomin",
-      "importance": 1.25
-    },
-    {
       "title": "This $9 key physically locks your most addictive apps",
       "url": "https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/",
       "source": "TechCrunch",
@@ -164,22 +164,22 @@
       "importance": 1.2
     },
     {
+      "title": "Tim Cook hints at iCloud Plus tier for AI power users",
+      "url": "https://www.theverge.com/tech/973552/apple-ceo-tim-cook-icloud-plus-ai",
+      "source": "The Verge",
+      "published_at": "2026-07-30T18:29:45-04:00",
+      "raw_content": "Apple may allow users to pay to increase their AI usage limits. During an earnings call on Thursday, Apple CEO Tim Cook said that he believes people will want to use Apple Intelligence and the upcoming Siri AI \"a lot,\" adding that \"we will have some kind of upgrade possibilities on iCloud Plus where people [&#8230;]",
+      "summary": "Apple may allow users to pay to increase their AI usage limits. During an earnings call on Thursday, Apple CEO Tim Cook said that he believes people will want to use Apple Intelligence and the upcomin",
+      "importance": 1.05
+    },
+    {
       "title": "The loss of Situational Awareness",
       "url": "https://www.theverge.com/ai-artificial-intelligence/973467/ai-bet-situational-awareness-oops-stonks",
       "source": "The Verge",
       "published_at": "2026-07-30T16:46:25-04:00",
       "raw_content": "I am not by any means an expert at finance but I think I do now have some advice for people who are: Do not name your hedge fund anything that will be hilarious if it blows up. Don't use a name like \"Long-Term Capital Management\" or \"Amaranth Advisors\" (named for the floral symbol for [&#8230;]",
       "summary": "I am not by any means an expert at finance but I think I do now have some advice for people who are: Do not name your hedge fund anything that will be hilarious if it blows up. Don't use a name like \"",
-      "importance": 1.2
-    },
-    {
-      "title": "LinkedIn actually adds a ‘seems like AI slop’ button",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/973384/linkedin-seems-like-ai-slop-button",
-      "source": "The Verge",
-      "published_at": "2026-07-30T14:43:26-04:00",
-      "raw_content": "A lot of content on LinkedIn might seem like AI slop, and now, you'll be able to report those posts. As part of a series of updates to reduce the volume of AI slop on the platform, LinkedIn is introducing an actual button that lets you flag a post as something that \"Seems like AI [&#8230;]",
-      "summary": "A lot of content on LinkedIn might seem like AI slop, and now, you'll be able to report those posts. As part of a series of updates to reduce the volume of AI slop on the platform, LinkedIn is introdu",
-      "importance": 1.05
+      "importance": 1.0
     }
   ]
 }
