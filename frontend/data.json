@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T06:48:31.655359+00:00",
+  "generated_at": "2026-08-08T12:42:21.784190+00:00",
   "items": [
     {
       "title": "Jill Lepore on the ‘Artificial State’ and why Silicon Valley’s leaders are bad sci-fi readers",
@@ -83,15 +83,6 @@
       "importance": 1.55
     },
     {
-      "title": "New Mexico court orders Meta to pay additional $567M in child safety case",
-      "url": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/",
-      "source": "TechCrunch",
-      "published_at": "Fri, 07 Aug 2026 11:40:37 +0000",
-      "raw_content": "Meta's total fine has racked up to $942 million in this case.",
-      "summary": "Meta's total fine has racked up to $942 million in this case.",
-      "importance": 1.5
-    },
-    {
       "title": "Jony Ive&#8217;s first OpenAI gadget is reportedly a hockey puck-sized smart speaker",
       "url": "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor",
       "source": "The Verge",
@@ -171,6 +162,15 @@
       "raw_content": "Today, I’m talking with Gaby Del Valle, a policy reporter here at The Verge, about the growing backlash against AI data centers.&#160; Gaby recently reported a fantastic piece about Hernando County, Florida, where last month the county commission unanimously approved a yearlong moratorium on data center construction. She attended a protest there organized by a [&#8230;]",
       "summary": "Today, I’m talking with Gaby Del Valle, a policy reporter here at The Verge, about the growing backlash against AI data centers.&#160; Gaby recently reported a fantastic piece about Hernando County, F",
       "importance": 1.25
+    },
+    {
+      "title": "New Mexico court orders Meta to pay additional $567M in child safety case",
+      "url": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/",
+      "source": "TechCrunch",
+      "published_at": "Fri, 07 Aug 2026 11:40:37 +0000",
+      "raw_content": "Meta's total fine has racked up to $942 million in this case.",
+      "summary": "Meta's total fine has racked up to $942 million in this case.",
+      "importance": 1.2
     },
     {
       "title": "SoftBank donated $50 million to Trump’s library months before federal data center deal",
