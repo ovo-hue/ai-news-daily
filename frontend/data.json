@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T07:23:03.531438+00:00",
+  "generated_at": "2026-08-13T13:04:31.661685+00:00",
   "items": [
     {
       "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
@@ -29,15 +29,6 @@
       "importance": 1.8
     },
     {
-      "title": "Of course the ChatGPT dog cancer vaccine spawned a startup",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/978671/ai-cured-dog-cancer-mrna-vaccine-startup-gamgee",
-      "source": "The Verge",
-      "published_at": "2026-08-12T08:09:34-04:00",
-      "raw_content": "Remember that much-hyped story about an Australian tech entrepreneur using ChatGPT, Grok, and other AI tools to craft a personalized cancer vaccine for his dog? Well, surprise: He's launched a startup. That entrepreneur is Paul Conyngham, who says he is launching Gamgee to offer \"personalised mRNA cancer vaccines for dogs.\" But his ambitions go well [&#8230;]",
-      "summary": "Remember that much-hyped story about an Australian tech entrepreneur using ChatGPT, Grok, and other AI tools to craft a personalized cancer vaccine for his dog? Well, surprise: He's launched a startup",
-      "importance": 1.75
-    },
-    {
       "title": "As AI safety concerns mount, three pioneers make the case for staying open",
       "url": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
       "source": "TechCrunch",
@@ -54,15 +45,6 @@
       "raw_content": "This new funding comes after Lovable hit $500 million in annualized run rate revenue in June, the startup told TechCrunch.",
       "summary": "This new funding comes after Lovable hit $500 million in annualized run rate revenue in June, the startup told TechCrunch.",
       "importance": 1.7
-    },
-    {
-      "title": "Grok is now an AI ‘teammate’ you can assign work",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/978666/spacexai-grok-bot-ai-agent-beta-launch",
-      "source": "The Verge",
-      "published_at": "2026-08-12T07:58:54-04:00",
-      "raw_content": "SpaceXAI has introduced Grok Bot, an always-on AI agent service designed to behave like independent \"AI teammates\" that can do your work for you. The bots share their own cloud-based computer environment, and can sign into apps, tools, and websites you already use to complete multi-step workplace tasks, only coming back when their assigned work [&#8230;]",
-      "summary": "SpaceXAI has introduced Grok Bot, an always-on AI agent service designed to behave like independent \"AI teammates\" that can do your work for you. The bots share their own cloud-based computer environm",
-      "importance": 1.6
     },
     {
       "title": "Amazon will train on Twitch streamers’ content by default, unless they opt out",
@@ -146,6 +128,15 @@
       "importance": 1.55
     },
     {
+      "title": "Of course the ChatGPT dog cancer vaccine spawned a startup",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/978671/ai-cured-dog-cancer-mrna-vaccine-startup-gamgee",
+      "source": "The Verge",
+      "published_at": "2026-08-12T08:09:34-04:00",
+      "raw_content": "Remember that much-hyped story about an Australian tech entrepreneur using ChatGPT, Grok, and other AI tools to craft a personalized cancer vaccine for his dog? Well, surprise: He's launched a startup. That entrepreneur is Paul Conyngham, who says he is launching Gamgee to offer \"personalised mRNA cancer vaccines for dogs.\" But his ambitions go well [&#8230;]",
+      "summary": "Remember that much-hyped story about an Australian tech entrepreneur using ChatGPT, Grok, and other AI tools to craft a personalized cancer vaccine for his dog? Well, surprise: He's launched a startup",
+      "importance": 1.45
+    },
+    {
       "title": "Saber denies replacing Rideshare Stimulator&#8217;s writers with ChatGPT",
       "url": "https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive",
       "source": "The Verge",
@@ -171,6 +162,15 @@
       "raw_content": "On August 12, 2026, Google revealed a bunch of new Pixel devices. The colorful Pixel 11 lineup comes with upgraded cameras and performance, with the Pro models offering a built-in LED ring that lights up for Google&#8217;s Gemini AI and other features. Google also showed off its next-gen Pixel Fold featuring thinner bezels, alongside a [&#8230;]",
       "summary": "On August 12, 2026, Google revealed a bunch of new Pixel devices. The colorful Pixel 11 lineup comes with upgraded cameras and performance, with the Pro models offering a built-in LED ring that lights",
       "importance": 1.45
+    },
+    {
+      "title": "Grok is now an AI ‘teammate’ you can assign work",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/978666/spacexai-grok-bot-ai-agent-beta-launch",
+      "source": "The Verge",
+      "published_at": "2026-08-12T07:58:54-04:00",
+      "raw_content": "SpaceXAI has introduced Grok Bot, an always-on AI agent service designed to behave like independent \"AI teammates\" that can do your work for you. The bots share their own cloud-based computer environment, and can sign into apps, tools, and websites you already use to complete multi-step workplace tasks, only coming back when their assigned work [&#8230;]",
+      "summary": "SpaceXAI has introduced Grok Bot, an always-on AI agent service designed to behave like independent \"AI teammates\" that can do your work for you. The bots share their own cloud-based computer environm",
+      "importance": 1.3
     },
     {
       "title": "Apple could help you prove your iPhone photos aren’t deepfakes",
