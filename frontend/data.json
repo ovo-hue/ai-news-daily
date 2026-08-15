@@ -1,24 +1,6 @@
 {
-  "generated_at": "2026-08-15T12:32:47.454896+00:00",
+  "generated_at": "2026-08-15T18:25:12.351585+00:00",
   "items": [
-    {
-      "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
-      "url": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
-      "source": "TechCrunch",
-      "published_at": "Fri, 14 Aug 2026 15:43:28 +0000",
-      "raw_content": "Meta released Glimmer this week, an open-weight AI&#160;model&#160;anyone can download and run on their own hardware&#160;— a contrast to&#160;Muse&#160;Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside&#160;a letter from Mark Zuckerberg&#160;arguing AI should be “for everyone” rather than controlled by a handful of labs, but as Equity’s [&#8230;]",
-      "summary": "Meta released Glimmer this week, an open-weight AI&#160;model&#160;anyone can download and run on their own hardware&#160;— a contrast to&#160;Muse&#160;Spark, the company’s more powerful model that s",
-      "importance": 1.7
-    },
-    {
-      "title": "Meta’s ‘open’ AI, and a $250M deal gone very wrong",
-      "url": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/",
-      "source": "TechCrunch",
-      "published_at": "Fri, 14 Aug 2026 14:00:00 +0000",
-      "raw_content": "Meta released Glimmer this week, an open-weight AI&#160;model&#160;anyone can download and run on their own hardware&#160;— a contrast to&#160;Muse&#160;Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside&#160;a letter from Mark Zuckerberg&#160;arguing AI should be “for everyone” rather than controlled by a handful of labs, but as Equity’s [&#8230;]",
-      "summary": "Meta released Glimmer this week, an open-weight AI&#160;model&#160;anyone can download and run on their own hardware&#160;— a contrast to&#160;Muse&#160;Spark, the company’s more powerful model that s",
-      "importance": 1.7
-    },
     {
       "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
       "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
@@ -29,49 +11,13 @@
       "importance": 1.65
     },
     {
-      "title": "You can now turn off Google Gemini&#8217;s visible watermarks",
-      "url": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
-      "source": "The Verge",
-      "published_at": "2026-08-14T12:39:32-04:00",
-      "raw_content": "Google will now allow you to remove visible watermarks from the images, videos, and music made with AI tools. With the update, you can toggle off a new \"Media watermark\" setting in Gemini and Google's AI video generator, Flow. When toggled off, Google will remove the \"sparkle\" watermark that appears in the bottom-right corner of [&#8230;]",
-      "summary": "Google will now allow you to remove visible watermarks from the images, videos, and music made with AI tools. With the update, you can toggle off a new \"Media watermark\" setting in Gemini and Google's",
-      "importance": 1.6
-    },
-    {
-      "title": "Google will now allow users to remove visible watermark from its AI generations",
-      "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
+      "title": "SpaceX officially closes its Cursor acquisition",
+      "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
       "source": "TechCrunch",
-      "published_at": "Fri, 14 Aug 2026 16:13:40 +0000",
-      "raw_content": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file.",
-      "summary": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file.",
+      "published_at": "Sat, 15 Aug 2026 16:30:00 +0000",
+      "raw_content": "AI coding startup Cursor is now officially a part of SpaceX.",
+      "summary": "AI coding startup Cursor is now officially a part of SpaceX.",
       "importance": 1.55
-    },
-    {
-      "title": "Kog is going deeper to squeeze more inference out of GPUs",
-      "url": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
-      "source": "TechCrunch",
-      "published_at": "Fri, 14 Aug 2026 14:50:11 +0000",
-      "raw_content": "The idea that GPUs are poorly suited for agentic workflows may be a misconception, according to French startup Kog.",
-      "summary": "The idea that GPUs are poorly suited for agentic workflows may be a misconception, according to French startup Kog.",
-      "importance": 1.55
-    },
-    {
-      "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
-      "url": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
-      "source": "TechCrunch",
-      "published_at": "Fri, 14 Aug 2026 14:05:00 +0000",
-      "raw_content": "Natural gas prices could triple in some parts of the U.S., which could saddle hyperscalers with massive bills to power their AI data centers.",
-      "summary": "Natural gas prices could triple in some parts of the U.S., which could saddle hyperscalers with massive bills to power their AI data centers.",
-      "importance": 1.55
-    },
-    {
-      "title": "Mark Zuckerberg has an Instagzam",
-      "url": "https://www.theverge.com/podcast/980367/instagram-logo-new-zuckerberg-ai-vergecast",
-      "source": "The Verge",
-      "published_at": "2026-08-14T12:54:16-04:00",
-      "raw_content": "Instagram's wordmark is iconic. Well, was iconic. Apparently Instagram thought it looked old, so the company rolled out a new one this week. It doesn't look like the old Instagram wordmark. It doesn't even look like it spells Instagram anymore. And we cannot figure out why Instagram decided to do this. On this episode of [&#8230;]",
-      "summary": "Instagram's wordmark is iconic. Well, was iconic. Apparently Instagram thought it looked old, so the company rolled out a new one this week. It doesn't look like the old Instagram wordmark. It doesn't",
-      "importance": 1.5
     },
     {
       "title": "Does Google even want to win at AI?",
@@ -81,6 +27,24 @@
       "raw_content": "Today on Decoder, I’m talking with Hayden Field, The Verge’s senior AI reporter, about a question that’s been rocketing around the tech industry for the past week: Is Google losing the AI race? That’s because last week Google announced a bombshell reorganization of its AI division, Google DeepMind. Jeff Dean, the company’s chief scientist, is [&#8230;]",
       "summary": "Today on Decoder, I’m talking with Hayden Field, The Verge’s senior AI reporter, about a question that’s been rocketing around the tech industry for the past week: Is Google losing the AI race? That’s",
       "importance": 1.45
+    },
+    {
+      "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
+      "url": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
+      "source": "TechCrunch",
+      "published_at": "Fri, 14 Aug 2026 15:43:28 +0000",
+      "raw_content": "Meta released Glimmer this week, an open-weight AI&#160;model&#160;anyone can download and run on their own hardware&#160;— a contrast to&#160;Muse&#160;Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside&#160;a letter from Mark Zuckerberg&#160;arguing AI should be “for everyone” rather than controlled by a handful of labs, but as Equity’s [&#8230;]",
+      "summary": "Meta released Glimmer this week, an open-weight AI&#160;model&#160;anyone can download and run on their own hardware&#160;— a contrast to&#160;Muse&#160;Spark, the company’s more powerful model that s",
+      "importance": 1.4
+    },
+    {
+      "title": "Meta’s ‘open’ AI, and a $250M deal gone very wrong",
+      "url": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/",
+      "source": "TechCrunch",
+      "published_at": "Fri, 14 Aug 2026 14:00:00 +0000",
+      "raw_content": "Meta released Glimmer this week, an open-weight AI&#160;model&#160;anyone can download and run on their own hardware&#160;— a contrast to&#160;Muse&#160;Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside&#160;a letter from Mark Zuckerberg&#160;arguing AI should be “for everyone” rather than controlled by a handful of labs, but as Equity’s [&#8230;]",
+      "summary": "Meta released Glimmer this week, an open-weight AI&#160;model&#160;anyone can download and run on their own hardware&#160;— a contrast to&#160;Muse&#160;Spark, the company’s more powerful model that s",
+      "importance": 1.4
     },
     {
       "title": "Writer introduces new AI model and upgraded harness to contain token costs",
@@ -101,15 +65,6 @@
       "importance": 1.4
     },
     {
-      "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
-      "url": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
-      "source": "TechCrunch",
-      "published_at": "Thu, 13 Aug 2026 18:28:14 +0000",
-      "raw_content": "Anthropic researchers found AI agents can clash, collude, and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-agent systems.",
-      "summary": "Anthropic researchers found AI agents can clash, collude, and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-agent systems.",
-      "importance": 1.35
-    },
-    {
       "title": "Microsoft’s Clippy-like Mico character is no longer the face of Copilot",
       "url": "https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired",
       "source": "The Verge",
@@ -125,6 +80,15 @@
       "published_at": "Thu, 13 Aug 2026 19:19:49 +0000",
       "raw_content": "IBM plans to train and certify tens of thousands of consultants on OpenAI's technologies as part of this deal.",
       "summary": "IBM plans to train and certify tens of thousands of consultants on OpenAI's technologies as part of this deal.",
+      "importance": 1.3
+    },
+    {
+      "title": "You can now turn off Google Gemini&#8217;s visible watermarks",
+      "url": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
+      "source": "The Verge",
+      "published_at": "2026-08-14T12:39:32-04:00",
+      "raw_content": "Google will now allow you to remove visible watermarks from the images, videos, and music made with AI tools. With the update, you can toggle off a new \"Media watermark\" setting in Gemini and Google's AI video generator, Flow. When toggled off, Google will remove the \"sparkle\" watermark that appears in the bottom-right corner of [&#8230;]",
+      "summary": "Google will now allow you to remove visible watermarks from the images, videos, and music made with AI tools. With the update, you can toggle off a new \"Media watermark\" setting in Gemini and Google's",
       "importance": 1.3
     },
     {
@@ -144,6 +108,33 @@
       "raw_content": "Imagine a trio of bumbling, English lads who fantasize about becoming megastars while knocking back a few pints in a grimy pub somewhere in London. Picture the guys chortling and trying to one-up each other's idealized visions of the future with a series of increasingly glitzy fantasies in which their fame leads to access to [&#8230;]",
       "summary": "Imagine a trio of bumbling, English lads who fantasize about becoming megastars while knocking back a few pints in a grimy pub somewhere in London. Picture the guys chortling and trying to one-up each",
       "importance": 1.3
+    },
+    {
+      "title": "Google will now allow users to remove visible watermark from its AI generations",
+      "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
+      "source": "TechCrunch",
+      "published_at": "Fri, 14 Aug 2026 16:13:40 +0000",
+      "raw_content": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file.",
+      "summary": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file.",
+      "importance": 1.25
+    },
+    {
+      "title": "Kog is going deeper to squeeze more inference out of GPUs",
+      "url": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
+      "source": "TechCrunch",
+      "published_at": "Fri, 14 Aug 2026 14:50:11 +0000",
+      "raw_content": "The idea that GPUs are poorly suited for agentic workflows may be a misconception, according to French startup Kog.",
+      "summary": "The idea that GPUs are poorly suited for agentic workflows may be a misconception, according to French startup Kog.",
+      "importance": 1.25
+    },
+    {
+      "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
+      "url": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
+      "source": "TechCrunch",
+      "published_at": "Fri, 14 Aug 2026 14:05:00 +0000",
+      "raw_content": "Natural gas prices could triple in some parts of the U.S., which could saddle hyperscalers with massive bills to power their AI data centers.",
+      "summary": "Natural gas prices could triple in some parts of the U.S., which could saddle hyperscalers with massive bills to power their AI data centers.",
+      "importance": 1.25
     },
     {
       "title": "Apple trained its own AI model for China with help from Alibaba",
@@ -173,13 +164,22 @@
       "importance": 1.25
     },
     {
+      "title": "Mark Zuckerberg has an Instagzam",
+      "url": "https://www.theverge.com/podcast/980367/instagram-logo-new-zuckerberg-ai-vergecast",
+      "source": "The Verge",
+      "published_at": "2026-08-14T12:54:16-04:00",
+      "raw_content": "Instagram's wordmark is iconic. Well, was iconic. Apparently Instagram thought it looked old, so the company rolled out a new one this week. It doesn't look like the old Instagram wordmark. It doesn't even look like it spells Instagram anymore. And we cannot figure out why Instagram decided to do this. On this episode of [&#8230;]",
+      "summary": "Instagram's wordmark is iconic. Well, was iconic. Apparently Instagram thought it looked old, so the company rolled out a new one this week. It doesn't look like the old Instagram wordmark. It doesn't",
+      "importance": 1.2
+    },
+    {
       "title": "Twitch streamers can now opt out from training Amazon’s AI",
       "url": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai",
       "source": "The Verge",
       "published_at": "2026-08-12T13:29:10-04:00",
       "raw_content": "Twitch users can now opt out of allowing their content to be used to train Amazon's generative AI models. Opting out means that \"your streams, VODs, clips, stream chats, and pictures and text on your channel\" won't be used in \"future training\" of an Amazon AI model \"whose purpose is to generate or synthesize text, [&#8230;]",
       "summary": "Twitch users can now opt out of allowing their content to be used to train Amazon's generative AI models. Opting out means that \"your streams, VODs, clips, stream chats, and pictures and text on your ",
-      "importance": 1.25
+      "importance": 1.05
     }
   ]
 }
