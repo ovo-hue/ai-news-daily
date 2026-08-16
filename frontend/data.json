@@ -1,14 +1,23 @@
 {
-  "generated_at": "2026-08-15T18:25:12.351585+00:00",
+  "generated_at": "2026-08-16T01:09:32.470263+00:00",
   "items": [
     {
-      "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
-      "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
+      "title": "Anthropic shares more details about how Claude’s new watermarks will work",
+      "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
       "source": "TechCrunch",
-      "published_at": "Thu, 13 Aug 2026 19:22:40 +0000",
-      "raw_content": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users.",
-      "summary": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users.",
-      "importance": 1.65
+      "published_at": "Sat, 15 Aug 2026 18:58:39 +0000",
+      "raw_content": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
+      "summary": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
+      "importance": 1.8
+    },
+    {
+      "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
+      "url": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+      "source": "TechCrunch",
+      "published_at": "Sat, 15 Aug 2026 21:29:19 +0000",
+      "raw_content": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
+      "summary": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
+      "importance": 1.55
     },
     {
       "title": "SpaceX officially closes its Cursor acquisition",
@@ -17,6 +26,15 @@
       "published_at": "Sat, 15 Aug 2026 16:30:00 +0000",
       "raw_content": "AI coding startup Cursor is now officially a part of SpaceX.",
       "summary": "AI coding startup Cursor is now officially a part of SpaceX.",
+      "importance": 1.55
+    },
+    {
+      "title": "Have a laugh at AI’s expense by roleplaying as a chatbot",
+      "url": "https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot",
+      "source": "The Verge",
+      "published_at": "2026-08-15T16:45:00-04:00",
+      "raw_content": "Your AI Slop Bores Me is brilliant in its simplicity. There are two tabs: human and LARP as an AI. On one side you enter a request. On the other, you submit an answer. But the important thing is that there's a human on both sides of the equation. Prompts can request a response as [&#8230;]",
+      "summary": "Your AI Slop Bores Me is brilliant in its simplicity. There are two tabs: human and LARP as an AI. On one side you enter a request. On the other, you submit an answer. But the important thing is that ",
       "importance": 1.55
     },
     {
@@ -72,15 +90,6 @@
       "raw_content": "Microsoft Copilot will no longer show its emotive yellow blob, Mico, when you use the chatbot's voice mode. In a support page, Microsoft says it's going to move Mico to its Learn Live platform, where the avatar will have \"more to react to,\" as reported earlier by GeekWire. Mico launched in Copilot's voice mode last [&#8230;]",
       "summary": "Microsoft Copilot will no longer show its emotive yellow blob, Mico, when you use the chatbot's voice mode. In a support page, Microsoft says it's going to move Mico to its Learn Live platform, where ",
       "importance": 1.35
-    },
-    {
-      "title": "IBM partners with OpenAI to bolster enterprise AI push",
-      "url": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
-      "source": "TechCrunch",
-      "published_at": "Thu, 13 Aug 2026 19:19:49 +0000",
-      "raw_content": "IBM plans to train and certify tens of thousands of consultants on OpenAI's technologies as part of this deal.",
-      "summary": "IBM plans to train and certify tens of thousands of consultants on OpenAI's technologies as part of this deal.",
-      "importance": 1.3
     },
     {
       "title": "You can now turn off Google Gemini&#8217;s visible watermarks",
@@ -171,15 +180,6 @@
       "raw_content": "Instagram's wordmark is iconic. Well, was iconic. Apparently Instagram thought it looked old, so the company rolled out a new one this week. It doesn't look like the old Instagram wordmark. It doesn't even look like it spells Instagram anymore. And we cannot figure out why Instagram decided to do this. On this episode of [&#8230;]",
       "summary": "Instagram's wordmark is iconic. Well, was iconic. Apparently Instagram thought it looked old, so the company rolled out a new one this week. It doesn't look like the old Instagram wordmark. It doesn't",
       "importance": 1.2
-    },
-    {
-      "title": "Twitch streamers can now opt out from training Amazon’s AI",
-      "url": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai",
-      "source": "The Verge",
-      "published_at": "2026-08-12T13:29:10-04:00",
-      "raw_content": "Twitch users can now opt out of allowing their content to be used to train Amazon's generative AI models. Opting out means that \"your streams, VODs, clips, stream chats, and pictures and text on your channel\" won't be used in \"future training\" of an Amazon AI model \"whose purpose is to generate or synthesize text, [&#8230;]",
-      "summary": "Twitch users can now opt out of allowing their content to be used to train Amazon's generative AI models. Opting out means that \"your streams, VODs, clips, stream chats, and pictures and text on your ",
-      "importance": 1.05
     }
   ]
 }
