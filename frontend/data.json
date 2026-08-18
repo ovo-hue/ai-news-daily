@@ -1,23 +1,14 @@
 {
-  "generated_at": "2026-08-18T12:39:54.792429+00:00",
+  "generated_at": "2026-08-18T18:34:24.410778+00:00",
   "items": [
     {
-      "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
-      "url": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
+      "title": "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
+      "url": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/",
       "source": "TechCrunch",
-      "published_at": "Mon, 17 Aug 2026 16:15:12 +0000",
-      "raw_content": "Groq raised $350 million at a $3.5 billion valuation as the former AI chipmaker pivots to a neocloud business and expands its Nvidia-powered data center footprint.",
-      "summary": "Groq raised $350 million at a $3.5 billion valuation as the former AI chipmaker pivots to a neocloud business and expands its Nvidia-powered data center footprint.",
-      "importance": 1.85
-    },
-    {
-      "title": "Wispr raises $280M at $2B valuation as it looks beyond dictation",
-      "url": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/",
-      "source": "TechCrunch",
-      "published_at": "Mon, 17 Aug 2026 13:10:05 +0000",
-      "raw_content": "The funds will allow Wispr to increase its footprint as it ventures into new areas, such as meetings, with its newly released note-taker tool.",
-      "summary": "The funds will allow Wispr to increase its footprint as it ventures into new areas, such as meetings, with its newly released note-taker tool.",
-      "importance": 1.85
+      "published_at": "Tue, 18 Aug 2026 13:50:30 +0000",
+      "raw_content": "ChatGPT for Teens adds age-appropriate safety measures, parental controls, and learning tools designed to steer teens away from harmful content — and from using AI to cheat on their homework.",
+      "summary": "ChatGPT for Teens adds age-appropriate safety measures, parental controls, and learning tools designed to steer teens away from harmful content — and from using AI to cheat on their homework.",
+      "importance": 1.8
     },
     {
       "title": "ChatGPT is getting a dedicated mode for teens",
@@ -65,22 +56,49 @@
       "importance": 1.7
     },
     {
-      "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
-      "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
+      "title": "OpenAI institutes new safeguards after Hugging Face breach",
+      "url": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
       "source": "TechCrunch",
-      "published_at": "Mon, 17 Aug 2026 16:38:44 +0000",
-      "raw_content": "Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online.",
-      "summary": "Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online.",
+      "published_at": "Tue, 18 Aug 2026 18:00:00 +0000",
+      "raw_content": "The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security during the post-training process.",
+      "summary": "The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security during the post-training process.",
       "importance": 1.6
     },
     {
-      "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
-      "url": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
+      "title": "Etched’s valuation doubles to $21B in a month",
+      "url": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
       "source": "TechCrunch",
-      "published_at": "Mon, 17 Aug 2026 15:16:24 +0000",
-      "raw_content": "Nvidia's investment in SoftBank's data center developer will guarantee its chips power an OpenAI data center.",
-      "summary": "Nvidia's investment in SoftBank's data center developer will guarantee its chips power an OpenAI data center.",
-      "importance": 1.6
+      "published_at": "Tue, 18 Aug 2026 17:21:58 +0000",
+      "raw_content": "Jane Street has installed Etched's first shipped AI cluster system, and was so impressed, it led another massive round, the startup says.",
+      "summary": "Jane Street has installed Etched's first shipped AI cluster system, and was so impressed, it led another massive round, the startup says.",
+      "importance": 1.55
+    },
+    {
+      "title": "Why Apple’s camera-equipped AirPods may not be the ‘pervert pods’ consumers fear",
+      "url": "https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/",
+      "source": "TechCrunch",
+      "published_at": "Tue, 18 Aug 2026 16:19:10 +0000",
+      "raw_content": "Apple’s leaked camera-equipped AirPods might avoid the privacy pitfalls of other AI wearables by preventing users from recording photos and videos.",
+      "summary": "Apple’s leaked camera-equipped AirPods might avoid the privacy pitfalls of other AI wearables by preventing users from recording photos and videos.",
+      "importance": 1.55
+    },
+    {
+      "title": "Warp’s new system is an out-of-the-box software factory for AI development",
+      "url": "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/",
+      "source": "TechCrunch",
+      "published_at": "Tue, 18 Aug 2026 14:00:00 +0000",
+      "raw_content": "On Tuesday, Warp introduced Warp Factories, a new infrastructure system designed to make building AI software factories as easy as possible.",
+      "summary": "On Tuesday, Warp introduced Warp Factories, a new infrastructure system designed to make building AI software factories as easy as possible.",
+      "importance": 1.55
+    },
+    {
+      "title": "Perplexity’s free AI offer left it with millions more users in India",
+      "url": "https://techcrunch.com/2026/08/18/perplexitys-free-ai-offer-left-it-with-millions-more-users-in-india/",
+      "source": "TechCrunch",
+      "published_at": "Tue, 18 Aug 2026 13:45:40 +0000",
+      "raw_content": "Perplexity's India revenue rose about 60% after the Airtel offer ended for new users, even as downloads declined.",
+      "summary": "Perplexity's India revenue rose about 60% after the Airtel offer ended for new users, even as downloads declined.",
+      "importance": 1.55
     },
     {
       "title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
@@ -92,7 +110,25 @@
       "importance": 1.55
     },
     {
-      "title": "Elon Musk made flying even worse so Palantir could profit",
+      "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
+      "url": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
+      "source": "TechCrunch",
+      "published_at": "Mon, 17 Aug 2026 16:15:12 +0000",
+      "raw_content": "Groq raised $350 million at a $3.5 billion valuation as the former AI chipmaker pivots to a neocloud business and expands its Nvidia-powered data center footprint.",
+      "summary": "Groq raised $350 million at a $3.5 billion valuation as the former AI chipmaker pivots to a neocloud business and expands its Nvidia-powered data center footprint.",
+      "importance": 1.55
+    },
+    {
+      "title": "Firefox&#8217;s Smart Window promises a better AI browser",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/981283/mozilla-firefox-smart-window-ai-features",
+      "source": "The Verge",
+      "published_at": "2026-08-18T09:00:00-04:00",
+      "raw_content": "Starting today, AI chats in Firefox's Smart Window AI browsing mode can pull from current web info and show source links in chat responses through a partnership with Exa. Smart Window can also now automatically suggest tab groups and show visual previews of pages you previously visited when you search your browsing history using natural [&#8230;]",
+      "summary": "Starting today, AI chats in Firefox's Smart Window AI browsing mode can pull from current web info and show source links in chat responses through a partnership with Exa. Smart Window can also now aut",
+      "importance": 1.55
+    },
+    {
+      "title": "Elon Musk broke the FAA — Palantir is picking up the pieces",
       "url": "https://www.theverge.com/transportation/981194/faa-air-traffic-elon-musk-peter-thiel-palantir",
       "source": "The Verge",
       "published_at": "2026-08-18T07:00:00-04:00",
@@ -110,12 +146,12 @@
       "importance": 1.35
     },
     {
-      "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
-      "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+      "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
+      "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
       "source": "TechCrunch",
-      "published_at": "Sun, 16 Aug 2026 16:53:51 +0000",
-      "raw_content": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI.",
-      "summary": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI.",
+      "published_at": "Mon, 17 Aug 2026 16:38:44 +0000",
+      "raw_content": "Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online.",
+      "summary": "Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online.",
       "importance": 1.3
     },
     {
@@ -137,48 +173,12 @@
       "importance": 1.3
     },
     {
-      "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
-      "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
-      "source": "TechCrunch",
-      "published_at": "Sun, 16 Aug 2026 20:57:04 +0000",
-      "raw_content": "OpenRouter's CEO recently described the startup as Stripe for AI.",
-      "summary": "OpenRouter's CEO recently described the startup as Stripe for AI.",
-      "importance": 1.25
-    },
-    {
-      "title": "Why people aren’t buying Mark Zuckerberg’s AI future",
-      "url": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
-      "source": "TechCrunch",
-      "published_at": "Sun, 16 Aug 2026 20:32:01 +0000",
-      "raw_content": "On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision.",
-      "summary": "On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision.",
-      "importance": 1.25
-    },
-    {
-      "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
-      "url": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
-      "source": "TechCrunch",
-      "published_at": "Sat, 15 Aug 2026 21:29:19 +0000",
-      "raw_content": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
-      "summary": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
-      "importance": 1.25
-    },
-    {
       "title": "Whisker’s AI-powered litter robot thinks my cats swapped bodies",
       "url": "https://www.theverge.com/tech/978323/whisker-litter-robot-5-pro-review",
       "source": "The Verge",
       "published_at": "2026-08-17T07:00:00-04:00",
       "raw_content": "The greatest invention in pet tech in recent years is the litter robot. A machine that scoops your kitties' poop so you don't have to - what else could a cat owner possibly want? How about insights into your kitty's litter box usage that could flag health issues? Sign me up. But I have two [&#8230;]",
       "summary": "The greatest invention in pet tech in recent years is the litter robot. A machine that scoops your kitties' poop so you don't have to - what else could a cat owner possibly want? How about insights in",
-      "importance": 1.25
-    },
-    {
-      "title": "Have a laugh at AI’s expense by roleplaying as a chatbot",
-      "url": "https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot",
-      "source": "The Verge",
-      "published_at": "2026-08-15T16:45:00-04:00",
-      "raw_content": "Your AI Slop Bores Me is brilliant in its simplicity. There are two tabs: human and LARP as an AI. On one side, you enter a request. On the other, you submit an answer. But the important thing is that there's a human on both sides of the equation. Prompts can request a response as [&#8230;]",
-      "summary": "Your AI Slop Bores Me is brilliant in its simplicity. There are two tabs: human and LARP as an AI. On one side, you enter a request. On the other, you submit an answer. But the important thing is that",
       "importance": 1.25
     }
   ]
