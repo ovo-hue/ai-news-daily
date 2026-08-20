@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T18:31:17.874470+00:00",
+  "generated_at": "2026-08-20T01:05:39.795891+00:00",
   "items": [
     {
       "title": "Meta AI is getting a Mac app",
@@ -11,30 +11,21 @@
       "importance": 1.85
     },
     {
+      "title": "Google packs Search and Gemini with new AI study tools",
+      "url": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
+      "source": "TechCrunch",
+      "published_at": "Wed, 19 Aug 2026 19:00:00 +0000",
+      "raw_content": "The launch of the new study features marks Google's latest effort to make Gemini the AI assistant that students turn to when learning and studying, as it continues to compete with companies like OpenAI.",
+      "summary": "The launch of the new study features marks Google's latest effort to make Gemini the AI assistant that students turn to when learning and studying, as it continues to compete with companies like OpenA",
+      "importance": 1.8
+    },
+    {
       "title": "Meet the startup helping Wall Street put a price on AI compute",
       "url": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/",
       "source": "TechCrunch",
       "published_at": "Wed, 19 Aug 2026 17:26:48 +0000",
       "raw_content": "The AI buildout shows no signs of slowing. And&#160;with&#160;hundreds of&#160;billions of dollars a year going into data centers and GPUs,&#160;compute has&#160;become the single biggest cost for anyone building AI products. But for all that spending, there still&#160;isn’t&#160;a straightforward way to put a price on&#160;compute&#160;— or&#160;for firms to hedge their exposure when the price&#160;changes.&#160; Silicon Data [&#8230;]",
       "summary": "The AI buildout shows no signs of slowing. And&#160;with&#160;hundreds of&#160;billions of dollars a year going into data centers and GPUs,&#160;compute has&#160;become the single biggest cost for any",
-      "importance": 1.7
-    },
-    {
-      "title": "Relativity Networks raises $22 million to bring a faster kind of fiber to data centers",
-      "url": "https://techcrunch.com/2026/08/19/relativity-networks-raises-22-million-to-bring-a-faster-kind-of-fiber-to-data-centers/",
-      "source": "TechCrunch",
-      "published_at": "Wed, 19 Aug 2026 10:00:00 +0000",
-      "raw_content": "Relativity Networks deals in hollow-core fiber, a rarely deployed technology that allows data to be transmitted 30% faster than conventional fiber.",
-      "summary": "Relativity Networks deals in hollow-core fiber, a rarely deployed technology that allows data to be transmitted 30% faster than conventional fiber.",
-      "importance": 1.7
-    },
-    {
-      "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
-      "url": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
-      "source": "TechCrunch",
-      "published_at": "Tue, 18 Aug 2026 22:14:25 +0000",
-      "raw_content": "Cursor, known for its AI Code Editor, is launching a new code-hosting platform to rival developers' long preferred favorite, GitHub.",
-      "summary": "Cursor, known for its AI Code Editor, is launching a new code-hosting platform to rival developers' long preferred favorite, GitHub.",
       "importance": 1.7
     },
     {
@@ -47,6 +38,24 @@
       "importance": 1.7
     },
     {
+      "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
+      "url": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
+      "source": "TechCrunch",
+      "published_at": "Wed, 19 Aug 2026 22:10:46 +0000",
+      "raw_content": "A competition is developing between OpenAI and Anthropic over who can provide the best privacy protections for enterprise customer data.",
+      "summary": "A competition is developing between OpenAI and Anthropic over who can provide the best privacy protections for enterprise customer data.",
+      "importance": 1.65
+    },
+    {
+      "title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
+      "url": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
+      "source": "TechCrunch",
+      "published_at": "Wed, 19 Aug 2026 21:51:23 +0000",
+      "raw_content": "SpaceX was reportedly in talks to buy AI coding startup Cognition. SpaceX has already acquired Cursor as it races to catch up to rivals like OpenAI and Anthropic in enterprise AI.",
+      "summary": "SpaceX was reportedly in talks to buy AI coding startup Cognition. SpaceX has already acquired Cursor as it races to catch up to rivals like OpenAI and Anthropic in enterprise AI.",
+      "importance": 1.65
+    },
+    {
       "title": "OpenAI hit the brakes. Now what?",
       "url": "https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai",
       "source": "The Verge",
@@ -56,13 +65,31 @@
       "importance": 1.65
     },
     {
-      "title": "OpenAI lays out new security changes after its AI hacked Hugging Face",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
-      "source": "The Verge",
-      "published_at": "2026-08-18T15:28:30-04:00",
-      "raw_content": "OpenAI is announcing security updates following the July news that its AI broke out of a sandboxed environment and accidentally hacked Hugging Face, including improvements to its research environments, monitoring, and alignment techniques. The company had already put the brakes on a new model, Astra, that it thinks could have \"critical\" cybersecurity capabilities, and the [&#8230;]",
-      "summary": "OpenAI is announcing security updates following the July news that its AI broke out of a sandboxed environment and accidentally hacked Hugging Face, including improvements to its research environments",
+      "title": "Researchers say OpenAI revoked their access to limited cyber program",
+      "url": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
+      "source": "TechCrunch",
+      "published_at": "Wed, 19 Aug 2026 18:46:14 +0000",
+      "raw_content": "The idea behind OpenAI's Trusted Access for Cyber program is to give trusted defenders better models so they can report bugs and vulnerabilities to companies, with the aim of getting flaws patched faster.",
+      "summary": "The idea behind OpenAI's Trusted Access for Cyber program is to give trusted defenders better models so they can report bugs and vulnerabilities to companies, with the aim of getting flaws patched fas",
       "importance": 1.6
+    },
+    {
+      "title": "Stripe didn’t really buy OpenRouter because of the ‘singularity’",
+      "url": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
+      "source": "TechCrunch",
+      "published_at": "Wed, 19 Aug 2026 23:32:00 +0000",
+      "raw_content": "What does a payments giant want with a startup that routes prompts between different AI models? Stripe says it's because of \"the singularity\" but it's really for a far more real and powerful reason.",
+      "summary": "What does a payments giant want with a startup that routes prompts between different AI models? Stripe says it's because of \"the singularity\" but it's really for a far more real and powerful reason.",
+      "importance": 1.55
+    },
+    {
+      "title": "AI was supposed to win people over by now — it hasn’t",
+      "url": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/",
+      "source": "TechCrunch",
+      "published_at": "Wed, 19 Aug 2026 19:11:40 +0000",
+      "raw_content": "As AI becomes harder to avoid, consumers are growing more wary of the technology — and Silicon Valley is discovering that widespread adoption doesn’t necessarily lead to acceptance.",
+      "summary": "As AI becomes harder to avoid, consumers are growing more wary of the technology — and Silicon Valley is discovering that widespread adoption doesn’t necessarily lead to acceptance.",
+      "importance": 1.55
     },
     {
       "title": "TerraPower’s nuclear reactor has a secret weapon for powering AI data centers",
@@ -83,21 +110,12 @@
       "importance": 1.55
     },
     {
-      "title": "AI isn’t close to curing cancer. This startup says it knows what it will take.",
-      "url": "https://techcrunch.com/2026/08/19/ai-isnt-close-to-curing-cancer-this-startup-says-it-knows-what-it-will-take/",
-      "source": "TechCrunch",
-      "published_at": "Wed, 19 Aug 2026 12:00:00 +0000",
-      "raw_content": "It's the data, stupid.",
-      "summary": "It's the data, stupid.",
-      "importance": 1.55
-    },
-    {
-      "title": "Robin Williams’ Instagram account brought back to fight ‘AI abuse’",
-      "url": "https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai",
+      "title": "Google Gemini is getting a dedicated student hub",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub",
       "source": "The Verge",
-      "published_at": "2026-08-18T15:48:26-04:00",
-      "raw_content": "Robin Williams' children are taking over their father's Instagram account after his daughter spoke out against the use of his AI likeness, as reported earlier by The Wrap. In a post on Tuesday, Zak, Zelda, and Cody Williams write that they want the late actor's Instagram profile to be a \"safe, trusted place where the [&#8230;]",
-      "summary": "Robin Williams' children are taking over their father's Instagram account after his daughter spoke out against the use of his AI likeness, as reported earlier by The Wrap. In a post on Tuesday, Zak, Z",
+      "published_at": "2026-08-19T15:00:00-04:00",
+      "raw_content": "As we're gearing up for back-to-school season, Google is rolling out a new dedicated student hub in Gemini. It's a one-stop repository for collecting research in a study notebook, creating flashcards, taking practice quizzes, and more. Google is also enhancing its study notebooks with support for graphs and images. It can even add test dates [&#8230;]",
+      "summary": "As we're gearing up for back-to-school season, Google is rolling out a new dedicated student hub in Gemini. It's a one-stop repository for collecting research in a study notebook, creating flashcards,",
       "importance": 1.55
     },
     {
@@ -128,39 +146,21 @@
       "importance": 1.4
     },
     {
-      "title": "Apple&#8217;s camera-equipped AirPods appear in leaked video",
-      "url": "https://www.theverge.com/tech/981326/apple-airpods-with-cameras-demo-video-leak",
+      "title": "OpenAI lays out new security changes after its AI hacked Hugging Face",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
       "source": "The Verge",
-      "published_at": "2026-08-18T05:00:01-04:00",
-      "raw_content": "We may have our first glimpse of Apple's rumored camera-equipped AirPods, thanks to a video that MacRumors found in the macOS Tahoe 26.7 Release Candidate. The short video clip features a man - who is wearing the new AirPods - holding up a book with the cover displayed, so that Visual Intelligence can see the [&#8230;]",
-      "summary": "We may have our first glimpse of Apple's rumored camera-equipped AirPods, thanks to a video that MacRumors found in the macOS Tahoe 26.7 Release Candidate. The short video clip features a man - who is",
-      "importance": 1.4
-    },
-    {
-      "title": "OpenAI institutes new safeguards after Hugging Face breach",
-      "url": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
-      "source": "TechCrunch",
-      "published_at": "Tue, 18 Aug 2026 18:00:00 +0000",
-      "raw_content": "The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security during the post-training process.",
-      "summary": "The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security during the post-training process.",
+      "published_at": "2026-08-18T15:28:30-04:00",
+      "raw_content": "OpenAI is announcing security updates following the July news that its AI broke out of a sandboxed environment and accidentally hacked Hugging Face, including improvements to its research environments, monitoring, and alignment techniques. The company had already put the brakes on a new model, Astra, that it thinks could have \"critical\" cybersecurity capabilities, and the [&#8230;]",
+      "summary": "OpenAI is announcing security updates following the July news that its AI broke out of a sandboxed environment and accidentally hacked Hugging Face, including improvements to its research environments",
       "importance": 1.3
     },
     {
-      "title": "Etched’s valuation doubles to $21B in a month",
-      "url": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
-      "source": "TechCrunch",
-      "published_at": "Tue, 18 Aug 2026 17:21:58 +0000",
-      "raw_content": "Jane Street has installed Etched's first shipped AI cluster system, and was so impressed, it led another massive round, the startup says.",
-      "summary": "Jane Street has installed Etched's first shipped AI cluster system, and was so impressed, it led another massive round, the startup says.",
-      "importance": 1.25
-    },
-    {
-      "title": "Why Apple’s camera-equipped AirPods may not be the ‘pervert pods’ consumers fear",
-      "url": "https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/",
-      "source": "TechCrunch",
-      "published_at": "Tue, 18 Aug 2026 16:19:10 +0000",
-      "raw_content": "Apple’s leaked camera-equipped AirPods might avoid the privacy pitfalls of other AI wearables by preventing users from recording photos and videos.",
-      "summary": "Apple’s leaked camera-equipped AirPods might avoid the privacy pitfalls of other AI wearables by preventing users from recording photos and videos.",
+      "title": "Robin Williams’ Instagram account brought back to fight ‘AI abuse’",
+      "url": "https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai",
+      "source": "The Verge",
+      "published_at": "2026-08-18T15:48:26-04:00",
+      "raw_content": "Robin Williams' children are taking over their father's Instagram account after his daughter spoke out against the use of his AI likeness, as reported earlier by The Wrap. In a post on Tuesday, Zak, Zelda, and Cody Williams write that they want the late actor's Instagram profile to be a \"safe, trusted place where the [&#8230;]",
+      "summary": "Robin Williams' children are taking over their father's Instagram account after his daughter spoke out against the use of his AI likeness, as reported earlier by The Wrap. In a post on Tuesday, Zak, Z",
       "importance": 1.25
     },
     {
