@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T06:35:25.749507+00:00",
+  "generated_at": "2026-08-22T12:33:23.185117+00:00",
   "items": [
     {
       "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
@@ -101,15 +101,6 @@
       "importance": 1.45
     },
     {
-      "title": "Nvidia’s new financial strategy does not compute",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/981668/nvidias-goldman-blackrock-gpu-compute-asset",
-      "source": "The Verge",
-      "published_at": "2026-08-19T08:00:00-04:00",
-      "raw_content": "April - 1805 Napoleon is master of Europe Only the British fleet stands before him Compute is now an asset class I see it is once again time to talk financial innovation. Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs, and KKR are all working with Nvidia to put together $500 billion in financing to turn compute [&#8230;]",
-      "summary": "April - 1805 Napoleon is master of Europe Only the British fleet stands before him Compute is now an asset class I see it is once again time to talk financial innovation. Apollo, BlackRock, Blackstone",
-      "importance": 1.4
-    },
-    {
       "title": "OpenAI hit the brakes. Now what?",
       "url": "https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai",
       "source": "The Verge",
@@ -179,6 +170,15 @@
       "published_at": "Thu, 20 Aug 2026 20:53:13 +0000",
       "raw_content": "Jason Kelce joked that people should cool data centers with their pee, rather than potable water -- but his suggestion is not completely ludicrous.",
       "summary": "Jason Kelce joked that people should cool data centers with their pee, rather than potable water -- but his suggestion is not completely ludicrous.",
+      "importance": 1.2
+    },
+    {
+      "title": "Nvidia’s new financial strategy does not compute",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/981668/nvidias-goldman-blackrock-gpu-compute-asset",
+      "source": "The Verge",
+      "published_at": "2026-08-19T08:00:00-04:00",
+      "raw_content": "April - 1805 Napoleon is master of Europe Only the British fleet stands before him Compute is now an asset class I see it is once again time to talk financial innovation. Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs, and KKR are all working with Nvidia to put together $500 billion in financing to turn compute [&#8230;]",
+      "summary": "April - 1805 Napoleon is master of Europe Only the British fleet stands before him Compute is now an asset class I see it is once again time to talk financial innovation. Apollo, BlackRock, Blackstone",
       "importance": 1.2
     }
   ]
