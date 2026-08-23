@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T06:36:43.486879+00:00",
+  "generated_at": "2026-08-23T12:34:52.475901+00:00",
   "items": [
     {
       "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
@@ -62,15 +62,6 @@
       "published_at": "2026-08-20T11:45:55-04:00",
       "raw_content": "OpenAI has had a hell of a year. The company spent months battling former cofounder Elon Musk in a sensational jury trial, was hit with a high-profile trade secrets lawsuit from Apple, and faced widespread scrutiny after an unreleased model hacked another AI company. As it prepares for an IPO, a steady string of executives [&#8230;]",
       "summary": "OpenAI has had a hell of a year. The company spent months battling former cofounder Elon Musk in a sensational jury trial, was hit with a high-profile trade secrets lawsuit from Apple, and faced wides",
-      "importance": 1.45
-    },
-    {
-      "title": "Slack is launching collaborative vibe-coding channels",
-      "url": "https://www.theverge.com/tech/982628/slack-code-vibe-coding-channels-launch",
-      "source": "The Verge",
-      "published_at": "2026-08-20T08:00:00-04:00",
-      "raw_content": "Slack is introducing dedicated channels where teams can vibe-code together with AI agents instead of jumping between different tools and conversations. The Slack Code launch includes open, project-specific code channels with dedicated user tabs, alongside features that compare coding changes and preview HTML output before the project is shipped. \"With Slack Code, when you have [&#8230;]",
-      "summary": "Slack is introducing dedicated channels where teams can vibe-code together with AI agents instead of jumping between different tools and conversations. The Slack Code launch includes open, project-spe",
       "importance": 1.45
     },
     {
@@ -152,6 +143,15 @@
       "published_at": "2026-08-20T17:50:22-04:00",
       "raw_content": "Google will soon allow you to customize your Discover feed by describing what you want to see. The new feature, rolling out to the Google app in the \"coming days,\" will use AI to automatically tweak your feed and \"remember\" your preferences for future visits. You'll find the option within the three-dot menu on your [&#8230;]",
       "summary": "Google will soon allow you to customize your Discover feed by describing what you want to see. The new feature, rolling out to the Google app in the \"coming days,\" will use AI to automatically tweak y",
+      "importance": 1.25
+    },
+    {
+      "title": "Slack is launching collaborative vibe-coding channels",
+      "url": "https://www.theverge.com/tech/982628/slack-code-vibe-coding-channels-launch",
+      "source": "The Verge",
+      "published_at": "2026-08-20T08:00:00-04:00",
+      "raw_content": "Slack is introducing dedicated channels where teams can vibe-code together with AI agents instead of jumping between different tools and conversations. The Slack Code launch includes open, project-specific code channels with dedicated user tabs, alongside features that compare coding changes and preview HTML output before the project is shipped. \"With Slack Code, when you have [&#8230;]",
+      "summary": "Slack is introducing dedicated channels where teams can vibe-code together with AI agents instead of jumping between different tools and conversations. The Slack Code launch includes open, project-spe",
       "importance": 1.25
     },
     {
