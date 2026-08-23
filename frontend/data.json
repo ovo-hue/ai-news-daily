@@ -1,23 +1,14 @@
 {
-  "generated_at": "2026-08-22T18:26:12.831575+00:00",
+  "generated_at": "2026-08-23T01:11:05.804135+00:00",
   "items": [
     {
-      "title": "Anthropic’s Opus 4.6 is a smut-machine",
-      "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
+      "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
+      "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
       "source": "TechCrunch",
-      "published_at": "Fri, 21 Aug 2026 23:07:25 +0000",
-      "raw_content": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction.",
-      "summary": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction.",
-      "importance": 1.75
-    },
-    {
-      "title": "Over 1 million people have clicked LinkedIn’s AI slop button",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
-      "source": "The Verge",
-      "published_at": "2026-08-21T17:25:50-04:00",
-      "raw_content": "LinkedIn actually announced a \"Seems like AI slop\" button on July 30th, and the company says that a lot of people have already used it. According to a Thursday post from chief product officer Hari Srinivasan, \"over a million people\" have clicked on the button, which is accessible from the three dots menu on a [&#8230;]",
-      "summary": "LinkedIn actually announced a \"Seems like AI slop\" button on July 30th, and the company says that a lot of people have already used it. According to a Thursday post from chief product officer Hari Sri",
-      "importance": 1.7
+      "published_at": "Sat, 22 Aug 2026 19:00:00 +0000",
+      "raw_content": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.",
+      "summary": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.",
+      "importance": 1.9
     },
     {
       "title": "OpenAI says California should strengthen its AI safety bill",
@@ -29,13 +20,13 @@
       "importance": 1.6
     },
     {
-      "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
-      "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
+      "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
+      "url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
       "source": "TechCrunch",
-      "published_at": "Fri, 21 Aug 2026 19:43:39 +0000",
-      "raw_content": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task.",
-      "summary": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task.",
-      "importance": 1.6
+      "published_at": "Sat, 22 Aug 2026 21:46:56 +0000",
+      "raw_content": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings.",
+      "summary": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings.",
+      "importance": 1.55
     },
     {
       "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
@@ -44,15 +35,6 @@
       "published_at": "Sat, 22 Aug 2026 16:00:00 +0000",
       "raw_content": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially dangerous behavior.",
       "summary": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially",
-      "importance": 1.55
-    },
-    {
-      "title": "Nvidia partners with data center developer Cloverleaf",
-      "url": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
-      "source": "TechCrunch",
-      "published_at": "Fri, 21 Aug 2026 22:37:38 +0000",
-      "raw_content": "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia.",
-      "summary": "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia.",
       "importance": 1.55
     },
     {
@@ -65,13 +47,13 @@
       "importance": 1.55
     },
     {
-      "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
-      "url": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
+      "title": "Anthropic’s Opus 4.6 is a smut-machine",
+      "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
       "source": "TechCrunch",
-      "published_at": "Thu, 20 Aug 2026 22:36:37 +0000",
-      "raw_content": "Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how \"sticky\" enterprise AI spending really is.",
-      "summary": "Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how \"sticky\" enterprise AI spending really is.",
-      "importance": 1.5
+      "published_at": "Fri, 21 Aug 2026 23:07:25 +0000",
+      "raw_content": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction.",
+      "summary": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction.",
+      "importance": 1.45
     },
     {
       "title": "It’s Greg Brockman’s OpenAI now",
@@ -92,6 +74,15 @@
       "importance": 1.45
     },
     {
+      "title": "Over 1 million people have clicked LinkedIn’s AI slop button",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
+      "source": "The Verge",
+      "published_at": "2026-08-21T17:25:50-04:00",
+      "raw_content": "LinkedIn actually announced a \"Seems like AI slop\" button on July 30th, and the company says that a lot of people have already used it. According to a Thursday post from chief product officer Hari Srinivasan, \"over a million people\" have clicked on the button, which is accessible from the three dots menu on a [&#8230;]",
+      "summary": "LinkedIn actually announced a \"Seems like AI slop\" button on July 30th, and the company says that a lot of people have already used it. According to a Thursday post from chief product officer Hari Sri",
+      "importance": 1.4
+    },
+    {
       "title": "Meta AI is getting a Mac app",
       "url": "https://www.theverge.com/tech/982270/meta-ai-mac-app",
       "source": "The Verge",
@@ -101,6 +92,15 @@
       "importance": 1.35
     },
     {
+      "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
+      "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
+      "source": "TechCrunch",
+      "published_at": "Fri, 21 Aug 2026 19:43:39 +0000",
+      "raw_content": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task.",
+      "summary": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task.",
+      "importance": 1.3
+    },
+    {
       "title": "Welcome to the AI crisis in math",
       "url": "https://www.theverge.com/podcast/982434/ai-math-openai-astra-existential-crisis",
       "source": "The Verge",
@@ -108,6 +108,15 @@
       "raw_content": "Today on Decoder, I’m talking with Robert Hart, The Verge’s London-based AI reporter, about what AI is doing to the field of mathematics and the existential crisis many lead mathematicians are having about it. OpenAI just published a set of solutions to longstanding problems in math that went off like a bombshell in the field. [&#8230;]",
       "summary": "Today on Decoder, I’m talking with Robert Hart, The Verge’s London-based AI reporter, about what AI is doing to the field of mathematics and the existential crisis many lead mathematicians are having ",
       "importance": 1.3
+    },
+    {
+      "title": "Nvidia partners with data center developer Cloverleaf",
+      "url": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
+      "source": "TechCrunch",
+      "published_at": "Fri, 21 Aug 2026 22:37:38 +0000",
+      "raw_content": "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia.",
+      "summary": "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia.",
+      "importance": 1.25
     },
     {
       "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
@@ -125,15 +134,6 @@
       "published_at": "Fri, 21 Aug 2026 00:13:44 +0000",
       "raw_content": "Surging demand for AI training data is driving rapid growth for the startup and its rivals.",
       "summary": "Surging demand for AI training data is driving rapid growth for the startup and its rivals.",
-      "importance": 1.25
-    },
-    {
-      "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
-      "url": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
-      "source": "TechCrunch",
-      "published_at": "Thu, 20 Aug 2026 22:09:51 +0000",
-      "raw_content": "Ever wanted someone else to do your texting for you? ChatGPT is being offered up as an automated text scribe via a new Apple Messages integration.",
-      "summary": "Ever wanted someone else to do your texting for you? ChatGPT is being offered up as an automated text scribe via a new Apple Messages integration.",
       "importance": 1.25
     },
     {
@@ -155,15 +155,6 @@
       "importance": 1.25
     },
     {
-      "title": "Google Gemini is getting a dedicated student hub",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub",
-      "source": "The Verge",
-      "published_at": "2026-08-19T15:00:00-04:00",
-      "raw_content": "As we're gearing up for back-to-school season, Google is rolling out a new dedicated student hub in Gemini. It's a one-stop repository for collecting research in a study notebook, creating flashcards, taking practice quizzes, and more. Google is also enhancing its study notebooks with support for graphs and images. It can even add test dates [&#8230;]",
-      "summary": "As we're gearing up for back-to-school season, Google is rolling out a new dedicated student hub in Gemini. It's a one-stop repository for collecting research in a study notebook, creating flashcards,",
-      "importance": 1.25
-    },
-    {
       "title": "Nvidia’s new financial strategy does not compute",
       "url": "https://www.theverge.com/ai-artificial-intelligence/981668/nvidias-goldman-blackrock-gpu-compute-asset",
       "source": "The Verge",
@@ -180,6 +171,15 @@
       "raw_content": "With a looming IPO, intense competition from Anthropic, and Chinese and open-weight rivals nipping at its heels, OpenAI has plenty of reasons to move fast. Instead, it hit the brakes. On Tuesday, the company said it had slowed the pace of some AI development while it tightened security and safeguards. That included a two-week pause [&#8230;]",
       "summary": "With a looming IPO, intense competition from Anthropic, and Chinese and open-weight rivals nipping at its heels, OpenAI has plenty of reasons to move fast. Instead, it hit the brakes. On Tuesday, the ",
       "importance": 1.15
+    },
+    {
+      "title": "Google Gemini is getting a dedicated student hub",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub",
+      "source": "The Verge",
+      "published_at": "2026-08-19T15:00:00-04:00",
+      "raw_content": "As we're gearing up for back-to-school season, Google is rolling out a new dedicated student hub in Gemini. It's a one-stop repository for collecting research in a study notebook, creating flashcards, taking practice quizzes, and more. Google is also enhancing its study notebooks with support for graphs and images. It can even add test dates [&#8230;]",
+      "summary": "As we're gearing up for back-to-school season, Google is rolling out a new dedicated student hub in Gemini. It's a one-stop repository for collecting research in a study notebook, creating flashcards,",
+      "importance": 1.05
     }
   ]
 }
