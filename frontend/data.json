@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T06:41:31.254604+00:00",
+  "generated_at": "2026-08-25T12:42:09.492253+00:00",
   "items": [
     {
       "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
@@ -11,12 +11,30 @@
       "importance": 1.9
     },
     {
+      "title": "‘The world seems to be ready’: An interview with OpenAI head of product Thibault Sottiaux",
+      "url": "https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux/",
+      "source": "TechCrunch",
+      "published_at": "Tue, 25 Aug 2026 12:00:00 +0000",
+      "raw_content": "TechCrunch talks agents, UX, and reporting to Greg Brockman with OpenAI's head of product.",
+      "summary": "TechCrunch talks agents, UX, and reporting to Greg Brockman with OpenAI's head of product.",
+      "importance": 1.65
+    },
+    {
       "title": "OpenAI is building AI agents for everything. Will everyone use them?",
       "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
       "source": "TechCrunch",
       "published_at": "Mon, 24 Aug 2026 15:00:00 +0000",
       "raw_content": "Inside the frontier lab’s push to bring AI agents from software engineers to the masses.",
       "summary": "Inside the frontier lab’s push to bring AI agents from software engineers to the masses.",
+      "importance": 1.65
+    },
+    {
+      "title": "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack",
+      "source": "The Verge",
+      "published_at": "2026-08-25T05:15:03-04:00",
+      "raw_content": "Alabama's attorney general issued a subpoena to OpenAI on Monday as part of an investigation into how one of its AI agents escaped a supposedly secure testing environment and autonomously hacked another company last month. The investigation seeks to determine whether OpenAI's safety practices violated state consumer protection laws and pose a risk to Alabama [&#8230;]",
+      "summary": "Alabama's attorney general issued a subpoena to OpenAI on Monday as part of an investigation into how one of its AI agents escaped a supposedly secure testing environment and autonomously hacked anoth",
       "importance": 1.65
     },
     {
@@ -110,30 +128,12 @@
       "importance": 1.25
     },
     {
-      "title": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
-      "url": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
-      "source": "TechCrunch",
-      "published_at": "Sun, 23 Aug 2026 15:30:00 +0000",
-      "raw_content": "Flock Safety faces a growing public outcry over concerns that its surveillance technology could be misused.",
-      "summary": "Flock Safety faces a growing public outcry over concerns that its surveillance technology could be misused.",
-      "importance": 1.2
-    },
-    {
       "title": "Over 1 million people have clicked LinkedIn’s AI slop button",
       "url": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
       "source": "The Verge",
       "published_at": "2026-08-21T17:25:50-04:00",
       "raw_content": "LinkedIn actually announced a \"Seems like AI slop\" button on July 30th, and the company says that a lot of people have already used it. According to a Thursday post from chief product officer Hari Srinivasan, \"over a million people\" have clicked on the button, which is accessible from the three dots menu on a [&#8230;]",
       "summary": "LinkedIn actually announced a \"Seems like AI slop\" button on July 30th, and the company says that a lot of people have already used it. According to a Thursday post from chief product officer Hari Sri",
-      "importance": 1.2
-    },
-    {
-      "title": "Nvidia’s new financial strategy does not compute",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/981668/nvidias-goldman-blackrock-gpu-compute-asset",
-      "source": "The Verge",
-      "published_at": "2026-08-19T08:00:00-04:00",
-      "raw_content": "April - 1805 Napoleon is master of Europe Only the British fleet stands before him Compute is now an asset class I see it is once again time to talk financial innovation. Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs, and KKR are all working with Nvidia to put together $500 billion in financing to turn compute [&#8230;]",
-      "summary": "April - 1805 Napoleon is master of Europe Only the British fleet stands before him Compute is now an asset class I see it is once again time to talk financial innovation. Apollo, BlackRock, Blackstone",
       "importance": 1.2
     },
     {
