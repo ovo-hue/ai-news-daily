@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T01:09:23.962439+00:00",
+  "generated_at": "2026-08-26T06:43:21.394550+00:00",
   "items": [
     {
       "title": "Claude Cowork finally remembers what you told the app in chat",
@@ -18,6 +18,15 @@
       "raw_content": "The company's new fundraising total now stands at $232 million.",
       "summary": "The company's new fundraising total now stands at $232 million.",
       "importance": 1.75
+    },
+    {
+      "title": "India’s Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
+      "url": "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/",
+      "source": "TechCrunch",
+      "published_at": "Wed, 26 Aug 2026 03:30:00 +0000",
+      "raw_content": "Ringg has raised $10 million from Peak XV as a part of its Series A extension.",
+      "summary": "Ringg has raised $10 million from Peak XV as a part of its Series A extension.",
+      "importance": 1.7
     },
     {
       "title": "Robotics startup Generalist reaches $3B valuation, sources say",
@@ -47,7 +56,7 @@
       "importance": 1.65
     },
     {
-      "title": "OpenAI loses a top data center exec, as stream of high-profile departures continues",
+      "title": "OpenAI loses a top data center exec as stream of high-profile departures continues",
       "url": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
       "source": "TechCrunch",
       "published_at": "Wed, 26 Aug 2026 00:06:20 +0000",
@@ -117,15 +126,6 @@
       "raw_content": "Slack is introducing dedicated channels where teams can vibe-code together with AI agents instead of jumping between different tools and conversations. The Slack Code launch includes open, project-specific code channels with dedicated user tabs, alongside features that compare coding changes and preview HTML output before the project is shipped. \"With Slack Code, when you have [&#8230;]",
       "summary": "Slack is introducing dedicated channels where teams can vibe-code together with AI agents instead of jumping between different tools and conversations. The Slack Code launch includes open, project-spe",
       "importance": 1.25
-    },
-    {
-      "title": "Trump bought SpaceX shares two weeks after blockbuster IPO",
-      "url": "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/",
-      "source": "TechCrunch",
-      "published_at": "Mon, 24 Aug 2026 21:24:17 +0000",
-      "raw_content": "The president bought when the stock was in the mid-$150 range. SpaceX finished trading on Monday back at its IPO price of $135.",
-      "summary": "The president bought when the stock was in the mid-$150 range. SpaceX finished trading on Monday back at its IPO price of $135.",
-      "importance": 1.2
     },
     {
       "title": "Over 1 million people have clicked LinkedIn’s AI slop button",
