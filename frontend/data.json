@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T22:26:52.608268+00:00",
+  "generated_at": "2026-09-01T03:35:11.061070+00:00",
   "items": [
     {
       "title": "The Pentagon now has its own version of ChatGPT and Grok",
@@ -36,6 +36,15 @@
       "raw_content": "OpenAI will soon be held accountable for mitigating risks related to ChatGPT's impact on minors, user mental health, and the spread of illegal content in the European Union. That's because ChatGPT is now considered a Very Large Online Search Engine under the EU's Digital Services Act, a set of laws regulating major online services and [&#8230;]",
       "summary": "OpenAI will soon be held accountable for mitigating risks related to ChatGPT's impact on minors, user mental health, and the spread of illegal content in the European Union. That's because ChatGPT is ",
       "importance": 1.65
+    },
+    {
+      "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
+      "url": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
+      "source": "TechCrunch",
+      "published_at": "Tue, 01 Sep 2026 00:13:00 +0000",
+      "raw_content": "Apple says it has evidence that a former employee destroyed evidence of data theft after learning he was under investigation.",
+      "summary": "Apple says it has evidence that a former employee destroyed evidence of data theft after learning he was under investigation.",
+      "importance": 1.6
     },
     {
       "title": "Instagram puts new limits on undisclosed AI profiles",
@@ -92,15 +101,6 @@
       "importance": 1.5
     },
     {
-      "title": "The US is building barriers around drones and robots, but China has scale to get around them",
-      "url": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/",
-      "source": "TechCrunch",
-      "published_at": "Mon, 31 Aug 2026 02:34:00 +0000",
-      "raw_content": "The U.S. is shutting out more foreign-made drones and robots. China’s scale means the global competition may simply move elsewhere.",
-      "summary": "The U.S. is shutting out more foreign-made drones and robots. China’s scale means the global competition may simply move elsewhere.",
-      "importance": 1.5
-    },
-    {
       "title": "Texas Governor Abbott blocks funding for more Flock cameras",
       "url": "https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras",
       "source": "The Verge",
@@ -108,15 +108,6 @@
       "raw_content": "As backlash grows over Flock's AI surveillance cameras, Texas Governor Greg Abbott has frozen state spending on them. The move came just ahead of the publication of a Texas Tribune investigation that revealed the state spent over $30 million on Flock cameras. That money was primarily raised by tacking a $1 fee onto insurance policies, [&#8230;]",
       "summary": "As backlash grows over Flock's AI surveillance cameras, Texas Governor Greg Abbott has frozen state spending on them. The move came just ahead of the publication of a Texas Tribune investigation that ",
       "importance": 1.4
-    },
-    {
-      "title": "Sony Music, Warner sue Anthropic, alleging a ‘brazen campaign’ of intellectual property theft",
-      "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
-      "source": "TechCrunch",
-      "published_at": "Sat, 29 Aug 2026 18:41:59 +0000",
-      "raw_content": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
-      "summary": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
-      "importance": 1.3
     },
     {
       "title": "Sony Music Publishing and Warner Chappell are suing Anthropic",
@@ -144,6 +135,15 @@
       "raw_content": "As audio-focused generative tools and platforms have gotten more sophisticated, the internet has become increasingly filled with AI-generated music whose melodies and vocals are algorithmically derived from the work of human artists. While some of the people pumping out this kind of content immediately own up to using AI, others have denied using the technology [&#8230;]",
       "summary": "As audio-focused generative tools and platforms have gotten more sophisticated, the internet has become increasingly filled with AI-generated music whose melodies and vocals are algorithmically derive",
       "importance": 1.25
+    },
+    {
+      "title": "The US is building barriers around drones and robots, but China has scale to get around them",
+      "url": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/",
+      "source": "TechCrunch",
+      "published_at": "Mon, 31 Aug 2026 02:34:00 +0000",
+      "raw_content": "The U.S. is shutting out more foreign-made drones and robots. China’s scale means the global competition may simply move elsewhere.",
+      "summary": "The U.S. is shutting out more foreign-made drones and robots. China’s scale means the global competition may simply move elsewhere.",
+      "importance": 1.2
     },
     {
       "title": "Musk’s faster path to more gas turbines comes with pollution problem",
