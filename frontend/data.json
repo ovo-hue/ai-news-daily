@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T16:03:23.205212+00:00",
+  "generated_at": "2026-09-01T20:33:18.442865+00:00",
   "items": [
     {
       "title": "Nvidia&#8217;s controversial DLSS 5 arrives September 3rd and requires serious GPU horsepower",
@@ -15,27 +15,45 @@
       "url": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/",
       "source": "TechCrunch",
       "published_at": "Tue, 01 Sep 2026 15:45:51 +0000",
-      "raw_content": "AIR's platform can discover agents running at a company, continuously vets any skills and add-ons they use, and blocks any unwanted behaviour.",
-      "summary": "AIR's platform can discover agents running at a company, continuously vets any skills and add-ons they use, and blocks any unwanted behaviour.",
+      "raw_content": "AIR's platform can discover agents running at a company, continuously vets any skills and add-ons they use, and blocks any unwanted behavior.",
+      "summary": "AIR's platform can discover agents running at a company, continuously vets any skills and add-ons they use, and blocks any unwanted behavior.",
       "importance": 1.75
     },
     {
-      "title": "The Pentagon now has its own version of ChatGPT and Grok",
-      "url": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
+      "title": "Anthropic’s new Fable release is cheaper, less restrictive",
+      "url": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
       "source": "TechCrunch",
-      "published_at": "Mon, 31 Aug 2026 20:13:45 +0000",
-      "raw_content": "Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools.",
-      "summary": "Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools.",
+      "published_at": "Tue, 01 Sep 2026 19:39:22 +0000",
+      "raw_content": "Fable 5.1 includes changes meant to reduce token cost and false-positive restrictions from the model's safeguards.",
+      "summary": "Fable 5.1 includes changes meant to reduce token cost and false-positive restrictions from the model's safeguards.",
       "importance": 1.7
     },
     {
-      "title": "Harvard Law dropout raises $6M for Blue Voice to build a ‘Harvey for police officers’",
-      "url": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/",
-      "source": "TechCrunch",
-      "published_at": "Mon, 31 Aug 2026 18:35:11 +0000",
-      "raw_content": "Blue Voice is trained on department-specific laws, local ordinances, protocols, and guidelines that general-purpose AI tools can't access on the public internet.",
-      "summary": "Blue Voice is trained on department-specific laws, local ordinances, protocols, and guidelines that general-purpose AI tools can't access on the public internet.",
+      "title": "John Deere launched an AI chatbot for farmers",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/987486/john-deere-jd-ai-chatbot",
+      "source": "The Verge",
+      "published_at": "2026-09-01T12:00:52-04:00",
+      "raw_content": "John Deere is testing a new \"JD\" AI assistant that it says can help farmers make more money, with answers about best practices and historical trends that are based on their own data. It uses their \"field, machine and operational data\" to answer questions on topics like equipment settings, fuel usage, or harvest timing. The [&#8230;]",
+      "summary": "John Deere is testing a new \"JD\" AI assistant that it says can help farmers make more money, with answers about best practices and historical trends that are based on their own data. It uses their \"fi",
       "importance": 1.7
+    },
+    {
+      "title": "ChatGPT Health adds Epic integration for clinicians to import patient data",
+      "url": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
+      "source": "TechCrunch",
+      "published_at": "Tue, 01 Sep 2026 17:00:00 +0000",
+      "raw_content": "OpenAI said that the integration provides read-only access to health records for clinicians.",
+      "summary": "OpenAI said that the integration provides read-only access to health records for clinicians.",
+      "importance": 1.65
+    },
+    {
+      "title": "Sequoia-incubated Empirik launches with $21M to predict outages before they happen",
+      "url": "https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen/",
+      "source": "TechCrunch",
+      "published_at": "Tue, 01 Sep 2026 16:31:04 +0000",
+      "raw_content": "The startup wants to do for IT infrastructure what Cursor did for software engineering.",
+      "summary": "The startup wants to do for IT infrastructure what Cursor did for software engineering.",
+      "importance": 1.65
     },
     {
       "title": "Amazon Alexa can now alert you when something new might tempt you to shop",
@@ -56,6 +74,42 @@
       "importance": 1.6
     },
     {
+      "title": "The rise of AI &#8216;civilizations&#8217; and the fall of corporate responsibility",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/987566/ai-civilizations-opeai-hugging-face-hack",
+      "source": "The Verge",
+      "published_at": "2026-09-01T15:02:54-04:00",
+      "raw_content": "Depending on who you ask, developer platform Hugging Face was recently attacked by OpenAI - after it lost control of its own AI tools - or by a succession of AI \"civilizations.\" Welcome to the linguistic battlefield of AI safety, where word choices can shift responsibility for a massive cybersecurity incident from a company to [&#8230;]",
+      "summary": "Depending on who you ask, developer platform Hugging Face was recently attacked by OpenAI - after it lost control of its own AI tools - or by a succession of AI \"civilizations.\" Welcome to the linguis",
+      "importance": 1.6
+    },
+    {
+      "title": "Apple accuses OpenAI of destroying evidence",
+      "url": "https://www.theverge.com/tech/987575/apple-openai-destroying-evidence-trade-secrets-lawsuit",
+      "source": "The Verge",
+      "published_at": "2026-09-01T14:19:26-04:00",
+      "raw_content": "Apple is pushing for \"expedited discovery\" in its legal battle against OpenAI over concerns the company is actively destroying evidence, as reported earlier by Bloomberg. In a filing on Monday, Apple alleges OpenAI only just handed over a MacBook used by a former employee at the center of the lawsuit, which contained discussions about \"destroying [&#8230;]",
+      "summary": "Apple is pushing for \"expedited discovery\" in its legal battle against OpenAI over concerns the company is actively destroying evidence, as reported earlier by Bloomberg. In a filing on Monday, Apple ",
+      "importance": 1.6
+    },
+    {
+      "title": "Google Pics is like Canva, but with even more AI",
+      "url": "https://www.theverge.com/tech/987423/google-pics-ai-image-editor-generator",
+      "source": "The Verge",
+      "published_at": "2026-09-01T12:00:00-04:00",
+      "raw_content": "Google has a new suite of creative design tools for Workspace users called Google Pics, which aims to make editing and generating \"professional-grade\" AI images less cumbersome for businesses. Built around Gemini and the Nano Banana generative AI model, Google Pics is designed to give more granular control over prompt-based image making and manipulation, allowing [&#8230;]",
+      "summary": "Google has a new suite of creative design tools for Workspace users called Google Pics, which aims to make editing and generating \"professional-grade\" AI images less cumbersome for businesses. Built a",
+      "importance": 1.6
+    },
+    {
+      "title": "Google’s answer to Canva is an AI tool where you prompt instead of design",
+      "url": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
+      "source": "TechCrunch",
+      "published_at": "Tue, 01 Sep 2026 17:35:37 +0000",
+      "raw_content": "With Google Pics, Google is pushing deeper into the creative software market dominated by Canva and Adobe, but with a distinctly AI-first approach.",
+      "summary": "With Google Pics, Google is pushing deeper into the creative software market dominated by Canva and Adobe, but with a distinctly AI-first approach.",
+      "importance": 1.55
+    },
+    {
       "title": "Fambot introduces an ‘AI chief of staff’ for families",
       "url": "https://techcrunch.com/2026/09/01/fambot-introduces-an-ai-chief-of-staff-for-families/",
       "source": "TechCrunch",
@@ -65,21 +119,12 @@
       "importance": 1.55
     },
     {
-      "title": "Instagram puts new limits on undisclosed AI profiles",
-      "url": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
+      "title": "The Pentagon now has its own version of ChatGPT and Grok",
+      "url": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
       "source": "TechCrunch",
-      "published_at": "Mon, 31 Aug 2026 19:16:59 +0000",
-      "raw_content": "As frustration over AI influencers has been growing, Instagram is limiting the reach of undisclosed AI profiles.",
-      "summary": "As frustration over AI influencers has been growing, Instagram is limiting the reach of undisclosed AI profiles.",
-      "importance": 1.55
-    },
-    {
-      "title": "Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI chip buildout",
-      "url": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/",
-      "source": "TechCrunch",
-      "published_at": "Mon, 31 Aug 2026 15:15:25 +0000",
-      "raw_content": "Nvidia invests $3.5 billion into Taiwanese chipmaker MediaTek. The deal shows how Nvidia plans to stay essential to AI infrastructure as Big Tech begins to build its own AI chips.",
-      "summary": "Nvidia invests $3.5 billion into Taiwanese chipmaker MediaTek. The deal shows how Nvidia plans to stay essential to AI infrastructure as Big Tech begins to build its own AI chips.",
+      "published_at": "Mon, 31 Aug 2026 20:13:45 +0000",
+      "raw_content": "Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools.",
+      "summary": "Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools.",
       "importance": 1.4
     },
     {
@@ -101,21 +146,12 @@
       "importance": 1.35
     },
     {
-      "title": "Sony Music Publishing and Warner Chappell are suing Anthropic",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
-      "source": "The Verge",
-      "published_at": "2026-08-29T14:19:53-04:00",
-      "raw_content": "Sony Music Publishing and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking damages for \"tens of thousands\" copyrighted works. The companies are asking for up to $150,000 per work, plus up to $25,000 for each instance when identifiable copyright data was stripped. In total, [&#8230;]",
-      "summary": "Sony Music Publishing and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking damages for \"tens of thousands\" copyrighted works. ",
-      "importance": 1.3
-    },
-    {
-      "title": "Clipto uses AI to search terabytes of video and is now valued at $250M",
-      "url": "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/",
+      "title": "Instagram puts new limits on undisclosed AI profiles",
+      "url": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
       "source": "TechCrunch",
-      "published_at": "Mon, 31 Aug 2026 16:00:00 +0000",
-      "raw_content": "The three-year-old startup says it reached $15 million in ARR and profitability before raising its latest $15 million round.",
-      "summary": "The three-year-old startup says it reached $15 million in ARR and profitability before raising its latest $15 million round.",
+      "published_at": "Mon, 31 Aug 2026 19:16:59 +0000",
+      "raw_content": "As frustration over AI influencers has been growing, Instagram is limiting the reach of undisclosed AI profiles.",
+      "summary": "As frustration over AI influencers has been growing, Instagram is limiting the reach of undisclosed AI profiles.",
       "importance": 1.25
     },
     {
@@ -144,42 +180,6 @@
       "raw_content": "Instagram is finally taking steps to address the rise of fake AI-influencer accounts that have gotten harder to spot. It's also renaming the \"AI creator\" label to \"AI-generated profile\" to make it clear when a profile features an AI-generated person that's not a real human being. \"We've heard that people don't like seeing a profile [&#8230;]",
       "summary": "Instagram is finally taking steps to address the rise of fake AI-influencer accounts that have gotten harder to spot. It's also renaming the \"AI creator\" label to \"AI-generated profile\" to make it cle",
       "importance": 1.25
-    },
-    {
-      "title": "Meeting note-taker Circleback adds a free tier to attract more customers",
-      "url": "https://techcrunch.com/2026/08/31/meeting-notetaker-circleback-adds-a-free-tier-to-attract-more-customers/",
-      "source": "TechCrunch",
-      "published_at": "Mon, 31 Aug 2026 12:56:46 +0000",
-      "raw_content": "Circleback is also introducing new pricing plans starting from $14 per month.",
-      "summary": "Circleback is also introducing new pricing plans starting from $14 per month.",
-      "importance": 1.2
-    },
-    {
-      "title": "Anthropic was illegally blacklisted by the Trump administration, court rules",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling",
-      "source": "The Verge",
-      "published_at": "2026-08-27T23:14:06-04:00",
-      "raw_content": "On Thursday, a judge ruled that the Pentagon's blacklisting of Anthropic earlier this year was unconstitutional, delivering the AI lab a win in a monthslong rollercoaster of a battle with the Trump administration. The lawsuit, filed in March in a California district court, accused the Trump administration of unlawfully retaliating against Anthropic for setting \"red [&#8230;]",
-      "summary": "On Thursday, a judge ruled that the Pentagon's blacklisting of Anthropic earlier this year was unconstitutional, delivering the AI lab a win in a monthslong rollercoaster of a battle with the Trump ad",
-      "importance": 1.1
-    },
-    {
-      "title": "Musicians-turned-detectives are hunting for AI grifters",
-      "url": "https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai",
-      "source": "The Verge",
-      "published_at": "2026-08-29T08:00:00-04:00",
-      "raw_content": "As audio-focused generative tools and platforms have gotten more sophisticated, the internet has become increasingly filled with AI-generated music whose melodies and vocals are algorithmically derived from the work of human artists. While some of the people pumping out this kind of content immediately own up to using AI, others have denied using the technology [&#8230;]",
-      "summary": "As audio-focused generative tools and platforms have gotten more sophisticated, the internet has become increasingly filled with AI-generated music whose melodies and vocals are algorithmically derive",
-      "importance": 1.05
-    },
-    {
-      "title": "Trump’s EPA wants to let data centers hide their air pollution",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit",
-      "source": "The Verge",
-      "published_at": "2026-08-28T12:28:40-04:00",
-      "raw_content": "Just as new data centers face growing backlash from neighboring communities, the US Environmental Protection Agency (EPA) is about to make it harder for people to weigh in on any pollution those centers create. The EPA plans to toss out a federal rule requiring public notice and an opportunity to comment when certain industrial sites [&#8230;]",
-      "summary": "Just as new data centers face growing backlash from neighboring communities, the US Environmental Protection Agency (EPA) is about to make it harder for people to weigh in on any pollution those cente",
-      "importance": 1.05
     }
   ]
 }
