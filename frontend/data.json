@@ -1,15 +1,6 @@
 {
-  "generated_at": "2026-09-04T10:35:57.570479+00:00",
+  "generated_at": "2026-09-04T15:45:27.058680+00:00",
   "items": [
-    {
-      "title": "ChatGPT, Grok, and Claude all went down at the same time",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/989503/chatgpt-grok-claude-outage-down",
-      "source": "The Verge",
-      "published_at": "2026-09-03T11:35:14-04:00",
-      "raw_content": "OpenAI's ChatGPT, xAI's Grok, and Anthropic's Claude are back online after they all began experiencing issues around the same time on Thursday. At about 11AM ET, ChatGPT started returning error messages for users trying to use the chatbot, with its status page saying there were \"elevated errors across ChatGPT and Codex.\" In addition to preventing [&#8230;]",
-      "summary": "OpenAI's ChatGPT, xAI's Grok, and Anthropic's Claude are back online after they all began experiencing issues around the same time on Thursday. At about 11AM ET, ChatGPT started returning error messag",
-      "importance": 1.9
-    },
     {
       "title": "Crusoe reportedly raises $3B at a  $30B valuation",
       "url": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
@@ -20,6 +11,15 @@
       "importance": 1.85
     },
     {
+      "title": "Rogue OpenAI agents appear to have organized another attack using a German wiki",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki",
+      "source": "The Verge",
+      "published_at": "2026-09-04T09:34:12-04:00",
+      "raw_content": "A swarm of rogue AI agents from OpenAI reportedly commandeered a German website and transformed it into a messaging board for other agents, with officials staying quiet about the incident for weeks as the company prepared to launch its most advanced model yet, Astra. The finding adds to intensifying concern surrounding oversight at frontier AI [&#8230;]",
+      "summary": "A swarm of rogue AI agents from OpenAI reportedly commandeered a German website and transformed it into a messaging board for other agents, with officials staying quiet about the incident for weeks as",
+      "importance": 1.85
+    },
+    {
       "title": "OpenAI’s next big AI model has ‘entered the AGI era’",
       "url": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
       "source": "The Verge",
@@ -27,6 +27,15 @@
       "raw_content": "OpenAI's next big model is here: GPT-6 Astra. The company calls it a \"generational leap in capability\" for areas like cybersecurity, professional work, software engineering, science, and computer use. As OpenAI announced earlier this week, it's also the first model designated as meeting OpenAI's \"critical cybersecurity capability threshold\" - but the company promises that won't [&#8230;]",
       "summary": "OpenAI's next big model is here: GPT-6 Astra. The company calls it a \"generational leap in capability\" for areas like cybersecurity, professional work, software engineering, science, and computer use.",
       "importance": 1.85
+    },
+    {
+      "title": "Sam Altman apologizes for &#8216;messy&#8217; GPT-6 Astra rollout that’s locked out paying users",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/990060/altman-apologizes-messy-astra-rollout",
+      "source": "The Verge",
+      "published_at": "2026-09-04T06:41:48-04:00",
+      "raw_content": "Just hours after OpenAI launched GPT-6 Astra, CEO Sam Altman was already apologizing for what he describes as a \"messy rollout\" after paying users expecting access to the new frontier model were left waiting. The company hailed the model as a \"generational leap in capability\" on Thursday and described it as the start of \"the [&#8230;]",
+      "summary": "Just hours after OpenAI launched GPT-6 Astra, CEO Sam Altman was already apologizing for what he describes as a \"messy rollout\" after paying users expecting access to the new frontier model were left ",
+      "importance": 1.8
     },
     {
       "title": "OpenAI launches Astra, its powerful (and controversial) new model",
@@ -47,39 +56,12 @@
       "importance": 1.75
     },
     {
-      "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
-      "url": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
-      "source": "TechCrunch",
-      "published_at": "Thu, 03 Sep 2026 12:42:45 +0000",
-      "raw_content": "Nvidia said Hugging Face hosts over 3 million models and is used by over 18 million developers.",
-      "summary": "Nvidia said Hugging Face hosts over 3 million models and is used by over 18 million developers.",
-      "importance": 1.7
-    },
-    {
       "title": "Nvidia launches free tool that links idle computers into a personal AI data center",
       "url": "https://www.theverge.com/ai-artificial-intelligence/989435/nvidia-pair-personal-ai-router-home-local-llm-compute-tool-rtx-macbook",
       "source": "The Verge",
       "published_at": "2026-09-03T12:00:00-04:00",
       "raw_content": "Nvidia is announcing its new Personal AI Router (PAIR), a free tool that syncs up your home computers for tackling local AI inference tasks with tools like Ollama and LM Studio. Let's get the obvious thing out of the way, despite what its name might imply: PAIR is not a hardware router. It's open-source software [&#8230;]",
       "summary": "Nvidia is announcing its new Personal AI Router (PAIR), a free tool that syncs up your home computers for tackling local AI inference tasks with tools like Ollama and LM Studio. Let's get the obvious ",
-      "importance": 1.7
-    },
-    {
-      "title": "Google says its AI weather model is getting better",
-      "url": "https://www.theverge.com/tech/988921/weather-forecast-ai-model-google-satellite-update",
-      "source": "The Verge",
-      "published_at": "2026-09-03T11:00:00-04:00",
-      "raw_content": "Google is rolling out an updated AI weather model that's supposed to be more accurate, especially when it comes to predicting rain and snowfall. In the announcement today, the company says it's now able to make forecasts with \"unprecedented resolution\" using its new WeatherNext 3 AI model. It can produce a global picture that's five [&#8230;]",
-      "summary": "Google is rolling out an updated AI weather model that's supposed to be more accurate, especially when it comes to predicting rain and snowfall. In the announcement today, the company says it's now ab",
-      "importance": 1.7
-    },
-    {
-      "title": "Nvidia is buying Hugging Face for almost $13 billion",
-      "url": "https://www.theverge.com/tech/985474/nvidia-buying-hugging-face-deal",
-      "source": "The Verge",
-      "published_at": "2026-09-03T08:12:06-04:00",
-      "raw_content": "Nvidia has agreed to buy Hugging Face for $12.93 billion, bringing one of the most popular hosting platforms for open-source AI models, datasets, and tools under the ownership of the world's biggest AI chipmaker. Hugging Face is an online platform founded in 2016 that gives AI developers a space to share their projects and data [&#8230;]",
-      "summary": "Nvidia has agreed to buy Hugging Face for $12.93 billion, bringing one of the most popular hosting platforms for open-source AI models, datasets, and tools under the ownership of the world's biggest A",
       "importance": 1.7
     },
     {
@@ -92,12 +74,21 @@
       "importance": 1.65
     },
     {
-      "title": "Google’s latest AI weather model gives you no excuse to forget your umbrella",
-      "url": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
+      "title": "Microsoft’s Project Zenith is a ‘distraction-free Windows experience’ for developers",
+      "url": "https://www.theverge.com/news/990051/microsoft-project-zenith-windows-developers",
+      "source": "The Verge",
+      "published_at": "2026-09-04T06:44:15-04:00",
+      "raw_content": "Microsoft is giving its developer-optimized Windows experience a name: Project Zenith. While the software maker originally announced a similar developer-optimized Windows effort at Build earlier this year, Project Zenith is designed for new developer-focused devices with 64GB or more of unified memory. \"Project Zenith devices come with a preconfigured Windows setup for development and a [&#8230;]",
+      "summary": "Microsoft is giving its developer-optimized Windows experience a name: Project Zenith. While the software maker originally announced a similar developer-optimized Windows effort at Build earlier this ",
+      "importance": 1.65
+    },
+    {
+      "title": "Google’s Gemini Spark can now manage your Google Photos library",
+      "url": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/",
       "source": "TechCrunch",
-      "published_at": "Thu, 03 Sep 2026 15:00:00 +0000",
-      "raw_content": "WeatherNext 3 is the latest wave of a sea change in meteorology brought out by deep learning techniques. Google says it will start feeding into weather information users see in search, Google Maps, and Gemini.",
-      "summary": "WeatherNext 3 is the latest wave of a sea change in meteorology brought out by deep learning techniques. Google says it will start feeding into weather information users see in search, Google Maps, an",
+      "published_at": "Fri, 04 Sep 2026 14:47:11 +0000",
+      "raw_content": "Gemini Spark can edit and curate photo albums, create shared collections, turn photos into calendar events, and handle other Google Photos tasks for AI Pro and Ultra subscribers.",
+      "summary": "Gemini Spark can edit and curate photo albums, create shared collections, turn photos into calendar events, and handle other Google Photos tasks for AI Pro and Ultra subscribers.",
       "importance": 1.6
     },
     {
@@ -107,6 +98,15 @@
       "published_at": "2026-09-03T12:00:00-04:00",
       "raw_content": "Google is rolling out AI-powered voice assistant modes for Gmail, Docs, and Keep that allow you to manage the apps by talking to them. The real time conversational capabilities are called Gmail Live, Docs Live, and Keep Live, and like the Gemini Live experience for Google's chatbot, aim to make it easier to note down [&#8230;]",
       "summary": "Google is rolling out AI-powered voice assistant modes for Gmail, Docs, and Keep that allow you to manage the apps by talking to them. The real time conversational capabilities are called Gmail Live, ",
+      "importance": 1.6
+    },
+    {
+      "title": "ChatGPT, Grok, and Claude all went down at the same time",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/989503/chatgpt-grok-claude-outage-down",
+      "source": "The Verge",
+      "published_at": "2026-09-03T11:35:14-04:00",
+      "raw_content": "OpenAI's ChatGPT, xAI's Grok, and Anthropic's Claude are back online after they all began experiencing issues around the same time on Thursday. At about 11AM ET, ChatGPT started returning error messages for users trying to use the chatbot, with its status page saying there were \"elevated errors across ChatGPT and Codex.\" In addition to preventing [&#8230;]",
+      "summary": "OpenAI's ChatGPT, xAI's Grok, and Anthropic's Claude are back online after they all began experiencing issues around the same time on Thursday. At about 11AM ET, ChatGPT started returning error messag",
       "importance": 1.6
     },
     {
@@ -137,6 +137,33 @@
       "importance": 1.55
     },
     {
+      "title": "Instagram’s AI detection is a mess (again)",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/989617/instagram-ai-content-label-confusion",
+      "source": "The Verge",
+      "published_at": "2026-09-04T08:00:00-04:00",
+      "raw_content": "Instagram's visible AI labels are supposed to help people quickly spot synthetically generated content at a glance. Over the last few weeks, however, users have been reporting that the system has gone haywire. They say Meta has been automatically applying an \"AI Content\" label to images that they didn't create or edit using generative AI [&#8230;]",
+      "summary": "Instagram's visible AI labels are supposed to help people quickly spot synthetically generated content at a glance. Over the last few weeks, however, users have been reporting that the system has gone",
+      "importance": 1.55
+    },
+    {
+      "title": "Why AI food looks like that",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/989376/ai-generated-food-why-does-it-look-like-that",
+      "source": "The Verge",
+      "published_at": "2026-09-04T07:00:00-04:00",
+      "raw_content": "There is a torrent of unappetizing slop coming from restaurants, cafes, and brands that are increasingly turning to AI to generate images promoting their food. The resulting horror show includes donut shrimp, Reubens from the deep, wormlike noodles, and noodle-like pastries and stringy chicken. There's also construction material masquerading as ice cream, ice cream masquerading [&#8230;]",
+      "summary": "There is a torrent of unappetizing slop coming from restaurants, cafes, and brands that are increasingly turning to AI to generate images promoting their food. The resulting horror show includes donut",
+      "importance": 1.55
+    },
+    {
+      "title": "Less than 24 hours to apply for your TechCrunch Disrupt 2026 Side Event",
+      "url": "https://techcrunch.com/2026/09/04/less-than-24-hours-to-apply-for-your-techcrunch-disrupt-2026-side-event/",
+      "source": "TechCrunch",
+      "published_at": "Fri, 04 Sep 2026 14:00:00 +0000",
+      "raw_content": "Less than 24 hours left to apply to host a Side Event during TechCrunch Disrupt 2026 and make your mark in the Silicon Valley scene. Apply before the application closes tonight at midnight PT.",
+      "summary": "Less than 24 hours left to apply to host a Side Event during TechCrunch Disrupt 2026 and make your mark in the Silicon Valley scene. Apply before the application closes tonight at midnight PT.",
+      "importance": 1.5
+    },
+    {
       "title": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
       "url": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/",
       "source": "TechCrunch",
@@ -146,40 +173,13 @@
       "importance": 1.5
     },
     {
-      "title": "Researchers fear safety disaster ahead of OpenAI&#8217;s Astra release",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety",
-      "source": "The Verge",
-      "published_at": "2026-09-02T12:40:50-04:00",
-      "raw_content": "OpenAI is on the cusp of releasing its most powerful AI model yet, Astra, following weeks of delays to shore up safety protocols after its agents attacked real targets during testing. As details about the model trickle out, researchers are warning it \"may be the single worst development for AI security/safety to date.\" Shortly after [&#8230;]",
-      "summary": "OpenAI is on the cusp of releasing its most powerful AI model yet, Astra, following weeks of delays to shore up safety protocols after its agents attacked real targets during testing. As details about",
-      "importance": 1.5
-    },
-    {
-      "title": "Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
-      "source": "The Verge",
-      "published_at": "2026-09-02T16:11:40-04:00",
-      "raw_content": "Google launched Gemini 3.8 Flash, arriving just a few weeks after its predecessor. The company claims the new model \"works harder\" than Gemini 3.7 Flash by performing more reasoning steps on complex tasks and \"calling tools iteratively.\" It has the same introductory pricing as 3.7 Flash, $0.75 per million input tokens and $3.75 per million [&#8230;]",
-      "summary": "Google launched Gemini 3.8 Flash, arriving just a few weeks after its predecessor. The company claims the new model \"works harder\" than Gemini 3.7 Flash by performing more reasoning steps on complex t",
-      "importance": 1.45
-    },
-    {
-      "title": "Amazon’s AI assistant can now spot fake emails from the company",
-      "url": "https://www.theverge.com/tech/988518/amazon-alexa-for-shopping-verify-emails",
-      "source": "The Verge",
-      "published_at": "2026-09-02T13:52:56-04:00",
-      "raw_content": "Amazon is trying to combat impersonation scams with a new feature that allows you to use its AI assistant to determine whether an email, text message, or phone call actually came from the company. With the update, you can ask Alexa for Shopping about a message you received, and it will use AI to compare [&#8230;]",
-      "summary": "Amazon is trying to combat impersonation scams with a new feature that allows you to use its AI assistant to determine whether an email, text message, or phone call actually came from the company. Wit",
-      "importance": 1.25
-    },
-    {
-      "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
+      "title": "Google’s latest AI weather model gives you no excuse to forget your umbrella",
+      "url": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
       "source": "TechCrunch",
-      "published_at": "Wed, 02 Sep 2026 23:01:00 +0000",
-      "raw_content": "The Builders Stage is returning to TechCrunch Disrupt, bringing together founders, startup operators, and investors for practical conversations on what it takes to build and scale.",
-      "summary": "The Builders Stage is returning to TechCrunch Disrupt, bringing together founders, startup operators, and investors for practical conversations on what it takes to build and scale.",
-      "importance": 1.2
+      "published_at": "Thu, 03 Sep 2026 15:00:00 +0000",
+      "raw_content": "WeatherNext 3 is the latest wave of a sea change in meteorology brought out by deep learning techniques. Google says it will start feeding into weather information users see in search, Google Maps, and Gemini.",
+      "summary": "WeatherNext 3 is the latest wave of a sea change in meteorology brought out by deep learning techniques. Google says it will start feeding into weather information users see in search, Google Maps, an",
+      "importance": 1.3
     }
   ]
 }
