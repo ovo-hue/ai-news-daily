@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T10:15:33.125884+00:00",
+  "generated_at": "2026-09-06T14:55:25.718470+00:00",
   "items": [
     {
       "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
@@ -8,15 +8,6 @@
       "published_at": "Sat, 05 Sep 2026 18:05:27 +0000",
       "raw_content": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
       "summary": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
-      "importance": 1.65
-    },
-    {
-      "title": "OpenAI admits to German wiki ‘incident’",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
-      "source": "The Verge",
-      "published_at": "2026-09-05T07:15:55-04:00",
-      "raw_content": "OpenAI says it needs to overhaul how and when it reports instances of AI models attacking real-world targets. The acknowledgement comes as the company manages the fallout from reports that a swarm of its out-of-control agents hijacked a German wiki site. Regarding the \"'wiki incident,' where our agents wrote to several internet sites,\" OpenAI wrote [&#8230;]",
-      "summary": "OpenAI says it needs to overhaul how and when it reports instances of AI models attacking real-world targets. The acknowledgement comes as the company manages the fallout from reports that a swarm of ",
       "importance": 1.65
     },
     {
@@ -125,6 +116,15 @@
       "published_at": "Fri, 04 Sep 2026 16:21:11 +0000",
       "raw_content": "It's the latest failure of OpenAI's internal monitoring and security systems.",
       "summary": "It's the latest failure of OpenAI's internal monitoring and security systems.",
+      "importance": 1.35
+    },
+    {
+      "title": "OpenAI admits to German wiki ‘incident’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
+      "source": "The Verge",
+      "published_at": "2026-09-05T07:15:55-04:00",
+      "raw_content": "OpenAI says it needs to overhaul how and when it reports instances of AI models attacking real-world targets. The acknowledgement comes as the company manages the fallout from reports that a swarm of its out-of-control agents hijacked a German wiki site. Regarding the \"'wiki incident,' where our agents wrote to several internet sites,\" OpenAI wrote [&#8230;]",
+      "summary": "OpenAI says it needs to overhaul how and when it reports instances of AI models attacking real-world targets. The acknowledgement comes as the company manages the fallout from reports that a swarm of ",
       "importance": 1.35
     },
     {
