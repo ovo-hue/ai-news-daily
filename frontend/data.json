@@ -1,15 +1,6 @@
 {
-  "generated_at": "2026-09-06T14:55:25.718470+00:00",
+  "generated_at": "2026-09-06T20:00:00.139099+00:00",
   "items": [
-    {
-      "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
-      "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
-      "source": "TechCrunch",
-      "published_at": "Sat, 05 Sep 2026 18:05:27 +0000",
-      "raw_content": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
-      "summary": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
-      "importance": 1.65
-    },
     {
       "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
       "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
@@ -17,15 +8,6 @@
       "published_at": "Sat, 05 Sep 2026 22:49:55 +0000",
       "raw_content": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
       "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
-      "importance": 1.6
-    },
-    {
-      "title": "Hikers rescued after using Google Gemini for planning",
-      "url": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
-      "source": "TechCrunch",
-      "published_at": "Sat, 05 Sep 2026 19:35:24 +0000",
-      "raw_content": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"",
-      "summary": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"",
       "importance": 1.6
     },
     {
@@ -38,21 +20,21 @@
       "importance": 1.6
     },
     {
+      "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
+      "url": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
+      "source": "TechCrunch",
+      "published_at": "Sun, 06 Sep 2026 16:45:00 +0000",
+      "raw_content": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\"",
+      "summary": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\"",
+      "importance": 1.55
+    },
+    {
       "title": "Rogue OpenAI agents appear to have organized another attack using a German wiki",
       "url": "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki",
       "source": "The Verge",
       "published_at": "2026-09-04T09:34:12-04:00",
       "raw_content": "A swarm of rogue AI agents from OpenAI reportedly commandeered a German website and transformed it into a messaging board for other agents, with officials staying quiet about the incident for weeks as the company prepared to launch its most advanced model yet, Astra. The finding adds to intensifying concern surrounding oversight at frontier AI [&#8230;]",
       "summary": "A swarm of rogue AI agents from OpenAI reportedly commandeered a German website and transformed it into a messaging board for other agents, with officials staying quiet about the incident for weeks as",
-      "importance": 1.55
-    },
-    {
-      "title": "OpenAI’s next big AI model has ‘entered the AGI era’",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
-      "source": "The Verge",
-      "published_at": "2026-09-03T14:00:00-04:00",
-      "raw_content": "OpenAI's next big model is here: GPT-6 Astra. The company calls it a \"generational leap in capability\" for areas like cybersecurity, professional work, software engineering, science, and computer use. As OpenAI announced earlier this week, it's also the first model designated as meeting OpenAI's \"critical cybersecurity capability threshold\" - but the company promises that won't [&#8230;]",
-      "summary": "OpenAI's next big model is here: GPT-6 Astra. The company calls it a \"generational leap in capability\" for areas like cybersecurity, professional work, software engineering, science, and computer use.",
       "importance": 1.55
     },
     {
@@ -101,6 +83,15 @@
       "importance": 1.4
     },
     {
+      "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
+      "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
+      "source": "TechCrunch",
+      "published_at": "Sat, 05 Sep 2026 18:05:27 +0000",
+      "raw_content": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
+      "summary": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
+      "importance": 1.35
+    },
+    {
       "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
       "url": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
       "source": "TechCrunch",
@@ -137,12 +128,21 @@
       "importance": 1.35
     },
     {
-      "title": "Google’s Gemini Spark can now manage your Google Photos library",
-      "url": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/",
+      "title": "OpenAI’s next big AI model has ‘entered the AGI era’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
+      "source": "The Verge",
+      "published_at": "2026-09-03T14:00:00-04:00",
+      "raw_content": "OpenAI's next big model is here: GPT-6 Astra. The company calls it a \"generational leap in capability\" for areas like cybersecurity, professional work, software engineering, science, and computer use. As OpenAI announced earlier this week, it's also the first model designated as meeting OpenAI's \"critical cybersecurity capability threshold\" - but the company promises that won't [&#8230;]",
+      "summary": "OpenAI's next big model is here: GPT-6 Astra. The company calls it a \"generational leap in capability\" for areas like cybersecurity, professional work, software engineering, science, and computer use.",
+      "importance": 1.35
+    },
+    {
+      "title": "Hikers rescued after using Google Gemini for planning",
+      "url": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
       "source": "TechCrunch",
-      "published_at": "Fri, 04 Sep 2026 14:47:11 +0000",
-      "raw_content": "Gemini Spark can edit and curate photo albums, create shared collections, turn photos into calendar events, and handle other Google Photos tasks for AI Pro and Ultra subscribers.",
-      "summary": "Gemini Spark can edit and curate photo albums, create shared collections, turn photos into calendar events, and handle other Google Photos tasks for AI Pro and Ultra subscribers.",
+      "published_at": "Sat, 05 Sep 2026 19:35:24 +0000",
+      "raw_content": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"",
+      "summary": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"",
       "importance": 1.3
     },
     {
