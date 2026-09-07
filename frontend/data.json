@@ -1,15 +1,6 @@
 {
-  "generated_at": "2026-09-07T17:15:02.245827+00:00",
+  "generated_at": "2026-09-07T21:07:03.883492+00:00",
   "items": [
-    {
-      "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
-      "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
-      "source": "TechCrunch",
-      "published_at": "Sun, 06 Sep 2026 20:47:37 +0000",
-      "raw_content": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
-      "summary": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
-      "importance": 1.65
-    },
     {
       "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
       "url": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
@@ -29,7 +20,16 @@
       "importance": 1.6
     },
     {
-      "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
+      "title": "Opaque recurrence, and other AI terms that you should probably know",
+      "url": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "source": "TechCrunch",
+      "published_at": "Mon, 07 Sep 2026 19:24:00 +0000",
+      "raw_content": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+      "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+      "importance": 1.55
+    },
+    {
+      "title": "XDOF, just 3 months out of stealth, is in talks for a Series B at a $1.2B valuation",
       "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
       "source": "TechCrunch",
       "published_at": "Fri, 04 Sep 2026 23:36:14 +0000",
@@ -38,13 +38,13 @@
       "importance": 1.4
     },
     {
-      "title": "What will Apple’s John Ternus era look like?",
-      "url": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
+      "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
+      "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
       "source": "TechCrunch",
-      "published_at": "Fri, 04 Sep 2026 17:18:00 +0000",
-      "raw_content": "It&#8217;s&#160;officially the Ternus era at Apple.&#160;&#160; Tim Cook stepped down&#160;as CEO this week, handing the company to former hardware chief John Ternus, whose first memo&#160;promised a “huge launch next week”&#160;— timing that puts Apple&#8217;s next iPhone event on his desk before&#160;he&#8217;s&#160;even settled in. Cook&#160;isn&#8217;t&#160;going far, though:&#160;he&#8217;s&#160;staying on as Executive&#160;Chairman, focused on the kind of policy [&#8230;]",
-      "summary": "It&#8217;s&#160;officially the Ternus era at Apple.&#160;&#160; Tim Cook stepped down&#160;as CEO this week, handing the company to former hardware chief John Ternus, whose first memo&#160;promised a ",
-      "importance": 1.4
+      "published_at": "Sun, 06 Sep 2026 20:47:37 +0000",
+      "raw_content": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
+      "summary": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
+      "importance": 1.35
     },
     {
       "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
@@ -119,15 +119,6 @@
       "importance": 1.25
     },
     {
-      "title": "Roland is getting into generative AI music with Melody Flip",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip",
-      "source": "The Verge",
-      "published_at": "2026-09-04T13:51:35-04:00",
-      "raw_content": "It's not quite the \"push button; get song\" of Suno, but Roland's new Melody Flip tool marks the company's foray into generative AI music. Available as a plug-in for your digital audio workstation (DAW), Melody Flip offers around 250 \"Palettes,\" which are essentially themed collections of musical ideas sorted by genre. You can start from [&#8230;]",
-      "summary": "It's not quite the \"push button; get song\" of Suno, but Roland's new Melody Flip tool marks the company's foray into generative AI music. Available as a plug-in for your digital audio workstation (DAW",
-      "importance": 1.25
-    },
-    {
       "title": "This NAS company wants to run your local smart home",
       "url": "https://www.theverge.com/tech/990006/this-nas-company-wants-to-run-your-local-smart-home",
       "source": "The Verge",
@@ -137,13 +128,13 @@
       "importance": 1.25
     },
     {
-      "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
-      "url": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
+      "title": "What will Apple’s John Ternus era look like?",
+      "url": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
       "source": "TechCrunch",
-      "published_at": "Fri, 04 Sep 2026 16:21:11 +0000",
-      "raw_content": "It's the latest failure of OpenAI's internal monitoring and security systems.",
-      "summary": "It's the latest failure of OpenAI's internal monitoring and security systems.",
-      "importance": 1.15
+      "published_at": "Fri, 04 Sep 2026 17:18:00 +0000",
+      "raw_content": "It&#8217;s&#160;officially the Ternus era at Apple.&#160;&#160; Tim Cook stepped down&#160;as CEO this week, handing the company to former hardware chief John Ternus, whose first memo&#160;promised a “huge launch next week”&#160;— timing that puts Apple&#8217;s next iPhone event on his desk before&#160;he&#8217;s&#160;even settled in. Cook&#160;isn&#8217;t&#160;going far, though:&#160;he&#8217;s&#160;staying on as Executive&#160;Chairman, focused on the kind of policy [&#8230;]",
+      "summary": "It&#8217;s&#160;officially the Ternus era at Apple.&#160;&#160; Tim Cook stepped down&#160;as CEO this week, handing the company to former hardware chief John Ternus, whose first memo&#160;promised a ",
+      "importance": 1.2
     },
     {
       "title": "Microsoft’s Project Zenith is a ‘distraction-free Windows experience’ for developers",
@@ -153,6 +144,15 @@
       "raw_content": "Microsoft is giving its developer-optimized Windows experience a name: Project Zenith. While the software maker originally announced a similar developer-optimized Windows effort at Build earlier this year, Project Zenith is designed for new developer-focused devices with 64GB or more of unified memory. \"Project Zenith devices come with a preconfigured Windows setup for development and a [&#8230;]",
       "summary": "Microsoft is giving its developer-optimized Windows experience a name: Project Zenith. While the software maker originally announced a similar developer-optimized Windows effort at Build earlier this ",
       "importance": 1.15
+    },
+    {
+      "title": "Roland is getting into generative AI music with Melody Flip",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip",
+      "source": "The Verge",
+      "published_at": "2026-09-04T13:51:35-04:00",
+      "raw_content": "It's not quite the \"push button; get song\" of Suno, but Roland's new Melody Flip tool marks the company's foray into generative AI music. Available as a plug-in for your digital audio workstation (DAW), Melody Flip offers around 250 \"Palettes,\" which are essentially themed collections of musical ideas sorted by genre. You can start from [&#8230;]",
+      "summary": "It's not quite the \"push button; get song\" of Suno, but Roland's new Melody Flip tool marks the company's foray into generative AI music. Available as a plug-in for your digital audio workstation (DAW",
+      "importance": 1.05
     },
     {
       "title": "Microsoft says virtually nobody was grabbing NYT articles through its chatbot",
