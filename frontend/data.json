@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-09-06T20:00:00.139099+00:00",
+  "generated_at": "2026-09-07T02:54:35.720119+00:00",
   "items": [
     {
-      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
-      "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+      "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
+      "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
       "source": "TechCrunch",
-      "published_at": "Sat, 05 Sep 2026 22:49:55 +0000",
-      "raw_content": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
-      "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
-      "importance": 1.6
+      "published_at": "Sun, 06 Sep 2026 20:47:37 +0000",
+      "raw_content": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
+      "summary": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
+      "importance": 1.65
     },
     {
       "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
@@ -17,6 +17,15 @@
       "published_at": "Fri, 04 Sep 2026 21:12:11 +0000",
       "raw_content": "Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO.",
       "summary": "Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO.",
+      "importance": 1.6
+    },
+    {
+      "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
+      "source": "The Verge",
+      "published_at": "2026-09-06T19:36:04-04:00",
+      "raw_content": "The Seattle Times and Newsday are just the latest plaintiffs to take OpenAI to court, alleging copyright infringement. The two outlets say the company used their journalism as training data for its AI models without permission and often reproduces passages from their reporting in response to user queries. This is similar to lawsuits filed by [&#8230;]",
+      "summary": "The Seattle Times and Newsday are just the latest plaintiffs to take OpenAI to court, alleging copyright infringement. The two outlets say the company used their journalism as training data for its AI",
       "importance": 1.6
     },
     {
@@ -74,15 +83,6 @@
       "importance": 1.4
     },
     {
-      "title": "Apple’s Ternus era begins as Nvidia bets on the whole AI stack",
-      "url": "https://techcrunch.com/podcast/apples-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack/",
-      "source": "TechCrunch",
-      "published_at": "Fri, 04 Sep 2026 16:04:08 +0000",
-      "raw_content": "It&#8217;s&#160;officially the Ternus era at Apple.&#160;&#160; Tim Cook stepped down&#160;as CEO this week, handing the company to former hardware chief John Ternus, whose first memo&#160;promised a “huge launch next week”&#160;— timing that puts Apple&#8217;s next iPhone event on his desk before&#160;he&#8217;s&#160;even settled in. Cook&#160;isn&#8217;t&#160;going far, though:&#160;he&#8217;s&#160;staying on as Executive&#160;Chairman, focused on the kind of policy [&#8230;]",
-      "summary": "It&#8217;s&#160;officially the Ternus era at Apple.&#160;&#160; Tim Cook stepped down&#160;as CEO this week, handing the company to former hardware chief John Ternus, whose first memo&#160;promised a ",
-      "importance": 1.4
-    },
-    {
       "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
       "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
       "source": "TechCrunch",
@@ -128,13 +128,13 @@
       "importance": 1.35
     },
     {
-      "title": "OpenAI’s next big AI model has ‘entered the AGI era’",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
-      "source": "The Verge",
-      "published_at": "2026-09-03T14:00:00-04:00",
-      "raw_content": "OpenAI's next big model is here: GPT-6 Astra. The company calls it a \"generational leap in capability\" for areas like cybersecurity, professional work, software engineering, science, and computer use. As OpenAI announced earlier this week, it's also the first model designated as meeting OpenAI's \"critical cybersecurity capability threshold\" - but the company promises that won't [&#8230;]",
-      "summary": "OpenAI's next big model is here: GPT-6 Astra. The company calls it a \"generational leap in capability\" for areas like cybersecurity, professional work, software engineering, science, and computer use.",
-      "importance": 1.35
+      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+      "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+      "source": "TechCrunch",
+      "published_at": "Sat, 05 Sep 2026 22:49:55 +0000",
+      "raw_content": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
+      "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
+      "importance": 1.3
     },
     {
       "title": "Hikers rescued after using Google Gemini for planning",
