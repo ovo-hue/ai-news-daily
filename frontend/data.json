@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T03:05:56.669093+00:00",
+  "generated_at": "2026-09-09T10:45:35.900681+00:00",
   "items": [
     {
       "title": "Mistral raises €3B as sovereign AI becomes big business",
@@ -71,6 +71,15 @@
       "published_at": "Tue, 08 Sep 2026 17:32:15 +0000",
       "raw_content": "There is a $1 million bounty for the first person providing a solution to the Navier-Stokes existence and smoothness problem.",
       "summary": "There is a $1 million bounty for the first person providing a solution to the Navier-Stokes existence and smoothness problem.",
+      "importance": 1.6
+    },
+    {
+      "title": "Worried Anthropic researchers warn that AI &#8216;could kill all humans&#8217;",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/991927/anthropic-ai-kill-all-humans",
+      "source": "The Verge",
+      "published_at": "2026-09-09T05:56:28-04:00",
+      "raw_content": "A senior Anthropic safety researcher has said there is more than a 10 percent chance artificial intelligence \"could kill all humans\" by the end of the decade, just hours after a colleague resigned over fears the AI lab and its rivals are carelessly racing to build \"superhuman systems\" they cannot control. In a post on [&#8230;]",
+      "summary": "A senior Anthropic safety researcher has said there is more than a 10 percent chance artificial intelligence \"could kill all humans\" by the end of the decade, just hours after a colleague resigned ove",
       "importance": 1.6
     },
     {
@@ -170,15 +179,6 @@
       "published_at": "2026-09-04T13:51:35-04:00",
       "raw_content": "It's not quite the \"push button; get song\" of Suno, but Roland's new Melody Flip tool marks the company's foray into generative AI music. Available as a plug-in for your digital audio workstation (DAW), Melody Flip offers around 250 \"Palettes,\" which are essentially themed collections of musical ideas sorted by genre. You can start from [&#8230;]",
       "summary": "It's not quite the \"push button; get song\" of Suno, but Roland's new Melody Flip tool marks the company's foray into generative AI music. Available as a plug-in for your digital audio workstation (DAW",
-      "importance": 1.05
-    },
-    {
-      "title": "Microsoft says virtually nobody was grabbing NYT articles through its chatbot",
-      "url": "https://www.theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit",
-      "source": "The Verge",
-      "published_at": "2026-09-04T12:05:57-04:00",
-      "raw_content": "Microsoft's Copilot rarely reproduces even full sentences from news articles and books, let alone substantive chunks that could substitute for the original, the company says in new legal filings as it fights copyright claims from publishers including The New York Times and book authors. As part of the lawsuit's discovery, Microsoft provided 8.2 million Copilot [&#8230;]",
-      "summary": "Microsoft's Copilot rarely reproduces even full sentences from news articles and books, let alone substantive chunks that could substitute for the original, the company says in new legal filings as it",
       "importance": 1.05
     }
   ]
