@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T10:37:10.494102+00:00",
+  "generated_at": "2026-09-10T15:50:01.486671+00:00",
   "items": [
     {
       "title": "Read the Apple document explaining how new listening features still protect your privacy",
@@ -20,13 +20,22 @@
       "importance": 1.9
     },
     {
-      "title": "Amazon Prime Video’s new AI tech matches lips to dubbed audio",
-      "url": "https://www.theverge.com/tech/991809/amazon-prime-video-ai-lip-sync-dubbing",
+      "title": "Universal Music is launching an AI music platform with ElevenLabs",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/993465/universal-music-elevenlabs-ai",
       "source": "The Verge",
-      "published_at": "2026-09-09T09:00:00-04:00",
-      "raw_content": "Amazon's Prime Video is launching a new AI-powered feature that lines up an actor's mouth with \"human-dubbed\" audio. The feature is only available with the English dub of the German series Maxton Hall for now, but Prime Video plans to expand it to \"additional titles\" in the future. In its announcement, Prime Video says it [&#8230;]",
-      "summary": "Amazon's Prime Video is launching a new AI-powered feature that lines up an actor's mouth with \"human-dubbed\" audio. The feature is only available with the English dub of the German series Maxton Hall",
+      "published_at": "2026-09-10T11:38:19-04:00",
+      "raw_content": "Universal Music Group is launching a new AI-powered platform that will allow users to draw from its catalog of licensed music to create song remixes, mashups, and new takes on tracks, according to an announcement on Thursday. The record label is developing the platform through a multi-year licensing agreement with ElevenLabs, a company that specializes [&#8230;]",
+      "summary": "Universal Music Group is launching a new AI-powered platform that will allow users to draw from its catalog of licensed music to create song remixes, mashups, and new takes on tracks, according to an ",
       "importance": 1.85
+    },
+    {
+      "title": "Meta’s Muse AI works and creeps me out",
+      "url": "https://www.theverge.com/tech/993391/meta-muse-ai-hands-on",
+      "source": "The Verge",
+      "published_at": "2026-09-10T11:00:00-04:00",
+      "raw_content": "Meta has launched its new Muse assistant, marking the company's first real foray into AI-powered productivity tools. The company says its AI agent can \"take the busywork off your plate\" by helping you with online shopping, emails, trip-planning, and more. I decided to try out the new tool and see how well it performed - [&#8230;]",
+      "summary": "Meta has launched its new Muse assistant, marking the company's first real foray into AI-powered productivity tools. The company says its AI agent can \"take the busywork off your plate\" by helping you",
+      "importance": 1.75
     },
     {
       "title": "Apple Watch’s new AI features are normalizing the idea that technology is always listening",
@@ -74,6 +83,15 @@
       "importance": 1.7
     },
     {
+      "title": "AI agents are flooding public services with new requests",
+      "url": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/",
+      "source": "TechCrunch",
+      "published_at": "Thu, 10 Sep 2026 14:53:50 +0000",
+      "raw_content": "“The vast majority of cases we find are people who are entitled to claim for something, claiming for that thing,” the researcher told TechCrunch.",
+      "summary": "“The vast majority of cases we find are people who are entitled to claim for something, claiming for that thing,” the researcher told TechCrunch.",
+      "importance": 1.6
+    },
+    {
       "title": "OpenAI adds a prominent AI doomer to its board of directors",
       "url": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
       "source": "TechCrunch",
@@ -83,12 +101,12 @@
       "importance": 1.6
     },
     {
-      "title": "Superintelligence is coming. Should we let it?",
-      "url": "https://techcrunch.com/video/superintelligence-is-coming-should-we-let-it/",
-      "source": "TechCrunch",
-      "published_at": "Wed, 09 Sep 2026 16:05:35 +0000",
-      "raw_content": "AI companies have been talking about superintelligent AI like&#160;it&#8217;s&#160;inevitable, but recent&#160;safety incidents&#160;like&#160;OpenAI&#8217;s&#160;Hugging Face breach&#160;are&#160;demonstrating&#160;the potential dangers of deploying AI systems that are more capable than&#160;humans.&#160;So&#160;what happens when we&#160;can&#8217;t&#160;reliably control what these systems do?&#160; On this episode of TechCrunch&#8217;s&#160;Equity&#160;podcast, Rebecca Bellan is joined by&#160;Connor Leahy, an AI researcher, entrepreneur, and now the U.S. Executive Director of [&#8230;]",
-      "summary": "AI companies have been talking about superintelligent AI like&#160;it&#8217;s&#160;inevitable, but recent&#160;safety incidents&#160;like&#160;OpenAI&#8217;s&#160;Hugging Face breach&#160;are&#160;dem",
+      "title": "Mathematicians want proof OpenAI didn’t use their work",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/993263/where-does-openai-get-mathematics-training-data",
+      "source": "The Verge",
+      "published_at": "2026-09-10T07:00:57-04:00",
+      "raw_content": "Another researcher is challenging OpenAI about the data driving its increasingly impressive array of mathematical discoveries. Just days after a bitter row erupted over whether the company's models benefited from unpublished work, a second mathematician has come forward accusing the AI giant of unethical and \"dishonest\" behavior and a lack of transparency about the origins [&#8230;]",
+      "summary": "Another researcher is challenging OpenAI about the data driving its increasingly impressive array of mathematical discoveries. Just days after a bitter row erupted over whether the company's models be",
       "importance": 1.6
     },
     {
@@ -119,22 +137,22 @@
       "importance": 1.55
     },
     {
-      "title": "Apple CEO John Ternus says the best AI device is still the iPhone",
-      "url": "https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone/",
-      "source": "TechCrunch",
-      "published_at": "Wed, 09 Sep 2026 17:36:05 +0000",
-      "raw_content": "The company also argued that its on-device models offer consumers more privacy.",
-      "summary": "The company also argued that its on-device models offer consumers more privacy.",
+      "title": "Amazon Prime Video’s new AI tech matches lips to dubbed audio",
+      "url": "https://www.theverge.com/tech/991809/amazon-prime-video-ai-lip-sync-dubbing",
+      "source": "The Verge",
+      "published_at": "2026-09-09T09:00:00-04:00",
+      "raw_content": "Amazon's Prime Video is launching a new AI-powered feature that lines up an actor's mouth with \"human-dubbed\" audio. The feature is only available with the English dub of the German series Maxton Hall for now, but Prime Video plans to expand it to \"additional titles\" in the future. In its announcement, Prime Video says it [&#8230;]",
+      "summary": "Amazon's Prime Video is launching a new AI-powered feature that lines up an actor's mouth with \"human-dubbed\" audio. The feature is only available with the English dub of the German series Maxton Hall",
       "importance": 1.55
     },
     {
-      "title": "Students who use AI generally score worse at school",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/991956/student-ai-use-scores-oecd-pisa",
-      "source": "The Verge",
-      "published_at": "2026-09-09T08:05:01-04:00",
-      "raw_content": "Students who use AI to help them study tend to perform worse at school than those who don't, according to data from a global OECD educational report. The situation is more complex than it sounds though, with certain types of AI use giving learners a slight boost, especially among students taught to critically assess how [&#8230;]",
-      "summary": "Students who use AI to help them study tend to perform worse at school than those who don't, according to data from a global OECD educational report. The situation is more complex than it sounds thoug",
-      "importance": 1.55
+      "title": "Maven Robotics wants to steal your robot deployment deal",
+      "url": "https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/",
+      "source": "TechCrunch",
+      "published_at": "Thu, 10 Sep 2026 14:17:37 +0000",
+      "raw_content": "Maven Robotics emerged from stealth today with a $100 million Series A and active deployments.",
+      "summary": "Maven Robotics emerged from stealth today with a $100 million Series A and active deployments.",
+      "importance": 1.5
     },
     {
       "title": "Massachusetts hits data centers with new clean power rules",
@@ -155,31 +173,13 @@
       "importance": 1.5
     },
     {
-      "title": "ChatGPT Sketch turns your bad drawings into detailed AI images",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch",
+      "title": "Why the current tech backlash feels different",
+      "url": "https://www.theverge.com/podcast/992141/decoder-mailbag-ai-backlash-surveillance-midterms-data-centers",
       "source": "The Verge",
-      "published_at": "2026-09-08T16:16:09-04:00",
-      "raw_content": "OpenAI announced ChatGPT Images 2.5 on Tuesday and is adding a new way to tell ChatGPT what you want it to make an image of: by drawing a doodle. With a new feature called Sketch, you can just draw something right inside ChatGPT and then tell ChatGPT how you want it to make an image [&#8230;]",
-      "summary": "OpenAI announced ChatGPT Images 2.5 on Tuesday and is adding a new way to tell ChatGPT what you want it to make an image of: by drawing a doodle. With a new feature called Sketch, you can just draw so",
+      "published_at": "2026-09-10T10:00:00-04:00",
+      "raw_content": "This interview has been lightly edited for length and clarity.&#160; Nick Statt: Hello and welcome to Decoder, Nilay&#8217;s show about big ideas and other problems. This is Nick Statt, senior producer. And I&#8217;m joined by our brand-new supervising producer, Greg Ott. Greg Ott: Good day, everyone. And Hi, Nilay. Nilay is here too. He is [&#8230;]",
+      "summary": "This interview has been lightly edited for length and clarity.&#160; Nick Statt: Hello and welcome to Decoder, Nilay&#8217;s show about big ideas and other problems. This is Nick Statt, senior produce",
       "importance": 1.5
-    },
-    {
-      "title": "Drama swirls around OpenAI’s legendary mathematical milestone",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution",
-      "source": "The Verge",
-      "published_at": "2026-09-08T16:53:52-04:00",
-      "raw_content": "OpenAI says it found a solution to a major math problem that has remained unsolved for around 90 years, as reported earlier by The New York Times and Wired. In a blog post on Tuesday, OpenAI announced that it discovered a solution to the Navier-Stokes problem - which relates to the flow of liquid and [&#8230;]",
-      "summary": "OpenAI says it found a solution to a major math problem that has remained unsolved for around 90 years, as reported earlier by The New York Times and Wired. In a blog post on Tuesday, OpenAI announced",
-      "importance": 1.45
-    },
-    {
-      "title": "Worried Anthropic researchers warn that AI &#8216;could kill all humans&#8217;",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/991927/anthropic-ai-kill-all-humans",
-      "source": "The Verge",
-      "published_at": "2026-09-09T05:56:28-04:00",
-      "raw_content": "A senior Anthropic safety researcher has said there is more than a 10 percent chance artificial intelligence \"could kill all humans\" by the end of the decade, just hours after a colleague resigned over fears the AI lab and its rivals are carelessly racing to build \"superhuman systems\" they cannot control. In a post on [&#8230;]",
-      "summary": "A senior Anthropic safety researcher has said there is more than a 10 percent chance artificial intelligence \"could kill all humans\" by the end of the decade, just hours after a colleague resigned ove",
-      "importance": 1.3
     }
   ]
 }
