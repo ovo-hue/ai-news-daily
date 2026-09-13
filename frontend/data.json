@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-13T15:37:01.667132+00:00",
+  "generated_at": "2026-09-13T20:19:14.491144+00:00",
   "items": [
     {
-      "title": "Anthropic CEO outlines plan to slow AI development",
-      "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
-      "source": "TechCrunch",
-      "published_at": "Sat, 12 Sep 2026 19:34:44 +0000",
-      "raw_content": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?",
-      "summary": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?",
+      "title": "Trump and Mike Johnson think the AI industry is overreacting",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
+      "source": "The Verge",
+      "published_at": "2026-09-13T15:41:48-04:00",
+      "raw_content": "Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time to \"pace the frontier\" and slow down AI development. OpenAI's Sam Altman and Elon Musk both agreed, publicly voicing their support on X. Even Alphabet's Demis Hassabis offered tentative support for Amodei's proposal. Donald Trump and House Speaker Mike Johnson, however, [&#8230;]",
+      "summary": "Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time to \"pace the frontier\" and slow down AI development. OpenAI's Sam Altman and Elon Musk both agreed, publicly vo",
       "importance": 1.65
     },
     {
@@ -38,13 +38,22 @@
       "importance": 1.6
     },
     {
-      "title": "Anthropic CEO says it’s time to pump the brakes on AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
-      "source": "The Verge",
-      "published_at": "2026-09-12T12:23:40-04:00",
-      "raw_content": "Anthropic CEO Dario Amodei says the time has come to slow down AI development and will give third-party evaluators like METR access to its models to help ensure its \"adherence to safety practices and commitments.\" In a winding essay, Amodei proposed a three-step plan to \"pace the frontier\" - jargon that simply means to slow [&#8230;]",
-      "summary": "Anthropic CEO Dario Amodei says the time has come to slow down AI development and will give third-party evaluators like METR access to its models to help ensure its \"adherence to safety practices and ",
-      "importance": 1.6
+      "title": "What’s behind the AI industry’s latest warnings of doom?",
+      "url": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
+      "source": "TechCrunch",
+      "published_at": "Sun, 13 Sep 2026 19:40:15 +0000",
+      "raw_content": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity.",
+      "summary": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity.",
+      "importance": 1.55
+    },
+    {
+      "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
+      "url": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
+      "source": "TechCrunch",
+      "published_at": "Sun, 13 Sep 2026 16:30:00 +0000",
+      "raw_content": "Obama recently said that Democrats need to make artificial intelligence one of their “central agendas” and “have a very clear plan” to address concerns around the technology’s economic impact and safety.",
+      "summary": "Obama recently said that Democrats need to make artificial intelligence one of their “central agendas” and “have a very clear plan” to address concerns around the technology’s economic impact and safe",
+      "importance": 1.55
     },
     {
       "title": "Anthropic spent this week in hot water over cybersecurity",
@@ -74,6 +83,15 @@
       "importance": 1.4
     },
     {
+      "title": "Anthropic CEO outlines plan to slow AI development",
+      "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+      "source": "TechCrunch",
+      "published_at": "Sat, 12 Sep 2026 19:34:44 +0000",
+      "raw_content": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?",
+      "summary": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?",
+      "importance": 1.35
+    },
+    {
       "title": "OpenAI’s feud with mathematicians is only escalating",
       "url": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
       "source": "TechCrunch",
@@ -83,21 +101,12 @@
       "importance": 1.3
     },
     {
-      "title": "An Anthropic researcher’s doomsday warning comes at a very interesting time",
-      "url": "https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time/",
-      "source": "TechCrunch",
-      "published_at": "Fri, 11 Sep 2026 18:41:49 +0000",
-      "raw_content": "An Anthropic researcher resigned this week,&#160;warning in a post on X&#160;that the company is “racing straight to self-improving superintelligence and gambling with our lives”.&#160;The company&#8217;s own alignment&#160;lead&#160;even&#160;co-signed the message&#160;rather than walking it back.&#160;It&#8217;s&#160;the kind of&#160;doomer&#160;warning the AI industry has flirted with before, but the timing, with Anthropic reportedly&#160;preparing for&#160;an IPO, makes it land differently.&#160; On [&#8230;]",
-      "summary": "An Anthropic researcher resigned this week,&#160;warning in a post on X&#160;that the company is “racing straight to self-improving superintelligence and gambling with our lives”.&#160;The company&#82",
-      "importance": 1.3
-    },
-    {
-      "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
-      "url": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
-      "source": "TechCrunch",
-      "published_at": "Fri, 11 Sep 2026 16:46:25 +0000",
-      "raw_content": "The No. 2 exec at OpenAI also led Instacart through its IPO in 2023.",
-      "summary": "The No. 2 exec at OpenAI also led Instacart through its IPO in 2023.",
+      "title": "Anthropic CEO says it’s time to pump the brakes on AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
+      "source": "The Verge",
+      "published_at": "2026-09-12T12:23:40-04:00",
+      "raw_content": "Anthropic CEO Dario Amodei says the time has come to slow down AI development and will give third-party evaluators like METR access to its models to help ensure its \"adherence to safety practices and commitments.\" In a winding essay, Amodei proposed a three-step plan to \"pace the frontier\" - jargon that simply means to slow [&#8230;]",
+      "summary": "Anthropic CEO Dario Amodei says the time has come to slow down AI development and will give third-party evaluators like METR access to its models to help ensure its \"adherence to safety practices and ",
       "importance": 1.3
     },
     {
@@ -152,15 +161,6 @@
       "published_at": "2026-09-10T17:25:21-04:00",
       "raw_content": "A new feature coming to Slack will allow you to build interactive reports, polls, dashboards, presentations, microsites, and other tools directly inside a chat. With Slackforce Surfaces, you can describe to Slackbot what you need, and it will use AI to gather information from relevant conversations and connected apps, like Google Drive or Salesforce, to [&#8230;]",
       "summary": "A new feature coming to Slack will allow you to build interactive reports, polls, dashboards, presentations, microsites, and other tools directly inside a chat. With Slackforce Surfaces, you can descr",
-      "importance": 1.25
-    },
-    {
-      "title": "Schools are catching on to Big Tech’s playbook",
-      "url": "https://www.theverge.com/policy/993308/computer-science-ai-education-coding-kids",
-      "source": "The Verge",
-      "published_at": "2026-09-10T15:44:20-04:00",
-      "raw_content": "It's the hot new thing in tech, and it's where all the jobs are. Students who don't learn to use it fall behind. And to help them catch up in time, its creators are graciously providing the resources and curriculum for learning it, often pro bono. That's the narrative AI companies are pitching schools on [&#8230;]",
-      "summary": "It's the hot new thing in tech, and it's where all the jobs are. Students who don't learn to use it fall behind. And to help them catch up in time, its creators are graciously providing the resources ",
       "importance": 1.25
     },
     {
