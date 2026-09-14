@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T20:19:14.491144+00:00",
+  "generated_at": "2026-09-14T03:23:38.789759+00:00",
   "items": [
     {
       "title": "Trump and Mike Johnson think the AI industry is overreacting",
@@ -9,33 +9,6 @@
       "raw_content": "Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time to \"pace the frontier\" and slow down AI development. OpenAI's Sam Altman and Elon Musk both agreed, publicly voicing their support on X. Even Alphabet's Demis Hassabis offered tentative support for Amodei's proposal. Donald Trump and House Speaker Mike Johnson, however, [&#8230;]",
       "summary": "Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time to \"pace the frontier\" and slow down AI development. OpenAI's Sam Altman and Elon Musk both agreed, publicly vo",
       "importance": 1.65
-    },
-    {
-      "title": "OpenAI’s rogue AI tried to hack another company in May",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
-      "source": "The Verge",
-      "published_at": "2026-09-12T17:41:36-04:00",
-      "raw_content": "In May, hundreds of malicious and spam packages were uploaded to RubyGems, causing a serious disruption for the host. Now independent researchers have said that a swarm of OpenAI agents were responsible for the attack. Not only that, but the AI tried to steal users' API keys. At the time, RubyGems described it as a [&#8230;]",
-      "summary": "In May, hundreds of malicious and spam packages were uploaded to RubyGems, causing a serious disruption for the host. Now independent researchers have said that a swarm of OpenAI agents were responsib",
-      "importance": 1.65
-    },
-    {
-      "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
-      "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
-      "source": "TechCrunch",
-      "published_at": "Sat, 12 Sep 2026 20:19:16 +0000",
-      "raw_content": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
-      "summary": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
-      "importance": 1.6
-    },
-    {
-      "title": "Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised",
-      "source": "The Verge",
-      "published_at": "2026-09-12T17:16:28-04:00",
-      "raw_content": "OpenAI CEO Sam Altman confirmed that there would be no OpenAI IPO in 2026 during an interview with Fortune. Over the course of 45 minutes, Altman discussed a variety of subjects including the Hugging Face hacking incident, recursive self-improvement, and the possibility of building an AI that was beyond human control. On the latter, he [&#8230;]",
-      "summary": "OpenAI CEO Sam Altman confirmed that there would be no OpenAI IPO in 2026 during an interview with Fortune. Over the course of 45 minutes, Altman discussed a variety of subjects including the Hugging ",
-      "importance": 1.6
     },
     {
       "title": "What’s behind the AI industry’s latest warnings of doom?",
@@ -92,12 +65,39 @@
       "importance": 1.35
     },
     {
+      "title": "OpenAI’s rogue AI tried to hack another company in May",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
+      "source": "The Verge",
+      "published_at": "2026-09-12T17:41:36-04:00",
+      "raw_content": "In May, hundreds of malicious and spam packages were uploaded to RubyGems, causing a serious disruption for the host. Now independent researchers have said that a swarm of OpenAI agents were responsible for the attack. Not only that, but the AI tried to steal users' API keys. At the time, RubyGems described it as a [&#8230;]",
+      "summary": "In May, hundreds of malicious and spam packages were uploaded to RubyGems, causing a serious disruption for the host. Now independent researchers have said that a swarm of OpenAI agents were responsib",
+      "importance": 1.35
+    },
+    {
+      "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+      "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+      "source": "TechCrunch",
+      "published_at": "Sat, 12 Sep 2026 20:19:16 +0000",
+      "raw_content": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
+      "summary": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
+      "importance": 1.3
+    },
+    {
       "title": "OpenAI’s feud with mathematicians is only escalating",
       "url": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
       "source": "TechCrunch",
       "published_at": "Fri, 11 Sep 2026 20:57:36 +0000",
       "raw_content": "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work.",
       "summary": "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work.",
+      "importance": 1.3
+    },
+    {
+      "title": "Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised",
+      "source": "The Verge",
+      "published_at": "2026-09-12T17:16:28-04:00",
+      "raw_content": "OpenAI CEO Sam Altman confirmed that there would be no OpenAI IPO in 2026 during an interview with Fortune. Over the course of 45 minutes, Altman discussed a variety of subjects including the Hugging Face hacking incident, recursive self-improvement, and the possibility of building an AI that was beyond human control. On the latter, he [&#8230;]",
+      "summary": "OpenAI CEO Sam Altman confirmed that there would be no OpenAI IPO in 2026 during an interview with Fortune. Over the course of 45 minutes, Altman discussed a variety of subjects including the Hugging ",
       "importance": 1.3
     },
     {
@@ -155,15 +155,6 @@
       "importance": 1.25
     },
     {
-      "title": "Slack can now vibe-code interactive charts and reports inside chats",
-      "url": "https://www.theverge.com/tech/989853/slackforce-surfaces-launch",
-      "source": "The Verge",
-      "published_at": "2026-09-10T17:25:21-04:00",
-      "raw_content": "A new feature coming to Slack will allow you to build interactive reports, polls, dashboards, presentations, microsites, and other tools directly inside a chat. With Slackforce Surfaces, you can describe to Slackbot what you need, and it will use AI to gather information from relevant conversations and connected apps, like Google Drive or Salesforce, to [&#8230;]",
-      "summary": "A new feature coming to Slack will allow you to build interactive reports, polls, dashboards, presentations, microsites, and other tools directly inside a chat. With Slackforce Surfaces, you can descr",
-      "importance": 1.25
-    },
-    {
       "title": "One week left to book your exhibit table at TechCrunch Disrupt 2026",
       "url": "https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/",
       "source": "TechCrunch",
@@ -180,6 +171,15 @@
       "raw_content": "The absolute last chance to apply to host an official Side Event during TechCrunch Disrupt 2026 is tonight, September 11, at 11:59 p.m. PT.",
       "summary": "The absolute last chance to apply to host an official Side Event during TechCrunch Disrupt 2026 is tonight, September 11, at 11:59 p.m. PT.",
       "importance": 1.2
+    },
+    {
+      "title": "Slack can now vibe-code interactive charts and reports inside chats",
+      "url": "https://www.theverge.com/tech/989853/slackforce-surfaces-launch",
+      "source": "The Verge",
+      "published_at": "2026-09-10T17:25:21-04:00",
+      "raw_content": "A new feature coming to Slack will allow you to build interactive reports, polls, dashboards, presentations, microsites, and other tools directly inside a chat. With Slackforce Surfaces, you can describe to Slackbot what you need, and it will use AI to gather information from relevant conversations and connected apps, like Google Drive or Salesforce, to [&#8230;]",
+      "summary": "A new feature coming to Slack will allow you to build interactive reports, polls, dashboards, presentations, microsites, and other tools directly inside a chat. With Slackforce Surfaces, you can descr",
+      "importance": 1.05
     }
   ]
 }
