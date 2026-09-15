@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T21:28:45.121245+00:00",
+  "generated_at": "2026-09-15T03:24:59.279261+00:00",
   "items": [
     {
       "title": "Jensen Huang puts Trump on speakerphone onstage to announce robots won’t take over the world",
@@ -20,6 +20,15 @@
       "importance": 1.7
     },
     {
+      "title": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
+      "source": "The Verge",
+      "published_at": "2026-09-14T18:59:41-04:00",
+      "raw_content": "When OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, and SpaceX head Elon Musk loosely agreed over the weekend to slow down AI development, skeptics spotted an ulterior motive immediately. The AI titans had declared that their aim was to \"pace the frontier,\" signing on at least partially to a [&#8230;]",
+      "summary": "When OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, and SpaceX head Elon Musk loosely agreed over the weekend to slow down AI development, skeptics spotte",
+      "importance": 1.7
+    },
+    {
       "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
       "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
       "source": "TechCrunch",
@@ -35,15 +44,6 @@
       "published_at": "Mon, 14 Sep 2026 17:00:00 +0000",
       "raw_content": "Thanks to the launch of iOS 27, Daydream's app now includes features that can turn saved outfit photos into shoppable results and search for products through Siri without opening the app.",
       "summary": "Thanks to the launch of iOS 27, Daydream's app now includes features that can turn saved outfit photos into shoppable results and search for products through Siri without opening the app.",
-      "importance": 1.65
-    },
-    {
-      "title": "A Vinyl Bar in Shibuya is a startup from a former Spotify leader for making music apps",
-      "url": "https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps/",
-      "source": "TechCrunch",
-      "published_at": "Mon, 14 Sep 2026 13:55:00 +0000",
-      "raw_content": "Former Spotify exec's company releases experimental \"singles\" that involves users in music making.",
-      "summary": "Former Spotify exec's company releases experimental \"singles\" that involves users in music making.",
       "importance": 1.65
     },
     {
@@ -74,6 +74,15 @@
       "importance": 1.6
     },
     {
+      "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
+      "url": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
+      "source": "TechCrunch",
+      "published_at": "Mon, 14 Sep 2026 21:51:02 +0000",
+      "raw_content": "Though Elon Musk and Sam Altman have supported Dario Amodei's calls to slow the pace of AI development, Jensen Huang seems to feel differently.",
+      "summary": "Though Elon Musk and Sam Altman have supported Dario Amodei's calls to slow the pace of AI development, Jensen Huang seems to feel differently.",
+      "importance": 1.55
+    },
+    {
       "title": "With iOS 27, I’m actually using Siri again",
       "url": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/",
       "source": "TechCrunch",
@@ -99,6 +108,15 @@
       "raw_content": "Dario Amodei kicked off a flood of statements over the past few days about AI safety by publishing a long essay titled \"We Must Pace the Frontier\" detailing why AI development should be slowed down. Other AI leaders and politicians are speaking out in favor of or opposing his points, and we've compiled some of [&#8230;]",
       "summary": "Dario Amodei kicked off a flood of statements over the past few days about AI safety by publishing a long essay titled \"We Must Pace the Frontier\" detailing why AI development should be slowed down. O",
       "importance": 1.55
+    },
+    {
+      "title": "Jensen Huang took a call from Trump, and showed off something else, too",
+      "url": "https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/",
+      "source": "TechCrunch",
+      "published_at": "Tue, 15 Sep 2026 01:50:48 +0000",
+      "raw_content": "When Jensen Huang took a live call from Trump, some of us were more focused the phone he used to take it.",
+      "summary": "When Jensen Huang took a live call from Trump, some of us were more focused the phone he used to take it.",
+      "importance": 1.5
     },
     {
       "title": "5 days left to exhibit at TechCrunch Disrupt 2026",
@@ -155,15 +173,6 @@
       "importance": 1.3
     },
     {
-      "title": "What’s behind the AI industry’s latest warnings of doom?",
-      "url": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
-      "source": "TechCrunch",
-      "published_at": "Sun, 13 Sep 2026 19:40:15 +0000",
-      "raw_content": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity.",
-      "summary": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity.",
-      "importance": 1.25
-    },
-    {
       "title": "Trump is giving data centers a pass to pollute",
       "url": "https://www.theverge.com/ai-artificial-intelligence/994112/ai-data-center-pollution-health-epa",
       "source": "The Verge",
@@ -171,15 +180,6 @@
       "raw_content": "President Donald Trump is weakening environmental regulations in the name of speeding up the construction of AI data centers, raising health risks for Americans, a cadre of former EPA officials said this week in a briefing and new report. They are urging - perhaps futilely - the president to adopt a \"Data Center Health Protection [&#8230;]",
       "summary": "President Donald Trump is weakening environmental regulations in the name of speeding up the construction of AI data centers, raising health risks for Americans, a cadre of former EPA officials said t",
       "importance": 1.25
-    },
-    {
-      "title": "Lawyer fined $5K over AI-hallucinated witnesses in a murder case",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal",
-      "source": "The Verge",
-      "published_at": "2026-09-11T16:44:02-04:00",
-      "raw_content": "New Mexico's Supreme Court is punishing a lawyer for including AI-fabricated witnesses and fake police testimony in an appeal for his client's murder conviction, according to a report from Reuters. In a filing on Wednesday, the court fined Stephen Aarons $5,000 and held him in contempt for failing to \"verify the factual claims and legal [&#8230;]",
-      "summary": "New Mexico's Supreme Court is punishing a lawyer for including AI-fabricated witnesses and fake police testimony in an appeal for his client's murder conviction, according to a report from Reuters. In",
-      "importance": 1.05
     }
   ]
 }
