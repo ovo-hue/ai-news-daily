@@ -1,14 +1,41 @@
 {
-  "generated_at": "2026-09-16T16:08:03.704099+00:00",
+  "generated_at": "2026-09-16T20:52:22.932095+00:00",
   "items": [
     {
-      "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
-      "url": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
+      "title": "Your AI agents can now control your Google Home devices",
+      "url": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
       "source": "TechCrunch",
-      "published_at": "Tue, 15 Sep 2026 20:12:53 +0000",
-      "raw_content": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, and troubleshooting.",
-      "summary": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, and troubleshooting.",
-      "importance": 1.9
+      "published_at": "Wed, 16 Sep 2026 17:00:00 +0000",
+      "raw_content": "Google is launching early access to a new MCP server for Google Home, allowing AI agents like Claude, ChatGPT, and others to control connected devices, review camera summaries, and access smart home activity using natural language.",
+      "summary": "Google is launching early access to a new MCP server for Google Home, allowing AI agents like Claude, ChatGPT, and others to control connected devices, review camera summaries, and access smart home a",
+      "importance": 2.0
+    },
+    {
+      "title": "Claude comes for Gemini with its own take on Docs and Slides",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/996234/anthropic-one-claude-cowork-docs-slides",
+      "source": "The Verge",
+      "published_at": "2026-09-16T12:30:00-04:00",
+      "raw_content": "Claude is getting a pair of new tools today: Docs and Slides. They'll let you create documents and presentations through Claude chats, which you can export, edit, and share with other users. As part of the announcement, Anthropic is also simplifying how Claude chats work, merging regular chats and Cowork into \"one Claude,\" with all [&#8230;]",
+      "summary": "Claude is getting a pair of new tools today: Docs and Slides. They'll let you create documents and presentations through Claude chats, which you can export, edit, and share with other users. As part o",
+      "importance": 2.0
+    },
+    {
+      "title": "Google will now let any AI agent run your smart home",
+      "url": "https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date",
+      "source": "The Verge",
+      "published_at": "2026-09-16T13:00:00-04:00",
+      "raw_content": "Google is opening up its smart home to AI agents, letting tools like Claude and Open Claw access and control your connected devices and analyze your home's data using the standardized Model Context Protocol. Google Home MCP is a new integration that lets third-party AI agents control and monitor your smart home and act on [&#8230;]",
+      "summary": "Google is opening up its smart home to AI agents, letting tools like Claude and Open Claw access and control your connected devices and analyze your home's data using the standardized Model Context Pr",
+      "importance": 1.8
+    },
+    {
+      "title": "Anthropic merges Claude chat and Cowork in one interface",
+      "url": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/",
+      "source": "TechCrunch",
+      "published_at": "Wed, 16 Sep 2026 16:30:00 +0000",
+      "raw_content": "Anthropic is initially releasing these features to Pro and Max plan subscribers.",
+      "summary": "Anthropic is initially releasing these features to Pro and Max plan subscribers.",
+      "importance": 1.75
     },
     {
       "title": "Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
@@ -47,13 +74,13 @@
       "importance": 1.7
     },
     {
-      "title": "Amazon launches Alexa+ in India with Hindi support",
-      "url": "https://techcrunch.com/2026/09/16/amazon-launches-alexa-in-india-with-hindi-support/",
+      "title": "AI labs want in-house auditors — but maybe they should shut the front door first",
+      "url": "https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/",
       "source": "TechCrunch",
-      "published_at": "Wed, 16 Sep 2026 10:34:47 +0000",
-      "raw_content": "Amazon is letting all customers use Alexa+ assistant in early access period.",
-      "summary": "Amazon is letting all customers use Alexa+ assistant in early access period.",
-      "importance": 1.65
+      "published_at": "Wed, 16 Sep 2026 18:25:25 +0000",
+      "raw_content": "There may be a simpler and more effective fix for rogue agents, hiding in plain sight.",
+      "summary": "There may be a simpler and more effective fix for rogue agents, hiding in plain sight.",
+      "importance": 1.6
     },
     {
       "title": "The sexy AI-powered dating app scams are here",
@@ -65,21 +92,30 @@
       "importance": 1.6
     },
     {
-      "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
-      "url": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
+      "title": "After accusations of selling ‘perv glasses,’ Meta prepares to sell a pair without a camera",
+      "url": "https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/",
       "source": "TechCrunch",
-      "published_at": "Wed, 16 Sep 2026 00:20:39 +0000",
-      "raw_content": "AI isn't some new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI product maker.",
-      "summary": "AI isn't some new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI product maker.",
+      "published_at": "Wed, 16 Sep 2026 20:12:00 +0000",
+      "raw_content": "Can Meta dodge the \"pervert glasses\" accusations with a new camera-free product?",
+      "summary": "Can Meta dodge the \"pervert glasses\" accusations with a new camera-free product?",
       "importance": 1.55
     },
     {
-      "title": "The AI data center boom is colliding with cities scarred by big industry",
-      "url": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
-      "source": "TechCrunch",
-      "published_at": "Tue, 15 Sep 2026 21:47:38 +0000",
-      "raw_content": "National outcry against data center construction has spread to Philadelphia, where officials suggested possible construction in a neighborhood already impacted by a now-defunct oil refinery.",
-      "summary": "National outcry against data center construction has spread to Philadelphia, where officials suggested possible construction in a neighborhood already impacted by a now-defunct oil refinery.",
+      "title": "The AI data center e-waste problem is huge — and getting bigger",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/996470/ai-data-center-e-waste-ban",
+      "source": "The Verge",
+      "published_at": "2026-09-16T16:40:46-04:00",
+      "raw_content": "E-waste from the AI boom has been vastly underestimated, a new report warns. By 2050, it could become enough trash to fill 23 million shipping containers - roughly enough 40-foot containers to circle the world six times if lined up in a row. It's a significantly higher estimate of AI's e-waste than previous studies have [&#8230;]",
+      "summary": "E-waste from the AI boom has been vastly underestimated, a new report warns. By 2050, it could become enough trash to fill 23 million shipping containers - roughly enough 40-foot containers to circle ",
+      "importance": 1.55
+    },
+    {
+      "title": "Apple might make servers again to cash in on the AI rush",
+      "url": "https://www.theverge.com/tech/996321/apple-servers-ai-nvidia",
+      "source": "The Verge",
+      "published_at": "2026-09-16T13:20:29-04:00",
+      "raw_content": "According to The Information, Apple is planning to get back into the server game and might just pair up with Nvidia to make it happen. Apple retired its Xserve line in 2011 and has largely left enterprise machines to other manufacturers since. But the growing demand for compute power as the AI industry continues to [&#8230;]",
+      "summary": "According to The Information, Apple is planning to get back into the server game and might just pair up with Nvidia to make it happen. Apple retired its Xserve line in 2011 and has largely left enterp",
       "importance": 1.55
     },
     {
@@ -119,15 +155,6 @@
       "importance": 1.5
     },
     {
-      "title": "Jensen Huang puts Trump on speakerphone onstage to announce robots won’t take over the world",
-      "url": "https://www.theverge.com/tech/995079/president-donald-trump-calls-nvidia-ceo-jensen-huang-all-in-summit",
-      "source": "The Verge",
-      "published_at": "2026-09-14T16:03:37-04:00",
-      "raw_content": "Nvidia CEO Jensen Huang took a call from President Trump on Monday while onstage at the All-In Podcast's All-In Summit. It's not the first time Huang has taken a call from the president during work, but this time he put Trump on speakerphone before a big crowd. During the call, the president launched into his [&#8230;]",
-      "summary": "Nvidia CEO Jensen Huang took a call from President Trump on Monday while onstage at the All-In Podcast's All-In Summit. It's not the first time Huang has taken a call from the president during work, b",
-      "importance": 1.5
-    },
-    {
       "title": "This doorbell camera lets a human security guard watch your front door",
       "url": "https://www.theverge.com/tech/995365/simplisafe-video-doorbell-series-2-virtual-guard-price-specs",
       "source": "The Verge",
@@ -153,33 +180,6 @@
       "raw_content": "When OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, and SpaceX head Elon Musk loosely agreed over the weekend to slow down AI development, skeptics spotted an ulterior motive immediately. The AI titans had declared that their aim was to \"pace the frontier,\" signing on at least partially to a [&#8230;]",
       "summary": "When OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, and SpaceX head Elon Musk loosely agreed over the weekend to slow down AI development, skeptics spotte",
       "importance": 1.4
-    },
-    {
-      "title": "Trump and Mike Johnson think the AI industry is overreacting",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
-      "source": "The Verge",
-      "published_at": "2026-09-13T15:41:48-04:00",
-      "raw_content": "Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time to \"pace the frontier\" and slow down AI development. OpenAI's Sam Altman and Elon Musk both agreed, publicly voicing their support on X. Even Alphabet's Demis Hassabis offered tentative support for Amodei's proposal. Donald Trump and House Speaker Mike Johnson, however, [&#8230;]",
-      "summary": "Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time to \"pace the frontier\" and slow down AI development. OpenAI's Sam Altman and Elon Musk both agreed, publicly vo",
-      "importance": 1.35
-    },
-    {
-      "title": "Microsoft says ‘people matter more than AI’ following safety concerns",
-      "url": "https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct",
-      "source": "The Verge",
-      "published_at": "2026-09-14T09:00:00-04:00",
-      "raw_content": "Microsoft is publishing a 37-page \"humanist AI code of conduct\" today, amid growing safety concerns over AI model progress. Anthropic CEO Dario Amodei called for a coordinated slow down of AI development over the weekend, after researchers warned recently that AI model progress could outpace our ability to safely deploy increasingly complex systems and verify [&#8230;]",
-      "summary": "Microsoft is publishing a 37-page \"humanist AI code of conduct\" today, amid growing safety concerns over AI model progress. Anthropic CEO Dario Amodei called for a coordinated slow down of AI developm",
-      "importance": 1.3
-    },
-    {
-      "title": "What execs and politicians are saying about slowing down AI development",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei",
-      "source": "The Verge",
-      "published_at": "2026-09-14T17:21:42-04:00",
-      "raw_content": "Dario Amodei kicked off a flood of statements over the past few days about AI safety by publishing a long essay titled \"We Must Pace the Frontier\" detailing why AI development should be slowed down. Other AI leaders and politicians are speaking out in favor of or opposing his points, and we've compiled some of [&#8230;]",
-      "summary": "Dario Amodei kicked off a flood of statements over the past few days about AI safety by publishing a long essay titled \"We Must Pace the Frontier\" detailing why AI development should be slowed down. O",
-      "importance": 1.25
     }
   ]
 }
