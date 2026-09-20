@@ -1,15 +1,6 @@
 {
-  "generated_at": "2026-09-19T20:02:41.707276+00:00",
+  "generated_at": "2026-09-20T03:25:34.122874+00:00",
   "items": [
-    {
-      "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
-      "url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
-      "source": "TechCrunch",
-      "published_at": "Fri, 18 Sep 2026 23:25:01 +0000",
-      "raw_content": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations.",
-      "summary": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations.",
-      "importance": 1.7
-    },
     {
       "title": "Gemini went rogue, hacked three companies, and Google hid it",
       "url": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
@@ -29,15 +20,6 @@
       "importance": 1.6
     },
     {
-      "title": "Anthropic is operating a lab that conducts biology experiments",
-      "url": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
-      "source": "TechCrunch",
-      "published_at": "Fri, 18 Sep 2026 23:13:31 +0000",
-      "raw_content": "AI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning that AI might kill us all.",
-      "summary": "AI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning that AI might kill us all.",
-      "importance": 1.6
-    },
-    {
       "title": "The AI regulation smackdown isn’t over",
       "url": "https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over",
       "source": "The Verge",
@@ -47,16 +29,16 @@
       "importance": 1.6
     },
     {
-      "title": "OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
-      "source": "The Verge",
-      "published_at": "2026-09-18T17:07:24-04:00",
-      "raw_content": "Recently unsealed court documents in the New York Times' case against OpenAI and Microsoft are pretty damning. The companies' own documentation warned that it was starting a \"doom loop\" that would damage the web, characterized its scraping of data to train its models as the \"largest theft of labor in human history,\" and that it [&#8230;]",
-      "summary": "Recently unsealed court documents in the New York Times' case against OpenAI and Microsoft are pretty damning. The companies' own documentation warned that it was starting a \"doom loop\" that would dam",
-      "importance": 1.6
+      "title": "Flock reportedly tries to shrink workforce with employee buyouts",
+      "url": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
+      "source": "TechCrunch",
+      "published_at": "Sat, 19 Sep 2026 20:39:13 +0000",
+      "raw_content": "Without buyouts, Flock would \"almost certainly\" need to lay off staff.",
+      "summary": "Without buyouts, Flock would \"almost certainly\" need to lay off staff.",
+      "importance": 1.55
     },
     {
-      "title": "Trump suggests rebranding AI with a new name, says he’s also creating an AI Force",
+      "title": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
       "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
       "source": "TechCrunch",
       "published_at": "Sat, 19 Sep 2026 19:57:47 +0000",
@@ -92,12 +74,12 @@
       "importance": 1.55
     },
     {
-      "title": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
-      "url": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
-      "source": "TechCrunch",
-      "published_at": "Sat, 19 Sep 2026 00:12:07 +0000",
-      "raw_content": "In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese.",
-      "summary": "In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese.",
+      "title": "Meta’s Muse is creepy, but maybe not for the reasons you think",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy",
+      "source": "The Verge",
+      "published_at": "2026-09-19T16:44:40-04:00",
+      "raw_content": "Meta's Muse is apparently an effective AI assistant, but one that's a little creepy. Part of that is because of its new Mac app, which can access Messages, Calendar, and Notes. But for all its smarts, Muse doesn't actually know how to describe itself. Jason Aten, a contributing editor at Inc Magazine, posted on Threads [&#8230;]",
+      "summary": "Meta's Muse is apparently an effective AI assistant, but one that's a little creepy. Part of that is because of its new Mac app, which can access Messages, Calendar, and Notes. But for all its smarts,",
       "importance": 1.55
     },
     {
@@ -128,22 +110,31 @@
       "importance": 1.5
     },
     {
-      "title": "India forces caller-ID apps to feed spam reports to telcos",
-      "url": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
+      "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
+      "url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
       "source": "TechCrunch",
-      "published_at": "Sat, 19 Sep 2026 01:00:00 +0000",
-      "raw_content": "Truecaller says the one-way sharing requirement would hand a commercially valuable proprietary asset to telecom operators.",
-      "summary": "Truecaller says the one-way sharing requirement would hand a commercially valuable proprietary asset to telecom operators.",
-      "importance": 1.5
+      "published_at": "Fri, 18 Sep 2026 23:25:01 +0000",
+      "raw_content": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations.",
+      "summary": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations.",
+      "importance": 1.4
     },
     {
-      "title": "The AI Superintelligence Slowdown",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
+      "title": "OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
       "source": "The Verge",
-      "published_at": "2026-09-17T15:28:24-04:00",
-      "raw_content": "Remember when tech leaders would tell their employees to “move fast and break things”? It seemed that would be the way of AI too. But after a summer where rogue AI agents became reality, and researchers warned that AI could kill us all, a number of leading US AI companies are publicly suggesting it’s time [&#8230;]",
-      "summary": "Remember when tech leaders would tell their employees to “move fast and break things”? It seemed that would be the way of AI too. But after a summer where rogue AI agents became reality, and researche",
+      "published_at": "2026-09-18T17:07:24-04:00",
+      "raw_content": "Recently unsealed court documents in the New York Times' case against OpenAI and Microsoft are pretty damning. The companies' own documentation warned that it was starting a \"doom loop\" that would damage the web, characterized its scraping of data to train its models as the \"largest theft of labor in human history,\" and that it [&#8230;]",
+      "summary": "Recently unsealed court documents in the New York Times' case against OpenAI and Microsoft are pretty damning. The companies' own documentation warned that it was starting a \"doom loop\" that would dam",
       "importance": 1.3
+    },
+    {
+      "title": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
+      "url": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
+      "source": "TechCrunch",
+      "published_at": "Sat, 19 Sep 2026 00:12:07 +0000",
+      "raw_content": "In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese.",
+      "summary": "In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese.",
+      "importance": 1.25
     },
     {
       "title": "Virginia governor creates an AI task force and moves to restrain data centers",
@@ -180,6 +171,15 @@
       "raw_content": "On the morning of June 9th, Laura Lin was working from her home in Lanesville, a rural southern Indiana town about 15 miles from the Kentucky border. She was on a Zoom call, unaware that the heavy rain outside was beginning to flood her yard. \"I look over to where the barn is over there, [&#8230;]",
       "summary": "On the morning of June 9th, Laura Lin was working from her home in Lanesville, a rural southern Indiana town about 15 miles from the Kentucky border. She was on a Zoom call, unaware that the heavy rai",
       "importance": 1.25
+    },
+    {
+      "title": "India forces caller-ID apps to feed spam reports to telcos",
+      "url": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
+      "source": "TechCrunch",
+      "published_at": "Sat, 19 Sep 2026 01:00:00 +0000",
+      "raw_content": "Truecaller says the one-way sharing requirement would hand a commercially valuable proprietary asset to telecom operators.",
+      "summary": "Truecaller says the one-way sharing requirement would hand a commercially valuable proprietary asset to telecom operators.",
+      "importance": 1.2
     }
   ]
 }
