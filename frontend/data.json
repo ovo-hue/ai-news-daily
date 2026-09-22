@@ -1,23 +1,32 @@
 {
-  "generated_at": "2026-09-22T10:58:28.682040+00:00",
+  "generated_at": "2026-09-22T16:16:54.964423+00:00",
   "items": [
     {
-      "title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
-      "url": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
+      "title": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
+      "url": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/",
       "source": "TechCrunch",
-      "published_at": "Mon, 21 Sep 2026 19:19:21 +0000",
-      "raw_content": "Meta’s new AI agent Muse has racked up more downloads and daily active users in the U.S. and Canada than ChatGPT did over the same period after its mobile debut, according to new estimates from Appfigures.",
-      "summary": "Meta’s new AI agent Muse has racked up more downloads and daily active users in the U.S. and Canada than ChatGPT did over the same period after its mobile debut, according to new estimates from Appfig",
-      "importance": 1.8
+      "published_at": "Tue, 22 Sep 2026 15:00:00 +0000",
+      "raw_content": "At TechCrunch Disrupt 2026, five sessions across the AI Stage and Real World AI Stage cover AI safety, featuring leaders from Anthropic, NVIDIA, AWS, Waabi, and more. Register now to save up to $200 before Sept 25.",
+      "summary": "At TechCrunch Disrupt 2026, five sessions across the AI Stage and Real World AI Stage cover AI safety, featuring leaders from Anthropic, NVIDIA, AWS, Waabi, and more. Register now to save up to $200 b",
+      "importance": 1.6
     },
     {
-      "title": "From first users to billions: Google’s Robby Stein joins TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/09/21/from-first-users-to-billions-googles-robby-stein-joins-techcrunch-disrupt-2026/",
+      "title": "AstroForge is putting AI in command of its next spacecraft",
+      "url": "https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/",
       "source": "TechCrunch",
-      "published_at": "Mon, 21 Sep 2026 14:30:00 +0000",
-      "raw_content": "From first users to billions: Google’s Robby Stein joins TechCrunch Disrupt 2026. Lean in on this Builders Stage session. Save up to $200 before September 25.",
-      "summary": "From first users to billions: Google’s Robby Stein joins TechCrunch Disrupt 2026. Lean in on this Builders Stage session. Save up to $200 before September 25.",
-      "importance": 1.65
+      "published_at": "Tue, 22 Sep 2026 15:00:00 +0000",
+      "raw_content": "Autonomy-1 will have a small, transformer-based AI model taking charge of a space probe.",
+      "summary": "Autonomy-1 will have a small, transformer-based AI model taking charge of a space probe.",
+      "importance": 1.6
+    },
+    {
+      "title": "Nscale’s IPO will test Wall Street’s appetite for concentrated AI bets once again",
+      "url": "https://techcrunch.com/2026/09/22/nscales-ipo-will-test-wall-streets-appetite-for-concentrated-ai-bets-once-again/",
+      "source": "TechCrunch",
+      "published_at": "Tue, 22 Sep 2026 12:23:05 +0000",
+      "raw_content": "The British AI data center developer depends on tech giants Microsoft and Anthropic for most of its revenue.",
+      "summary": "The British AI data center developer depends on tech giants Microsoft and Anthropic for most of its revenue.",
+      "importance": 1.6
     },
     {
       "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
@@ -29,22 +38,31 @@
       "importance": 1.6
     },
     {
-      "title": "Meta’s AI agent has been blocked from using Amazon.com",
-      "url": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
-      "source": "TechCrunch",
-      "published_at": "Mon, 21 Sep 2026 17:55:18 +0000",
-      "raw_content": "Amazon has its own cohort of foundation models, along with one of the most popular inference platforms on the internet. As long as they're under no legal obligation to open the doors to Muse, why would they?",
-      "summary": "Amazon has its own cohort of foundation models, along with one of the most popular inference platforms on the internet. As long as they're under no legal obligation to open the doors to Muse, why woul",
+      "title": "Meta patches Muse exploit that let attackers control the AI agent",
+      "url": "https://www.theverge.com/tech/998679/meta-muse-patch-zero-day-exploit-ai-agent",
+      "source": "The Verge",
+      "published_at": "2026-09-22T07:53:58-04:00",
+      "raw_content": "Meta has issued a patch for its Muse macOS app following the discovery of a zero-day vulnerability that could allow someone to take control of the AI agent. The bug found by security researcher Patrick Wardle utilized an undocumented Muse setting that enabled potential attackers running local code to redirect transcription processing from Meta's servers [&#8230;]",
+      "summary": "Meta has issued a patch for its Muse macOS app following the discovery of a zero-day vulnerability that could allow someone to take control of the AI agent. The bug found by security researcher Patric",
       "importance": 1.6
     },
     {
-      "title": "Google’s $899 Googlebook is a bet that you’ll buy a new laptop for Gemini",
-      "url": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/",
+      "title": "TechCrunch Disrupt 2026: Aaron Edsinger brings Hello Robot’s Stretch 4 to life onstage",
+      "url": "https://techcrunch.com/2026/09/22/techcrunch-disrupt-2026-aaron-edsinger-brings-hello-robots-stretch-4-to-life-onstage/",
       "source": "TechCrunch",
-      "published_at": "Mon, 21 Sep 2026 14:39:22 +0000",
-      "raw_content": "Google’s AI-native Googlebook ties Gemini to the cursor, dictation, widgets, and other parts of the desktop experience.",
-      "summary": "Google’s AI-native Googlebook ties Gemini to the cursor, dictation, widgets, and other parts of the desktop experience.",
-      "importance": 1.6
+      "published_at": "Tue, 22 Sep 2026 14:30:00 +0000",
+      "raw_content": "Hello Robot CEO and co-founder Aaron Edsinger will bring Stretch 4 for a live demo on the Real World AI Stage at TechCrunch Disrupt 2026. Register before September 25 to save up to $200, plus get a second pass at 50% off.",
+      "summary": "Hello Robot CEO and co-founder Aaron Edsinger will bring Stretch 4 for a live demo on the Real World AI Stage at TechCrunch Disrupt 2026. Register before September 25 to save up to $200, plus get a se",
+      "importance": 1.55
+    },
+    {
+      "title": "Everyone can find a reason to dislike data center construction",
+      "url": "https://techcrunch.com/2026/09/22/everyone-can-find-a-reason-to-dislike-data-center-construction/",
+      "source": "TechCrunch",
+      "published_at": "Tue, 22 Sep 2026 13:00:00 +0000",
+      "raw_content": "Inside two years of fraught AI data center debates in Pennsylvania.",
+      "summary": "Inside two years of fraught AI data center debates in Pennsylvania.",
+      "importance": 1.55
     },
     {
       "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
@@ -56,30 +74,12 @@
       "importance": 1.55
     },
     {
-      "title": "With Tabby, a former accountant is using AI to make accountants obsolete",
-      "url": "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/",
-      "source": "TechCrunch",
-      "published_at": "Mon, 21 Sep 2026 16:38:51 +0000",
-      "raw_content": "Tabby is designed to be a real-time bookkeeping interface, handling clients’ paperwork as it gives them up-to-the-minute data on their business’s profit and loss.",
-      "summary": "Tabby is designed to be a real-time bookkeeping interface, handling clients’ paperwork as it gives them up-to-the-minute data on their business’s profit and loss.",
-      "importance": 1.55
-    },
-    {
-      "title": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/09/21/where-will-the-next-breakout-startup-come-from-benchmarks-full-partnership-weighs-in-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch",
-      "published_at": "Mon, 21 Sep 2026 15:00:00 +0000",
-      "raw_content": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in on the main stage at TechCrunch Disrupt 2026. Save up to $200 before September 25 at 11:59 p.m. PT. Register now.",
-      "summary": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in on the main stage at TechCrunch Disrupt 2026. Save up to $200 before September 25 at 11:59 p.m. PT. Register now.",
-      "importance": 1.55
-    },
-    {
-      "title": "Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/09/21/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch",
-      "published_at": "Mon, 21 Sep 2026 14:15:00 +0000",
-      "raw_content": "Meet the next wave of VCs judging the Startup Battlefield 200 contenders on the main stage at TechCrunch Disrupt 2026. Register by September 25 at 11:59 p.m. PT, to save up to $200 and to get a front-row seat to one of the most intense startup pitch competitions.",
-      "summary": "Meet the next wave of VCs judging the Startup Battlefield 200 contenders on the main stage at TechCrunch Disrupt 2026. Register by September 25 at 11:59 p.m. PT, to save up to $200 and to get a front-",
+      "title": "Trump says US is officially renaming AI ‘super intelligence’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/998816/donald-trump-ai-super-intelligence",
+      "source": "The Verge",
+      "published_at": "2026-09-22T12:01:10-04:00",
+      "raw_content": "In a speech Tuesday morning at the UN General Assembly, Donald Trump railed against Iran, \"globalists,\" and transgender people while also claiming that the US is now \"officially\" renaming artificial intelligence to \"super intelligence.\" Why? Because, according to Trump, the word artificial makes intelligence fake. Is that what makes it sound fake to you? Here's [&#8230;]",
+      "summary": "In a speech Tuesday morning at the UN General Assembly, Donald Trump railed against Iran, \"globalists,\" and transgender people while also claiming that the US is now \"officially\" renaming artificial i",
       "importance": 1.55
     },
     {
@@ -92,22 +92,22 @@
       "importance": 1.55
     },
     {
-      "title": "Can John Ternus find Apple’s next big thing?",
-      "url": "https://www.theverge.com/podcast/996874/apple-john-ternus-tim-cook-mark-gurman-future-ai-siri-iphone",
-      "source": "The Verge",
-      "published_at": "2026-09-21T10:00:00-04:00",
-      "raw_content": "Today, I’m talking with Mark Gurman, who is the world’s best-sourced Apple reporter — both as Bloomberg’s chief Apple correspondent and the host of the upcoming podcast Power On.&#160; Earlier this month, Apple hosted its annual iPhone hardware event, virtually every detail of which was reported ahead of time by Mark. But this event was [&#8230;]",
-      "summary": "Today, I’m talking with Mark Gurman, who is the world’s best-sourced Apple reporter — both as Bloomberg’s chief Apple correspondent and the host of the upcoming podcast Power On.&#160; Earlier this mo",
-      "importance": 1.55
+      "title": "Exhibit tables added: One last chance to showcase your startup at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/22/exhibitor-program-reopened-book-by-sept-30/",
+      "source": "TechCrunch",
+      "published_at": "Tue, 22 Sep 2026 14:15:00 +0000",
+      "raw_content": "We have reopened our exhibitor program for 1 more week. Book your exhibit table by September 30 at 11:59 p.m. PT and showcase your startup in front of 10,000+ founders, investors, and tech leaders at SF's Moscone West from October 13-15.",
+      "summary": "We have reopened our exhibitor program for 1 more week. Book your exhibit table by September 30 at 11:59 p.m. PT and showcase your startup in front of 10,000+ founders, investors, and tech leaders at ",
+      "importance": 1.5
     },
     {
-      "title": "iPhone owners can now submit claims in Apple’s $250 million Siri AI settlement",
-      "url": "https://www.theverge.com/tech/998191/apple-siri-ai-iphone-16-class-action-lawsuit-settlement",
-      "source": "The Verge",
-      "published_at": "2026-09-21T09:36:52-04:00",
-      "raw_content": "Apple is paying $250 million to settle claims that it failed to deliver an AI-upgraded Siri - and now, eligible iPhone owners can submit a claim for a payout. If you live in the US and purchased an iPhone 15 Pro, iPhone 15 Pro Max, or any iPhone 16 model between June 10th, 2024, and [&#8230;]",
-      "summary": "Apple is paying $250 million to settle claims that it failed to deliver an AI-upgraded Siri - and now, eligible iPhone owners can submit a claim for a payout. If you live in the US and purchased an iP",
-      "importance": 1.55
+      "title": "4 days to save up to $200: Reason 2 of 5 to be at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/22/4-days-to-save-up-to-200-reason-2-of-5-to-be-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch",
+      "published_at": "Tue, 22 Sep 2026 14:00:00 +0000",
+      "raw_content": "Save up to $200 on your TechCrunch Disrupt 2026 pass, plus 50% off a second pass before prices increase on September 25 at 11:59 p.m. PT. Register today.",
+      "summary": "Save up to $200 on your TechCrunch Disrupt 2026 pass, plus 50% off a second pass before prices increase on September 25 at 11:59 p.m. PT. Register today.",
+      "importance": 1.5
     },
     {
       "title": "Discover what’s next: 5 days left to save up to $200 on your TechCrunch Disrupt 2026 ticket",
@@ -146,15 +146,6 @@
       "importance": 1.35
     },
     {
-      "title": "Gemini went rogue, hacked three companies, and Google hid it",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
-      "source": "The Verge",
-      "published_at": "2026-09-19T11:25:03-04:00",
-      "raw_content": "In May, Gemini broke containment and hacked three different companies, but Google didn't disclose the incident until the Wall Street Journal approached the company. The hacks happened during a test of the model's cybersecurity capabilities run by third-party Irregular, which was also involved in similar incidents involving Meta and OpenAI. According to WSJ, Google didn't [&#8230;]",
-      "summary": "In May, Gemini broke containment and hacked three different companies, but Google didn't disclose the incident until the Wall Street Journal approached the company. The hacks happened during a test of",
-      "importance": 1.35
-    },
-    {
       "title": "Amazon blocks Meta’s Muse AI agent",
       "url": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping",
       "source": "The Verge",
@@ -164,21 +155,30 @@
       "importance": 1.3
     },
     {
+      "title": "Can John Ternus find Apple’s next big thing?",
+      "url": "https://www.theverge.com/podcast/996874/apple-john-ternus-tim-cook-mark-gurman-future-ai-siri-iphone",
+      "source": "The Verge",
+      "published_at": "2026-09-21T10:00:00-04:00",
+      "raw_content": "Today, I’m talking with Mark Gurman, who is the world’s best-sourced Apple reporter — both as Bloomberg’s chief Apple correspondent and the host of the upcoming podcast Power On.&#160; Earlier this month, Apple hosted its annual iPhone hardware event, virtually every detail of which was reported ahead of time by Mark. But this event was [&#8230;]",
+      "summary": "Today, I’m talking with Mark Gurman, who is the world’s best-sourced Apple reporter — both as Bloomberg’s chief Apple correspondent and the host of the upcoming podcast Power On.&#160; Earlier this mo",
+      "importance": 1.25
+    },
+    {
+      "title": "iPhone owners can now submit claims in Apple’s $250 million Siri AI settlement",
+      "url": "https://www.theverge.com/tech/998191/apple-siri-ai-iphone-16-class-action-lawsuit-settlement",
+      "source": "The Verge",
+      "published_at": "2026-09-21T09:36:52-04:00",
+      "raw_content": "Apple is paying $250 million to settle claims that it failed to deliver an AI-upgraded Siri - and now, eligible iPhone owners can submit a claim for a payout. If you live in the US and purchased an iPhone 15 Pro, iPhone 15 Pro Max, or any iPhone 16 model between June 10th, 2024, and [&#8230;]",
+      "summary": "Apple is paying $250 million to settle claims that it failed to deliver an AI-upgraded Siri - and now, eligible iPhone owners can submit a claim for a payout. If you live in the US and purchased an iP",
+      "importance": 1.25
+    },
+    {
       "title": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown",
       "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
       "source": "The Verge",
       "published_at": "2026-09-20T14:50:18-04:00",
       "raw_content": "The man who may stand to make the most money from the AI boom seems to think he knows better than anyone else, including researchers who have studied and worked on AI for decades. In an interview with CBS Sunday Morning, he claimed there was a \"0% chance\" of AI being the end of the [&#8230;]",
       "summary": "The man who may stand to make the most money from the AI boom seems to think he knows better than anyone else, including researchers who have studied and worked on AI for decades. In an interview with",
-      "importance": 1.25
-    },
-    {
-      "title": "Meta’s Muse is creepy, but maybe not for the reasons you think",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy",
-      "source": "The Verge",
-      "published_at": "2026-09-19T16:44:40-04:00",
-      "raw_content": "Meta's Muse is apparently an effective AI assistant, but one that's a little creepy. Part of that is because of its new Mac app, which can access Messages, Calendar, and Notes. But for all its smarts, Muse doesn't actually know how to describe itself. Jason Aten, a contributing editor at Inc Magazine, posted on Threads [&#8230;]",
-      "summary": "Meta's Muse is apparently an effective AI assistant, but one that's a little creepy. Part of that is because of its new Mac app, which can access Messages, Calendar, and Notes. But for all its smarts,",
       "importance": 1.25
     }
   ]
