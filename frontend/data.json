@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T03:20:01.803691+00:00",
+  "generated_at": "2026-09-22T10:58:28.682040+00:00",
   "items": [
     {
       "title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
@@ -17,15 +17,6 @@
       "published_at": "Mon, 21 Sep 2026 14:30:00 +0000",
       "raw_content": "From first users to billions: Google’s Robby Stein joins TechCrunch Disrupt 2026. Lean in on this Builders Stage session. Save up to $200 before September 25.",
       "summary": "From first users to billions: Google’s Robby Stein joins TechCrunch Disrupt 2026. Lean in on this Builders Stage session. Save up to $200 before September 25.",
-      "importance": 1.65
-    },
-    {
-      "title": "UN says AI safeguards can’t wait for certainty",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle",
-      "source": "The Verge",
-      "published_at": "2026-09-21T06:18:06-04:00",
-      "raw_content": "Governments need to rein in increasingly capable AI agents before their risks are fully understood, a United Nations scientific panel warned in the global organization's first major assessment of OpenAI's hack of Hugging Face earlier this year. The report cements AI's place on the global diplomatic agenda this week as leaders gather in New York [&#8230;]",
-      "summary": "Governments need to rein in increasingly capable AI agents before their risks are fully understood, a United Nations scientific panel warned in the global organization's first major assessment of Open",
       "importance": 1.65
     },
     {
@@ -53,15 +44,6 @@
       "published_at": "Mon, 21 Sep 2026 14:39:22 +0000",
       "raw_content": "Google’s AI-native Googlebook ties Gemini to the cursor, dictation, widgets, and other parts of the desktop experience.",
       "summary": "Google’s AI-native Googlebook ties Gemini to the cursor, dictation, widgets, and other parts of the desktop experience.",
-      "importance": 1.6
-    },
-    {
-      "title": "Amazon blocks Meta’s Muse AI agent",
-      "url": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping",
-      "source": "The Verge",
-      "published_at": "2026-09-21T05:21:47-04:00",
-      "raw_content": "Meta's Muse AI agent has been blocked from shopping Amazon on behalf of its users, GeekWire reports. A popup message started appearing on Sunday for Muse users saying that \"continued access by an unauthorized AI agent violates Amazon's Conditions of Use, to which our customers have agreed.\" According to GeekWire, Meta didn't notify Amazon that [&#8230;]",
-      "summary": "Meta's Muse AI agent has been blocked from shopping Amazon on behalf of its users, GeekWire reports. A popup message started appearing on Sunday for Muse users saying that \"continued access by an unau",
       "importance": 1.6
     },
     {
@@ -155,6 +137,15 @@
       "importance": 1.4
     },
     {
+      "title": "UN says AI safeguards can’t wait for certainty",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle",
+      "source": "The Verge",
+      "published_at": "2026-09-21T06:18:06-04:00",
+      "raw_content": "Governments need to rein in increasingly capable AI agents before their risks are fully understood, a United Nations scientific panel warned in the global organization's first major assessment of OpenAI's hack of Hugging Face earlier this year. The report cements AI's place on the global diplomatic agenda this week as leaders gather in New York [&#8230;]",
+      "summary": "Governments need to rein in increasingly capable AI agents before their risks are fully understood, a United Nations scientific panel warned in the global organization's first major assessment of Open",
+      "importance": 1.35
+    },
+    {
       "title": "Gemini went rogue, hacked three companies, and Google hid it",
       "url": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
       "source": "The Verge",
@@ -162,6 +153,15 @@
       "raw_content": "In May, Gemini broke containment and hacked three different companies, but Google didn't disclose the incident until the Wall Street Journal approached the company. The hacks happened during a test of the model's cybersecurity capabilities run by third-party Irregular, which was also involved in similar incidents involving Meta and OpenAI. According to WSJ, Google didn't [&#8230;]",
       "summary": "In May, Gemini broke containment and hacked three different companies, but Google didn't disclose the incident until the Wall Street Journal approached the company. The hacks happened during a test of",
       "importance": 1.35
+    },
+    {
+      "title": "Amazon blocks Meta’s Muse AI agent",
+      "url": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping",
+      "source": "The Verge",
+      "published_at": "2026-09-21T05:21:47-04:00",
+      "raw_content": "Meta's Muse AI agent has been blocked from shopping Amazon on behalf of its users, GeekWire reports. A popup message started appearing on Sunday for Muse users saying that \"continued access by an unauthorized AI agent violates Amazon's Conditions of Use, to which our customers have agreed.\" According to GeekWire, Meta didn't notify Amazon that [&#8230;]",
+      "summary": "Meta's Muse AI agent has been blocked from shopping Amazon on behalf of its users, GeekWire reports. A popup message started appearing on Sunday for Muse users saying that \"continued access by an unau",
+      "importance": 1.3
     },
     {
       "title": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown",
