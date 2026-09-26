@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T03:32:37.244890+00:00",
+  "generated_at": "2026-09-26T10:49:08.230185+00:00",
   "items": [
     {
       "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
@@ -45,15 +45,6 @@
       "raw_content": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge.",
       "summary": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge.",
       "importance": 1.65
-    },
-    {
-      "title": "Meta is putting its muscle behind Muse as the AI app takes off",
-      "url": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
-      "source": "TechCrunch",
-      "published_at": "Fri, 25 Sep 2026 16:16:52 +0000",
-      "raw_content": "Muse is topping the app store charts and adding users at a rapid clip, while Meta ramps up the personal AI agent's promotion across its own apps and beyond.",
-      "summary": "Muse is topping the app store charts and adding users at a rapid clip, while Meta ramps up the personal AI agent's promotion across its own apps and beyond.",
-      "importance": 1.6
     },
     {
       "title": "Muse sure looks a lot like OpenClaw",
@@ -126,6 +117,15 @@
       "raw_content": "A few years back, I was at a beachside Easter egg hunt, watching my kids dash through sand dunes searching for sweet treats. My phone buzzed in my pocket; I ignored it. A moment later, it buzzed again. I pulled it out, glanced down, and saw a \"motion detected\" notification from my security camera. \"Just [&#8230;]",
       "summary": "A few years back, I was at a beachside Easter egg hunt, watching my kids dash through sand dunes searching for sweet treats. My phone buzzed in my pocket; I ignored it. A moment later, it buzzed again",
       "importance": 1.55
+    },
+    {
+      "title": "At Meta Connect, the company’s smart glasses were everywhere",
+      "url": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
+      "source": "TechCrunch",
+      "published_at": "Sat, 26 Sep 2026 01:08:57 +0000",
+      "raw_content": "The company behind Facebook and Instagram wants to keep consumers connected to the digital world via its ever-growing line of smart glasses.",
+      "summary": "The company behind Facebook and Instagram wants to keep consumers connected to the digital world via its ever-growing line of smart glasses.",
+      "importance": 1.5
     },
     {
       "title": "Meta opens early access program for new Muse features",
