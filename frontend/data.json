@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T03:40:17.316039+00:00",
+  "generated_at": "2026-09-28T12:55:05.288337+00:00",
   "items": [
     {
       "title": "Can Muse overcome Meta’s trust issues?",
@@ -45,15 +45,6 @@
       "raw_content": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump",
       "summary": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump",
       "importance": 1.55
-    },
-    {
-      "title": "Microsoft thinks its new Copilot ‘super app’ will be as influential as Office",
-      "url": "https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot",
-      "source": "The Verge",
-      "published_at": "2026-09-25T08:00:00-04:00",
-      "raw_content": "After teasing its new Copilot \"super app\" last month, Microsoft is officially unveiling it today. The redesigned Copilot app bundles three AI capabilities into a single interface of chat, coding, and agents. As part of the launch, Microsoft is also rebranding Scout, the AI personal assistant it unveiled at Build earlier this year, as Autopilot. [&#8230;]",
-      "summary": "After teasing its new Copilot \"super app\" last month, Microsoft is officially unveiling it today. The redesigned Copilot app bundles three AI capabilities into a single interface of chat, coding, and ",
-      "importance": 1.45
     },
     {
       "title": "One company is at the center of a wave of rogue AI attacks",
@@ -152,6 +143,15 @@
       "published_at": "2026-09-25T09:00:00-04:00",
       "raw_content": "A few years back, I was at a beachside Easter egg hunt, watching my kids dash through sand dunes searching for sweet treats. My phone buzzed in my pocket; I ignored it. A moment later, it buzzed again. I pulled it out, glanced down, and saw a \"motion detected\" notification from my security camera. \"Just [&#8230;]",
       "summary": "A few years back, I was at a beachside Easter egg hunt, watching my kids dash through sand dunes searching for sweet treats. My phone buzzed in my pocket; I ignored it. A moment later, it buzzed again",
+      "importance": 1.25
+    },
+    {
+      "title": "Microsoft thinks its new Copilot ‘super app’ will be as influential as Office",
+      "url": "https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot",
+      "source": "The Verge",
+      "published_at": "2026-09-25T08:00:00-04:00",
+      "raw_content": "After teasing its new Copilot \"super app\" last month, Microsoft is officially unveiling it today. The redesigned Copilot app bundles three AI capabilities into a single interface of chat, coding, and agents. As part of the launch, Microsoft is also rebranding Scout, the AI personal assistant it unveiled at Build earlier this year, as Autopilot. [&#8230;]",
+      "summary": "After teasing its new Copilot \"super app\" last month, Microsoft is officially unveiling it today. The redesigned Copilot app bundles three AI capabilities into a single interface of chat, coding, and ",
       "importance": 1.25
     },
     {
