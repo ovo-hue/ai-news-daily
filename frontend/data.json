@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T03:59:55.253404+00:00",
+  "generated_at": "2026-09-30T11:55:30.420852+00:00",
   "items": [
     {
       "title": "OpenAI launches Dots, its Muse competitor",
@@ -146,15 +146,6 @@
       "importance": 1.6
     },
     {
-      "title": "Anthropic warns of ‘catastrophic’ AI risks in its own IPO filing",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1001838/anthropic-ipo-prospectus-ai-safety-threat",
-      "source": "The Verge",
-      "published_at": "2026-09-29T07:48:27-04:00",
-      "raw_content": "As Anthropic gears up for its greatly anticipated public debut, a preview of the company's IPO filing reportedly details its mounting losses, leadership proposals to retain power, and how its AI development plans could \"further increase the risk that our models cause harm.\" These disclosures come as Anthropic eyes a $2 trillion valuation, more than [&#8230;]",
-      "summary": "As Anthropic gears up for its greatly anticipated public debut, a preview of the company's IPO filing reportedly details its mounting losses, leadership proposals to retain power, and how its AI devel",
-      "importance": 1.6
-    },
-    {
       "title": "Elon Musk&#8217;s AI-powered Grokipedia is updating again",
       "url": "https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again",
       "source": "The Verge",
@@ -180,6 +171,15 @@
       "raw_content": "For the sake of national security, it's a relief to learn that America.gov is not hallucinating to the point that it's penning lengthy poetry.",
       "summary": "For the sake of national security, it's a relief to learn that America.gov is not hallucinating to the point that it's penning lengthy poetry.",
       "importance": 1.5
+    },
+    {
+      "title": "Anthropic warns of ‘catastrophic’ AI risks in its own IPO filing",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1001838/anthropic-ipo-prospectus-ai-safety-threat",
+      "source": "The Verge",
+      "published_at": "2026-09-29T07:48:27-04:00",
+      "raw_content": "As Anthropic gears up for its greatly anticipated public debut, a preview of the company's IPO filing reportedly details its mounting losses, leadership proposals to retain power, and how its AI development plans could \"further increase the risk that our models cause harm.\" These disclosures come as Anthropic eyes a $2 trillion valuation, more than [&#8230;]",
+      "summary": "As Anthropic gears up for its greatly anticipated public debut, a preview of the company's IPO filing reportedly details its mounting losses, leadership proposals to retain power, and how its AI devel",
+      "importance": 1.3
     }
   ]
 }
