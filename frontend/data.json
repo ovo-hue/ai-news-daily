@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T04:10:51.620048+00:00",
+  "generated_at": "2026-10-01T12:26:51.219288+00:00",
   "items": [
     {
       "title": "All the latest news on Meta’s cute, creepy Muse AI agent",
@@ -62,15 +62,6 @@
       "published_at": "2026-09-30T10:30:00-04:00",
       "raw_content": "Instagram is the latest social media platform to add built-in AI-powered features that will give users feedback on their posts. The company announced Wednesday that its standalone Edits app will now include an AI \"creative assistant\" that pulls in data from a user's Instagram account and offers suggestions on what to change. Using the new [&#8230;]",
       "summary": "Instagram is the latest social media platform to add built-in AI-powered features that will give users feedback on their posts. The company announced Wednesday that its standalone Edits app will now i",
-      "importance": 1.7
-    },
-    {
-      "title": "Here’s how tech leaders will self-police AI safety under Trump’s deal",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1002584/trump-us-ai-safety-deal-self-regulation-tech-execs",
-      "source": "The Verge",
-      "published_at": "2026-09-30T08:24:32-04:00",
-      "raw_content": "We now have the full details of the \"morally binding\" AI safety deal announced by President Trump yesterday, in which top executives agreed to self-regulate their artificial intelligence technology. The accord, officially titled the Joint Commitment on Frontier Responsibilities, was shared online by tech founder and presidential adviser David Sacks, and has been signed by [&#8230;]",
-      "summary": "We now have the full details of the \"morally binding\" AI safety deal announced by President Trump yesterday, in which top executives agreed to self-regulate their artificial intelligence technology. T",
       "importance": 1.7
     },
     {
@@ -162,6 +153,15 @@
       "raw_content": "Instinct is rolling out human-curated product and travel recommendations, but some users aren’t happy about getting suggestions they never asked for.",
       "summary": "Instinct is rolling out human-curated product and travel recommendations, but some users aren’t happy about getting suggestions they never asked for.",
       "importance": 1.5
+    },
+    {
+      "title": "Here’s how tech leaders will self-police AI safety under Trump’s deal",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1002584/trump-us-ai-safety-deal-self-regulation-tech-execs",
+      "source": "The Verge",
+      "published_at": "2026-09-30T08:24:32-04:00",
+      "raw_content": "We now have the full details of the \"morally binding\" AI safety deal announced by President Trump yesterday, in which top executives agreed to self-regulate their artificial intelligence technology. The accord, officially titled the Joint Commitment on Frontier Responsibilities, was shared online by tech founder and presidential adviser David Sacks, and has been signed by [&#8230;]",
+      "summary": "We now have the full details of the \"morally binding\" AI safety deal announced by President Trump yesterday, in which top executives agreed to self-regulate their artificial intelligence technology. T",
+      "importance": 1.4
     },
     {
       "title": "Trump orders US government to call AI ‘Super Intelligence’",
