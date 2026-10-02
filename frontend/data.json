@@ -1,15 +1,6 @@
 {
-  "generated_at": "2026-10-02T11:53:06.204599+00:00",
+  "generated_at": "2026-10-02T17:27:50.759356+00:00",
   "items": [
-    {
-      "title": "OpenAI’s new agent is a shot at Meta — but can it compete with free?",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle",
-      "source": "The Verge",
-      "published_at": "2026-10-01T10:36:50-04:00",
-      "raw_content": "At OpenAI's annual DevDay conference, the company pulled out all the stops to compete with its rivals - primarily Meta, whose Muse AI agent platform has seen early runaway success. CEO Sam Altman walked onstage to cheers and announced Dots, a \"real-deal AI\" agent powered by GPT-6 Astra, \"inspired by the cool agents that we [&#8230;]",
-      "summary": "At OpenAI's annual DevDay conference, the company pulled out all the stops to compete with its rivals - primarily Meta, whose Muse AI agent platform has seen early runaway success. CEO Sam Altman walk",
-      "importance": 1.85
-    },
     {
       "title": "Google’s new Guided Vision feature can help you read the fine print",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision",
@@ -18,15 +9,6 @@
       "raw_content": "Guided Vision is launching in Gemini Live on compatible Android devices today to use AI to give real-time audio descriptions of anything you point your phone's camera at. By sharing your camera in Gemini Live, you can have Google's AI help with things like reading small text, describing your surroundings, finding or identifying objects around [&#8230;]",
       "summary": "Guided Vision is launching in Gemini Live on compatible Android devices today to use AI to give real-time audio descriptions of anything you point your phone's camera at. By sharing your camera in Gem",
       "importance": 1.75
-    },
-    {
-      "title": "Hearing tech startup Legato launches its AI hearing glasses",
-      "url": "https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/",
-      "source": "TechCrunch",
-      "published_at": "Thu, 01 Oct 2026 13:00:00 +0000",
-      "raw_content": "The glasses stem from the startup’s goal of making hearing care more accessible by addressing the cost, comfort, and stigma associated with traditional hearing aids.",
-      "summary": "The glasses stem from the startup’s goal of making hearing care more accessible by addressing the cost, comfort, and stigma associated with traditional hearing aids.",
-      "importance": 1.7
     },
     {
       "title": "AI music maker Suno now generates spoken words",
@@ -56,24 +38,6 @@
       "importance": 1.65
     },
     {
-      "title": "Amazon releases its own Jev clone as decision models flood the web",
-      "url": "https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web/",
-      "source": "TechCrunch",
-      "published_at": "Thu, 01 Oct 2026 16:49:22 +0000",
-      "raw_content": "Amazon Web Services' Strand Labs has released the latest Jevalike decision model, Strands Decider 2B.",
-      "summary": "Amazon Web Services' Strand Labs has released the latest Jevalike decision model, Strands Decider 2B.",
-      "importance": 1.65
-    },
-    {
-      "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.",
-      "url": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/",
-      "source": "TechCrunch",
-      "published_at": "Thu, 01 Oct 2026 14:00:00 +0000",
-      "raw_content": "The startup helps developers build AI agents that work over iMessage, SMS/RCS, email, and other messaging platforms. It's a bet that consumers will increasingly use agents instead of downloading apps.",
-      "summary": "The startup helps developers build AI agents that work over iMessage, SMS/RCS, email, and other messaging platforms. It's a bet that consumers will increasingly use agents instead of downloading apps.",
-      "importance": 1.65
-    },
-    {
       "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
       "url": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
       "source": "TechCrunch",
@@ -83,22 +47,40 @@
       "importance": 1.6
     },
     {
-      "title": "Shopify debuts Canvas, a way to build online stores by chatting with AI",
-      "url": "https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/",
+      "title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
+      "url": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/",
       "source": "TechCrunch",
-      "published_at": "Thu, 01 Oct 2026 16:44:35 +0000",
-      "raw_content": "Shopify’s new Canvas site builder lets merchants create and customize their online stores by chatting with its AI agent Sidekick, while watching the changes happen in real time.",
-      "summary": "Shopify’s new Canvas site builder lets merchants create and customize their online stores by chatting with its AI agent Sidekick, while watching the changes happen in real time.",
-      "importance": 1.6
+      "published_at": "Fri, 02 Oct 2026 17:00:00 +0000",
+      "raw_content": "With all the talk about how AI might one day ill us all, it's easy to forget that AI has already harmed some people, psychologically. Circuit Breaker Labs has created \"crash test  dummies\" to solve that.",
+      "summary": "With all the talk about how AI might one day ill us all, it's easy to forget that AI has already harmed some people, psychologically. Circuit Breaker Labs has created \"crash test  dummies\" to solve th",
+      "importance": 1.55
     },
     {
-      "title": "Brian Chesky interview: AI agents need their own operating system",
-      "url": "https://techcrunch.com/2026/10/01/brian-chesky-interview-ai-agents-need-their-own-operating-system/",
+      "title": "Pope Leo XIV is not a fan of AI-generated art",
+      "url": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/",
       "source": "TechCrunch",
-      "published_at": "Thu, 01 Oct 2026 15:12:00 +0000",
-      "raw_content": "Brian Chesky on making Airbnb agent-friendly, the state of consumer AI, and why the world needs an AI-native operating system.",
-      "summary": "Brian Chesky on making Airbnb agent-friendly, the state of consumer AI, and why the world needs an AI-native operating system.",
-      "importance": 1.6
+      "published_at": "Fri, 02 Oct 2026 15:39:41 +0000",
+      "raw_content": "\"There is an ontological difference, even before an aesthetic one, between art and what a machine can generate through statistical calculation based on millions of images created by others,\" the pope wrote. \"Algorithms lack the spark of humanity.\"",
+      "summary": "\"There is an ontological difference, even before an aesthetic one, between art and what a machine can generate through statistical calculation based on millions of images created by others,\" the pope ",
+      "importance": 1.55
+    },
+    {
+      "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
+      "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/",
+      "source": "TechCrunch",
+      "published_at": "Fri, 02 Oct 2026 15:00:00 +0000",
+      "raw_content": "Blackstone's Jas Khaira will take the Builders Stage at TechCrunch Disrupt 2026 on building next-gen AI. Register for your pass and get 50% off a second.",
+      "summary": "Blackstone's Jas Khaira will take the Builders Stage at TechCrunch Disrupt 2026 on building next-gen AI. Register for your pass and get 50% off a second.",
+      "importance": 1.55
+    },
+    {
+      "title": "TechCrunch Disrupt 2026: Clay’s Kareem Amin on the rise of the GTM engineer",
+      "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-clays-kareem-amin-on-the-rise-of-the-gtm-engineer/",
+      "source": "TechCrunch",
+      "published_at": "Fri, 02 Oct 2026 14:30:00 +0000",
+      "raw_content": "Clay Co-founder and CEO Kareem Amin joins the AI Stage to discuss the rise of GTM engineer at TechCrunch Disrupt 2026. Register for your ticket and get a second pass at 50% off.",
+      "summary": "Clay Co-founder and CEO Kareem Amin joins the AI Stage to discuss the rise of GTM engineer at TechCrunch Disrupt 2026. Register for your ticket and get a second pass at 50% off.",
+      "importance": 1.55
     },
     {
       "title": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture  Venezuela’s president",
@@ -119,6 +101,24 @@
       "importance": 1.55
     },
     {
+      "title": "AI hallucinations are making entitled customers even worse",
+      "url": "https://www.theverge.com/report/1002963/ai-hallucinations-customer-service-jobs-agents",
+      "source": "The Verge",
+      "published_at": "2026-10-02T08:00:00-04:00",
+      "raw_content": "Madison, a server in New York City, greets every table by asking about each diner's allergies. Lately, there have been some close calls. \"Sometimes people will tell me they have a shellfish allergy, and I'll come back, and they won't ask me any questions,\" says Madison, who asked that her last name be withheld to [&#8230;]",
+      "summary": "Madison, a server in New York City, greets every table by asking about each diner's allergies. Lately, there have been some close calls. \"Sometimes people will tell me they have a shellfish allergy, a",
+      "importance": 1.55
+    },
+    {
+      "title": "If a data center is camouflaged in the woods, will anyone hate it?",
+      "url": "https://www.theverge.com/tech/1003681/microsoft-data-centers-ai-environment-biomimicry",
+      "source": "The Verge",
+      "published_at": "2026-10-02T08:00:00-04:00",
+      "raw_content": "San Antonio City Councilmember Ric Galvan remembers when data centers first arrived in his city in the 2000s, looking like relatively unassuming office buildings. But that's changed in recent years, as data centers have grown into massive \"hyperscale\" facilities spanning millions of square feet and housing the physical infrastructure for AI. There are now more [&#8230;]",
+      "summary": "San Antonio City Councilmember Ric Galvan remembers when data centers first arrived in his city in the 2000s, looking like relatively unassuming office buildings. But that's changed in recent years, a",
+      "importance": 1.55
+    },
+    {
       "title": "Amazon writes scary blog warning communities not to block data centers",
       "url": "https://www.theverge.com/tech/1003929/amazon-ai-data-center-blog-warning",
       "source": "The Verge",
@@ -128,22 +128,22 @@
       "importance": 1.55
     },
     {
-      "title": "Judge dismisses antitrust lawsuits over Google’s AI Overviews",
-      "url": "https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed",
+      "title": "OpenAI’s new agent is a shot at Meta — but can it compete with free?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle",
       "source": "The Verge",
-      "published_at": "2026-10-01T13:12:21-04:00",
-      "raw_content": "A federal judge has dismissed a pair of antitrust lawsuits filed by Chegg and Rolling Stone parent company Penske Media Corporation, which accused Google of driving away web traffic with its AI-powered search features, as reported earlier by Reuters. US District Judge Amit Mehta takes Google's side in a ruling on Wednesday, writing that PMC [&#8230;]",
-      "summary": "A federal judge has dismissed a pair of antitrust lawsuits filed by Chegg and Rolling Stone parent company Penske Media Corporation, which accused Google of driving away web traffic with its AI-powere",
+      "published_at": "2026-10-01T10:36:50-04:00",
+      "raw_content": "At OpenAI's annual DevDay conference, the company pulled out all the stops to compete with its rivals - primarily Meta, whose Muse AI agent platform has seen early runaway success. CEO Sam Altman walked onstage to cheers and announced Dots, a \"real-deal AI\" agent powered by GPT-6 Astra, \"inspired by the cool agents that we [&#8230;]",
+      "summary": "At OpenAI's annual DevDay conference, the company pulled out all the stops to compete with its rivals - primarily Meta, whose Muse AI agent platform has seen early runaway success. CEO Sam Altman walk",
       "importance": 1.55
     },
     {
-      "title": "Inside our months-long investigation into Kevin O’Leary’s Utah data center debacle",
-      "url": "https://www.theverge.com/podcast/1002851/utah-ai-data-center-stratos-kevin-oleary-investigation-backlash",
-      "source": "The Verge",
-      "published_at": "2026-10-01T10:00:00-04:00",
-      "raw_content": "Today I’m talking with Josh Dzieza, a longtime features writer here at The Verge, about Kevin O’Leary’s plans to build a massive data center in Utah.&#160; The idea was to build the world&#8217;s biggest data center — a 40,000-acre AI campus with nine gigawatts of power, or more than double the average power usage of [&#8230;]",
-      "summary": "Today I’m talking with Josh Dzieza, a longtime features writer here at The Verge, about Kevin O’Leary’s plans to build a massive data center in Utah.&#160; The idea was to build the world&#8217;s bigg",
-      "importance": 1.55
+      "title": "Last 24 hours: Exhibit at TechCrunch Disrupt 2026 and reach 10,000+ tech leaders",
+      "url": "https://techcrunch.com/2026/10/02/last-24-hours-exhibit-at-techcrunch-disrupt-2026-and-reach-10000-tech-leaders/",
+      "source": "TechCrunch",
+      "published_at": "Fri, 02 Oct 2026 14:00:00 +0000",
+      "raw_content": "Today is the last day to book your exhibit table at TechCrunch Disrupt 2026. From October 13–15, 10,000+ founders, investors, operators, and tech leaders will arrive at San Francisco’s Moscone West looking for companies, products, ideas, and people worth knowing. The question is: Will they find your startup?",
+      "summary": "Today is the last day to book your exhibit table at TechCrunch Disrupt 2026. From October 13–15, 10,000+ founders, investors, operators, and tech leaders will arrive at San Francisco’s Moscone West lo",
+      "importance": 1.5
     },
     {
       "title": "Google announces Gemini 4 and says it&#8217;s so capable that only &#8216;trusted cyber defenders&#8217; can have it right now",
@@ -155,22 +155,22 @@
       "importance": 1.5
     },
     {
-      "title": "Here&#8217;s what AI leaders are saying about Trump’s new safety plan",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1002636/ai-execs-trump-self-policing-deal-comments",
+      "title": "Judge dismisses antitrust lawsuits over Google’s AI Overviews",
+      "url": "https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed",
       "source": "The Verge",
-      "published_at": "2026-09-30T13:15:49-04:00",
-      "raw_content": "After hosting a meal with Big Tech leaders on Tuesday, President Donald Trump responded to journalist questions about his artificial intelligence announcements in typical fashion. He said his previous claims regarding fears around AI safety being a \"hoax\" cooked up by Democrats no longer apply now that he's renamed the technology to \"Super Intelligence.\" He [&#8230;]",
-      "summary": "After hosting a meal with Big Tech leaders on Tuesday, President Donald Trump responded to journalist questions about his artificial intelligence announcements in typical fashion. He said his previous",
-      "importance": 1.4
+      "published_at": "2026-10-01T13:12:21-04:00",
+      "raw_content": "A federal judge has dismissed a pair of antitrust lawsuits filed by Chegg and Rolling Stone parent company Penske Media Corporation, which accused Google of driving away web traffic with its AI-powered search features, as reported earlier by Reuters. US District Judge Amit Mehta takes Google's side in a ruling on Wednesday, writing that PMC [&#8230;]",
+      "summary": "A federal judge has dismissed a pair of antitrust lawsuits filed by Chegg and Rolling Stone parent company Penske Media Corporation, which accused Google of driving away web traffic with its AI-powere",
+      "importance": 1.25
     },
     {
-      "title": "The AI Tamagotchis are coming",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices",
+      "title": "Inside our months-long investigation into Kevin O’Leary’s Utah data center debacle",
+      "url": "https://www.theverge.com/podcast/1002851/utah-ai-data-center-stratos-kevin-oleary-investigation-backlash",
       "source": "The Verge",
-      "published_at": "2026-09-30T14:07:38-04:00",
-      "raw_content": "While AI has made plenty of inroads on people's phones and computers, it's largely failed in dedicated devices. But over the next year, two major AI companies, Meta and OpenAI, will attempt to change that. And they're apparently betting on a similar path: testing appetites for physical hardware with their cutesy software agents. \"Hardware is [&#8230;]",
-      "summary": "While AI has made plenty of inroads on people's phones and computers, it's largely failed in dedicated devices. But over the next year, two major AI companies, Meta and OpenAI, will attempt to change ",
-      "importance": 1.35
+      "published_at": "2026-10-01T10:00:00-04:00",
+      "raw_content": "Today I’m talking with Josh Dzieza, a longtime features writer here at The Verge, about Kevin O’Leary’s plans to build a massive data center in Utah.&#160; The idea was to build the world&#8217;s biggest data center — a 40,000-acre AI campus with nine gigawatts of power, or more than double the average power usage of [&#8230;]",
+      "summary": "Today I’m talking with Josh Dzieza, a longtime features writer here at The Verge, about Kevin O’Leary’s plans to build a massive data center in Utah.&#160; The idea was to build the world&#8217;s bigg",
+      "importance": 1.25
     },
     {
       "title": "Elon Musk’s Grokipedia has a ‘newly refreshed’ design",
