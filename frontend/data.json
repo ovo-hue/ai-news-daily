@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T20:35:34.828129+00:00",
+  "generated_at": "2026-10-04T04:19:52.133698+00:00",
   "items": [
     {
       "title": "An OpenAI safety employee has quit and is sounding the alarm",
@@ -8,15 +8,6 @@
       "published_at": "2026-10-03T10:31:56-04:00",
       "raw_content": "David Robinson used to write the safety reports that accompanied every major model release at OpenAI. This week, he resigned from his position and is now speaking out in an editorial in The Atlantic. It's understandable if you're feeling a bit cynical about everyone suddenly coming out of the woodwork to warn about how dangerous [&#8230;]",
       "summary": "David Robinson used to write the safety reports that accompanied every major model release at OpenAI. This week, he resigned from his position and is now speaking out in an editorial in The Atlantic. ",
-      "importance": 1.75
-    },
-    {
-      "title": "Meta open sources code to let you make Muse AI gadgets",
-      "url": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
-      "source": "The Verge",
-      "published_at": "2026-10-02T17:08:37-04:00",
-      "raw_content": "Meta now lets you make your own Muse gadgets that feature the company's new AI agent with code that the company open sourced. The company suggests projects like loading Muse on a color E Ink display to show reminders, adding it to an HDMI stick so you can display Muse on a big screen, or [&#8230;]",
-      "summary": "Meta now lets you make your own Muse gadgets that feature the company's new AI agent with code that the company open sourced. The company suggests projects like loading Muse on a color E Ink display t",
       "importance": 1.75
     },
     {
@@ -47,15 +38,6 @@
       "importance": 1.55
     },
     {
-      "title": "Sean Parker is rebuilding Stability AI around music",
-      "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
-      "source": "TechCrunch",
-      "published_at": "Fri, 02 Oct 2026 21:09:14 +0000",
-      "raw_content": "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money.",
-      "summary": "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money.",
-      "importance": 1.55
-    },
-    {
       "title": "Capcom is preparing for a ‘future where we create games together with AI’",
       "url": "https://www.theverge.com/games/1004418/capcom-ai-game-development",
       "source": "The Verge",
@@ -74,15 +56,6 @@
       "importance": 1.55
     },
     {
-      "title": "Meta wants your next gadget to be Muse-infused",
-      "url": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
-      "source": "TechCrunch",
-      "published_at": "Sat, 03 Oct 2026 00:45:39 +0000",
-      "raw_content": "Meta wants Muse in your TV and your toaster, so it's giving the code away for free.",
-      "summary": "Meta wants Muse in your TV and your toaster, so it's giving the code away for free.",
-      "importance": 1.5
-    },
-    {
       "title": "OpenAI’s Dot agent is enterprise software that can also order your dinner",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent",
       "source": "The Verge",
@@ -90,6 +63,15 @@
       "raw_content": "It's a tale as old as last week: OpenAI's new agent platform, called Dots, is full of cute little guys who can do your bidding. But unlike the ultra-approachable Meta Muse, Dots feel very much like using workplace software that happens to be able to order you a burrito - emphasis on work. OpenAI announced [&#8230;]",
       "summary": "It's a tale as old as last week: OpenAI's new agent platform, called Dots, is full of cute little guys who can do your bidding. But unlike the ultra-approachable Meta Muse, Dots feel very much like us",
       "importance": 1.5
+    },
+    {
+      "title": "Meta open sources code to let you make Muse AI gadgets",
+      "url": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
+      "source": "The Verge",
+      "published_at": "2026-10-02T17:08:37-04:00",
+      "raw_content": "Meta now lets you make your own Muse gadgets that feature the company's new AI agent with code that the company open sourced. The company suggests projects like loading Muse on a color E Ink display to show reminders, adding it to an HDMI stick so you can display Muse on a big screen, or [&#8230;]",
+      "summary": "Meta now lets you make your own Muse gadgets that feature the company's new AI agent with code that the company open sourced. The company suggests projects like loading Muse on a color E Ink display t",
+      "importance": 1.45
     },
     {
       "title": "Call it AI, call it Super Intelligence, only 2% of consumers are buying it",
@@ -137,6 +119,15 @@
       "importance": 1.3
     },
     {
+      "title": "Sean Parker is rebuilding Stability AI around music",
+      "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
+      "source": "TechCrunch",
+      "published_at": "Fri, 02 Oct 2026 21:09:14 +0000",
+      "raw_content": "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money.",
+      "summary": "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money.",
+      "importance": 1.25
+    },
+    {
       "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
       "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/",
       "source": "TechCrunch",
@@ -171,6 +162,15 @@
       "raw_content": "Amazon is calling for people to support AI data center projects, or risk irreparable harm to the US economy and national security. In a more than 3,000 word blog posted today, Amazon web services CEO Matt Garman pushed back on public concerns around the impact that data centers may have on jobs, power demands, and [&#8230;]",
       "summary": "Amazon is calling for people to support AI data center projects, or risk irreparable harm to the US economy and national security. In a more than 3,000 word blog posted today, Amazon web services CEO ",
       "importance": 1.25
+    },
+    {
+      "title": "Meta wants your next gadget to be Muse-infused",
+      "url": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
+      "source": "TechCrunch",
+      "published_at": "Sat, 03 Oct 2026 00:45:39 +0000",
+      "raw_content": "Meta wants Muse in your TV and your toaster, so it's giving the code away for free.",
+      "summary": "Meta wants Muse in your TV and your toaster, so it's giving the code away for free.",
+      "importance": 1.2
     },
     {
       "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
