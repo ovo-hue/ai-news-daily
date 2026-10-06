@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T23:44:13.109671+00:00",
+  "generated_at": "2026-10-06T04:53:33.380994+00:00",
   "items": [
     {
       "title": "All the drama around AI&#8217;s takeover of mathematics",
@@ -110,6 +110,15 @@
       "importance": 1.6
     },
     {
+      "title": "Gemini Call for Me might tell your mom you&#8217;re running late",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
+      "source": "The Verge",
+      "published_at": "2026-10-05T19:09:55-04:00",
+      "raw_content": "Google may be expanding its \"Call for Me\" AI feature beyond business calls so you can use it to send messages to friends and family. Android Authority reports finding a \"Gemini Calling\" introductory screen in an APK teardown with examples that include \"Call Mom and tell her I will be 15 minutes late\" and \"Call [&#8230;]",
+      "summary": "Google may be expanding its \"Call for Me\" AI feature beyond business calls so you can use it to send messages to friends and family. Android Authority reports finding a \"Gemini Calling\" introductory s",
+      "importance": 1.6
+    },
+    {
       "title": "Sam Altman says ‘some bad things&#8217; will happen, but AI is totally worth it",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1004811/openai-altman-bad-things-ai-tradeoff",
       "source": "The Verge",
@@ -161,15 +170,6 @@
       "published_at": "2026-10-05T09:47:14-04:00",
       "raw_content": "Getting some extra storage space on your Mac could be as easy as deleting Apple's AI features with a new open-source command line tool called RemoveMacAI. There used to be a single Settings toggle for disabling Apple Intelligence, but that was removed in macOS 27. Now, the models stay on your disk, and the features [&#8230;]",
       "summary": "Getting some extra storage space on your Mac could be as easy as deleting Apple's AI features with a new open-source command line tool called RemoveMacAI. There used to be a single Settings toggle for",
-      "importance": 1.55
-    },
-    {
-      "title": "Our minds aren’t equipped to handle AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1003794/ai-education-computational-model-thought",
-      "source": "The Verge",
-      "published_at": "2026-10-05T06:00:00-04:00",
-      "raw_content": "Norbert Wiener, godfather of cybernetics, once said, \"The thought of every age is reflected in its technique.\" For the past century, our thought has been reflected in our computers, including by those in the AI industry. Google's Demis Hassabis calls the brain \"a biological approximation to a Turing machine.\" Elon Musk puts it more bluntly, [&#8230;]",
-      "summary": "Norbert Wiener, godfather of cybernetics, once said, \"The thought of every age is reflected in its technique.\" For the past century, our thought has been reflected in our computers, including by those",
       "importance": 1.55
     },
     {
