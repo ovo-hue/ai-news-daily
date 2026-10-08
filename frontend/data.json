@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T22:42:12.836782+00:00",
+  "generated_at": "2026-10-08T04:31:46.586253+00:00",
   "items": [
     {
       "title": "Muse launches on the iPad",
@@ -17,15 +17,6 @@
       "published_at": "Wed, 07 Oct 2026 20:48:45 +0000",
       "raw_content": "The developer of Hermes Agent raised a $90 million Series B.",
       "summary": "The developer of Hermes Agent raised a $90 million Series B.",
-      "importance": 1.9
-    },
-    {
-      "title": "OpenAI drops another batch of mathematical breakthroughs",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github",
-      "source": "The Verge",
-      "published_at": "2026-10-06T19:26:38-04:00",
-      "raw_content": "OpenAI has revealed solutions to a number of long-standing mathematics problems produced by an unreleased frontier model in a batch of 722 manuscripts, covering 372 result families that group related papers. It extends a run of breakthroughs that have both impressed and unsettled parts of the mathematical community while raising questions about research ethics and [&#8230;]",
-      "summary": "OpenAI has revealed solutions to a number of long-standing mathematics problems produced by an unreleased frontier model in a batch of 722 manuscripts, covering 372 result families that group related ",
       "importance": 1.9
     },
     {
@@ -152,6 +143,15 @@
       "published_at": "2026-10-07T10:40:52-04:00",
       "raw_content": "Google DeepMind, Meta, and AI drug discovery startup Isomorphic Labs are jointly investing $300 million into an initiative to create a \"virtual cell\" that researchers can use to combat disease, as reported earlier by Reuters. The project is led by Biohub, a nonprofit biomedical research organization founded by Mark Zuckerberg and his wife, Priscilla Chan. [&#8230;]",
       "summary": "Google DeepMind, Meta, and AI drug discovery startup Isomorphic Labs are jointly investing $300 million into an initiative to create a \"virtual cell\" that researchers can use to combat disease, as rep",
+      "importance": 1.6
+    },
+    {
+      "title": "OpenAI drops another batch of mathematical breakthroughs",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github",
+      "source": "The Verge",
+      "published_at": "2026-10-06T19:26:38-04:00",
+      "raw_content": "OpenAI has revealed solutions to a number of long-standing mathematics problems produced by an unreleased frontier model in a batch of 722 manuscripts, covering 372 result families that group related papers. It extends a run of breakthroughs that have both impressed and unsettled parts of the mathematical community while raising questions about research ethics and [&#8230;]",
+      "summary": "OpenAI has revealed solutions to a number of long-standing mathematics problems produced by an unreleased frontier model in a batch of 722 manuscripts, covering 372 result families that group related ",
       "importance": 1.6
     },
     {
