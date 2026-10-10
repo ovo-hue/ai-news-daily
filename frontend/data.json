@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T16:58:13.508330+00:00",
+  "generated_at": "2026-10-10T21:09:41.896660+00:00",
   "items": [
     {
       "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
@@ -56,22 +56,13 @@
       "importance": 1.6
     },
     {
-      "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
-      "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+      "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+      "url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
       "source": "TechCrunch",
-      "published_at": "Fri, 09 Oct 2026 19:36:56 +0000",
-      "raw_content": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
-      "summary": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
-      "importance": 1.6
-    },
-    {
-      "title": "&#8216;Pure insanity&#8217;: Mathematicians will need years to make sense of OpenAI&#8217;s latest drop",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
-      "source": "The Verge",
-      "published_at": "2026-10-09T15:09:44-04:00",
-      "raw_content": "\"Staggering.\" \"Overwhelming.\" \"Unprecedented.\" \"Surreal.\" \"Pure insanity.\" Those were among the descriptions more than three dozen mathematicians reached for in conversations with The Verge as they tried to make sense of the flood of mathematical results OpenAI abruptly dropped on the field this week. Amid the awe, excitement, and uncertainty over the sheer scale of the [&#8230;]",
-      "summary": "\"Staggering.\" \"Overwhelming.\" \"Unprecedented.\" \"Surreal.\" \"Pure insanity.\" Those were among the descriptions more than three dozen mathematicians reached for in conversations with The Verge as they tr",
-      "importance": 1.6
+      "published_at": "Sat, 10 Oct 2026 19:50:00 +0000",
+      "raw_content": "Is Apple hoping to get into the AI-generated podcast business?",
+      "summary": "Is Apple hoping to get into the AI-generated podcast business?",
+      "importance": 1.55
     },
     {
       "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
@@ -83,12 +74,12 @@
       "importance": 1.55
     },
     {
-      "title": "Nikon microscopic video competition winner disqualified for using generative AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai",
+      "title": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
+      "url": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit",
       "source": "The Verge",
-      "published_at": "2026-10-09T14:06:57-04:00",
-      "raw_content": "Nikon says the video that originally won first place in its Small World in Motion contest \"did not comply with the competition rules regarding generative AI.\" BBC reports that the original first place video from Dr. Ning Xu claimed to show \"tiny, hair-like structures called cilia moving in the airway of a child with the [&#8230;]",
-      "summary": "Nikon says the video that originally won first place in its Small World in Motion contest \"did not comply with the competition rules regarding generative AI.\" BBC reports that the original first place",
+      "published_at": "2026-10-10T14:52:07-04:00",
+      "raw_content": "Artists are taking to social media to complain that DistroKid has unceremoniously removed their work without notice. Now DistroKid has confirmed to The Verge that the takedowns are a direct response to claims made by UMG. The label filed a lawsuit in September claiming that DistroKid has created an \"AI-slop pipeline.\" Artists are saying that [&#8230;]",
+      "summary": "Artists are taking to social media to complain that DistroKid has unceremoniously removed their work without notice. Now DistroKid has confirmed to The Verge that the takedowns are a direct response t",
       "importance": 1.55
     },
     {
@@ -110,6 +101,15 @@
       "importance": 1.45
     },
     {
+      "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+      "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+      "source": "TechCrunch",
+      "published_at": "Fri, 09 Oct 2026 19:36:56 +0000",
+      "raw_content": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
+      "summary": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
+      "importance": 1.3
+    },
+    {
       "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
       "url": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
       "source": "TechCrunch",
@@ -125,6 +125,15 @@
       "published_at": "Fri, 09 Oct 2026 16:53:02 +0000",
       "raw_content": "Amazon says it will&#160;stop using NDAs&#160;when negotiating data center deals with local governments, following&#160;a&#160;similar move from Microsoft&#160;earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to&#160;hundreds of&#160;proposed and enacted moratoriums from New York to San Francisco. Meanwhile, a wave of startups is betting that consumers will hand AI agents access [&#8230;]",
       "summary": "Amazon says it will&#160;stop using NDAs&#160;when negotiating data center deals with local governments, following&#160;a&#160;similar move from Microsoft&#160;earlier this year. Secrecy has fueled co",
+      "importance": 1.3
+    },
+    {
+      "title": "&#8216;Pure insanity&#8217;: Mathematicians will need years to make sense of OpenAI&#8217;s latest drop",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
+      "source": "The Verge",
+      "published_at": "2026-10-09T15:09:44-04:00",
+      "raw_content": "\"Staggering.\" \"Overwhelming.\" \"Unprecedented.\" \"Surreal.\" \"Pure insanity.\" Those were among the descriptions more than three dozen mathematicians reached for in conversations with The Verge as they tried to make sense of the flood of mathematical results OpenAI abruptly dropped on the field this week. Amid the awe, excitement, and uncertainty over the sheer scale of the [&#8230;]",
+      "summary": "\"Staggering.\" \"Overwhelming.\" \"Unprecedented.\" \"Surreal.\" \"Pure insanity.\" Those were among the descriptions more than three dozen mathematicians reached for in conversations with The Verge as they tr",
       "importance": 1.3
     },
     {
@@ -146,12 +155,12 @@
       "importance": 1.25
     },
     {
-      "title": "a16z’s Olivia Moore on the state of consumer AI",
-      "url": "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/",
-      "source": "TechCrunch",
-      "published_at": "Fri, 09 Oct 2026 15:43:33 +0000",
-      "raw_content": "Moore sees a huge opportunity in consumer AI, particularly if the industry can tap into revenue streams beyond just subscriptions and API charges.",
-      "summary": "Moore sees a huge opportunity in consumer AI, particularly if the industry can tap into revenue streams beyond just subscriptions and API charges.",
+      "title": "Nikon microscopic video competition winner disqualified for using generative AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai",
+      "source": "The Verge",
+      "published_at": "2026-10-09T14:06:57-04:00",
+      "raw_content": "Nikon says the video that originally won first place in its Small World in Motion contest \"did not comply with the competition rules regarding generative AI.\" BBC reports that the original first place video from Dr. Ning Xu claimed to show \"tiny, hair-like structures called cilia moving in the airway of a child with the [&#8230;]",
+      "summary": "Nikon says the video that originally won first place in its Small World in Motion contest \"did not comply with the competition rules regarding generative AI.\" BBC reports that the original first place",
       "importance": 1.25
     },
     {
@@ -161,15 +170,6 @@
       "published_at": "2026-10-09T10:25:43-04:00",
       "raw_content": "President Donald Trump has a knack for turning words against his enemies. His first successful presidential run was built on monikers like \"Little Marco\" and \"Crooked Hillary\"; he changed \"fake news\" from a phrase describing scammy media outlets to a derogatory term for the press at large. Over the past few weeks, he's clearly decided [&#8230;]",
       "summary": "President Donald Trump has a knack for turning words against his enemies. His first successful presidential run was built on monikers like \"Little Marco\" and \"Crooked Hillary\"; he changed \"fake news\" ",
-      "importance": 1.25
-    },
-    {
-      "title": "California is trying to shut down robot vs. human cage matches",
-      "url": "https://www.theverge.com/tech/1008401/california-shut-down-rek-fighting-robot-company-human",
-      "source": "The Verge",
-      "published_at": "2026-10-08T16:06:56-04:00",
-      "raw_content": "The California State Athletic Commission sent a cease-and-desist letter to a startup that hosted a match between a human and a robot last month, as reported by The New York Times. The fight, which took place on September 18th, pitted a human, Frankie LaPenna, against a humanoid robot owned by a tech startup, Rek, that [&#8230;]",
-      "summary": "The California State Athletic Commission sent a cease-and-desist letter to a startup that hosted a match between a human and a robot last month, as reported by The New York Times. The fight, which too",
       "importance": 1.25
     },
     {
