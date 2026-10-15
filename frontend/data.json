@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T03:13:05.452738+00:00",
+  "generated_at": "2026-10-15T10:51:38.540707+00:00",
   "items": [
     {
       "title": "The AI race is back on",
@@ -18,6 +18,15 @@
       "raw_content": "Square is launching new hardware: a big kiosk for ordering things that has a touchscreen and lets you talk to an AI. It's called the Square Kiosk. Square says the Kiosk, which has a large pill shape, has an \"agentic, conversational voice layer\" that \"fully understands a seller's menu and listens and responds in real [&#8230;]",
       "summary": "Square is launching new hardware: a big kiosk for ordering things that has a touchscreen and lets you talk to an AI. It's called the Square Kiosk. Square says the Kiosk, which has a large pill shape, ",
       "importance": 1.75
+    },
+    {
+      "title": "Figma announces new features to define how agents work on its platform",
+      "url": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
+      "source": "TechCrunch",
+      "published_at": "Thu, 15 Oct 2026 04:30:00 +0000",
+      "raw_content": "Figma is also releasing its code layers feature in open beta.",
+      "summary": "Figma is also releasing its code layers feature in open beta.",
+      "importance": 1.7
     },
     {
       "title": "YouTube Music launches new labels as AI-generated music floods streaming platforms",
@@ -116,15 +125,6 @@
       "published_at": "Wed, 14 Oct 2026 15:13:24 +0000",
       "raw_content": "Get a 50% discount on the last two days of TechCrunch Disrupt 2026, October 14-15, in San Francisco. Register now and join the rest of the startup ecosystem. Today, it's all about physical and software AI.",
       "summary": "Get a 50% discount on the last two days of TechCrunch Disrupt 2026, October 14-15, in San Francisco. Register now and join the rest of the startup ecosystem. Today, it's all about physical and softwar",
-      "importance": 1.55
-    },
-    {
-      "title": "TechCrunch Disrupt 2026: Day 2",
-      "url": "https://techcrunch.com/2026/10/14/techcrunch-disrupt-2026-day-2/",
-      "source": "TechCrunch",
-      "published_at": "Wed, 14 Oct 2026 14:30:00 +0000",
-      "raw_content": "Day 2 at TechCrunch Disrupt 2026, full of all themes across AI, as well as an investor-only session, more roundtables, Side Events, and more. Register to save 50% on your pass.",
-      "summary": "Day 2 at TechCrunch Disrupt 2026, full of all themes across AI, as well as an investor-only session, more roundtables, Side Events, and more. Register to save 50% on your pass.",
       "importance": 1.55
     },
     {
