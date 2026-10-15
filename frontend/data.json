@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T10:51:38.540707+00:00",
+  "generated_at": "2026-10-15T16:18:43.253747+00:00",
   "items": [
     {
       "title": "The AI race is back on",
@@ -11,13 +11,31 @@
       "importance": 1.8
     },
     {
-      "title": "Square’s new kiosk lets you talk to AI for help with your order",
-      "url": "https://www.theverge.com/tech/1009086/square-kiosk",
-      "source": "The Verge",
-      "published_at": "2026-10-14T12:00:00-04:00",
-      "raw_content": "Square is launching new hardware: a big kiosk for ordering things that has a touchscreen and lets you talk to an AI. It's called the Square Kiosk. Square says the Kiosk, which has a large pill shape, has an \"agentic, conversational voice layer\" that \"fully understands a seller's menu and listens and responds in real [&#8230;]",
-      "summary": "Square is launching new hardware: a big kiosk for ordering things that has a touchscreen and lets you talk to an AI. It's called the Square Kiosk. Square says the Kiosk, which has a large pill shape, ",
+      "title": "Google’s Universal Cart shopping tool launches in the US",
+      "url": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
+      "source": "TechCrunch",
+      "published_at": "Thu, 15 Oct 2026 14:29:33 +0000",
+      "raw_content": "The new shopping tool is available in the U.S. across Google Search and the Gemini app.",
+      "summary": "The new shopping tool is available in the U.S. across Google Search and the Gemini app.",
       "importance": 1.75
+    },
+    {
+      "title": "Google launches its &#8216;universal&#8217; online shopping cart ahead of the holidays",
+      "url": "https://www.theverge.com/tech/1011797/google-ai-universal-cart-shopping-tool-launch",
+      "source": "The Verge",
+      "published_at": "2026-10-15T09:00:00-04:00",
+      "raw_content": "Google's intelligent AI shopping cart is finally here, and just in time to tempt users into Black Friday and seasonal holiday spending. The Universal Cart tool Google previewed at its I/O event in May is now rolling out in the US across the Gemini app and Google Search, with the aim of making it easier [&#8230;]",
+      "summary": "Google's intelligent AI shopping cart is finally here, and just in time to tempt users into Black Friday and seasonal holiday spending. The Universal Cart tool Google previewed at its I/O event in May",
+      "importance": 1.75
+    },
+    {
+      "title": "Amazon’s Bee launches two new personal AI devices, starting at $75",
+      "url": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
+      "source": "TechCrunch",
+      "published_at": "Thu, 15 Oct 2026 12:00:00 +0000",
+      "raw_content": "Amazon-owned Bee has launched its first new AI devices since its acquisition, including an updated wearable and a credit-card-sized recorder that attaches to smartphones. The devices can summarize conversations, create to-do lists, and integrate with Alexa and Amazon shopping, with prices starting at $74.99.",
+      "summary": "Amazon-owned Bee has launched its first new AI devices since its acquisition, including an updated wearable and a credit-card-sized recorder that attaches to smartphones. The devices can summarize con",
+      "importance": 1.7
     },
     {
       "title": "Figma announces new features to define how agents work on its platform",
@@ -38,12 +56,21 @@
       "importance": 1.7
     },
     {
-      "title": "Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the workplace",
-      "url": "https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/",
-      "source": "TechCrunch",
-      "published_at": "Wed, 14 Oct 2026 15:08:00 +0000",
-      "raw_content": "Zenzap is used by organizations including Starbucks and Taco Bell.",
-      "summary": "Zenzap is used by organizations including Starbucks and Taco Bell.",
+      "title": "How Windows is being optimized for Nvidia’s RTX Spark laptops",
+      "url": "https://www.theverge.com/tech/1011996/microsoft-windows-rtx-spark-platform-changes-notepad",
+      "source": "The Verge",
+      "published_at": "2026-10-15T10:30:00-04:00",
+      "raw_content": "Microsoft and Nvidia held a launch party for the first wave of RTX Spark laptops last week in San Francisco, where a new wave of AI PCs took center stage amid a packed crowd and a lively hands-on area. A day after the media event, I was invited to a quieter Nvidia event to hear [&#8230;]",
+      "summary": "Microsoft and Nvidia held a launch party for the first wave of RTX Spark laptops last week in San Francisco, where a new wave of AI PCs took center stage amid a packed crowd and a lively hands-on area",
+      "importance": 1.7
+    },
+    {
+      "title": "Nobody is safe from celebrity AI deepfakes",
+      "url": "https://www.theverge.com/report/1011927/instagram-celebrity-ai-slop-likeness-taylor-swift-mia-goth",
+      "source": "The Verge",
+      "published_at": "2026-10-15T10:03:42-04:00",
+      "raw_content": "In hindsight, the post on Instagram should have raised more red flags. The image purported to show actress Mia Goth, just days after filing for divorce from actor and filmmaker Shia LaBeouf, posing in a T-shirt with a pointed message: MY EX IS MY BIGGEST FAN. To really drive home the point, the song \"Single [&#8230;]",
+      "summary": "In hindsight, the post on Instagram should have raised more red flags. The image purported to show actress Mia Goth, just days after filing for divorce from actor and filmmaker Shia LaBeouf, posing in",
       "importance": 1.7
     },
     {
@@ -56,12 +83,12 @@
       "importance": 1.65
     },
     {
-      "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
-      "url": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
+      "title": "AI agents are coming to Rivian’s cars",
+      "url": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/",
       "source": "TechCrunch",
-      "published_at": "Thu, 15 Oct 2026 00:00:00 +0000",
-      "raw_content": "Every day, conversations unfold across social media and websites around the world. A seemingly insignificant post—whether it involves AI-generated misinformation, hate speech, or a damaging rumor—can quickly snowball into a much larger public controversy. Gudea, a company that tracks how stories and rumors spread online that describes itself as the “storm tracker for the internet,” [&#8230;]",
-      "summary": "Every day, conversations unfold across social media and websites around the world. A seemingly insignificant post—whether it involves AI-generated misinformation, hate speech, or a damaging rumor—can ",
+      "published_at": "Thu, 15 Oct 2026 15:02:36 +0000",
+      "raw_content": "We'll likely learn more about how this will work at the company's upcoming \"AI &#038; Autonomy Day\" event in December.",
+      "summary": "We'll likely learn more about how this will work at the company's upcoming \"AI &#038; Autonomy Day\" event in December.",
       "importance": 1.6
     },
     {
@@ -74,33 +101,6 @@
       "importance": 1.6
     },
     {
-      "title": "Floqer’s AI agents research sales prospects so teams don’t have to",
-      "url": "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/",
-      "source": "TechCrunch",
-      "published_at": "Wed, 14 Oct 2026 15:00:00 +0000",
-      "raw_content": "The problem Floqer is trying to solve is familiar to anyone who has worked in sales or revenue operations.",
-      "summary": "The problem Floqer is trying to solve is familiar to anyone who has worked in sales or revenue operations.",
-      "importance": 1.6
-    },
-    {
-      "title": "OpenAI claims an ex-employee took its product plans and presented them to Apple",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1011276/openai-employee-unreleased-product-plans",
-      "source": "The Verge",
-      "published_at": "2026-10-14T12:43:24-04:00",
-      "raw_content": "OpenAI claims a former employee took more than 100 files related to its product plans before joining Apple. In a document filed on Wednesday, OpenAI accuses the unnamed employee of sending this information to a personal account and then presenting it to Apple leadership, including the vice president of the company's operations in Asia. The [&#8230;]",
-      "summary": "OpenAI claims a former employee took more than 100 files related to its product plans before joining Apple. In a document filed on Wednesday, OpenAI accuses the unnamed employee of sending this inform",
-      "importance": 1.6
-    },
-    {
-      "title": "Microsoft has a new machine learning tool to improve weather forecasts",
-      "url": "https://www.theverge.com/science/1011127/ai-weather-forecast-microsoft",
-      "source": "The Verge",
-      "published_at": "2026-10-14T12:05:21-04:00",
-      "raw_content": "Old-school physics-based weather forecasting and even new AI models typically become less reliable beyond two weeks, a problem Microsoft claims to have solved using machine learning. Researchers with the company say they've found a new, cost-effective way to make more accurate weather forecasts two to six weeks in advance - allowing farmers and emergency responders [&#8230;]",
-      "summary": "Old-school physics-based weather forecasting and even new AI models typically become less reliable beyond two weeks, a problem Microsoft claims to have solved using machine learning. Researchers with ",
-      "importance": 1.6
-    },
-    {
       "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
       "url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
       "source": "TechCrunch",
@@ -110,21 +110,30 @@
       "importance": 1.55
     },
     {
-      "title": "Deezer will soon let you filter out AI-generated music",
-      "url": "https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/",
+      "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
+      "url": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
       "source": "TechCrunch",
-      "published_at": "Wed, 14 Oct 2026 15:16:04 +0000",
-      "raw_content": "Deezer said that the new toggle will be rolled out by the end of the year.",
-      "summary": "Deezer said that the new toggle will be rolled out by the end of the year.",
+      "published_at": "Thu, 15 Oct 2026 00:00:00 +0000",
+      "raw_content": "Gudea, a company that tracks how stories and rumors spread online that describes itself as the “storm tracker for the internet,” is using AI to help organizations spot trouble brewing online before it turns into a crisis.",
+      "summary": "Gudea, a company that tracks how stories and rumors spread online that describes itself as the “storm tracker for the internet,” is using AI to help organizations spot trouble brewing online before it",
       "importance": 1.55
     },
     {
-      "title": "Save 50% on your TechCrunch Disrupt 2026 ticket and join the last 2 days in San Francisco’s Moscone West",
-      "url": "https://techcrunch.com/2026/10/14/save-50-on-your-techcrunch-disrupt-2026-ticket-and-join-the-last-two-days-in-san-francisco/",
-      "source": "TechCrunch",
-      "published_at": "Wed, 14 Oct 2026 15:13:24 +0000",
-      "raw_content": "Get a 50% discount on the last two days of TechCrunch Disrupt 2026, October 14-15, in San Francisco. Register now and join the rest of the startup ecosystem. Today, it's all about physical and software AI.",
-      "summary": "Get a 50% discount on the last two days of TechCrunch Disrupt 2026, October 14-15, in San Francisco. Register now and join the rest of the startup ecosystem. Today, it's all about physical and softwar",
+      "title": "Amazon’s always-listening Bee wearable can now help you buy stuff",
+      "url": "https://www.theverge.com/tech/1011475/amazon-bee-frontier-eclipse-price-specs",
+      "source": "The Verge",
+      "published_at": "2026-10-15T08:00:00-04:00",
+      "raw_content": "Last year, Amazon bought Bee, a relatively unknown startup with a $50 always-listening AI wearable that summarized every conversation you had. Today, the e-commerce giant is announcing two new Bee devices - and a new subscription to go with them. First is the $74.99 Bee Frontier, an updated version of the original Bee device. And [&#8230;]",
+      "summary": "Last year, Amazon bought Bee, a relatively unknown startup with a $50 always-listening AI wearable that summarized every conversation you had. Today, the e-commerce giant is announcing two new Bee dev",
+      "importance": 1.55
+    },
+    {
+      "title": "Your secrets aren’t safe with this cute robot toy — they’re on Chinese servers ready to be hacked",
+      "url": "https://www.theverge.com/tech/1010727/eiliko-robot-hack-energize-lab",
+      "source": "The Verge",
+      "published_at": "2026-10-15T07:00:00-04:00",
+      "raw_content": "There's a new digital pet in town - a cute little marshmallow of a robot that can change its cartoony expressions to match your mood. But if you or your kids talk to \"Eiliko\" over Wi-Fi, it'll phone home to China. Its AI companion can store literally everything you tell it on Chinese servers, where [&#8230;]",
+      "summary": "There's a new digital pet in town - a cute little marshmallow of a robot that can change its cartoony expressions to match your mood. But if you or your kids talk to \"Eiliko\" over Wi-Fi, it'll phone h",
       "importance": 1.55
     },
     {
@@ -146,31 +155,13 @@
       "importance": 1.55
     },
     {
-      "title": "YouTube sticks new labels on AI-generated songs",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1011369/youtube-music-ai-label",
-      "source": "The Verge",
-      "published_at": "2026-10-14T14:22:56-04:00",
-      "raw_content": "YouTube is adding a \"Made with AI\" label to tracks that were \"altered or fully generated\" using AI, with a similar approach to its existing process for applying AI labels to videos. It doesn't sound like this will apply to any and all use of AI tools in making music, but according to YouTube, it [&#8230;]",
-      "summary": "YouTube is adding a \"Made with AI\" label to tracks that were \"altered or fully generated\" using AI, with a similar approach to its existing process for applying AI labels to videos. It doesn't sound l",
-      "importance": 1.55
-    },
-    {
-      "title": "My AI doppelganger tells me what to eat",
-      "url": "https://www.theverge.com/column/1011264/digital-twin-metabolism-ai-twin-health",
-      "source": "The Verge",
-      "published_at": "2026-10-14T13:00:00-04:00",
-      "raw_content": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. For the past 100 days or so, my mornings have had a new rhythm. When I wake up, the first [&#8230;]",
-      "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for ",
-      "importance": 1.55
-    },
-    {
-      "title": "Android is using AI to suss out scammers in Google Messages",
-      "url": "https://www.theverge.com/tech/1010928/android-scam-protection-enhanced-protection-google-messages",
-      "source": "The Verge",
-      "published_at": "2026-10-14T12:00:00-04:00",
-      "raw_content": "Android is introducing new scam defense features that aim to make it easier for users to evade mobile fraud, including bolstered protection in Google Messages and additional safeguarding tools. Building on the Scam Detection feature in Google Messages, a new \"enhanced protection\" setting will be rolling out in the coming weeks that taps into cloud-based [&#8230;]",
-      "summary": "Android is introducing new scam defense features that aim to make it easier for users to evade mobile fraud, including bolstered protection in Google Messages and additional safeguarding tools. Buildi",
-      "importance": 1.55
+      "title": "TechCrunch Disrupt 2026: Last day",
+      "url": "https://techcrunch.com/2026/10/15/techcrunch-disrupt-2026-last-day/",
+      "source": "TechCrunch",
+      "published_at": "Thu, 15 Oct 2026 14:00:00 +0000",
+      "raw_content": "Last day to join TechCrunch Disrupt 2026. Join 10,000+ tech leaders for a day of connections and insights. Save 75% on your pass now.",
+      "summary": "Last day to join TechCrunch Disrupt 2026. Join 10,000+ tech leaders for a day of connections and insights. Save 75% on your pass now.",
+      "importance": 1.5
     },
     {
       "title": "Flock CEO says its microphones detect ‘just gunshots’ — its website says different",
@@ -179,6 +170,15 @@
       "published_at": "Wed, 14 Oct 2026 21:30:33 +0000",
       "raw_content": "Langley’s comments come amid mounting scrutiny of Flock from privacy advocates, including the ACLU, and members of the public who are concerned about the misuse of its technology.",
       "summary": "Langley’s comments come amid mounting scrutiny of Flock from privacy advocates, including the ACLU, and members of the public who are concerned about the misuse of its technology.",
+      "importance": 1.5
+    },
+    {
+      "title": "Benn Jordan on Flock, privacy, and the new surveillance backlash",
+      "url": "https://www.theverge.com/podcast/1011170/benn-jordan-flock-cameras-alpr-ai-surveillance-privacy",
+      "source": "The Verge",
+      "published_at": "2026-10-15T10:00:00-04:00",
+      "raw_content": "Today, I’m talking with Benn Jordan, musician, YouTuber, researcher, and investigative journalist. You might know Benn from those first two titles — he’s got a prolific discography of experimental music dating back decades. But in the last couple of years, he’s become a high-profile face in the creator and media spaces for his work investigating [&#8230;]",
+      "summary": "Today, I’m talking with Benn Jordan, musician, YouTuber, researcher, and investigative journalist. You might know Benn from those first two titles — he’s got a prolific discography of experimental mus",
       "importance": 1.5
     }
   ]
