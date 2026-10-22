@@ -1,15 +1,6 @@
 {
-  "generated_at": "2026-10-22T16:38:03.590481+00:00",
+  "generated_at": "2026-10-22T21:11:35.469459+00:00",
   "items": [
-    {
-      "title": "Claude did not invent scorpion antivenom",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1016443/anthropic-claude-citrini-vibecoding-scorpion-antivenom",
-      "source": "The Verge",
-      "published_at": "2026-10-22T08:21:07-04:00",
-      "raw_content": "An investment research firm wanted to prove AI could revolutionize drug development. So they teamed up with Anthropic to see whether an unreleased version of Claude could make scorpion antivenom. It couldn't. It came up with some promising starting points, but nothing close to an actual drug, experts tell The Verge. Citrini Research, the firm [&#8230;]",
-      "summary": "An investment research firm wanted to prove AI could revolutionize drug development. So they teamed up with Anthropic to see whether an unreleased version of Claude could make scorpion antivenom. It c",
-      "importance": 1.95
-    },
     {
       "title": "Claude Duet app is Anthropic’s bet on agents",
       "url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
@@ -24,18 +15,45 @@
       "url": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
       "source": "TechCrunch",
       "published_at": "Thu, 22 Oct 2026 13:11:13 +0000",
-      "raw_content": "DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the US ordered federal agencies to remove its technology over national security concerns.",
-      "summary": "DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the US ordered federal agencies to remove its technology over national security concerns.",
+      "raw_content": "DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the U.S. ordered federal agencies to remove its technology over national security concerns.",
+      "summary": "DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the U.S. ordered federal agencies to remove its technology over national security concerns.",
       "importance": 1.85
     },
     {
-      "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
-      "url": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
+      "title": "Discord now formats Markdown previews right",
+      "url": "https://www.theverge.com/news/1017012/discord-markdown-previews-organize-servers-channels",
+      "source": "The Verge",
+      "published_at": "2026-10-22T14:58:19-04:00",
+      "raw_content": "Discord's latest update released today has a big improvement for Markdown previews: they should now render correctly instead of with \"a bunch of symbols,\" according to the company. LLMs and AI agents often rely on Markdown files for instructions and context, so these improved previews could be helpful for people sharing information about AI projects [&#8230;]",
+      "summary": "Discord's latest update released today has a big improvement for Markdown previews: they should now render correctly instead of with \"a bunch of symbols,\" according to the company. LLMs and AI agents ",
+      "importance": 1.8
+    },
+    {
+      "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+      "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
       "source": "TechCrunch",
-      "published_at": "Wed, 21 Oct 2026 20:27:41 +0000",
-      "raw_content": "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself.",
-      "summary": "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself.",
-      "importance": 1.85
+      "published_at": "Thu, 22 Oct 2026 19:07:09 +0000",
+      "raw_content": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts.",
+      "summary": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts.",
+      "importance": 1.75
+    },
+    {
+      "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+      "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+      "source": "TechCrunch",
+      "published_at": "Thu, 22 Oct 2026 19:00:00 +0000",
+      "raw_content": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
+      "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
+      "importance": 1.75
+    },
+    {
+      "title": "Canva releases its first image generation model",
+      "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+      "source": "TechCrunch",
+      "published_at": "Thu, 22 Oct 2026 19:00:00 +0000",
+      "raw_content": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
+      "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
+      "importance": 1.7
     },
     {
       "title": "Nirva raises $33M for a pendant that only listens to you",
@@ -47,13 +65,13 @@
       "importance": 1.7
     },
     {
-      "title": "Meta to create a new class of shares to fund AI push",
-      "url": "https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings",
+      "title": "Sure, let’s smoosh SpaceX and Tesla together, who cares",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari",
       "source": "The Verge",
-      "published_at": "2026-10-21T17:30:02-04:00",
-      "raw_content": "Meta says it's issuing a new class of shares to fund its AI initiatives. As part of its third-quarter earnings report released on Wednesday, the company says the non-voting stock will also go toward potential acquisitions and employee compensation, with trading beginning in 2027. \"The scale of investment required to compete, sustain growth, expand infrastructure, [&#8230;]",
-      "summary": "Meta says it's issuing a new class of shares to fund its AI initiatives. As part of its third-quarter earnings report released on Wednesday, the company says the non-voting stock will also go toward p",
-      "importance": 1.7
+      "published_at": "2026-10-22T15:45:00-04:00",
+      "raw_content": "Oh sure, SpaceX's credit risk is pretty high because it's about to borrow another $40 billion to spend on Nvidia chips, but who cares about that? SpaceX and Tesla have formed special committees to discuss a merger! The degree to which you find this merger compelling likely has to do with the degree to which [&#8230;]",
+      "summary": "Oh sure, SpaceX's credit risk is pretty high because it's about to borrow another $40 billion to spend on Nvidia chips, but who cares about that? SpaceX and Tesla have formed special committees to dis",
+      "importance": 1.65
     },
     {
       "title": "OpenAI, Anthropic, and Nvidia had record lobbying quarters",
@@ -65,12 +83,21 @@
       "importance": 1.65
     },
     {
+      "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
+      "url": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
+      "source": "TechCrunch",
+      "published_at": "Thu, 22 Oct 2026 16:47:17 +0000",
+      "raw_content": "Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers.",
+      "summary": "Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers.",
+      "importance": 1.6
+    },
+    {
       "title": "Uber puts all 30,000 employees on ChatGPT Work",
       "url": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
       "source": "TechCrunch",
       "published_at": "Thu, 22 Oct 2026 16:00:00 +0000",
-      "raw_content": "The ride share giant previously deployed a much smaller pilot for ChatGPT Work, but is now taking the enterprise agent company-wide.",
-      "summary": "The ride share giant previously deployed a much smaller pilot for ChatGPT Work, but is now taking the enterprise agent company-wide.",
+      "raw_content": "The ride-share giant previously deployed a much smaller pilot for ChatGPT Work but is now taking the enterprise agent company-wide.",
+      "summary": "The ride-share giant previously deployed a much smaller pilot for ChatGPT Work but is now taking the enterprise agent company-wide.",
       "importance": 1.6
     },
     {
@@ -83,57 +110,57 @@
       "importance": 1.6
     },
     {
-      "title": "1Password lets AI agents use your passwords without seeing them",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1016399/1password-ai-agent-password-sign-in",
+      "title": "In Meta’s version of the future, I’ll have my Muse call your Muse",
+      "url": "https://www.theverge.com/tech/1016905/meta-earnings-fall-2026-muse-network",
       "source": "The Verge",
-      "published_at": "2026-10-22T09:00:00-04:00",
-      "raw_content": "1Password is introducing a new feature that allows AI agents to sign into your accounts without actually seeing or handling your passwords. The aptly named 1Password for Agents doesn't give bots free reign to access all of your connected accounts - you'll still need to grant approval for sign-in requests - but should make it [&#8230;]",
-      "summary": "1Password is introducing a new feature that allows AI agents to sign into your accounts without actually seeing or handling your passwords. The aptly named 1Password for Agents doesn't give bots free ",
+      "published_at": "2026-10-22T14:15:00-04:00",
+      "raw_content": "Mark Zuckerberg is barrelling toward a future in which an autonomous network of AI agents will run our lives - shopping for us, working for us, talking to other people's AI agents for us. Are humans ready for this very specific and unrelenting vision of a life in which we communicate primarily through bot proxies? [&#8230;]",
+      "summary": "Mark Zuckerberg is barrelling toward a future in which an autonomous network of AI agents will run our lives - shopping for us, working for us, talking to other people's AI agents for us. Are humans r",
       "importance": 1.6
     },
     {
-      "title": "AI agents are ready to shop. Some retailers are wary",
-      "url": "https://www.theverge.com/report/1015811/ai-shopping-agents-blocked-amazon-the-realreal-target-meta-muse",
+      "title": "Someone hacked the Switch 2 by using an old game and AI",
+      "url": "https://www.theverge.com/games/1016862/nintendo-switch-2-jailbreak-ai",
       "source": "The Verge",
-      "published_at": "2026-10-22T08:30:00-04:00",
-      "raw_content": "Using an AI agent to shop for you is a strange experience. Tech companies have marketed them as personal assistants - the democratizing of labor that ordinarily would only be available to the rich and powerful. In practice, at least for buying things, it's more like sending an anxious and apologetic teenager out to the [&#8230;]",
-      "summary": "Using an AI agent to shop for you is a strange experience. Tech companies have marketed them as personal assistants - the democratizing of labor that ordinarily would only be available to the rich and",
+      "published_at": "2026-10-22T13:21:31-04:00",
+      "raw_content": "The Nintendo Switch 2 has apparently been jailbroken, and a modder has already shown the console running a custom version of Mario Kart World featuring new playable characters like Cinnamoroll, the red Angry Bird, Peter Griffin, and Steve from Minecraft. OpenAI's Codex helped make this \"ns2jb\" jailbreak, according to Sammy Hajhamid, aka \"pepsipu.\" It's a [&#8230;]",
+      "summary": "The Nintendo Switch 2 has apparently been jailbroken, and a modder has already shown the console running a custom version of Mario Kart World featuring new playable characters like Cinnamoroll, the re",
       "importance": 1.6
     },
     {
-      "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
-      "url": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
+      "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
+      "url": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
       "source": "TechCrunch",
-      "published_at": "Wed, 21 Oct 2026 22:51:22 +0000",
-      "raw_content": "Blackstone’s AI head on why the PE giant isn't panicked by market jitters.",
-      "summary": "Blackstone’s AI head on why the PE giant isn't panicked by market jitters.",
+      "published_at": "Thu, 22 Oct 2026 18:43:53 +0000",
+      "raw_content": "Microsoft’s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models underneath, not from Microsoft’s system itself.",
+      "summary": "Microsoft’s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models underneath, not from Microsoft",
       "importance": 1.55
     },
     {
-      "title": "Meta wants to pay for its broad AI buildout with a newly created class of stock",
-      "url": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/",
-      "source": "TechCrunch",
-      "published_at": "Wed, 21 Oct 2026 22:45:34 +0000",
-      "raw_content": "The social media giant is planning a new stock strategy to help power its broad investments in AI models and services.",
-      "summary": "The social media giant is planning a new stock strategy to help power its broad investments in AI models and services.",
+      "title": "Meta&#8217;s AI could still scrape news sites, legal experts say",
+      "url": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
+      "source": "The Verge",
+      "published_at": "2026-10-22T16:32:05-04:00",
+      "raw_content": "Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites, like The Verge - but legal experts say these changes aren't enough to address their concerns. \"This does nothing to restrict the 'associated with your products or services' [language] that would let Meta scrape [&#8230;]",
+      "summary": "Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites, like The Verge - but legal experts say these changes aren't enough to address ",
       "importance": 1.55
     },
     {
-      "title": "TechCrunch Founder Summit 2026: Everything you need to know",
-      "url": "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/",
-      "source": "TechCrunch",
-      "published_at": "Wed, 21 Oct 2026 21:16:20 +0000",
-      "raw_content": "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and scaling their companies.",
-      "summary": "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and ",
+      "title": "Meta turns Muse sharing back on",
+      "url": "https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts",
+      "source": "The Verge",
+      "published_at": "2026-10-22T16:24:04-04:00",
+      "raw_content": "Meta has re-enabled Muse sharing after security researchers had reported that public conversation links could be easy to find. The researchers said they had been able to find Muse pages like a marketing company's internal revenue review and a small business owner's loan application. Researchers at Claroc reported earlier this week that Muse the web [&#8230;]",
+      "summary": "Meta has re-enabled Muse sharing after security researchers had reported that public conversation links could be easy to find. The researchers said they had been able to find Muse pages like a marketi",
       "importance": 1.55
     },
     {
-      "title": "Meta says Muse has over 10M users, with shopping a top activity",
-      "url": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
-      "source": "TechCrunch",
-      "published_at": "Wed, 21 Oct 2026 21:14:19 +0000",
-      "raw_content": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during its Q3 earnings call. The AI app now has over 10M users.",
-      "summary": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during its Q3 earnings call. The AI app now has over 10M users.",
+      "title": "Microsoft says its AI tool is better than doctors at diagnosing conditions",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1016690/suleyman-microsoft-diagnostic-orchestrator-science-medical-superintelligence",
+      "source": "The Verge",
+      "published_at": "2026-10-22T14:00:00-04:00",
+      "raw_content": "For years, AI leaders have touted healthcare as one of the clearest examples of where their technology will improve lives. Now \"it is finally here,\" Microsoft AI CEO Mustafa Suleyman tells The Verge. The company claims to have developed an AI-powered tool it says can diagnose conditions up to four times more accurately than human [&#8230;]",
+      "summary": "For years, AI leaders have touted healthcare as one of the clearest examples of where their technology will improve lives. Now \"it is finally here,\" Microsoft AI CEO Mustafa Suleyman tells The Verge. ",
       "importance": 1.55
     },
     {
@@ -143,33 +170,6 @@
       "published_at": "2026-10-22T12:16:15-04:00",
       "raw_content": "Wildwood is the most ambitious film yet from Laika, the stop-motion studio best known for the likes of Coraline and ParaNorman. It's a sprawling fantasy adventure that took five years to complete. The process involved more 230 puppets - including 36 of the main character Prue alone - which were brought to life by a [&#8230;]",
       "summary": "Wildwood is the most ambitious film yet from Laika, the stop-motion studio best known for the likes of Coraline and ParaNorman. It's a sprawling fantasy adventure that took five years to complete. The",
-      "importance": 1.55
-    },
-    {
-      "title": "Bill Gates says to prepare for 20 years of ‘tumultuous’ AI disruption",
-      "url": "https://www.theverge.com/podcast/1015408/bill-gates-ai-interview-microsoft-openai-anthropic-risk-policy-regulation",
-      "source": "The Verge",
-      "published_at": "2026-10-22T10:00:00-04:00",
-      "raw_content": "Today, I’m talking to Bill Gates, cofounder and former CEO of Microsoft and chairman of the Gates Foundation. You may have noticed Bill in the news more lately — he’s been on something of a tour for the past few months, ever since publishing an essay in late August titled “The turbulent AI era is [&#8230;]",
-      "summary": "Today, I’m talking to Bill Gates, cofounder and former CEO of Microsoft and chairman of the Gates Foundation. You may have noticed Bill in the news more lately — he’s been on something of a tour for t",
-      "importance": 1.55
-    },
-    {
-      "title": "Eiliko maker says it&#8217;s hiring an ‘independent security firm’ after Verge report on its insecure robots",
-      "url": "https://www.theverge.com/news/1015824/eiliko-energize-lab-statement-on-robot-hack-breach",
-      "source": "The Verge",
-      "published_at": "2026-10-22T07:00:00-04:00",
-      "raw_content": "Eiliko, a cute robot charm you can hang on your bag with built-in AI conversations, turned out to be a security nightmare. It told owners that \"your secrets are safe with me,\" but hackers could easily read complete transcripts of everything we told the toy, and that was just the beginning. The Verge and security [&#8230;]",
-      "summary": "Eiliko, a cute robot charm you can hang on your bag with built-in AI conversations, turned out to be a security nightmare. It told owners that \"your secrets are safe with me,\" but hackers could easily",
-      "importance": 1.55
-    },
-    {
-      "title": "Data centers could erase decades of air quality gains",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report",
-      "source": "The Verge",
-      "published_at": "2026-10-21T18:33:44-04:00",
-      "raw_content": "A rush of new data centers could bring air pollution roaring back to levels not seen since the 2000s in Texas, which has become ground zero for the physical infrastructure behind generative AI. New and proposed data centers are demanding a tremendous amount of electricity. How developers and utilities meet that demand - with gas [&#8230;]",
-      "summary": "A rush of new data centers could bring air pollution roaring back to levels not seen since the 2000s in Texas, which has become ground zero for the physical infrastructure behind generative AI. New an",
       "importance": 1.55
     },
     {
