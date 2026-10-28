@@ -1,40 +1,76 @@
 {
-  "generated_at": "2026-10-28T12:06:49.715592+00:00",
+  "generated_at": "2026-10-28T22:10:04.262319+00:00",
   "items": [
     {
-      "title": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
+      "title": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
+      "url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
       "source": "The Verge",
-      "published_at": "2026-10-27T16:48:58-04:00",
-      "raw_content": "On Monday, OpenAI announced impressive breakthroughs in mathematics, computer science, and physics, along with what the company says is an evolving approach to communicating its findings. But despite its apparent course correction, researchers who spoke to The Verge are growing increasingly tired of the company's antics. It has been a turbulent few months between OpenAI [&#8230;]",
-      "summary": "On Monday, OpenAI announced impressive breakthroughs in mathematics, computer science, and physics, along with what the company says is an evolving approach to communicating its findings. But despite ",
-      "importance": 1.9
+      "published_at": "2026-10-28T16:03:00-04:00",
+      "raw_content": "Google has released its latest frontier model, Gemini 4 Carbon, offering \"significant gains\" in coding, agentic tasks, and cybersecurity. In an announcement on Wednesday, Google highlights Carbon's top spot on the Artificial Analysis Intelligence Index (v5.0) benchmark, with Claude Opus 5.5 and GPT-6 Astra trailing behind. The new Gemini 4 Carbon model offers improvements over [&#8230;]",
+      "summary": "Google has released its latest frontier model, Gemini 4 Carbon, offering \"significant gains\" in coding, agentic tasks, and cybersecurity. In an announcement on Wednesday, Google highlights Carbon's to",
+      "importance": 2.35
     },
     {
-      "title": "Google’s next Genie AI model generates more realistic experiences",
-      "url": "https://www.theverge.com/tech/1019076/google-genie-4-ai-model",
-      "source": "The Verge",
-      "published_at": "2026-10-27T12:00:00-04:00",
-      "raw_content": "Google announced today its Genie 4 world model for generating interactive experiences using AI. The company says the model has four main updates: It allows for more realistic worlds, lets users update an experience in real time with a natural language prompt, can generate audio, and uses Gemini 3.8 Flash under the hood to help [&#8230;]",
-      "summary": "Google announced today its Genie 4 world model for generating interactive experiences using AI. The company says the model has four main updates: It allows for more realistic worlds, lets users update",
+      "title": "Google expands AI Search ads globally as core ad growth slows",
+      "url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
+      "source": "TechCrunch",
+      "published_at": "Wed, 28 Oct 2026 21:48:37 +0000",
+      "raw_content": "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.",
+      "summary": "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.",
+      "importance": 1.85
+    },
+    {
+      "title": "Microsoft recorded $10 billion in revenue from OpenAI",
+      "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
+      "source": "TechCrunch",
+      "published_at": "Wed, 28 Oct 2026 21:34:30 +0000",
+      "raw_content": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financial dependency of the partnership.",
+      "summary": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financ",
       "importance": 1.75
     },
     {
-      "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
-      "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
+      "title": "Anthropic just launched tools to show companies what their AI spending is buying",
+      "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
       "source": "TechCrunch",
-      "published_at": "Wed, 28 Oct 2026 01:15:28 +0000",
-      "raw_content": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic.",
-      "summary": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic.",
+      "published_at": "Wed, 28 Oct 2026 19:19:58 +0000",
+      "raw_content": "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO.",
+      "summary": "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO.",
+      "importance": 1.75
+    },
+    {
+      "title": "Microsoft hits 10 quarters of record-breaking revenue in a row",
+      "url": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
+      "source": "TechCrunch",
+      "published_at": "Wed, 28 Oct 2026 21:25:30 +0000",
+      "raw_content": "Whatever the future of AI might be, the current situation is still very good for Microsoft. The tech giant reported yet another record for quarterly revenue on Wednesday: $92.3 billion, a 19% increase over the year-ago quarter.",
+      "summary": "Whatever the future of AI might be, the current situation is still very good for Microsoft. The tech giant reported yet another record for quarterly revenue on Wednesday: $92.3 billion, a 19% increase",
       "importance": 1.7
     },
     {
-      "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
-      "url": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
+      "title": "The ‘Vulnpocalypse’ is coming for the internet’s aging code, says Wiz’s CTO",
+      "url": "https://techcrunch.com/podcast/the-vulnpocalypse-is-coming-for-the-internets-aging-code-says-wizs-cto/",
       "source": "TechCrunch",
-      "published_at": "Tue, 27 Oct 2026 18:55:35 +0000",
-      "raw_content": "Disruptive has made headlines in recent years for pouring money into companies like chip startup Groq and the AI voice-generation startup ElevenLabs.",
-      "summary": "Disruptive has made headlines in recent years for pouring money into companies like chip startup Groq and the AI voice-generation startup ElevenLabs.",
+      "published_at": "Wed, 28 Oct 2026 18:50:39 +0000",
+      "raw_content": "The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to fix their systems, with some taking sites offline until the vulnerabilities could be patched. According to researchers who found the [&#8230;]",
+      "summary": "The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to ",
+      "importance": 1.7
+    },
+    {
+      "title": "Akai is embracing vibe-coded mods with an open-source MPC",
+      "url": "https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key",
+      "source": "The Verge",
+      "published_at": "2026-10-28T17:34:04-04:00",
+      "raw_content": "The MPC Sample Key isn't even formally announced yet, but Akai is already showing off what the modding community is cooking up through vibe coding. Akai has decided to embrace the explosion of hackers and custom firmware developers by giving them early access to the device, which will have open-source firmware. It will likely run [&#8230;]",
+      "summary": "The MPC Sample Key isn't even formally announced yet, but Akai is already showing off what the modding community is cooking up through vibe coding. Akai has decided to embrace the explosion of hackers",
+      "importance": 1.7
+    },
+    {
+      "title": "Microsoft is ending Copilot support on smart TVs",
+      "url": "https://www.theverge.com/tech/1021143/microsoft-lg-samsung-copilot-ai-assistant-smart-tvs-ending",
+      "source": "The Verge",
+      "published_at": "2026-10-28T14:36:26-04:00",
+      "raw_content": "Nearly two years after LG and Samsung announced at CES 2025 that their latest smart TVs would include access to Microsoft's Copilot, the company is ending support for the AI assistant's functionality on all TVs this year, according to a report by Windows Central. The news comes not from an official announcement from LG, Samsung, [&#8230;]",
+      "summary": "Nearly two years after LG and Samsung announced at CES 2025 that their latest smart TVs would include access to Microsoft's Copilot, the company is ending support for the AI assistant's functionality ",
       "importance": 1.7
     },
     {
@@ -47,121 +83,85 @@
       "importance": 1.7
     },
     {
-      "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
-      "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+      "title": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
+      "url": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
       "source": "TechCrunch",
-      "published_at": "Tue, 27 Oct 2026 23:34:27 +0000",
-      "raw_content": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February.",
-      "summary": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February.",
+      "published_at": "Wed, 28 Oct 2026 21:58:32 +0000",
+      "raw_content": "Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest competitor in the market, AWS.",
+      "summary": "Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest competitor in the market, AWS.",
       "importance": 1.65
     },
     {
-      "title": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
-      "url": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/",
+      "title": "Wiz’s CTO on PHP2Shell and the coming ‘vulnpocalypse’",
+      "url": "https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/",
       "source": "TechCrunch",
-      "published_at": "Tue, 27 Oct 2026 21:44:34 +0000",
-      "raw_content": "The banking giant reminds customers that \"you're responsible for activity\" resulting from your AI agents' access.",
-      "summary": "The banking giant reminds customers that \"you're responsible for activity\" resulting from your AI agents' access.",
+      "published_at": "Wed, 28 Oct 2026 19:05:46 +0000",
+      "raw_content": "The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to fix their systems, with some taking sites offline until the vulnerabilities could be patched. According to researchers who found the [&#8230;]",
+      "summary": "The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to ",
+      "importance": 1.65
+    },
+    {
+      "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
+      "url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
+      "source": "TechCrunch",
+      "published_at": "Wed, 28 Oct 2026 17:00:00 +0000",
+      "raw_content": "A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use apps.",
+      "summary": "A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use apps.",
+      "importance": 1.65
+    },
+    {
+      "title": "Chrome’s enhanced autofill can now pull info from Gmail to help you fill out forms",
+      "url": "https://www.theverge.com/tech/1020626/chrome-enhanced-autofill-gmail-forms-gemini-personal-intelligence",
+      "source": "The Verge",
+      "published_at": "2026-10-28T13:00:00-04:00",
+      "raw_content": "Following improvements made to Chrome's enhanced autofill last year that included your name, passport number, email address, and physical addresses sourced from your Google Accounts and services like Google Wallet, the feature is now expanding. Starting today, Chrome's enhanced autofill will use Gemini with Personal Intelligence to suggest information sourced from your Gmail, potentially saving [&#8230;]",
+      "summary": "Following improvements made to Chrome's enhanced autofill last year that included your name, passport number, email address, and physical addresses sourced from your Google Accounts and services like ",
       "importance": 1.6
     },
     {
-      "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
-      "url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
-      "source": "TechCrunch",
-      "published_at": "Tue, 27 Oct 2026 17:08:08 +0000",
-      "raw_content": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery.",
-      "summary": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery.",
+      "title": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
+      "source": "The Verge",
+      "published_at": "2026-10-27T16:48:58-04:00",
+      "raw_content": "On Monday, OpenAI announced impressive breakthroughs in mathematics, computer science, and physics, along with what the company says is an evolving approach to communicating its findings. But despite its apparent course correction, researchers who spoke to The Verge are growing increasingly tired of the company's antics. It has been a turbulent few months between OpenAI [&#8230;]",
+      "summary": "On Monday, OpenAI announced impressive breakthroughs in mathematics, computer science, and physics, along with what the company says is an evolving approach to communicating its findings. But despite ",
       "importance": 1.6
     },
     {
-      "title": "Anthropic’s elaborate plan to keep Wall Street at bay",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
-      "source": "The Verge",
-      "published_at": "2026-10-27T12:51:22-04:00",
-      "raw_content": "Anthropic wants to have it both ways. With its impending IPO, it wants to tap the vast riches of the public markets and insists it doesn't want to compromise its core mission of developing AI safely and for the benefit of humanity. But greater model capabilities bring greater risks, and shareholders eager for returns may [&#8230;]",
-      "summary": "Anthropic wants to have it both ways. With its impending IPO, it wants to tap the vast riches of the public markets and insists it doesn't want to compromise its core mission of developing AI safely a",
-      "importance": 1.6
-    },
-    {
-      "title": "Apple is adding an AI chatbot to Pages, Keynote, and Numbers",
-      "url": "https://www.theverge.com/tech/1019373/apple-pages-keynote-numbers-ai-chatbot-update",
-      "source": "The Verge",
-      "published_at": "2026-10-27T09:50:51-04:00",
-      "raw_content": "Apple is bringing an AI assistant to its suite of productivity apps, including Keynote, Pages, and Numbers. The assistant, which is built on AI models from Apple and OpenAI, can understand a document's context to perform tasks like designing, animating, and refining slides in Keynote. In Pages, Apple says the AI assistant can draft, restructure, [&#8230;]",
-      "summary": "Apple is bringing an AI assistant to its suite of productivity apps, including Keynote, Pages, and Numbers. The assistant, which is built on AI models from Apple and OpenAI, can understand a document'",
-      "importance": 1.6
-    },
-    {
-      "title": "OpenAI announces three big science discoveries and a new way to work with academics",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
-      "source": "The Verge",
-      "published_at": "2026-10-26T19:34:58-04:00",
-      "raw_content": "Less than a month after its mass release of hundreds of manuscripts that it said contained solutions to long-standing mathematics questions, OpenAI is back with three more \"major\" discoveries in math, computer science, and physics. What's different this time is the choice to have external experts that OpenAI describes as \"shepherds\" guiding the results in [&#8230;]",
-      "summary": "Less than a month after its mass release of hundreds of manuscripts that it said contained solutions to long-standing mathematics questions, OpenAI is back with three more \"major\" discoveries in math,",
-      "importance": 1.6
-    },
-    {
-      "title": "The data center boom has an upside: innovation for the US grid",
-      "url": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
+      "title": "Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms",
+      "url": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/",
       "source": "TechCrunch",
-      "published_at": "Tue, 27 Oct 2026 22:55:41 +0000",
-      "raw_content": "As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry insiders say.",
-      "summary": "As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry insiders say.",
+      "published_at": "Wed, 28 Oct 2026 17:00:00 +0000",
+      "raw_content": "The autofill update lets Chrome pull flight confirmations, tracking info, order details, and other information from your inbox, with your permission.",
+      "summary": "The autofill update lets Chrome pull flight confirmations, tracking info, order details, and other information from your inbox, with your permission.",
       "importance": 1.55
     },
     {
-      "title": "Who’s really in charge at Anthropic after the IPO?",
-      "url": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/",
+      "title": "AI execs may be too out of touch to build for the general public",
+      "url": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/",
       "source": "TechCrunch",
-      "published_at": "Tue, 27 Oct 2026 21:38:28 +0000",
-      "raw_content": "Here's a clear explanation of Anthropic's incredibly complex governance structure.",
-      "summary": "Here's a clear explanation of Anthropic's incredibly complex governance structure.",
+      "published_at": "Wed, 28 Oct 2026 15:53:52 +0000",
+      "raw_content": "Tech leaders are flaunting how out of touch they are when they brag about using AI to connect with their families.",
+      "summary": "Tech leaders are flaunting how out of touch they are when they brag about using AI to connect with their families.",
       "importance": 1.55
     },
     {
-      "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
-      "url": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
-      "source": "TechCrunch",
-      "published_at": "Tue, 27 Oct 2026 16:30:57 +0000",
-      "raw_content": "Genie 4 can maintain a consistent scene for up to two minutes, double Genie 3's limit, and offers better physics and more humanlike characters.",
-      "summary": "Genie 4 can maintain a consistent scene for up to two minutes, double Genie 3's limit, and offers better physics and more humanlike characters.",
-      "importance": 1.55
-    },
-    {
-      "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
-      "url": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
-      "source": "TechCrunch",
-      "published_at": "Tue, 27 Oct 2026 14:59:09 +0000",
-      "raw_content": "Rohit Patel is departing Meta after eight years working on AI evaluations and reinforcement learning, TechCrunch has exclusively learned. His startup, Ndoc, aims to take on Microsoft Office Suite.",
-      "summary": "Rohit Patel is departing Meta after eight years working on AI evaluations and reinforcement learning, TechCrunch has exclusively learned. His startup, Ndoc, aims to take on Microsoft Office Suite.",
-      "importance": 1.55
-    },
-    {
-      "title": "VisionQuest is what happens when AI really goes rogue",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai",
+      "title": "Meta says it&#8217;ll probably delay its controversial new business terms again",
+      "url": "https://www.theverge.com/tech/1020769/meta-updated-business-terms-delay-indefinitely",
       "source": "The Verge",
-      "published_at": "2026-10-27T13:30:00-04:00",
-      "raw_content": "In Marvel's VisionQuest, a superpowered robot tries to better understand humanity by getting lost in elaborate, digital daydreams in which he and other artificial intelligence-powered beings live together in a home. The series is deeply fantastical, yet it plays with some of the ideas that have come to dominate the conversation about real-world generative artificial [&#8230;]",
-      "summary": "In Marvel's VisionQuest, a superpowered robot tries to better understand humanity by getting lost in elaborate, digital daydreams in which he and other artificial intelligence-powered beings live toge",
+      "published_at": "2026-10-28T12:15:30-04:00",
+      "raw_content": "Meta says it may push the implementation of its new business terms past November 20th as it faces backlash from publishers over concerns about AI training. In a post on X, Meta communications head Andy Stone said the company does \"not plan to make policy changes without a full consultation with industry groups and leaders.\" [&#8230;]",
+      "summary": "Meta says it may push the implementation of its new business terms past November 20th as it faces backlash from publishers over concerns about AI training. In a post on X, Meta communications head And",
       "importance": 1.55
     },
     {
-      "title": "Firefox’s Smart Window adds AI form filling and webpage monitoring",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1019551/firefox-smart-window-ai-fill-forms",
+      "title": "xAI is buying out homeowners who promise not to sue over data center noise",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1020596/xai-mississippi-neighborhood-data-center-lawsuit",
       "source": "The Verge",
-      "published_at": "2026-10-27T12:14:18-04:00",
-      "raw_content": "Mozilla is updating Smart Window - Firefox's AI-powered browsing experience - with a new feature that can help you fill out online forms based on your open tabs. As an example, Mozilla says Smart Window can pull information from your online portfolio or LinkedIn page to paste your work history into a job application. You [&#8230;]",
-      "summary": "Mozilla is updating Smart Window - Firefox's AI-powered browsing experience - with a new feature that can help you fill out online forms based on your open tabs. As an example, Mozilla says Smart Wind",
+      "published_at": "2026-10-28T10:44:00-04:00",
+      "raw_content": "A subsidiary of Elon Musk's xAI is offering to buy up homes in a Mississippi neighborhood, as long as residents don't join a lawsuit targeting the company's nearby data center and power plant, according to a report from The Guardian. A realtor going door-to-door in the Southaven neighborhood reportedly told one resident that xAI plans [&#8230;]",
+      "summary": "A subsidiary of Elon Musk's xAI is offering to buy up homes in a Mississippi neighborhood, as long as residents don't join a lawsuit targeting the company's nearby data center and power plant, accordi",
       "importance": 1.55
-    },
-    {
-      "title": "Japan internet giant GMO says hackers posted stolen customer data",
-      "url": "https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/",
-      "source": "TechCrunch",
-      "published_at": "Tue, 27 Oct 2026 13:32:57 +0000",
-      "raw_content": "Japan's GMO Internet is verifying alleged customer data posted by suspected hackers following a cloud service breach.",
-      "summary": "Japan's GMO Internet is verifying alleged customer data posted by suspected hackers following a cloud service breach.",
-      "importance": 1.5
     },
     {
       "title": "Voters in Texas agree: They hate data centers",
@@ -173,13 +173,13 @@
       "importance": 1.5
     },
     {
-      "title": "Data center backlash is uniting America",
-      "url": "https://www.theverge.com/policy/1019152/data-centers-midterm-elections",
+      "title": "VisionQuest is what happens when AI really goes rogue",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai",
       "source": "The Verge",
-      "published_at": "2026-10-27T06:00:00-04:00",
-      "raw_content": "If there's one issue that seems to activate all kinds of voters in 2026, it's data centers. The rapid buildout of these massive server storage facilities - and the infrastructure construction and expenses that come with them - has sparked local opposition in communities across the country and become a major issue in many congressional [&#8230;]",
-      "summary": "If there's one issue that seems to activate all kinds of voters in 2026, it's data centers. The rapid buildout of these massive server storage facilities - and the infrastructure construction and expe",
-      "importance": 1.2
+      "published_at": "2026-10-27T13:30:00-04:00",
+      "raw_content": "In Marvel's VisionQuest, a superpowered robot tries to better understand humanity by getting lost in elaborate, digital daydreams in which he and other artificial intelligence-powered beings live together in a home. The series is deeply fantastical, yet it plays with some of the ideas that have come to dominate the conversation about real-world generative artificial [&#8230;]",
+      "summary": "In Marvel's VisionQuest, a superpowered robot tries to better understand humanity by getting lost in elaborate, digital daydreams in which he and other artificial intelligence-powered beings live toge",
+      "importance": 1.25
     }
   ]
 }
