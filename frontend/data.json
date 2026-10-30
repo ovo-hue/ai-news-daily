@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T04:23:38.964254+00:00",
+  "generated_at": "2026-10-30T12:08:06.985877+00:00",
   "items": [
     {
       "title": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
@@ -83,6 +83,15 @@
       "importance": 1.65
     },
     {
+      "title": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
+      "url": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
+      "source": "The Verge",
+      "published_at": "2026-10-30T05:00:00-04:00",
+      "raw_content": "The Wikimedia Foundation is staking out a middle ground in a group of landmark AI copyright cases, pushing courts to legally protect large language models (LLMs) training on copyrighted work - but not chatbots regurgitating that work to users. An overly black-and-white ruling, it says, could either deprive Wikipedians of useful AI-based tools or endanger [&#8230;]",
+      "summary": "The Wikimedia Foundation is staking out a middle ground in a group of landmark AI copyright cases, pushing courts to legally protect large language models (LLMs) training on copyrighted work - but not",
+      "importance": 1.6
+    },
+    {
       "title": "You can generate and edit Google Docs files directly in Gemini chats now",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs",
       "source": "The Verge",
@@ -101,7 +110,7 @@
       "importance": 1.55
     },
     {
-      "title": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+      "title": "AWS will be a $1T business, Jassy says — but first, it will spend big",
       "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
       "source": "TechCrunch",
       "published_at": "Thu, 29 Oct 2026 23:42:22 +0000",
@@ -146,15 +155,6 @@
       "importance": 1.55
     },
     {
-      "title": "AI has come for Arizona’s water",
-      "url": "https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc",
-      "source": "The Verge",
-      "published_at": "2026-10-29T06:00:04-04:00",
-      "raw_content": "A hulking gray giant rises from the desert. Inside, engineers create the force behind our phones and computers and appliances, our streaming services and search engines and chatbots and vibe-coded apps and websites. The complex is simultaneously massive and squat, dwarfed by the mountains that surround it, and it is endless. I drive past one [&#8230;]",
-      "summary": "A hulking gray giant rises from the desert. Inside, engineers create the force behind our phones and computers and appliances, our streaming services and search engines and chatbots and vibe-coded app",
-      "importance": 1.55
-    },
-    {
       "title": "Adam Mosseri says negativity around AI is ‘going to get worse’",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
       "source": "The Verge",
@@ -173,13 +173,13 @@
       "importance": 1.4
     },
     {
-      "title": "Microsoft is ending Copilot support on smart TVs",
-      "url": "https://www.theverge.com/tech/1021143/microsoft-lg-samsung-copilot-ai-assistant-smart-tvs-ending",
+      "title": "AI has come for Arizona’s water",
+      "url": "https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc",
       "source": "The Verge",
-      "published_at": "2026-10-28T14:36:26-04:00",
-      "raw_content": "Nearly two years after LG and Samsung announced at CES 2025 that their latest smart TVs would include access to Microsoft's Copilot, the company is ending support for the AI assistant's functionality on all TVs this year, according to a report by Windows Central. The news comes not from an official announcement from LG, Samsung, [&#8230;]",
-      "summary": "Nearly two years after LG and Samsung announced at CES 2025 that their latest smart TVs would include access to Microsoft's Copilot, the company is ending support for the AI assistant's functionality ",
-      "importance": 1.4
+      "published_at": "2026-10-29T06:00:04-04:00",
+      "raw_content": "A hulking gray giant rises from the desert. Inside, engineers create the force behind our phones and computers and appliances, our streaming services and search engines and chatbots and vibe-coded apps and websites. The complex is simultaneously massive and squat, dwarfed by the mountains that surround it, and it is endless. I drive past one [&#8230;]",
+      "summary": "A hulking gray giant rises from the desert. Inside, engineers create the force behind our phones and computers and appliances, our streaming services and search engines and chatbots and vibe-coded app",
+      "importance": 1.25
     }
   ]
 }
