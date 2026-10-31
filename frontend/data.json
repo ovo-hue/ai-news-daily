@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T16:49:00.572827+00:00",
+  "generated_at": "2026-10-31T20:58:39.027020+00:00",
   "items": [
     {
       "title": "Apple Intelligence is finally coming to China with iOS 27.3",
@@ -29,15 +29,6 @@
       "importance": 1.7
     },
     {
-      "title": "The biggest names in AI are backing a new way to opt out of scraping",
-      "url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
-      "source": "The Verge",
-      "published_at": "2026-10-30T16:26:10-04:00",
-      "raw_content": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtable. With this control, publishers can apply their AI training preferences across multiple AI companies, instead of setting them individually. The shared \"policy token\" signal [&#8230;]",
-      "summary": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtable. With this contro",
-      "importance": 1.65
-    },
-    {
       "title": "OpenAI reportedly lowers funding target for new round",
       "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
       "source": "TechCrunch",
@@ -53,24 +44,6 @@
       "published_at": "Fri, 30 Oct 2026 21:26:59 +0000",
       "raw_content": "No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson.",
       "summary": "No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson.",
-      "importance": 1.6
-    },
-    {
-      "title": "Zest’s new AI agent finds restaurants and books reservations over text",
-      "url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
-      "source": "TechCrunch",
-      "published_at": "Fri, 30 Oct 2026 17:47:12 +0000",
-      "raw_content": "Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation.",
-      "summary": "Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation.",
-      "importance": 1.6
-    },
-    {
-      "title": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
-      "source": "The Verge",
-      "published_at": "2026-10-30T16:48:43-04:00",
-      "raw_content": "Asked about supply chain shortages, like the ongoing RAM shortage, OpenAI CEO Sam Altman said in an interview that it's \"terrible\" to have RAM in personal PCs instead of data centers. During his appearance on the Cheeky Pint podcast, where he also commented on AI's impact on math, Altman said: \"A lot of people want [&#8230;]",
-      "summary": "Asked about supply chain shortages, like the ongoing RAM shortage, OpenAI CEO Sam Altman said in an interview that it's \"terrible\" to have RAM in personal PCs instead of data centers. During his appea",
       "importance": 1.6
     },
     {
@@ -101,15 +74,6 @@
       "importance": 1.55
     },
     {
-      "title": "Google’s first data center satellite is online and writing poetry",
-      "url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
-      "source": "TechCrunch",
-      "published_at": "Fri, 30 Oct 2026 17:00:00 +0000",
-      "raw_content": "The first TPU in space is running a Google DeepMind Gemma 4 model and writing cheesy poetry.",
-      "summary": "The first TPU in space is running a Google DeepMind Gemma 4 model and writing cheesy poetry.",
-      "importance": 1.55
-    },
-    {
       "title": "I built an AI Tamagotchi before Meta could",
       "url": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
       "source": "The Verge",
@@ -119,22 +83,31 @@
       "importance": 1.55
     },
     {
-      "title": "Google&#8217;s satellite AI server transmits its first response to Earth",
-      "url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
+      "title": "The biggest names in AI are backing a new way to opt out of scraping",
+      "url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
       "source": "The Verge",
-      "published_at": "2026-10-30T14:21:38-04:00",
-      "raw_content": "Google's AI chip-equipped satellite has generated its first response from space. In a blog post on Friday, Google says it successfully booted up the satellite's Tensor Processing Units (TPUs), allowing the on-board Gemma 4 model to follow through on a prompt to create a haiku about being in space: Blue marble below Data streams in [&#8230;]",
-      "summary": "Google's AI chip-equipped satellite has generated its first response from space. In a blog post on Friday, Google says it successfully booted up the satellite's Tensor Processing Units (TPUs), allowin",
-      "importance": 1.55
+      "published_at": "2026-10-30T16:26:10-04:00",
+      "raw_content": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtable. With this control, publishers can apply their AI training preferences across multiple AI companies, instead of setting them individually. The shared \"policy token\" signal [&#8230;]",
+      "summary": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtable. With this contro",
+      "importance": 1.35
     },
     {
-      "title": "Starbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru",
+      "title": "Zest’s new AI agent finds restaurants and books reservations over text",
+      "url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+      "source": "TechCrunch",
+      "published_at": "Fri, 30 Oct 2026 17:47:12 +0000",
+      "raw_content": "Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation.",
+      "summary": "Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation.",
+      "importance": 1.3
+    },
+    {
+      "title": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
       "source": "The Verge",
-      "published_at": "2026-10-30T13:38:04-04:00",
-      "raw_content": "Starbucks could eventually show you a personalized digital menu when you pull up to the drive-thru. During an earnings call on Thursday, Starbucks CEO Brian Niccol said the company is going to explore \"experiences that recognize participating customers as they arrive, present personalized digital menus, and make payment more effortless,\" as spotted earlier by More [&#8230;]",
-      "summary": "Starbucks could eventually show you a personalized digital menu when you pull up to the drive-thru. During an earnings call on Thursday, Starbucks CEO Brian Niccol said the company is going to explore",
-      "importance": 1.55
+      "published_at": "2026-10-30T16:48:43-04:00",
+      "raw_content": "Asked about supply chain shortages, like the ongoing RAM shortage, OpenAI CEO Sam Altman said in an interview that it's \"terrible\" to have RAM in personal PCs instead of data centers. During his appearance on the Cheeky Pint podcast, where he also commented on AI's impact on math, Altman said: \"A lot of people want [&#8230;]",
+      "summary": "Asked about supply chain shortages, like the ongoing RAM shortage, OpenAI CEO Sam Altman said in an interview that it's \"terrible\" to have RAM in personal PCs instead of data centers. During his appea",
+      "importance": 1.3
     },
     {
       "title": "Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop",
@@ -146,12 +119,39 @@
       "importance": 1.3
     },
     {
+      "title": "Google’s first data center satellite is online and writing poetry",
+      "url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
+      "source": "TechCrunch",
+      "published_at": "Fri, 30 Oct 2026 17:00:00 +0000",
+      "raw_content": "The first TPU in space is running a Google DeepMind Gemma 4 model and writing cheesy poetry.",
+      "summary": "The first TPU in space is running a Google DeepMind Gemma 4 model and writing cheesy poetry.",
+      "importance": 1.25
+    },
+    {
       "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’",
       "url": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
       "source": "TechCrunch",
       "published_at": "Fri, 30 Oct 2026 16:03:45 +0000",
       "raw_content": "The cautionary Theranos tale takes on a new significance in the AI era, when companies that have never turned a profit are raising capital at trillion-dollar valuations.",
       "summary": "The cautionary Theranos tale takes on a new significance in the AI era, when companies that have never turned a profit are raising capital at trillion-dollar valuations.",
+      "importance": 1.25
+    },
+    {
+      "title": "Google&#8217;s satellite AI server transmits its first response to Earth",
+      "url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
+      "source": "The Verge",
+      "published_at": "2026-10-30T14:21:38-04:00",
+      "raw_content": "Google's AI chip-equipped satellite has generated its first response from space. In a blog post on Friday, Google says it successfully booted up the satellite's Tensor Processing Units (TPUs), allowing the on-board Gemma 4 model to follow through on a prompt to create a haiku about being in space: Blue marble below Data streams in [&#8230;]",
+      "summary": "Google's AI chip-equipped satellite has generated its first response from space. In a blog post on Friday, Google says it successfully booted up the satellite's Tensor Processing Units (TPUs), allowin",
+      "importance": 1.25
+    },
+    {
+      "title": "Starbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru",
+      "source": "The Verge",
+      "published_at": "2026-10-30T13:38:04-04:00",
+      "raw_content": "Starbucks could eventually show you a personalized digital menu when you pull up to the drive-thru. During an earnings call on Thursday, Starbucks CEO Brian Niccol said the company is going to explore \"experiences that recognize participating customers as they arrive, present personalized digital menus, and make payment more effortless,\" as spotted earlier by More [&#8230;]",
+      "summary": "Starbucks could eventually show you a personalized digital menu when you pull up to the drive-thru. During an earnings call on Thursday, Starbucks CEO Brian Niccol said the company is going to explore",
       "importance": 1.25
     },
     {
