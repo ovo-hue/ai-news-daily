@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T00:30:15.480505+00:00",
+  "generated_at": "2026-11-03T13:38:04.676877+00:00",
   "items": [
     {
       "title": "Anthropic clamps down on Claude’s AI video game clones",
@@ -29,13 +29,13 @@
       "importance": 1.7
     },
     {
-      "title": "OpenAI is finally merging ChatGPT’s Chat and Work tabs",
-      "url": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
+      "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+      "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
       "source": "TechCrunch",
-      "published_at": "Mon, 02 Nov 2026 13:57:53 +0000",
-      "raw_content": "OpenAI said that ChatGPT and Codex will draw usage from the same allocation pool after this change.",
-      "summary": "OpenAI said that ChatGPT and Codex will draw usage from the same allocation pool after this change.",
-      "importance": 1.65
+      "published_at": "Tue, 03 Nov 2026 00:35:52 +0000",
+      "raw_content": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter Isaacson’s podcast, The Builders, Tan put a price tag on his passion.",
+      "summary": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter ",
+      "importance": 1.6
     },
     {
       "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
@@ -45,6 +45,33 @@
       "raw_content": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return.",
       "summary": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return.",
       "importance": 1.6
+    },
+    {
+      "title": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing",
+      "url": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
+      "source": "TechCrunch",
+      "published_at": "Tue, 03 Nov 2026 07:20:00 +0000",
+      "raw_content": "Now in beta: Apple's new Audio Intelligence features can help you remember what someone said or take notes on conversations.",
+      "summary": "Now in beta: Apple's new Audio Intelligence features can help you remember what someone said or take notes on conversations.",
+      "importance": 1.55
+    },
+    {
+      "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
+      "url": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
+      "source": "TechCrunch",
+      "published_at": "Tue, 03 Nov 2026 03:30:00 +0000",
+      "raw_content": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages.",
+      "summary": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages.",
+      "importance": 1.55
+    },
+    {
+      "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
+      "url": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
+      "source": "TechCrunch",
+      "published_at": "Tue, 03 Nov 2026 01:49:52 +0000",
+      "raw_content": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call.",
+      "summary": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call.",
+      "importance": 1.55
     },
     {
       "title": "Web host Squarespace lays off 19% of its employees",
@@ -83,15 +110,6 @@
       "importance": 1.55
     },
     {
-      "title": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
-      "url": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
-      "source": "TechCrunch",
-      "published_at": "Mon, 02 Nov 2026 15:00:00 +0000",
-      "raw_content": "Two startups tackling the data center water problem are joining forces in a $16 million deal.",
-      "summary": "Two startups tackling the data center water problem are joining forces in a $16 million deal.",
-      "importance": 1.55
-    },
-    {
       "title": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
       "url": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
       "source": "The Verge",
@@ -101,15 +119,6 @@
       "importance": 1.55
     },
     {
-      "title": "2 days till TechCrunch Founder Summit: Boston founders don’t need a Silicon Valley address to build something big",
-      "url": "https://techcrunch.com/2026/11/02/2-days-till-techcrunch-founder-summit-boston-founders-dont-need-a-silicon-valley-address-to-build-something-big/",
-      "source": "TechCrunch",
-      "published_at": "Mon, 02 Nov 2026 14:00:00 +0000",
-      "raw_content": "TechCrunch Founder Summit happens on November 4 in Boston for a founder-focused agenda and impactful connections. Save up to $100 or get discounts with group passes.",
-      "summary": "TechCrunch Founder Summit happens on November 4 in Boston for a founder-focused agenda and impactful connections. Save up to $100 or get discounts with group passes.",
-      "importance": 1.5
-    },
-    {
       "title": "Apple Intelligence is finally coming to China with iOS 27.3",
       "url": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
       "source": "The Verge",
@@ -117,15 +126,6 @@
       "raw_content": "Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website, as reported by MacRumors. The Apple Intelligence features will be available first in an iOS 27.3 beta that's set to launch on November 4th, with a full iOS 27.3 release scheduled for December. This launch doesn't bring [&#8230;]",
       "summary": "Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website, as reported by MacRumors. The Apple Intelligence features will be available first in",
       "importance": 1.5
-    },
-    {
-      "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
-      "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
-      "source": "TechCrunch",
-      "published_at": "Sun, 01 Nov 2026 21:55:23 +0000",
-      "raw_content": "Data centers are deeply unpopular. But what if we called them something else?",
-      "summary": "Data centers are deeply unpopular. But what if we called them something else?",
-      "importance": 1.3
     },
     {
       "title": "I built an AI Tamagotchi before Meta could",
