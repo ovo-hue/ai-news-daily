@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T22:54:33.889466+00:00",
+  "generated_at": "2026-11-04T04:51:28.653072+00:00",
   "items": [
     {
       "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
@@ -24,8 +24,17 @@
       "url": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
       "source": "TechCrunch",
       "published_at": "Tue, 03 Nov 2026 21:43:08 +0000",
-      "raw_content": "Cybersecurity focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.",
-      "summary": "Cybersecurity focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.",
+      "raw_content": "Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.",
+      "summary": "Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.",
+      "importance": 1.7
+    },
+    {
+      "title": "The biggest modding site in PC gaming is taking a stance on AI",
+      "url": "https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures",
+      "source": "The Verge",
+      "published_at": "2026-11-03T19:42:10-05:00",
+      "raw_content": "The PC gaming mods repository Nexus Mods is making disclosures about AI mandatory for uploads of new mods, meaning that mod authors will have to declare \"whether AI has been used in their work,\" the site announced today as part of a big post about AI-generated content on the platform. \"One of the most consistent [&#8230;]",
+      "summary": "The PC gaming mods repository Nexus Mods is making disclosures about AI mandatory for uploads of new mods, meaning that mod authors will have to declare \"whether AI has been used in their work,\" the s",
       "importance": 1.7
     },
     {
@@ -65,21 +74,12 @@
       "importance": 1.6
     },
     {
-      "title": "OpenAI is quietly renaming data centers ‘compute campuses’",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1025242/openai-quietly-renames-data-centers-as-compute-campuses",
-      "source": "The Verge",
-      "published_at": "2026-11-03T10:00:44-05:00",
-      "raw_content": "People hate data centers. They're loud, resource-hungry eyesores that are so profoundly unpopular they have managed to achieve the near-impossible in today's polarized political landscape: genuine bipartisan opposition. But what about \"compute campuses\"? Those sound lovely, right? OpenAI seems to be gambling that a quiet rebrand could be all it takes to defuse the growing [&#8230;]",
-      "summary": "People hate data centers. They're loud, resource-hungry eyesores that are so profoundly unpopular they have managed to achieve the near-impossible in today's polarized political landscape: genuine bip",
-      "importance": 1.6
-    },
-    {
       "title": "Data centers are turning to old jet engines as the wait for power grows",
       "url": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
       "source": "TechCrunch",
       "published_at": "Tue, 03 Nov 2026 22:19:53 +0000",
-      "raw_content": "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less efficient and less environmentally friendly solution: once-discarded jet engines.",
-      "summary": "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less efficient and less environmentally friendly solution: once-discarded jet engines",
+      "raw_content": "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less-efficient and less environmentally friendly solution: once-discarded jet engines.",
+      "summary": "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less-efficient and less environmentally friendly solution: once-discarded jet engines",
       "importance": 1.55
     },
     {
@@ -119,6 +119,15 @@
       "importance": 1.55
     },
     {
+      "title": "Please stop asking me when the AI bubble will pop",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds",
+      "source": "The Verge",
+      "published_at": "2026-11-03T18:37:45-05:00",
+      "raw_content": "People, including on this staff, keep asking me with varying degrees of excitement or trepidation when the AI bubble will burst. I'll tell you what I tell them: If I knew that, I would make a life-changing bet on the market, levered up as far as I could, and then, after I made my money, [&#8230;]",
+      "summary": "People, including on this staff, keep asking me with varying degrees of excitement or trepidation when the AI bubble will burst. I'll tell you what I tell them: If I knew that, I would make a life-cha",
+      "importance": 1.55
+    },
+    {
       "title": "Those Jeff Bezos hair transplant photos are very fake",
       "url": "https://www.theverge.com/tech/1025745/fake-jeff-bezos-hair-replacement-photos-debunk",
       "source": "The Verge",
@@ -146,15 +155,6 @@
       "importance": 1.55
     },
     {
-      "title": "Apple is all in on AI — its own and everyone else&#8217;s",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1025245/apple-earnings-q4-ai",
-      "source": "The Verge",
-      "published_at": "2026-11-03T10:24:51-05:00",
-      "raw_content": "Apple's latest earnings show how it's continuing to capitalize on the AI boom without busting its budget on the infrastructure spending consuming its competitors. Overall, Apple posted its best-ever fiscal year for revenue and earnings per share. iPhone and Mac sales continued to grow strongly in the fourth quarter. iPhone revenue rose 17.5% from a [&#8230;]",
-      "summary": "Apple's latest earnings show how it's continuing to capitalize on the AI boom without busting its budget on the infrastructure spending consuming its competitors. Overall, Apple posted its best-ever f",
-      "importance": 1.55
-    },
-    {
       "title": "Hiding inside Palantir’s skyrocketing quarter is a foreboding signal",
       "url": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/",
       "source": "TechCrunch",
@@ -164,12 +164,12 @@
       "importance": 1.5
     },
     {
-      "title": "The TechCrunch Founder Summit agenda is only half the reason to be in Boston on Nov. 4",
+      "title": "The TechCrunch Founder Summit agenda is only half the reason to be in Boston on November 4",
       "url": "https://techcrunch.com/2026/11/03/the-techcrunch-founder-summit-agenda-is-only-half-the-reason-to-be-in-boston-on-nov-4/",
       "source": "TechCrunch",
       "published_at": "Tue, 03 Nov 2026 14:30:00 +0000",
-      "raw_content": "On Nov. 4, TechCrunch Founder Summit 2026 brings founders and VCs to Boston's SoWa Power Station for practical insights and connections. Register before prices increase at the door.",
-      "summary": "On Nov. 4, TechCrunch Founder Summit 2026 brings founders and VCs to Boston's SoWa Power Station for practical insights and connections. Register before prices increase at the door.",
+      "raw_content": "On November 4, TechCrunch Founder Summit 2026 brings founders and VCs to Boston's SoWa Power Station for practical insights and connections. Register before prices increase at the door.",
+      "summary": "On November 4, TechCrunch Founder Summit 2026 brings founders and VCs to Boston's SoWa Power Station for practical insights and connections. Register before prices increase at the door.",
       "importance": 1.5
     },
     {
