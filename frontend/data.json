@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T05:07:49.137635+00:00",
+  "generated_at": "2026-11-05T13:58:56.600605+00:00",
   "items": [
     {
       "title": "Nothing teases a screen-free AI device ahead of launch next month",
@@ -15,15 +15,6 @@
       "url": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
       "source": "TechCrunch",
       "published_at": "Wed, 04 Nov 2026 19:30:04 +0000",
-      "raw_content": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value? And with Chinese open models gaining ground, can American players keep up?&#160; On this episode of [&#8230;]",
-      "summary": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable model",
-      "importance": 1.7
-    },
-    {
-      "title": "Building on open source AI? Hugging Face’s policy chief on the costs, risks, and trade-offs",
-      "url": "https://techcrunch.com/podcast/building-on-open-source-ai-hugging-faces-policy-chief-on-the-costs-risks-and-trade-offs/",
-      "source": "TechCrunch",
-      "published_at": "Wed, 04 Nov 2026 18:44:57 +0000",
       "raw_content": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value? And with Chinese open models gaining ground, can American players keep up?&#160; On this episode of [&#8230;]",
       "summary": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable model",
       "importance": 1.7
@@ -92,6 +83,24 @@
       "importance": 1.6
     },
     {
+      "title": "A YC startup is putting $1M behind five unsolved materials science problems for AI",
+      "url": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/",
+      "source": "TechCrunch",
+      "published_at": "Thu, 05 Nov 2026 13:00:00 +0000",
+      "raw_content": "Discovered Materials, a months-old YC startup that uses AI to find chip materials, is offering $200,000 for each solution to five open materials science problems.",
+      "summary": "Discovered Materials, a months-old YC startup that uses AI to find chip materials, is offering $200,000 for each solution to five open materials science problems.",
+      "importance": 1.55
+    },
+    {
+      "title": "Agility is the first pure humanoid robot company on the stock market. Are you buying?",
+      "url": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/",
+      "source": "TechCrunch",
+      "published_at": "Thu, 05 Nov 2026 12:00:00 +0000",
+      "raw_content": "Agility arrives on the Nasdaq today as the first publicly-traded pure-play humanoid robotics company.",
+      "summary": "Agility arrives on the Nasdaq today as the first publicly-traded pure-play humanoid robotics company.",
+      "importance": 1.55
+    },
+    {
       "title": "Apple is reportedly cutting budgets for its internal AI usage",
       "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
       "source": "TechCrunch",
@@ -119,12 +128,12 @@
       "importance": 1.55
     },
     {
-      "title": "DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy",
-      "url": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/",
-      "source": "TechCrunch",
-      "published_at": "Wed, 04 Nov 2026 19:29:52 +0000",
-      "raw_content": "DuckDuckGo is courting schools frustrated by Google's AI restrictions, pointing educators to its search engine and options to disable AI features.",
-      "summary": "DuckDuckGo is courting schools frustrated by Google's AI restrictions, pointing educators to its search engine and options to disable AI features.",
+      "title": "Big Tech’s big AI buildout will not end until someone stops it",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1027344/amazon-microsoft-alphabet-google-meta-data-centers-earnings-q3",
+      "source": "The Verge",
+      "published_at": "2026-11-05T05:45:00-05:00",
+      "raw_content": "After four of the biggest competitors in the AI race held quarterly earnings calls late last month, two things are clear: Big Tech is not done spending record amounts on the AI data center buildout, and the AI data center buildout is not any closer to yielding its promised returns. A third thing is also [&#8230;]",
+      "summary": "After four of the biggest competitors in the AI race held quarterly earnings calls late last month, two things are clear: Big Tech is not done spending record amounts on the AI data center buildout, a",
       "importance": 1.55
     },
     {
@@ -152,15 +161,6 @@
       "published_at": "2026-11-04T11:05:39-05:00",
       "raw_content": "Data center developers are poised to face a more restrictive building environment after voters across the country voted in candidates who favor moratoriums and ballot measures that put more obstacles on their expansion, delivering a stinging blow to a central pillar of the AI industry. Of voters polled by NBC News on Election Day, 76 [&#8230;]",
       "summary": "Data center developers are poised to face a more restrictive building environment after voters across the country voted in candidates who favor moratoriums and ballot measures that put more obstacles ",
-      "importance": 1.55
-    },
-    {
-      "title": "Google hasn&#8217;t figured out how to make AI pay like its search engine",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3",
-      "source": "The Verge",
-      "published_at": "2026-11-04T07:00:00-05:00",
-      "raw_content": "Search queries are growing at their fastest rate in five years, Google parent Alphabet said in its earnings report last week. However, Google's Search revenue growth slowed to 12 percent year over year in the third quarter, down from roughly 17 percent in the previous quarter. Meanwhile, growth in paid clicks - clicks on ads [&#8230;]",
-      "summary": "Search queries are growing at their fastest rate in five years, Google parent Alphabet said in its earnings report last week. However, Google's Search revenue growth slowed to 12 percent year over yea",
       "importance": 1.55
     },
     {
