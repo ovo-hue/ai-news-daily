@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T05:07:25.606939+00:00",
+  "generated_at": "2026-11-06T13:44:13.143764+00:00",
   "items": [
     {
       "title": "Perplexity launches its own take on AI agents for work",
@@ -92,6 +92,15 @@
       "importance": 1.75
     },
     {
+      "title": "Physicl raises $10M to make the digital world real enough for robots",
+      "url": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
+      "source": "TechCrunch",
+      "published_at": "Fri, 06 Nov 2026 13:00:00 +0000",
+      "raw_content": "Physicl is trying to solve the sim-to-real gap with a pipeline originally built to market goods online.",
+      "summary": "Physicl is trying to solve the sim-to-real gap with a pipeline originally built to market goods online.",
+      "importance": 1.7
+    },
+    {
       "title": "Grimes is going to star in an AI movie that’s coming to theaters",
       "url": "https://www.theverge.com/entertainment/1026282/grimes-ai-movie",
       "source": "The Verge",
@@ -110,30 +119,21 @@
       "importance": 1.65
     },
     {
+      "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+      "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
+      "source": "TechCrunch",
+      "published_at": "Fri, 06 Nov 2026 06:28:32 +0000",
+      "raw_content": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.",
+      "summary": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.",
+      "importance": 1.6
+    },
+    {
       "title": "Axiom Math wants to keep AI slop out of mathematics",
       "url": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
       "source": "TechCrunch",
       "published_at": "Thu, 05 Nov 2026 16:16:45 +0000",
       "raw_content": "As AI floods math with unchecked proofs, Axiom Math is betting on verification. The startup’s AI agents just formally verified the Stacks Project, one of the field’s biggest libraries.",
       "summary": "As AI floods math with unchecked proofs, Axiom Math is betting on verification. The startup’s AI agents just formally verified the Stacks Project, one of the field’s biggest libraries.",
-      "importance": 1.6
-    },
-    {
-      "title": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
-      "url": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
-      "source": "TechCrunch",
-      "published_at": "Thu, 05 Nov 2026 15:19:05 +0000",
-      "raw_content": "The deal is expected to support the development of DBX Agent Cloud, a new storage platform aimed at developers building AI models and agents.",
-      "summary": "The deal is expected to support the development of DBX Agent Cloud, a new storage platform aimed at developers building AI models and agents.",
-      "importance": 1.6
-    },
-    {
-      "title": "Aina’s smart ring has a screen, a joystick, and a mic so you can talk to AI agents",
-      "url": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/",
-      "source": "TechCrunch",
-      "published_at": "Thu, 05 Nov 2026 14:42:00 +0000",
-      "raw_content": "Aina's ring can also take calls and help you dictate notes on your Mac.",
-      "summary": "Aina's ring can also take calls and help you dictate notes on your Mac.",
       "importance": 1.6
     },
     {
@@ -146,12 +146,12 @@
       "importance": 1.55
     },
     {
-      "title": "Box taps Nvidia’s Nemotron for new agent-first content retrieval system",
-      "url": "https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system/",
-      "source": "TechCrunch",
-      "published_at": "Thu, 05 Nov 2026 14:00:00 +0000",
-      "raw_content": "The system can supposedly answer queries four times faster, with 20% fewer errors and 90% fewer tokens used.",
-      "summary": "The system can supposedly answer queries four times faster, with 20% fewer errors and 90% fewer tokens used.",
+      "title": "Protesters break into Microsoft data center site in Amsterdam",
+      "url": "https://www.theverge.com/news/1028549/protesters-microsoft-data-center-site-amsterdam",
+      "source": "The Verge",
+      "published_at": "2026-11-06T06:55:19-05:00",
+      "raw_content": "Protesters have broken into a construction site of a new Microsoft data center in Amsterdam this morning. Members of the Geef Tegengas group helped organize the protest against the construction of three 85-meter data center towers in the outskirts of Amsterdam. Reuters reports that around 100 people made it into the construction site, with some [&#8230;]",
+      "summary": "Protesters have broken into a construction site of a new Microsoft data center in Amsterdam this morning. Members of the Geef Tegengas group helped organize the protest against the construction of thr",
       "importance": 1.55
     },
     {
@@ -173,13 +173,13 @@
       "importance": 1.55
     },
     {
-      "title": "You can post AI music straight to SoundCloud from ElevenLabs",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1027427/ai-music-soundcloud-elevenlabs",
-      "source": "The Verge",
-      "published_at": "2026-11-05T10:00:00-05:00",
-      "raw_content": "After partnering with Moises earlier this year, SoundCloud is now adding integration with another AI music platform, ElevenLabs. Now, rather than having to export and download your outputs from ElevenLabs and then upload them to SoundCloud, you can publish them directly. As part of the partnership, SoundCloud Artist Pro subscribers are also getting three months [&#8230;]",
-      "summary": "After partnering with Moises earlier this year, SoundCloud is now adding integration with another AI music platform, ElevenLabs. Now, rather than having to export and download your outputs from Eleven",
-      "importance": 1.55
+      "title": "Underdog shows off a 32MB speech model in new demo",
+      "url": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
+      "source": "TechCrunch",
+      "published_at": "Fri, 06 Nov 2026 13:02:16 +0000",
+      "raw_content": "Despite its small size, Underdog's new model can generate both speech and music.",
+      "summary": "Despite its small size, Underdog's new model can generate both speech and music.",
+      "importance": 1.5
     }
   ]
 }
