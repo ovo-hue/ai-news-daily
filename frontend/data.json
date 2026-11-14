@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T23:14:47.267205+00:00",
+  "generated_at": "2026-11-14T04:56:17.081854+00:00",
   "items": [
     {
       "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
@@ -83,6 +83,15 @@
       "importance": 1.55
     },
     {
+      "title": "Amazon has a plan to index the world’s online shopping data",
+      "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
+      "source": "The Verge",
+      "published_at": "2026-11-13T18:49:11-05:00",
+      "raw_content": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reuters. The project, called the \"World Product Graph,\" is meant to make it less likely that shoppers leave Amazon to do their [&#8230;]",
+      "summary": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reute",
+      "importance": 1.55
+    },
+    {
       "title": "What&#8217;s really at stake in the Jensen Huang saga",
       "url": "https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast",
       "source": "The Verge",
@@ -161,15 +170,6 @@
       "published_at": "2026-11-12T12:44:33-05:00",
       "raw_content": "I was certain, until the story of Jensen Huang's second affair hit, that Huang was bulletproof. After all, why wouldn't he be? He's placed himself indispensably at the center of the AI industry and famously had no succession plan at Nvidia. In fact, he's the only CEO Nvidia has ever had. L'&#233;tat c'est moi. Then [&#8230;]",
       "summary": "I was certain, until the story of Jensen Huang's second affair hit, that Huang was bulletproof. After all, why wouldn't he be? He's placed himself indispensably at the center of the AI industry and fa",
-      "importance": 1.25
-    },
-    {
-      "title": "More game developers are starting to use generative AI",
-      "url": "https://www.theverge.com/games/1032085/gdc-festival-of-gaming-annual-survey-ai-layoffs",
-      "source": "The Verge",
-      "published_at": "2026-11-12T12:00:00-05:00",
-      "raw_content": "More video game developers are using generative AI tools in their jobs compared to last year, according to the GDC Festival of Gaming's latest annual industry survey. Forty percent of developers surveyed say they use it \"as part of their job,\" an increase from 36 percent in 2025. Usage was higher with game developers that [&#8230;]",
-      "summary": "More video game developers are using generative AI tools in their jobs compared to last year, according to the GDC Festival of Gaming's latest annual industry survey. Forty percent of developers surve",
       "importance": 1.25
     },
     {
