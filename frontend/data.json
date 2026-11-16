@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-11-16T04:45:54.297867+00:00",
+  "generated_at": "2026-11-16T14:47:36.218864+00:00",
   "items": [
+    {
+      "title": "Google Maps can now create trip itineraries for you",
+      "url": "https://www.theverge.com/tech/1034110/google-ask-maps-ai-trip-planning",
+      "source": "The Verge",
+      "published_at": "2026-11-16T09:00:00-05:00",
+      "raw_content": "Google is launching a new AI trip-planning feature for Maps that allows the app to create custom itineraries for you and provide real-time details about each stop. The update, which is rolling out to the Gemini-powered Ask Maps chatbot inside the app, lets you plan a one-day outing or a trip spanning several days. As [&#8230;]",
+      "summary": "Google is launching a new AI trip-planning feature for Maps that allows the app to create custom itineraries for you and provide real-time details about each stop. The update, which is rolling out to ",
+      "importance": 1.75
+    },
+    {
+      "title": "Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM",
+      "url": "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/",
+      "source": "TechCrunch",
+      "published_at": "Mon, 16 Nov 2026 12:30:00 +0000",
+      "raw_content": "Dreamteam has signed up more than 100 customers across 13 countries, with some businesses switching from established CRMs.",
+      "summary": "Dreamteam has signed up more than 100 customers across 13 countries, with some businesses switching from established CRMs.",
+      "importance": 1.7
+    },
     {
       "title": "Apple launches new app to study how people use AI for health",
       "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
@@ -38,30 +56,30 @@
       "importance": 1.55
     },
     {
+      "title": "Audible is trying to make it easier to find audiobooks you’ll actually like",
+      "url": "https://www.theverge.com/tech/1034083/audible-audio-discovery-ai-feature-availability",
+      "source": "The Verge",
+      "published_at": "2026-11-16T09:00:00-05:00",
+      "raw_content": "Audible is introducing an AI-assisted synopsis feature that's designed to help users determine whether they'll enjoy an audiobook before they jump in and start listening to it. The new audio discovery feature combines audiobook samples, AI overviews, and author commentary to give users more information before choosing their next story, in addition to recommended audiobook [&#8230;]",
+      "summary": "Audible is introducing an AI-assisted synopsis feature that's designed to help users determine whether they'll enjoy an audiobook before they jump in and start listening to it. The new audio discovery",
+      "importance": 1.55
+    },
+    {
+      "title": "The Nvidia scandal isn’t slowing down",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1031740/jensen-huang-nvidia-scandal-isnt-slowing-down",
+      "source": "The Verge",
+      "published_at": "2026-11-16T08:00:00-05:00",
+      "raw_content": "For years, Jensen Huang has had an almost unprecedented power to shape AI's advancement as Nvidia's CEO, cofounder, and president. As The Verge wrote last week, Nvidia's chips are \"the bedrock upon which advanced AI technology in the US is being built.\" Ever-increasing demand has consistently outpaced supply, leading AI CEOs to essentially bow at [&#8230;]",
+      "summary": "For years, Jensen Huang has had an almost unprecedented power to shape AI's advancement as Nvidia's CEO, cofounder, and president. As The Verge wrote last week, Nvidia's chips are \"the bedrock upon wh",
+      "importance": 1.55
+    },
+    {
       "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
       "source": "The Verge",
       "published_at": "2026-11-15T14:15:43-05:00",
       "raw_content": "Unsurprisingly, following the scandal involving now-former Nvidia CEO Jensen Huang and a suspected Chinese spy, Congress is looking to further restrict exports of AI chips. Both Democrats and Republicans have voiced support for various measures and bills that would tighten rules and have demanded that Huang and other Nvidia leaders testify before Congress. Senate Minority [&#8230;]",
       "summary": "Unsurprisingly, following the scandal involving now-former Nvidia CEO Jensen Huang and a suspected Chinese spy, Congress is looking to further restrict exports of AI chips. Both Democrats and Republic",
-      "importance": 1.55
-    },
-    {
-      "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
-      "source": "The Verge",
-      "published_at": "2026-11-13T15:45:10-05:00",
-      "raw_content": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 and older using a US billing address and \"eligible US-issued American Express, Chase, Mastercard and Visa cards.\" After adding a card [&#8230;]",
-      "summary": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 a",
-      "importance": 1.55
-    },
-    {
-      "title": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
-      "source": "The Verge",
-      "published_at": "2026-11-13T09:00:00-05:00",
-      "raw_content": "Normally, the products I test don't offer to help me write up my experience with them. Duet is different. Claude Duet is Anthropic's AI agent for consumers, the latest attempt by an AI company to try to convince us that agents can be useful for people who don't write code. It's been an interesting couple [&#8230;]",
-      "summary": "Normally, the products I test don't offer to help me write up my experience with them. Duet is different. Claude Duet is Anthropic's AI agent for consumers, the latest attempt by an AI company to try ",
       "importance": 1.55
     },
     {
@@ -80,15 +98,6 @@
       "published_at": "2026-11-15T15:43:49-05:00",
       "raw_content": "The drama around Nvidia co-founder and former CEO Jensen Huang is evolving quickly. The latest edition of our Stepback newsletter should get you up to speed, but there have already been a number of new developments since this morning. That includes rumors that Jensen Huang might be trying to find a path back to CEO, [&#8230;]",
       "summary": "The drama around Nvidia co-founder and former CEO Jensen Huang is evolving quickly. The latest edition of our Stepback newsletter should get you up to speed, but there have already been a number of ne",
-      "importance": 1.5
-    },
-    {
-      "title": "An overview of Jensen Huang’s messy days",
-      "url": "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation",
-      "source": "The Verge",
-      "published_at": "2026-11-15T08:00:00-05:00",
-      "raw_content": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on Jensen Huang's resignation and the fallout from Nvidia's leadership crisis, follow Terrence O'Brien. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started On October [&#8230;]",
-      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on Jensen Huang's resignation and the fallout from Nvidia's leadership crisis, follow Terrence",
       "importance": 1.5
     },
     {
@@ -119,15 +128,6 @@
       "importance": 1.4
     },
     {
-      "title": "AI agent startup LangChain hits $3B valuation",
-      "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
-      "source": "TechCrunch",
-      "published_at": "Fri, 13 Nov 2026 19:37:57 +0000",
-      "raw_content": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
-      "summary": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
-      "importance": 1.3
-    },
-    {
       "title": "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
       "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
       "source": "The Verge",
@@ -143,15 +143,6 @@
       "published_at": "2026-11-13T18:49:11-05:00",
       "raw_content": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reuters. The project, called the \"World Product Graph,\" is meant to make it less likely that shoppers leave Amazon to do their [&#8230;]",
       "summary": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reute",
-      "importance": 1.25
-    },
-    {
-      "title": "What&#8217;s really at stake in the Jensen Huang saga",
-      "url": "https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast",
-      "source": "The Verge",
-      "published_at": "2026-11-13T09:47:16-05:00",
-      "raw_content": "One part of the saga surrounding Nvidia CEO Jensen Huang ended on Thursday, when Huang resigned from his position at the top of AI's most important company. But in the coming weeks and months, a much bigger story may be about to unfold. A story about Nvidia's dealings in China, about the US government's willingness [&#8230;]",
-      "summary": "One part of the saga surrounding Nvidia CEO Jensen Huang ended on Thursday, when Huang resigned from his position at the top of AI's most important company. But in the coming weeks and months, a much ",
       "importance": 1.25
     },
     {
@@ -179,6 +170,15 @@
       "published_at": "Sat, 14 Nov 2026 16:34:15 +0000",
       "raw_content": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.",
       "summary": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.",
+      "importance": 1.2
+    },
+    {
+      "title": "An overview of Jensen Huang’s messy days",
+      "url": "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation",
+      "source": "The Verge",
+      "published_at": "2026-11-15T08:00:00-05:00",
+      "raw_content": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on Jensen Huang's resignation and the fallout from Nvidia's leadership crisis, follow Terrence O'Brien. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started On October [&#8230;]",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on Jensen Huang's resignation and the fallout from Nvidia's leadership crisis, follow Terrence",
       "importance": 1.2
     }
   ]
