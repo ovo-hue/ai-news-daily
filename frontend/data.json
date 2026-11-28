@@ -1,15 +1,6 @@
 {
-  "generated_at": "2026-11-27T16:08:34.317150+00:00",
+  "generated_at": "2026-11-28T01:04:53.669643+00:00",
   "items": [
-    {
-      "title": "Nvidia hits pause on chip shipments to Southeast Asia",
-      "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
-      "source": "TechCrunch",
-      "published_at": "Thu, 26 Nov 2026 20:03:54 +0000",
-      "raw_content": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
-      "summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
-      "importance": 1.55
-    },
     {
       "title": "Android’s DIY widgets are a bit of vibe-coding fun",
       "url": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini",
@@ -65,15 +56,6 @@
       "importance": 1.4
     },
     {
-      "title": "David Fincher is being dragged for suspected use of AI in his latest film",
-      "url": "https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive",
-      "source": "The Verge",
-      "published_at": "2026-11-24T13:15:00-05:00",
-      "raw_content": "Though David Fincher's fans had been eagerly anticipating The Further Mis-Adventures of Cliff Booth, early screenings of the Once Upon a Time in Hollywood sequel starring Brad Pitt have raised questions about whether generative AI was used in the film. People have claimed that the movie is chock-full of uncanny, inconsistent visuals that make it [&#8230;]",
-      "summary": "Though David Fincher's fans had been eagerly anticipating The Further Mis-Adventures of Cliff Booth, early screenings of the Once Upon a Time in Hollywood sequel starring Brad Pitt have raised questio",
-      "importance": 1.4
-    },
-    {
       "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
       "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
       "source": "TechCrunch",
@@ -108,6 +90,15 @@
       "raw_content": "Amazon has held talks about letting Meta's Muse AI agent shop on its online marketplace, according to a report from Fortune. The discussions, which could end Amazon's block on Muse, reportedly center on the kinds of products the AI agent recommends and the potential impact on the ecommerce giant's advertising revenue. As reported by Fortune, [&#8230;]",
       "summary": "Amazon has held talks about letting Meta's Muse AI agent shop on its online marketplace, according to a report from Fortune. The discussions, which could end Amazon's block on Muse, reportedly center ",
       "importance": 1.3
+    },
+    {
+      "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+      "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+      "source": "TechCrunch",
+      "published_at": "Thu, 26 Nov 2026 20:03:54 +0000",
+      "raw_content": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
+      "summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
+      "importance": 1.25
     },
     {
       "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
@@ -146,15 +137,6 @@
       "importance": 1.25
     },
     {
-      "title": "Tidal will start banning AI-generated music next month",
-      "url": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban",
-      "source": "The Verge",
-      "published_at": "2026-11-24T12:17:09-05:00",
-      "raw_content": "Tidal is officially banning AI-generated music on December 9th. As a result of this change, Tidal will delete around 29 million AI-generated songs and reject an estimated 80,000 to 85,000 tracks per day, according to Tidal music lead Robert Andersen. The move comes just months after Tidal began labeling and demonetizing tracks identified as 100 [&#8230;]",
-      "summary": "Tidal is officially banning AI-generated music on December 9th. As a result of this change, Tidal will delete around 29 million AI-generated songs and reject an estimated 80,000 to 85,000 tracks per d",
-      "importance": 1.25
-    },
-    {
       "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
       "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
       "source": "TechCrunch",
@@ -173,13 +155,31 @@
       "importance": 1.2
     },
     {
+      "title": "David Fincher is being dragged for suspected use of AI in his latest film",
+      "url": "https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive",
+      "source": "The Verge",
+      "published_at": "2026-11-24T13:15:00-05:00",
+      "raw_content": "Though David Fincher's fans had been eagerly anticipating The Further Mis-Adventures of Cliff Booth, early screenings of the Once Upon a Time in Hollywood sequel starring Brad Pitt have raised questions about whether generative AI was used in the film. People have claimed that the movie is chock-full of uncanny, inconsistent visuals that make it [&#8230;]",
+      "summary": "Though David Fincher's fans had been eagerly anticipating The Further Mis-Adventures of Cliff Booth, early screenings of the Once Upon a Time in Hollywood sequel starring Brad Pitt have raised questio",
+      "importance": 1.2
+    },
+    {
+      "title": "Tidal will start banning AI-generated music next month",
+      "url": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban",
+      "source": "The Verge",
+      "published_at": "2026-11-24T12:17:09-05:00",
+      "raw_content": "Tidal is officially banning AI-generated music on December 9th. As a result of this change, Tidal will delete around 29 million AI-generated songs and reject an estimated 80,000 to 85,000 tracks per day, according to Tidal music lead Robert Andersen. The move comes just months after Tidal began labeling and demonetizing tracks identified as 100 [&#8230;]",
+      "summary": "Tidal is officially banning AI-generated music on December 9th. As a result of this change, Tidal will delete around 29 million AI-generated songs and reject an estimated 80,000 to 85,000 tracks per d",
+      "importance": 1.05
+    },
+    {
       "title": "Jensen Huang reportedly tells Nvidia staff it&#8217;s ‘not true’ Trump got him rehired",
       "url": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
       "source": "The Verge",
       "published_at": "2026-11-24T15:02:03-05:00",
       "raw_content": "Nvidia CEO Jensen Huang apologized to staff during his first all-hands since returning to the company, while attempting to distance himself from the narrative that the White House and tech leaders helped him get his job back, according to reports from Bloomberg, The New York Times, and The Handbasket's Marisa Kabas. During the meeting, Huang [&#8230;]",
       "summary": "Nvidia CEO Jensen Huang apologized to staff during his first all-hands since returning to the company, while attempting to distance himself from the narrative that the White House and tech leaders hel",
-      "importance": 1.2
+      "importance": 1.0
     }
   ]
 }
